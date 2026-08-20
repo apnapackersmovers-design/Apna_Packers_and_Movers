@@ -17,12 +17,17 @@ jobs:
       - name: 📤 Deploy via FTP to cPanel
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ${{ secrets.FTP_SERVER }}       # cPanel FTP server
-          username: ${{ secrets.FTP_USERNAME }}   # FTP username
-          password: ${{ secrets.FTP_PASSWORD }}   # FTP password
-          server-dir: /public_html/               # cPanel public_html folder
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: /public_html/
+          protocol: ftp
+          port: 21
+          security: loose
+          timeout: 60000
           exclude: |
             **/.git*
             **/.git*/**
             **/node_modules/**
             README.md
+            deploy-test.txt
