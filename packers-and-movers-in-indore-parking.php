@@ -241,26 +241,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="https://www.apnapackersmovers.com/media/images/kj.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<p>For safe moving of goods, we ensure the best packaging with useful packing materials like bubble wrap, shrink rolls, cardboard sheets, and strong tape.</p>
+								<p>For safe moving of goods we ensure best packaging with useful packing materials like shrink-wrapping, stretch wrapping, cello taping, polythene, Thermocol sheet, stretch wrapping etc. these material.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Multi-Layer Bubble Wrapping</h4> 
-								<p>We use high-grade bubble wrap to pack all fragile household items like kitchen glassware, ceramics, and electronics to absorb shocks during transit.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Packing Services Indore">
-								<h4>Strong Corrugated Boxes</h4>
-								<p>Your clothes, books, and smaller items are packed in sturdy, clean cardboard boxes to keep them organized and protected from dust and damage.</p>
-								<p>Fragile items packed with extra care</p>
-								<p>High-quality packaging tape and wrapping film</p>
+								<h4>Fast Worldwide delivery</h4> 
+								<p>We provide reliable domestic and international shifting services through our established shipping networks, ensuring your goods reach their destination safely and on time.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Fast Shifting Delivery">
+								<h4>Full Container Load</h4>
+								<p>For large-scale relocations, we offer full dedicated container shipping. This ensures that all your household or commercial belongings are transported together securely.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>Heavy Furniture Dismantling</h4> 
-								<p>Bulky furniture like double beds, dining tables, and wardrobes are safely dismantled, wrapped in thick protective sheets, and loaded securely.</p>
-								<h4>Safe Waterproof Packing</h4> 
-								<p>We offer waterproof plastic stretch wrapping to safeguard your valuable items and electronic appliances from humidity and rain during transport.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Packing Materials Indore">
-								<h4>Dedicated Appliance Packing</h4>
-								<p>Refrigerators, washing machines, and televisions are packed using thick thermocol sheets and cardboard edges to prevent transit scratches.</p>
-								<p>Custom packaging for domestic moves</p>
-								<p>Unpacking services at your new home</p>
+								<h4>End-to-end solution available</h4> 
+								<p>From initial packing and loading at your current address to transportation, unloading, and unpacking at your destination, we manage the entire shifting process.</p>
+								<h4>Safety & Compliance</h4> 
+								<p>We follow strict safety protocols, verify our logistics staff, and utilize high-grade packing materials to comply with transportation safety standards.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Shifting Standards">
+								<h4>Less than Container</h4>
+								<p>If you have fewer items to relocate, we provide shared container options (LCL). You only pay for the space your goods occupy, making it highly cost-effective.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 						</div>
 						<p class="text-center">

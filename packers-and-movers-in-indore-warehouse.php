@@ -243,24 +243,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>We provide secure, clean, and spacious warehouse storage facilities in Indore for short-term and long-term storage of household goods and furniture.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>24/7 Security & CCTV Surveillance</h4> 
-								<p>Our warehouse is continuously monitored by CCTV cameras and guarded by security staff to ensure the complete safety of your stored goods.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Warehouse Storage Indore">
-								<h4>Clean & Moisture-Free Storage</h4>
-								<p>Our facilities are moisture-controlled and clean, ensuring that your furniture, textiles, and appliances are protected from dampness and dust.</p>
-								<p>Pest-controlled warehouse environment</p>
-								<p>Safe storage for household and office goods</p>
+								<h4>Fast Worldwide delivery</h4> 
+								<p>We provide reliable domestic and international shifting services through our established shipping networks, ensuring your goods reach their destination safely and on time.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Fast Shifting Delivery">
+								<h4>Full Container Load</h4>
+								<p>For large-scale relocations, we offer full dedicated container shipping. This ensures that all your household or commercial belongings are transported together securely.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>Short & Long-Term Storage Options</h4> 
-								<p>Whether you need storage space for a few weeks during home renovation or for several months during relocation, we have flexible plans.</p>
-								<h4>Detailed Inventory Listing</h4> 
-								<p>Every box and item stored in our warehouse is labeled, documented, and checked against an inventory list for easy tracking and retrieval.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Secure Luggage Storage Indore">
-								<h4>Fire & Safety Compliance</h4>
-								<p>Our warehouse is equipped with modern fire extinguishers and safety systems to protect your belongings from any unexpected incidents.</p>
-								<p>Easy goods retrieval process</p>
-								<p>Affordable monthly storage rates</p>
+								<h4>End-to-end solution available</h4> 
+								<p>From initial packing and loading at your current address to transportation, unloading, and unpacking at your destination, we manage the entire shifting process.</p>
+								<h4>Safety & Compliance</h4> 
+								<p>We follow strict safety protocols, verify our logistics staff, and utilize high-grade packing materials to comply with transportation safety standards.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Shifting Standards">
+								<h4>Less than Container</h4>
+								<p>If you have fewer items to relocate, we provide shared container options (LCL). You only pay for the space your goods occupy, making it highly cost-effective.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 						</div>
 						<p class="text-center">

@@ -241,26 +241,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="https://www.apnapackersmovers.com/media/images/insurance.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<p>Based on our years of experience, we recommend choosing moving insurance to safeguard your valuable household goods during long-distance transits.</p>
+								<p>Based on our years of operating in the Industry, we are aware that many people involved with a move or relocation in this Industry.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Accidental Damage Coverage</h4> 
-								<p>Our transit insurance covers unforeseen damages or losses to your goods caused by road accidents, fire, or weather conditions during transport.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Moving Insurance Indore">
-								<h4>Transparent Goods Valuation</h4>
-								<p>We help you list and declare the correct value of your valuable household items before the move to ensure simple and valid insurance coverage.</p>
-								<p>Full itemized declaration support</p>
-								<p>Affordable transit insurance rates</p>
+								<h4>Fast Worldwide delivery</h4> 
+								<p>We provide reliable domestic and international shifting services through our established shipping networks, ensuring your goods reach their destination safely and on time.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Fast Shifting Delivery">
+								<h4>Full Container Load</h4>
+								<p>For large-scale relocations, we offer full dedicated container shipping. This ensures that all your household or commercial belongings are transported together securely.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>Quick Claims Assistance</h4> 
-								<p>In case of any unexpected transit issues, our team assists you with the documentation and claim settlement process for a hassle-free experience.</p>
-								<h4>Peace of Mind Relocation</h4> 
-								<p>With our transit insurance options, you can rest easy knowing that your valuable electronics, furniture, and goods are financially protected.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Shifting Insurance Indore">
-								<h4>Reliable Transit Standards</h4>
-								<p>Even though we take utmost care while packing and moving, having insurance coverage ensures 100% financial security against external factors.</p>
-								<p>Complete peace of mind guarantee</p>
-								<p>Custom insurance plans for domestic shifting</p>
+								<h4>End-to-end solution available</h4> 
+								<p>From initial packing and loading at your current address to transportation, unloading, and unpacking at your destination, we manage the entire shifting process.</p>
+								<h4>Safety & Compliance</h4> 
+								<p>We follow strict safety protocols, verify our logistics staff, and utilize high-grade packing materials to comply with transportation safety standards.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Shifting Standards">
+								<h4>Less than Container</h4>
+								<p>If you have fewer items to relocate, we provide shared container options (LCL). You only pay for the space your goods occupy, making it highly cost-effective.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 						</div>
 						<p class="text-center">

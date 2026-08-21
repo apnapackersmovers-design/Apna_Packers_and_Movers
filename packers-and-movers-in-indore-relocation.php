@@ -243,24 +243,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>Apna Packers Movers offers professional household relocation and office shifting services locally in Indore and across all major cities of India.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Local Home Relocation in Indore</h4> 
-								<p>We handle local shifting in major Indore areas like Vijay Nagar, Palasia, Rau, Dewas Naka, and Scheme 54 with quick turnarounds.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="House Shifting Indore">
-								<h4>Office Shifting & IT Relocation</h4>
-								<p>Relocate your office setup, computers, servers, and files securely with minimum downtime for your business operations.</p>
-								<p>Trained crew for loading and unloading</p>
-								<p>Safe transport in closed logistics trucks</p>
+								<h4>Fast Worldwide delivery</h4> 
+								<p>We provide reliable domestic and international shifting services through our established shipping networks, ensuring your goods reach their destination safely and on time.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Fast Shifting Delivery">
+								<h4>Full Container Load</h4>
+								<p>For large-scale relocations, we offer full dedicated container shipping. This ensures that all your household or commercial belongings are transported together securely.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>Domestic Shifting Across India</h4> 
-								<p>Moving from Indore to Bhopal, Jabalpur, Gwalior, Delhi, Mumbai, or Pune? We offer reliable long-distance shifting services.</p>
-								<h4>Bulky Furniture Handling</h4> 
-								<p>Our crew specializes in handling heavy items like wardrobes, double beds, sofas, and refrigerators safely up and down the stairs.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Relocation Services Indore">
-								<h4>Dismantling & Assembly Services</h4>
-								<p>We help you dismantle your beds, dining tables, and other items before loading, and assemble them back at your destination.</p>
-								<p>Transparent moving costs</p>
-								<p>End-to-end relocation support</p>
+								<h4>End-to-end solution available</h4> 
+								<p>From initial packing and loading at your current address to transportation, unloading, and unpacking at your destination, we manage the entire shifting process.</p>
+								<h4>Safety & Compliance</h4> 
+								<p>We follow strict safety protocols, verify our logistics staff, and utilize high-grade packing materials to comply with transportation safety standards.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Shifting Standards">
+								<h4>Less than Container</h4>
+								<p>If you have fewer items to relocate, we provide shared container options (LCL). You only pay for the space your goods occupy, making it highly cost-effective.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 						</div>
 						<p class="text-center">

@@ -243,24 +243,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>Our loading and unloading services ensure that your packed household goods and valuable belongings are loaded and stacked safely inside the trucks.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Safe Loading of Household Goods</h4> 
-								<p>Our experienced loaders stack boxes, bulky furniture, and fragile goods carefully to prevent any movement or rubbing during transit.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Loading Services Indore">
-								<h4>Unloading and Room Placement</h4>
-								<p>Upon arrival, our crew unloads every box and piece of furniture, placing them in their respective rooms as directed by you.</p>
-								<p>Heavy lifting handled by professional loaders</p>
-								<p>Trolleys and belts for loading heavy items</p>
+								<h4>Fast Worldwide delivery</h4> 
+								<p>We provide reliable domestic and international shifting services through our established shipping networks, ensuring your goods reach their destination safely and on time.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Fast Shifting Delivery">
+								<h4>Full Container Load</h4>
+								<p>For large-scale relocations, we offer full dedicated container shipping. This ensures that all your household or commercial belongings are transported together securely.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>Experienced Loading Staff</h4> 
-								<p>Our crew is well-trained in proper lifting techniques to protect themselves and your valuable items (like refrigerators and double beds) from harm.</p>
-								<h4>Modern Handling Equipment</h4> 
-								<p>We use modern hand trucks, lifting belts, and loading ramps to handle heavy appliances, cabinets, and fragile goods safely.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Unloading Services Indore">
-								<h4>Damage-Free Stack Alignment</h4>
-								<p>Heavy items are always loaded at the bottom, and lighter, fragile boxes are stacked on top to prevent crushing and shifting during the journey.</p>
-								<p>Fast and efficient loading process</p>
-								<p>Doorstep unpacking assistance</p>
+								<h4>End-to-end solution available</h4> 
+								<p>From initial packing and loading at your current address to transportation, unloading, and unpacking at your destination, we manage the entire shifting process.</p>
+								<h4>Safety & Compliance</h4> 
+								<p>We follow strict safety protocols, verify our logistics staff, and utilize high-grade packing materials to comply with transportation safety standards.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Shifting Standards">
+								<h4>Less than Container</h4>
+								<p>If you have fewer items to relocate, we provide shared container options (LCL). You only pay for the space your goods occupy, making it highly cost-effective.</p>
+								<p>Consignee direct delivery</p>
+								<p>Tailored alternatives available</p>
 							</div>
 						</div>
 						<p class="text-center">
