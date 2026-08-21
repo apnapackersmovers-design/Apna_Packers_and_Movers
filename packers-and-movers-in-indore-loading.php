@@ -225,7 +225,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="wow slideInUp" data-wow-delay="0.3s">
 								<ul class="styled">
 									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car Moving Services<https://www.apnapackersmovers.com/packers-and-movers-in-indore-/a></li>
-									<li><a href="parking.php">Packing & Moving</a></li>
+									<li><a href="packers-and-movers-in-indore-parking.php">Packing & Moving</a></li>
 									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Insurance Service </a></li>
 									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse Service</a></li>
 									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">Relocation Service</a></li>
