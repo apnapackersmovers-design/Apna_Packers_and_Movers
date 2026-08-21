@@ -211,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        </header>
 <div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>Packing & Moving</h1></a>
+					<a href="#"><h1>Packing and Moving Services in Indore</h1></a>
 					<div class="pull-right">
 						<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Packing & Moving</a>
 					</div>
@@ -238,7 +238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-sm-9 main-content">
 						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
 							services in Logistics solutions to our satisfied customers</h1>
-						<img src="https://www.apnapackersmovers.com/media/images/kj.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
+						<img src="https://www.apnapackersmovers.com/media/images/kj.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Professional Packing and Shifting Services in Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>For safe moving of goods we ensure best packaging with useful packing materials like shrink-wrapping, stretch wrapping, cello taping, polythene, Thermocol sheet, stretch wrapping etc. these material.</p>

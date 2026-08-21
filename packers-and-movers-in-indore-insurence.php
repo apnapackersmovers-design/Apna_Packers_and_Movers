@@ -211,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        </header>
 <div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>Insurance Service</h1></a>
+					<a href="#"><h1>Transit Shifting Insurance Services in Indore</h1></a>
 					<div class="pull-right">
 						<a href="#"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Insurance Service</a>
 					</div>
@@ -238,7 +238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-sm-9 main-content">
 						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
 							services in Logistics solutions to our satisfied customers</h1>
-						<img src="https://www.apnapackersmovers.com/media/images/insurance.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
+						<img src="https://www.apnapackersmovers.com/media/images/insurance.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Household Goods Shifting Transit Insurance Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>Based on our years of operating in the Industry, we are aware that many people involved with a move or relocation in this Industry.</p>

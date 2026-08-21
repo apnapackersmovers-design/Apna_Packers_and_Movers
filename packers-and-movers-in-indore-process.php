@@ -211,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        </header>
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>Process</h1></a>
+					<a href="#"><h1>Our Shifting and Relocation Process</h1></a>
 					<div class="pull-right">
 						<a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Process</a>
 					</div>
@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="tab-pane active" id="tab1">
 						<div class="row">
 							<div class="col-sm-5">
-								<img class="full-width" src="https://www.apnapackersmovers.com/media/images/1.jpg" alt="Img">
+								<img class="full-width" src="https://www.apnapackersmovers.com/media/images/1.jpg" alt="Packers Movers Indore Shifting Step by Step Process">
 							</div>
 							<div class="col-sm-7">
 								
@@ -245,7 +245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="tab-pane" id="tab2">
 						<div class="row">
 							<div class="col-sm-5">
-								<img class="full-width" src="https://www.apnapackersmovers.com/media/images/1.jpg" alt="Img">
+								<img class="full-width" src="https://www.apnapackersmovers.com/media/images/1.jpg" alt="Packers Movers Indore Shifting Step by Step Process">
 							</div>
 							<div class="col-sm-7 text-block">
 								
@@ -257,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="tab-pane" id="tab3">
 						<div class="row">
 							<div class="col-sm-5">
-								<img class="full-width" src="https://www.apnapackersmovers.com/media/images/1.jpg" alt="Img">
+								<img class="full-width" src="https://www.apnapackersmovers.com/media/images/1.jpg" alt="Packers Movers Indore Shifting Step by Step Process">
 							</div>
 							<div class="col-sm-7 text-block">
 								

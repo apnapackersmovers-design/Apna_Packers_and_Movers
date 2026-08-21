@@ -212,7 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        </header>
 <div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>Car Moving Services</h1></a>
+					<a href="#"><h1>Car Shifting and Carrier Services in Indore</h1></a>
 					<div class="pull-right">
 						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Car Moving Services</a>
 					</div>
@@ -239,7 +239,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-sm-9 main-content">
 						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
 							services in Logistics solutions to our satisfied customers</h1>
-						<img src="https://www.apnapackersmovers.com/media/images/fg.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
+						<img src="https://www.apnapackersmovers.com/media/images/fg.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Safe Car Carrier Transport and Bike Shifting Services Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>We are known as reliable and well-timed car moving service Provider Company having many branches in different cities of India. Our car moving team is well knowledgeable and offers reliable and proficient car transportation. We are having special car trailers and carriers.</p>

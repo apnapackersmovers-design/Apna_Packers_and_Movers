@@ -211,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        </header>
 <div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>Warehouse Service</h1></a>
+					<a href="#"><h1>Secure Warehouse and Storage Services in Indore</h1></a>
 					<div class="pull-right">
 						<a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Warehouse Service</a>
 					</div>
@@ -238,7 +238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-sm-9 main-content">
 						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
 							services in Logistics solutions to our satisfied customers</h1>
-						<img src="https://www.apnapackersmovers.com/media/images/oi.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
+						<img src="https://www.apnapackersmovers.com/media/images/oi.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Secure Luggage and Household Goods Warehouse Storage Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>We provide secure, clean, and spacious warehouse storage facilities in Indore for short-term and long-term storage of household goods and furniture.</p>
