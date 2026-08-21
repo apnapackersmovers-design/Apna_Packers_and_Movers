@@ -641,48 +641,7 @@ Experience the comfort of quick relocation with our packers and movers services 
 	                
 	                <hr>
 
-	                <h3>Estimated Shifting Rates in Indore (Apna Packers Movers)</h3>
-	                <p>Here is an approximate price list for our packers and movers services in Indore. Real charges depend on distance, volume, and shifting date.</p>
-	                <div class="table-responsive">
-	                    <table class="table table-bordered table-striped" style="margin-top: 15px; margin-bottom: 25px; width:100%;">
-	                        <thead>
-	                            <tr style="background-color: #f5f5f5;">
-	                                <th>Service Type</th>
-	                                <th>Approximate Cost</th>
-	                                <th>Packing Material Quality</th>
-	                            </tr>
-	                        </thead>
-	                        <tbody>
-	                            <tr>
-	                                <td><strong>1 BHK House Relocation</strong></td>
-	                                <td>₹4,500 - ₹7,500</td>
-	                                <td>High Quality (Bubble wrap, Carton boxes)</td>
-	                            </tr>
-	                            <tr>
-	                                <td><strong>2 BHK House Relocation</strong></td>
-	                                <td>₹6,500 - ₹12,500</td>
-	                                <td>Premium Quality (Double-layer wrapping)</td>
-	                            </tr>
-	                            <tr>
-	                                <td><strong>3 BHK House Relocation</strong></td>
-	                                <td>₹10,500 - ₹18,000</td>
-	                                <td>Full Safety Wrap (Heavy furniture disassembly)</td>
-	                            </tr>
-	                            <tr>
-	                                <td><strong>Car Transport (Intercity)</strong></td>
-	                                <td>₹7,500 - ₹14,000</td>
-	                                <td>Closed Car Carrier System</td>
-	                            </tr>
-	                            <tr>
-	                                <td><strong>Bike Transport (Intercity)</strong></td>
-	                                <td>₹2,500 - ₹5,500</td>
-	                                <td>Individual Wooden Crate Wrapping</td>
-	                            </tr>
-	                        </tbody>
-	                    </table>
-	                </div>
 	                
-	                <hr>
 	                
 	                <h3>Frequently Asked Questions About Packers & Movers Indore</h3>
 	                
