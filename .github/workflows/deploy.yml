@@ -7,27 +7,21 @@ on:
 
 jobs:
   deploy:
-    name: Deploy via FTP to cPanel
+    name: Deploy via Python FTP to cPanel
     runs-on: ubuntu-latest
 
     steps:
       - name: ⬇️ Checkout Code
         uses: actions/checkout@v4
 
-      - name: 📤 Deploy via FTP to cPanel
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: /public_html/
-          protocol: ftp
-          port: 21
-          security: loose
-          timeout: 60000
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/node_modules/**
-            README.md
-            deploy-test.txt
+          python-version: '3.12'
+
+      - name: 📤 Run Deploy Script
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: python deploy.py
