@@ -241,28 +241,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="https://www.apnapackersmovers.com/media/images/oi.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<p>We offer harmless and specifically intended warehouses for a safe storage of goods. We have well-guarded and spacious warehouses in various cities of India. We provide air-conditioned storage services. Our warehouses are prepared with latest security and fire protection, computerized inventory control and security lookout.</p>
+								<p>We provide secure, clean, and spacious warehouse storage facilities in Indore for short-term and long-term storage of household goods and furniture.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Fast Worldwide delivery</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Full Container Load</h4>
-								<p>There anyone who loves or pursue desire to obtain pains of itself, because it is pain, but occasionally circumstances.</p>
-
-<p>Consignee direct delivery</p>
-<p>Tailored alternatives available</p>
-								
+								<h4>24/7 Security & CCTV Surveillance</h4> 
+								<p>Our warehouse is continuously monitored by CCTV cameras and guarded by security staff to ensure the complete safety of your stored goods.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Warehouse Storage Indore">
+								<h4>Clean & Moisture-Free Storage</h4>
+								<p>Our facilities are moisture-controlled and clean, ensuring that your furniture, textiles, and appliances are protected from dampness and dust.</p>
+								<p>Pest-controlled warehouse environment</p>
+								<p>Safe storage for household and office goods</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>End-to-end solution available</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<h4>Safety & Compliance</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Less than Container</h4>
-								<p>Less than container load is a shipment that will not fill a container. With an LCL shipment, you pay for your load to be shipped in a container with one or more loads from other customers of the freight transport provider.</p>
-								<p>Consignee direct delivery</p>
-							<p>Tailored alternatives available</p>
+								<h4>Short & Long-Term Storage Options</h4> 
+								<p>Whether you need storage space for a few weeks during home renovation or for several months during relocation, we have flexible plans.</p>
+								<h4>Detailed Inventory Listing</h4> 
+								<p>Every box and item stored in our warehouse is labeled, documented, and checked against an inventory list for easy tracking and retrieval.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Secure Luggage Storage Indore">
+								<h4>Fire & Safety Compliance</h4>
+								<p>Our warehouse is equipped with modern fire extinguishers and safety systems to protect your belongings from any unexpected incidents.</p>
+								<p>Easy goods retrieval process</p>
+								<p>Affordable monthly storage rates</p>
 							</div>
 						</div>
 						<p class="text-center">

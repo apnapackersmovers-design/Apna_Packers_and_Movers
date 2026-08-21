@@ -241,28 +241,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="https://www.apnapackersmovers.com/media/images/kj.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<p>For safe moving of goods we ensure best packaging with useful packing materials like shrink-wrapping, stretch wrapping, cello taping, polythene, Thermocol sheet, stretch wrapping etc. these material.</p>
+								<p>For safe moving of goods, we ensure the best packaging with useful packing materials like bubble wrap, shrink rolls, cardboard sheets, and strong tape.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Fast Worldwide delivery</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Img">
-								<h4>Full Container Load</h4>
-								<p>There anyone who loves or pursue desire to obtain pains of itself, because it is pain, but occasionally circumstances.</p>
-
-<p>Consignee direct delivery</p>
-<p>Tailored alternatives available</p>
-								
+								<h4>Multi-Layer Bubble Wrapping</h4> 
+								<p>We use high-grade bubble wrap to pack all fragile household items like kitchen glassware, ceramics, and electronics to absorb shocks during transit.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Packing Services Indore">
+								<h4>Strong Corrugated Boxes</h4>
+								<p>Your clothes, books, and smaller items are packed in sturdy, clean cardboard boxes to keep them organized and protected from dust and damage.</p>
+								<p>Fragile items packed with extra care</p>
+								<p>High-quality packaging tape and wrapping film</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>End-to-end solution available</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<h4>Safety & Compliance</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Img">
-								<h4>Less than Container</h4>
-								<p>Less than container load is a shipment that will not fill a container. With an LCL shipment, you pay for your load to be shipped in a container with one or more loads from other customers of the freight transport provider.</p>
-								<p>Consignee direct delivery</p>
-							<p>Tailored alternatives available</p>
+								<h4>Heavy Furniture Dismantling</h4> 
+								<p>Bulky furniture like double beds, dining tables, and wardrobes are safely dismantled, wrapped in thick protective sheets, and loaded securely.</p>
+								<h4>Safe Waterproof Packing</h4> 
+								<p>We offer waterproof plastic stretch wrapping to safeguard your valuable items and electronic appliances from humidity and rain during transport.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Packing Materials Indore">
+								<h4>Dedicated Appliance Packing</h4>
+								<p>Refrigerators, washing machines, and televisions are packed using thick thermocol sheets and cardboard edges to prevent transit scratches.</p>
+								<p>Custom packaging for domestic moves</p>
+								<p>Unpacking services at your new home</p>
 							</div>
 						</div>
 						<p class="text-center">

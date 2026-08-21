@@ -241,28 +241,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="https://www.apnapackersmovers.com/media/images/bg.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<p>Like our Loading service, we have a well organized unloading service that we provide to our customers. Under the close vigilance of our expert personnel having long experience in the industry, the entire service is provided. This service is rendered by using capacious fleet equipment. During unloading process, we pay diligence efforts to prevent any loss/damage of the goods.</p>
+								<p>Our loading and unloading services ensure that your packed household goods and valuable belongings are loaded and stacked safely inside the trucks.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Fast Worldwide delivery</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Full Container Load</h4>
-								<p>There anyone who loves or pursue desire to obtain pains of itself, because it is pain, but occasionally circumstances.</p>
-
-<p>Consignee direct delivery</p>
-<p>Tailored alternatives available</p>
-								
+								<h4>Safe Loading of Household Goods</h4> 
+								<p>Our experienced loaders stack boxes, bulky furniture, and fragile goods carefully to prevent any movement or rubbing during transit.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Loading Services Indore">
+								<h4>Unloading and Room Placement</h4>
+								<p>Upon arrival, our crew unloads every box and piece of furniture, placing them in their respective rooms as directed by you.</p>
+								<p>Heavy lifting handled by professional loaders</p>
+								<p>Trolleys and belts for loading heavy items</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>End-to-end solution available</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<h4>Safety & Compliance</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Less than Container</h4>
-								<p>Less than container load is a shipment that will not fill a container. With an LCL shipment, you pay for your load to be shipped in a container with one or more loads from other customers of the freight transport provider.</p>
-								<p>Consignee direct delivery</p>
-							<p>Tailored alternatives available</p>
+								<h4>Experienced Loading Staff</h4> 
+								<p>Our crew is well-trained in proper lifting techniques to protect themselves and your valuable items (like refrigerators and double beds) from harm.</p>
+								<h4>Modern Handling Equipment</h4> 
+								<p>We use modern hand trucks, lifting belts, and loading ramps to handle heavy appliances, cabinets, and fragile goods safely.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Unloading Services Indore">
+								<h4>Damage-Free Stack Alignment</h4>
+								<p>Heavy items are always loaded at the bottom, and lighter, fragile boxes are stacked on top to prevent crushing and shifting during the journey.</p>
+								<p>Fast and efficient loading process</p>
+								<p>Doorstep unpacking assistance</p>
 							</div>
 						</div>
 						<p class="text-center">

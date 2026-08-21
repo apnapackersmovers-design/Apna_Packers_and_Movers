@@ -241,28 +241,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="https://www.apnapackersmovers.com/media/images/insurance.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<p>Based on our years of operating in the moving industry, we are aware that many people involved with a move or relocation will need the use of a self-storage facility to store their goods. To cover your belongings whilst in transit or storage we offers Insurance service. We deal with the insurance paperwork and also facilitate valuation of their goods.</p>
+								<p>Based on our years of experience, we recommend choosing moving insurance to safeguard your valuable household goods during long-distance transits.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Fast Worldwide delivery</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Full Container Load</h4>
-								<p>There anyone who loves or pursue desire to obtain pains of itself, because it is pain, but occasionally circumstances.</p>
-
-<p>Consignee direct delivery</p>
-<p>Tailored alternatives available</p>
-								
+								<h4>Accidental Damage Coverage</h4> 
+								<p>Our transit insurance covers unforeseen damages or losses to your goods caused by road accidents, fire, or weather conditions during transport.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Moving Insurance Indore">
+								<h4>Transparent Goods Valuation</h4>
+								<p>We help you list and declare the correct value of your valuable household items before the move to ensure simple and valid insurance coverage.</p>
+								<p>Full itemized declaration support</p>
+								<p>Affordable transit insurance rates</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>End-to-end solution available</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<h4>Safety & Compliance</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Less than Container</h4>
-								<p>Less than container load is a shipment that will not fill a container. With an LCL shipment, you pay for your load to be shipped in a container with one or more loads from other customers of the freight transport provider.</p>
-								<p>Consignee direct delivery</p>
-							<p>Tailored alternatives available</p>
+								<h4>Quick Claims Assistance</h4> 
+								<p>In case of any unexpected transit issues, our team assists you with the documentation and claim settlement process for a hassle-free experience.</p>
+								<h4>Peace of Mind Relocation</h4> 
+								<p>With our transit insurance options, you can rest easy knowing that your valuable electronics, furniture, and goods are financially protected.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Shifting Insurance Indore">
+								<h4>Reliable Transit Standards</h4>
+								<p>Even though we take utmost care while packing and moving, having insurance coverage ensures 100% financial security against external factors.</p>
+								<p>Complete peace of mind guarantee</p>
+								<p>Custom insurance plans for domestic shifting</p>
 							</div>
 						</div>
 						<p class="text-center">

@@ -242,28 +242,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="https://www.apnapackersmovers.com/media/images/fg.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="packers and movers in indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<p>We are known as reliable and well-timed car moving service Provider Company having many branches in different cities of India. Our car moving team is well knowledgeable and offers reliable and proficient car transportation. We are having special car trailers and carriers.</p>
+								<p>We are known as a reliable and well-timed car and bike shifting service provider in Indore. Our specialized vehicle relocation team offers damage-free car and bike transportation to any city in India.</p>
 								<h1>BENEFITS OF SERVICE</h1>
-								<h4>Fast Worldwide delivery</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Full Container Load</h4>
-								<p>There anyone who loves or pursue desire to obtain pains of itself, because it is pain, but occasionally circumstances.</p>
-
-<p>Consignee direct delivery</p>
-<p>Tailored alternatives available</p>
-								
+								<h4>Secure Car Carrier Transport</h4> 
+								<p>We use dedicated open and closed car trailers to transport your cars safely, protecting them from dust, rain, scratches, and transit damages.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Car Shifting Services Indore">
+								<h4>Bike Shifting with Wooden Crates</h4>
+								<p>For two-wheelers, we offer specialized bubble wrapping and individual wooden crate packaging to ensure maximum safety during transport.</p>
+								<p>Safe Loading & Unloading of Vehicles</p>
+								<p>Trained drivers for carrier loading</p>
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-								<h4>End-to-end solution available</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<h4>Safety & Compliance</h4> 
-								<p>The master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because seds those who do not know how to pursue pleasure.</p>
-								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="packers and movers in indore">
-								<h4>Less than Container</h4>
-								<p>Less than container load is a shipment that will not fill a container. With an LCL shipment, you pay for your load to be shipped in a container with one or more loads from other customers of the freight transport provider.</p>
-								<p>Consignee direct delivery</p>
-							<p>Tailored alternatives available</p>
+								<h4>End-to-End Transit Tracking</h4> 
+								<p>We keep you informed throughout the transit. Our team provides regular updates regarding the location and delivery schedule of your vehicle.</p>
+								<h4>Transit Damage Insurance</h4> 
+								<p>To give you complete peace of mind, we offer optional transit insurance coverage for all cars and bikes being transported.</p>
+								<img src="https://www.apnapackersmovers.com/media/images/5.jpg" class="full-width" alt="Safe Vehicle Relocation Indore">
+								<h4>On-Time Shifting Guarantee</h4>
+								<p>With our strong network and well-maintained fleet, we guarantee the timely delivery of your car or bike directly to your doorstep at the destination.</p>
+								<p>Doorstep pickup and delivery</p>
+								<p>Custom vehicle relocation quotes</p>
 							</div>
 						</div>
 						<p class="text-center">
