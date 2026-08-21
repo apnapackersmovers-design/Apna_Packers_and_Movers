@@ -30,14 +30,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </style>
 <meta charset="utf-8">
-<title>Packers and movers in Indore, Call +919806470899</title>
+<title>Local & Domestic House Shifting Services in Indore | Apna</title>
 <meta name="DC.title" content="Packers and movers in Indore" />
 <meta name="geo.region" content="IN-MP" />
 <meta name="geo.placename" content="Indore" />
 <meta name="geo.position" content="22.720362;75.8682" />
 <meta name="ICBM" content="22.720362, 75.8682" />
-<meta name="description" content="Welcome to Apna Packers and movers in Indore! We are the top Packers and movers in Indore which offering a various range of high quality packing services.">
-<meta NAME="keywords" content="Packers and movers in Indore, packers and movers in indore mp, packers and movers, packers and movers in indore India, packers and movers in india, movers and packers indore, vijay nagar, packers and movers indore contact number, packers and movers ujjain, movers and packers indore to bhopal, packers and movers pithampur, apna packers and movers indore">
+<meta name="description" content="Get stress-free house shifting and home relocation services in Indore. Apna Packers Movers offers local & intercity packing and moving. Get quote now.">
+<meta name="keywords" content="house shifting indore, home relocation services indore, local shifting indore">
+<meta property="og:title" content="Local & Domestic House Shifting Services in Indore | Apna" />
+<meta property="og:description" content="Get stress-free house shifting and home relocation services in Indore. Apna Packers Movers offers local & intercity packing and moving. Get quote now." />
+<meta property="og:image" content="https://www.apnapackersmovers.com/img/latest_logo.jpg" />
+<meta property="og:url" content="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php" />
+<meta property="og:type" content="website" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 <meta itemprop="name" content="Packers and Movers In Indore"/>
