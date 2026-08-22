@@ -18,7 +18,7 @@ files_to_upload = []
 for file in os.listdir(base_dir):
     if os.path.isfile(os.path.join(base_dir, file)):
         # Include all php, html, txt, xml files, and ignore git/system config files
-        if file.endswith(('.php', '.html', '.txt', '.xml')) and not file.startswith('.'):
+        if (file.endswith(('.php', '.html', '.txt', '.xml')) and not file.startswith('.')) or file == '.htaccess':
             files_to_upload.append(file)
 
 print(f"Discovered {len(files_to_upload)} files to deploy: {files_to_upload}")
