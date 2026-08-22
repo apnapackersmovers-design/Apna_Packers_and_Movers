@@ -138,9 +138,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	},
 	"priceRange":"$"
 
+,
+	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
 }
 </script>
-    </head>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is the cost of packers and movers from Indore to Bhopal?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Relocation charges from Indore to Bhopal depend on the truck type (dedicated or shared) and moving volume. Contact Apna Packers for a custom intercity quotation."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How much time does shifting from Indore to Bhopal take?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Direct transport via a dedicated truck delivers goods within 24 hours. Shared logistics options take approximately 2 to 3 days."
+    }
+  }]
+}
+</script>
+</head>
 	<body data-scrolling-animations="true">
 	    <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"

@@ -138,9 +138,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	},
 	"priceRange":"$"
 
+,
+	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
 }
 </script>
-    </head>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How much does house shifting cost in Palasia Indore?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "House shifting costs in Palasia Indore vary depending on packing materials, labor, and truck size. Apna Packers offers safe premium relocations at transparent rates."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Are there safe packers and movers in Palasia Indore?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Apna Packers and Movers provides premium household moving, double-layer bubble wrapping, and verified helpers in Palasia and Saket."
+    }
+  }]
+}
+</script>
+</head>
 	<body data-scrolling-animations="true">
 	    <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"

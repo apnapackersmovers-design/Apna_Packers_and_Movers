@@ -138,9 +138,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	},
 	"priceRange":"$"
 
+,
+	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
 }
 </script>
-    </head>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What are the packers and movers charges in Vijay Nagar Indore?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Local shifting charges in Vijay Nagar Indore are highly budget-friendly and depend on the home size and moving volume. Request a free pre-move survey from Apna Packers for a detailed quote."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Which is the best packers and movers in Vijay Nagar Indore?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Apna Packers and Movers is highly rated for offering secure, fast, and professional household shifting and office relocation services in Vijay Nagar and Scheme 54."
+    }
+  }]
+}
+</script>
+</head>
 	<body data-scrolling-animations="true">
 	    <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"

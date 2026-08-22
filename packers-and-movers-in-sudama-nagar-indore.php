@@ -138,9 +138,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	},
 	"priceRange":"$"
 
+,
+	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
 }
 </script>
-    </head>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What are local shifting charges in Sudama Nagar Indore?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Local house shifting rates in Sudama Nagar depend on the number of items and truck requirements. Apna Packers provides affordable shifting services for families and students."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I book bike shifting from Sudama Nagar?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes! Apna Packers offers safe bike transport services from Sudama Nagar using protective wrapping and carriers."
+    }
+  }]
+}
+</script>
+</head>
 	<body data-scrolling-animations="true">
 	    <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
