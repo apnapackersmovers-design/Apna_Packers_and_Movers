@@ -265,13 +265,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h2 class="text-center italic" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
+							services in Logistics solutions to our satisfied customers</h2>
 						<img src="https://www.apnapackersmovers.com/media/images/mh.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Trusted Household Relocation and Office Shifting Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>Apna Packers Movers offers budget-friendly and highly reliable house shifting, local relocation, and vehicle transport services in Sudama Nagar, Dwarka Puri, and nearby residential colonies of Indore.</p>
-								<h1>BENEFITS OF SERVICE</h1>
+								<h2>BENEFITS OF SERVICE</h2>
 								<h4>Affordable House Shifting</h4> 
 								<p>Budget-friendly local household shifting for families and individuals in Sudama Nagar.</p>
 								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Sudama Nagar Shifting">

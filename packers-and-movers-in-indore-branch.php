@@ -297,7 +297,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<hr>
 			<div class="container-fluid partners block-content">
 				<div class="hgroup title-space wow fadeInLeft" data-wow-delay="0.3s">
-					<h1>TRUSTED partners</h1>
+					<h2>TRUSTED partners</h2>
 					<h2>Verified Associations & Shifting Partners</h2>
 				</div>
 				<div id="partners" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">

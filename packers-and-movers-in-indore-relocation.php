@@ -239,13 +239,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h2 class="text-center italic" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
+							services in Logistics solutions to our satisfied customers</h2>
 						<img src="https://www.apnapackersmovers.com/media/images/mh.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Trusted Household Relocation and Office Shifting Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>Apna Packers Movers offers professional household relocation and office shifting services locally in Indore and across all major cities of India.</p>
-								<h1>BENEFITS OF SERVICE</h1>
+								<h2>BENEFITS OF SERVICE</h2>
 								<h4>Fast Worldwide delivery</h4> 
 								<p>We provide reliable domestic and international shifting services through our established shipping networks, ensuring your goods reach their destination safely and on time.</p>
 								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Fast Shifting Delivery">

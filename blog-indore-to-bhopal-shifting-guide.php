@@ -244,8 +244,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h2 class="text-center italic" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
+							services in Logistics solutions to our satisfied customers</h2>
 						<img src="https://www.apnapackersmovers.com/media/images/mh.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Trusted Household Relocation and Office Shifting Indore">
 						<div class="row">                    	
 							<div class="col-xs-12 wow zoomIn" data-wow-delay="0.3s" style="line-height: 1.8; font-size: 15px;">

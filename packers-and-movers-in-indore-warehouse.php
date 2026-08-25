@@ -239,13 +239,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h2 class="text-center italic" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
+							services in Logistics solutions to our satisfied customers</h2>
 						<img src="https://www.apnapackersmovers.com/media/images/oi.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Secure Luggage and Household Goods Warehouse Storage Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>We provide secure, clean, and spacious warehouse storage facilities in Indore for short-term and long-term storage of household goods and furniture.</p>
-								<h1>BENEFITS OF SERVICE</h1>
+								<h2>BENEFITS OF SERVICE</h2>
 								<h4>Fast Worldwide delivery</h4> 
 								<p>We provide reliable domestic and international shifting services through our established shipping networks, ensuring your goods reach their destination safely and on time.</p>
 								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Fast Shifting Delivery">

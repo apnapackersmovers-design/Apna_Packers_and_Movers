@@ -265,13 +265,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h2 class="text-center italic" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
+							services in Logistics solutions to our satisfied customers</h2>
 						<img src="https://www.apnapackersmovers.com/media/images/mh.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Trusted Household Relocation and Office Shifting Indore">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
 								<p>Apna Packers Movers provides premium and hassle-free household shifting, office relocation, and safe packing services in Palasia, Saket, Old Palasia, and nearby premium residential zones of Indore.</p>
-								<h1>BENEFITS OF SERVICE</h1>
+								<h2>BENEFITS OF SERVICE</h2>
 								<h4>Premium Home Relocation</h4> 
 								<p>Safe, clean, and careful moving of premium furniture, delicate glassware, and household goods in Palasia.</p>
 								<img src="https://www.apnapackersmovers.com/media/images/4.jpg" class="full-width" alt="Palasia Shifting Services">
