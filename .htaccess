@@ -62,3 +62,13 @@
 
 # Disable Server ETags (Reduces HTTP Header Size)
 FileETag None
+
+# ----------------------------------------------------------------------
+# 3. 301 Redirects for Obsolete Dynamic URLs (Fixes GSC Soft 404s)
+# ----------------------------------------------------------------------
+Redirect 301 /packers-and-movers-in-indore-blog-details.php https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php
+
+# ----------------------------------------------------------------------
+# 4. Custom 404 Redirection (Prevents 404 errors from leaking SEO value)
+# ----------------------------------------------------------------------
+ErrorDocument 404 https://www.apnapackersmovers.com/index.php

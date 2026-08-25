@@ -73,7 +73,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="google-site-verification" content="G5WVfIs52m30iIFTiKlJaB6Jr_bDPYOtZsqegjzx6Ng" />
 <meta name='copyright' content='(c) 2019 Apna Packers and Movers' />
 <meta name='url' content='https://www.apnapackersmovers.com/'/> 
-<link rel="canonical" href="https://www.apnapackersmovers.com/"/>
+<link rel="canonical" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php"/>
 <meta name="yandex-verification" content="5f77057a20071caa" />
 <meta name="msvalidate.01" content="2AEE947B768CE21F950A3DE7D97D592F" />
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
@@ -216,7 +216,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="container-fluid">
 					<a href="#"><h1>Packing and Moving Services in Indore</h1></a>
 					<div class="pull-right">
-						<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Packing & Moving</a>
+						<a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Packing & Moving</a>
 					</div>
 				</div>
 			</div>

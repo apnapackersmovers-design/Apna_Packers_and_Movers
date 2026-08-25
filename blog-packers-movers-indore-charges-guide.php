@@ -78,7 +78,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="google-site-verification" content="G5WVfIs52m30iIFTiKlJaB6Jr_bDPYOtZsqegjzx6Ng" />
 <meta name='copyright' content='(c) 2019 Apna Packers and Movers' />
 <meta name='url' content='https://www.apnapackersmovers.com/'/> 
-<link rel="canonical" href="https://www.apnapackersmovers.com/"/>
+<link rel="canonical" href="https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php"/>
 <meta name="yandex-verification" content="5f77057a20071caa" />
 <meta name="msvalidate.01" content="2AEE947B768CE21F950A3DE7D97D592F" />
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">

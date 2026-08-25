@@ -73,7 +73,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="google-site-verification" content="G5WVfIs52m30iIFTiKlJaB6Jr_bDPYOtZsqegjzx6Ng" />
 <meta name='copyright' content='(c) 2019 Apna Packers and Movers' />
 <meta name='url' content='https://www.apnapackersmovers.com/'/> 
-<link rel="canonical" href="https://www.apnapackersmovers.com/"/>
+<link rel="canonical" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php"/>
 <meta name="yandex-verification" content="5f77057a20071caa" />
 <meta name="msvalidate.01" content="2AEE947B768CE21F950A3DE7D97D592F" />
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
@@ -298,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container-fluid partners block-content">
 				<div class="hgroup title-space wow fadeInLeft" data-wow-delay="0.3s">
 					<h1>TRUSTED partners</h1>
-					<h2>Lorem ipsum dolor sit amet consectetur</h2>
+					<h2>Verified Associations & Shifting Partners</h2>
 				</div>
 				<div id="partners" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
 					<div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="https://www.apnapackersmovers.com/media/partners/1.png" alt="packers and movers in indore"></a></div>
