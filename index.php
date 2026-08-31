@@ -1,1726 +1,755 @@
-
-
 <!DOCTYPE html>
-
 <html lang="en">
-
-    <head>
-
+<head>
 <!-- Google tag (gtag.js) -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
-
 <script>
-
   window.dataLayer = window.dataLayer || [];
-
   function gtag(){dataLayer.push(arguments);}
-
   gtag('js', new Date());
-
-
-
   gtag('config', 'G-4SHNXRHNLX');
-
 </script>
-
 <!-- Google Tag Manager -->
-
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
 })(window,document,'script','dataLayer','GTM-K7MLZFR');</script>
-
 <!-- End Google Tag Manager -->
-
-          <style>
-
-        .float{
-
-	position:fixed;
-
-	width:60px;
-
-	height:60px;
-
-	bottom:20px;
-
-	left:20px;
-
-	background-color:#25d366;
-
-	color:#FFF;
-
-	border-radius:50px;
-
-	text-align:center;
-
-  font-size:30px;
-
-	box-shadow: 2px 2px 3px #999;
-
-  z-index:100;
-
-}
-
-
-
-.my-float{
-
-	margin-top:16px;
-
-}
-
-</style>
-
 <meta charset="utf-8">
+<title>Packers and Movers in Indore | Apna Packers and Movers (Best Rates 2026)</title>
+<meta name="description" content="Apna Packers and Movers is Indore's #1 verified moving company. 100% safe household shifting, office relocation & car transport in Vijay Nagar, Palasia, Rau. Call 9806470899.">
+<meta name="keywords" content="packers and movers in indore, best packers and movers indore, movers and packers indore, house shifting services indore, office relocation indore, car transport indore, packers and movers indore charges, cheap packers and movers indore">
+<meta name="DC.title" content="Packers and Movers in Indore" />
+<meta name="geo.region" content="IN-MP" />
+<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
+<meta name="geo.position" content="22.773068;75.907127" />
+<meta name="ICBM" content="22.773068, 75.907127" />
+<meta name="country" content="India" />
+<meta name="city" content="Indore" />
+<meta name="state" content="Madhya Pradesh" />
+<meta name="zipcode" content="452010" />
+<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
+
+<meta property="og:title" content="Packers and Movers in Indore | Apna Packers and Movers" />
+<meta property="og:description" content="Indore's top-rated, IBA compliant moving company for household shifting, corporate relocation, and vehicle transport." />
+<meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" />
+<meta property="og:url" content="https://www.apnapackersmovers.com/" />
+<meta property="og:type" content="website" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<meta name="robots" content="index,follow,all" />
+<meta name="author" content="Apna Packers and Movers" />
+<link rel="canonical" href="https://www.apnapackersmovers.com/"/>
+<link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
+
+<!-- Preload critical assets for 100/100 PageSpeed -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
 <link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+<link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-
-<title>Best Packers and Movers in Indore | Apna Packers Movers</title>
-
-<meta name="DC.title" content="Packers and Movers Indore" />
-
-<meta name="geo.region" content="IN-MP" />
-
-<meta name="geo.placename" content="Indore" />
-
-<meta name="geo.position" content="22.720362;75.8682" />
-
-<meta name="ICBM" content="22.720362, 75.8682" />
-
-<meta name="description" content="Apna Packers and Movers in Indore offer trusted and affordable Household Shifting, Office Shifting, and Car & Bike Transport Services. Call +91-9806470899.">
-
-<meta name="keywords" content="packers and movers in indore, best packers and movers indore, house shifting services indore, office relocation indore, car transport indore, local movers indore">
-
-<meta property="og:title" content="Best Packers and Movers in Indore | Apna Packers Movers" />
-
-<meta property="og:description" content="Apna Packers and Movers in Indore offer trusted and affordable Household Shifting, Office Shifting, and Car & Bike Transport Services. Call +91-9806470899." />
-
-<meta property="og:image" content="https://www.apnapackersmovers.com/img/latest_logo.jpg" />
-
-<meta property="og:url" content="https://www.apnapackersmovers.com/" />
-
-<meta property="og:type" content="website" />
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
-
-<meta itemprop="name" content="Packers and Movers Indore"/>
-
-<meta name="classification" content="Packers and Movers Indore" />
-
-<meta name="subject" content="packers and movers Indore"/>
-
-<meta name="page-type" content="packers and movers Indore"/>
-
-<meta name="page-topic" content="packers and movers Indore"/>
-
-<meta name="allow-search" content="Yes" />
-
-<meta name="robots" content="index,follow,all" />
-
-<meta name="revisit-after" content="1 days" />
-
-<meta name="coverage" content="worldwide" />
-
-<meta name="doc-type" content="Public"/>
-
-<meta name="language" content="english"/>
-
-<meta name="distribution" content="Global"/>
-
-<meta name="ratings" content="General"/>
-
-<meta http-equiv="expires" content="0"/>
-
-<meta name="country" content="IN, India"/>
-
-<meta name="author" content="Devendra Gehlot" />
-
-<meta name="google-site-verification" content="G5WVfIs52m30iIFTiKlJaB6Jr_bDPYOtZsqegjzx6Ng" />
-
-<meta name='copyright' content='(c) 2019 Apna Packers and Movers' />
-
-<meta name='url' content='https://www.apnapackersmovers.com/'/> 
-
-<link rel="canonical" href="https://www.apnapackersmovers.com/"/>
-
-<meta name="yandex-verification" content="5f77057a20071caa" />
-
-<meta name="msvalidate.01" content="2AEE947B768CE21F950A3DE7D97D592F" />
-
-<link href="https://www.apnapackersmovers.com/css/master.css" rel="stylesheet">
-
-<link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
-
-
-
-
-
+<!-- Structured Data Schemas (LocalBusiness, MovingCompany, WebSite, FAQPage) -->
 <script type="application/ld+json">
-
 {
-
   "@context": "https://schema.org/",
-
   "@type": "WebSite",
-
-  "name": "Apna Packers and movers",
-
+  "name": "Apna Packers and Movers",
   "url": "https://www.apnapackersmovers.com/",
-
   "potentialAction": {
-
     "@type": "SearchAction",
-
-    "target": "https://www.apnapackersmovers.com/{search_term_string}",
-
+    "target": "https://www.apnapackersmovers.com/?s={search_term_string}",
     "query-input": "required name=search_term_string"
-
   }
-
 }
-
 </script>
-
- 
 
 <script type="application/ld+json">
-
 {
-
 	"@context": "https://schema.org",
-
 	"@type": "MovingCompany",
-
-	"name": "Apna Packers and movers",
-
-	"address": {
-
-		"@type": "PostalAddress",
-
-		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
-
-		"addressLocality": "Indore",
-
-		"addressRegion": "MP",
-
-		"postalCode": "452010"
-
-	},
-
+	"name": "Apna Packers and Movers Indore",
 	"image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
-
 	"email": "info@apnapackersmovers.com",
-
-	"telePhone": "9806470899",
-
+	"telephone": "+919806470899",
 	"url": "https://www.apnapackersmovers.com/",
-
-	"paymentAccepted": [ "cash", "check", "credit card", "invoice", "paypal" ],
-
-	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 10:00-22:00",
-
-	"openingHoursSpecification": [ {
-
-		"@type": "OpeningHoursSpecification",
-
-		"dayOfWeek": [
-
-			"Monday",
-
-			"Tuesday",
-
-			"Wednesday",
-
-			"Thursday",
-
-			"Friday",
-
-			"Saturday",
-
-			"Sunday"
-
-		],
-
-		"opens": "10:00",
-
-		"closes": "22:00"
-
-	} ],
-
-	"geo": {
-
-		"@type": "GeoCoordinates",
-
-		"latitude": "22.773068",
-
-		"longitude": "75.907127"
-
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+		"addressLocality": "Indore",
+		"addressRegion": "Madhya Pradesh",
+		"postalCode": "452010",
+		"addressCountry": "IN"
 	},
-
-	"priceRange":"$"
-
-
-
-,
-
-	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
-
-	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
-
+	"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": "22.773068",
+		"longitude": "75.907127"
+	},
+	"priceRange": "₹₹",
+	"paymentAccepted": [ "Cash", "Credit Card", "Debit Card", "UPI", "Net Banking", "Cheque" ],
+	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
+	"areaServed": [
+		"Indore",
+		"Vijay Nagar",
+		"Palasia",
+		"Bhawarkuan",
+		"Rajwada",
+		"Rau",
+		"Dewas Naka",
+		"Sudama Nagar",
+		"Super Corridor",
+		"Madhya Pradesh"
+	]
 }
-
 </script>
 
-    <script type="application/ld+json">
-
+<script type="application/ld+json">
 {
-
   "@context": "https://schema.org",
-
   "@type": "FAQPage",
-
-  "mainEntity": [{
-
-    "@type": "Question",
-
-    "name": "How do I find reliable packers and movers Indore?",
-
-    "acceptedAnswer": {
-
-      "@type": "Answer",
-
-      "text": "To look for reliable packers and movers Indore, consider factors like affordability, easy online booking, safe packing materials, and verified drivers, just like Apna Packers Movers."
-
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do packers and movers charge in Indore for house shifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 2026, local house shifting charges in Indore range from ₹3,000 to ₹5,500 for a 1 BHK, ₹5,500 to ₹9,500 for a 2 BHK, and ₹8,000 to ₹16,000 for a 3 BHK home. Prices include complete 5-layer packing, loading, transport, and unloading."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Apna Packers and Movers considered the best in Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apna Packers and Movers is GST registered, IBA compliant, maintains a physical hub at Dewas Naka, provides 5-layer bubble packing, operates closed container trucks, and has served 2,500+ satisfied families with 100% zero-damage guarantee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which areas in Indore do you cover for local shifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide doorstep moving across all Indore localities including Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor, Nipania, Mahalaxmi Nagar, and AB Road."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide car and bike transport services from Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we operate specialized enclosed car carrier trailers and scratch-free two-wheeler packaging for door-to-door vehicle delivery to Bhopal, Mumbai, Pune, Delhi, and all Indian cities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any hidden costs charged on moving day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Apna Packers and Movers provides a 100% written binding quotation with transparent GST tax breakdown and zero hidden delivery charges."
+      }
     }
-
-  },{
-
-    "@type": "Question",
-
-    "name": "What steps do packers and movers Indore take to secure the safety of my belongings during transit?",
-
-    "acceptedAnswer": {
-
-      "@type": "Answer",
-
-      "text": "We secure your goods by using high-quality packing materials, ensuring careful loading/unloading, employing verified drivers, and providing optional transit insurance for safety."
-
-    }
-
-  },{
-
-    "@type": "Question",
-
-    "name": "Are there any extra charges for moving fragile or useful items with packers and movers Indore?",
-
-    "acceptedAnswer": {
-
-      "@type": "Answer",
-
-      "text": "No, Apna Packers Movers does not charge any hidden or extra prices for transporting fragile or high-value household items."
-
-    }
-
-  },{
-
-    "@type": "Question",
-
-    "name": "What is the calculated time frame for a local move managed by packers and movers Indore?",
-
-    "acceptedAnswer": {
-
-      "@type": "Answer",
-
-      "text": "Estimated delivery time depends on distance, peak traffic hours, and move size. We typically complete local shifts within Indore in a few hours."
-
-    }
-
-  },{
-
-    "@type": "Question",
-
-    "name": "Are there any specific items that packers and movers Indore cannot transport?",
-
-    "acceptedAnswer": {
-
-      "@type": "Answer",
-
-      "text": "Apna Packers Movers refrains from transporting illegal, hazardous, flammable, or law-restricted items."
-
-    }
-
-  }]
-
+  ]
 }
-
 </script>
-
-</head>
-
-	<body data-scrolling-animations="true">
-
-	    <!-- Google Tag Manager (noscript) -->
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
-
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-<!-- End Google Tag Manager (noscript) -->
-
-		<div class="sp-body">
-
-
-
-			<!-- End Switcher -->
-
-			
-
-	        <header id="this-is-top">
-
-	            <div class="container-fluid"> 
-
-	                <div class="topmenu row"> 
-
-	                    <nav style="color:#fff;" class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
-
-	                        <a href="tel:+91-8827650499" style="font-size: 14px;">  +91-8827650499</a> 
-
-	                <a href="tel:+91 9806470899" style="font-size: 14px;"> +91 9806470899</a>  
-
-	                    </nav>
-
-	                    <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-
-	                        <a target="_blank" href="https://www.facebook.com/apmindore"><i style="font-size: 16px;" class="fa fa-facebook"></i></a> 
-
-	                     
-
-	                        <a target="_blank" href="https://twitter.com/MoversApna"><i style="font-size: 16px;" class="fa fa-twitter"></i></a>
-
-	                      
-
-	                        <a target="_blank" href="https://www.youtube.com/watch?v=vRqhzaKlGzY"><i class="fa fa-youtube"></i></a>
-
-	                        <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i style="font-size: 16px;" class="fa fa-instagram"></i></a>
-
-	                       
-
-	                    </nav>
-
-	                </div>
-
-	                <div class="row header">
-
-	                    <div class="col-sm-3 col-md-3 col-lg-3">
-
-	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
-
-	                    </div>
-
-	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-
-	                        <div class="text-right header-padding">
-
-	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
-
-	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-
-	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
-
-	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-
-	                        </div>
-
-	                    </div>
-
-	                </div>
-
-	                <div id="main-menu-bg"></div>  
-
-	                <a id="menu-open" href="#"><i class="fa fa-bars"></i></a> 
-
-	                <nav class="main-menu navbar-main-slide">
-
-						<ul class="nav navbar-nav navbar-main">
-
-							<li class="dropdown">
-
-								<a href="https://www.apnapackersmovers.com">HOME</a>
-
-							</li>
-
-							<li class="dropdown">
-
-								<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us </a>
-
-							
-
-							</li>
-
-							<li class="dropdown">
-
-								<a data-toggle="dropdown" class="dropdown-toggle border-hover-color1" href="#">Services<i class="fa fa-angle-down"></i></a>
-
-								<ul class="dropdown-menu">
-
-									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car Moving Services</a></li>
-
-									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a></li>
-
-									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Insurance Service </a></li>
-
-									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse Service</a></li>
-
-									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">Relocation Service</a></li>
-									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php">Office Relocation</a></li>
-
-									<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading Unloading Services</a></li>
-
-								</ul>
-
-							</li>
-
-							<li class="dropdown">
-
-								<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
-
-								
-
-							</li>
-
-							
-
-							<li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a></li>
-
-						    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs</a></li>
-
-							<li><a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a></li>
-
-						</ul>
-
-						
-
-	                </nav>
-
-	                <a id="menu-close" href="#"><i class="fa fa-times"></i></a>
-
-	            </div>
-
-	        </header>
-
-	        <div id="owl-main-slider" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-auto-play="true" data-main-slider="true" data-stop-on-hover="true">
-
-	            <div class="item">
-
-            		<img src="https://www.apnapackersmovers.com/media/main-slider/1.webp" fetchpriority="high" decoding="async" width="1920" height="650" alt="packers movers in indore">
-
-	                <div class="container-fluid">
-
-	                    <div class="slider-content col-md-6 col-lg-6">
-
-	                        <div style="display:table;">
-
-	                            <div style="display:table-cell; width:100px; vertical-align:top;">
-
-	                                <a class="prev"><i class="fa fa-angle-left"></i></a>
-
-	                                <a class="next"><i class="fa fa-angle-right"></i></a>
-
-	                            </div>
-
-	                            <div style="display:table-cell;">
-
-	                                <h3 style="color:#fff;">Welcome to Apna Packers and Movers</h3>
-
-	                            </div>
-
-	                        </div>
-
-	                        <p> Goods Insurance with doors to doors with safety delivery services in Indore.</p>
-
-	                    </div>
-
-	                </div>
-
-	            </div>
-
-	            <div class="item">
-
-            		<img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/main-slider/2.webp" alt="relocation service in Indore">
-
-	                <div class="container-fluid">
-
-	                    <div class="slider-content col-md-6 col-lg-6">
-
-	                        <div style="display:table;">
-
-	                            <div style="display:table-cell; width:100px; vertical-align:top;">
-
-	                                <a class="prev"><i class="fa fa-angle-left"></i></a>
-
-	                                <a class="next"><i class="fa fa-angle-right"></i></a>
-
-	                            </div>
-
-	                            <div style="display:table-cell;">
-
-	                                <h3 style="color:#fff;">Large Number Of Freight Ways Makes Us Powerful</h3>
-
-	                            </div>
-
-	                        </div>
-
-	                        <p><strong>Best Transportation Company in Indore</strong> Our experience team has in-depth information of packaging and moving.</p>
-
-	                    </div>
-
-	                </div>
-
-	            </div>
-
-	        </div>
-
-	        <div class="container-fluid block-content">
-
-	            <div class="text-center hgroup wow zoomInUp" >
-
-            		<h1>Packers and movers in Indore</h1>
-
-            		<br>
-
-            		<p style="font-size:16px;text-align: justify;">Are you planning a relocation within Indore or another city? Packing and moving can be stressful. Apna Packers and Movers in Indore can help make your move smooth and hassle-free.
-
-Apna Packers and Movers is a relocation service provider in Indore that handles all your packing and moving needs. Their team of experienced professionals can pack your belongings securely, ensuring your furniture, fragile items, and everything in between arrives safely at your new destination.</p>
-
-
-
-<p style="font-size:16px;text-align: justify;">Are you Looking for the Best packers and movers Indore? Apna Packers and Movers Indore will you help in your next packing and moving? We match your requirements with professional relocation service providers in Indore. Apna Packers and Movers Indore are verified and trusted to hire and enjoy a hassle-free relocation experience. Explore all packing and moving specialists, hire affordable and best from them, and request quotes. They have expertise in handling all relocation offers household shifting, office shifting, and car transportation in Indore. Shift with comfort and convenience with Apna Packers and Movers in Indore. We offer a complete packing and moving solution in Indore with reliable packing and shifting services.</p>
-
-
-
-
-
-            		</div>
-
-	            </div>
-
-	            <div style="margin-top: -100px;" class="container-fluid block-content">
-
-        		<div class="row">
-
-            		<div class="col-md-6 col-lg-6 wow fadeInLeft" >
-
-                		<div class="hgroup">
-
-	                        <h3>Apna Packers and Movers Indore</h3>
-
-	                        <strong>Welcome to Apna Packers and Movers Indore!
-
-</strong>
-
-	                    </div>
-
-	                    <div id="testimonials" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-navigation="true" data-auto-play="true">
-
-	                        <p style="font-size:16px;text-align: justify;">They offer a variety of services to fit your needs, including:<br><br>
-
-
-
-<b>? Household item packing and moving:</b> They'll pack your entire home, from clothes and utensils to furniture and appliances.<br><br>
-
-
-
-<b>? Office relocation:</b> Need to move your office furniture and equipment? They can handle that too!<br><br>
-
-
-
-<b>? Vehicle transportation:</b> Moving your car or motorbike? Apna Packers and Movers can securely transport your vehicle.<br><br>
-
-
-
-Here are the benefits of using Apna Packers and Movers:<br><br>
-
-
-
-<b>? Experienced and reliable:</b> Their team has the experience to handle any move efficiently.<br><br>
-
-
-
-<b>? Safe and secure packing:</b> They use high-quality packing materials to keep your belongings safe.<br><br>
-
-
-
-<b>? Door-to-door service:</b> They'll pick up your belongings from your current location and deliver them to your new home.<br><br>
-
-
-
-<b>? Competitive rates:</b> Get a free quote to see if their services fit your budget.
-
-Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indore, you can focus on the excitement of your new home and leave the packing and moving to them.</p>
-
-
-
-	                       
-
-	                    </div>
-
-	                    <div >
-
-	                   <p style="font-size:16px;text-align: justify;">We offer various booking solutions for you, you can book online through our web site. We are committed to our clients and their satisfaction. At our service, we are committed to offering the best quality of services. Our team of skilled professionals is committed to providing the best quality of services. We are committed to our clients and their satisfaction.</p> 
-
-	                   
-
-	                   
-
-	                   <p style="font-size:16px;text-align: justify;"><b>Packers and Movers Indore</b> offers professional services to help you relocate easily. They provide packing, loading, transporting, unloading, and unpacking services for homes and offices. They use high-quality materials to ensure your belongings are safe during the move. They have trained staff who handle your items with care, making the process stress-free. Whether you are moving locally or to another city, Apna Packers and Movers in Indore have the expertise to make your move smooth and efficient. With their help, you can focus on settling into your new place while they handle the heavy lifting.</p> 
-
-	                   
-
-	                   
-
-	                   </div>
-
-	                </div>
-
-	                <div class="col-md-6 col-lg-6 wow fadeInRight" >
-
-                		<div class="hgroup">
-
-	                        <h3>Safety Features</h3>
-
-	                        <p>Apna Packers and Movers Indore, We are committed to giving the highest priority to the security and safety of the consignment.</p>
-
-	                    </div>
-
-	                    <ul class="why-us">
-
-                    		<li>
-
-                        	Safety Features
-
-                        		<p>At "Apna Packers and Movers Indore, We are engaged to give utmost importance to the safety and security of the consignment.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        <li>
-
-                        		Mobile Shipment Tracking
-
-
-
-	                            <p>Mobile shipment tracking allows users to monitor the location and status of their packages using a smartphone or tablet, ensuring convenience.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        <li>
-
-                        		24*7 customer support 
-
-	                            <p>We Specialize in a 24*7 Service Support team.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        <li>
-
-                        		Careful Handling
-
-	                            <p>This package needs extra care! Handle it gently to avoid breakage or damage.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                    </ul>
-
-	                    
-
-	                    <img loading="lazy" decoding="async" src="Packers-and-Movers-Indore.jpeg" alt="Packers and Movers Indore" title="Packers and Movers Indore" width="100%" />
-
-	                    
-
-	                </div>
-
-	            </div>
-
-	        </div>
-
-	        <div style="margin-top: -100px;
-
-    margin-bottom: 20px;" class="container-fluid">
-
-        		<div class="row column-info block-content">
-
-            		<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" >
-
-                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" alt="apna packers and movers in Indore">
-
-	                    <span></span>
-
-	                    <h3>Packing Material</h3>
-
-	                    <p>Packing material protects your belongings during moving or shipping. Boxes, bubble wrap, and tape are all common examples. Choose the right materials to keep your items safe and secure!</p>
-
-	                    <a class="btn btn-default btn-sm" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">READ MORE</a>
-
-	                </div>
-
-	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" >
-
-                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" alt="relocation service">
-
-	                    <span></span>
-
-	                    <h3>Packing Tips</h3>
-
-	                    <p>Pack light! Plan outfits that mix and match. Roll clothes to save space. Pack for the weather. Use cubes to stay organized. Pack a reusable water bottle to avoid purchasing plastic.</p>
-
-	                    <a class="btn btn-default btn-sm" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">READ MORE</a>
-
-	                </div>
-
-	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" >
-
-                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" alt="car moving service in indore">
-
-	                    <span></span>
-
-	                    <h3>Transportation Process</h3>
-
-	                    <p>Transportation process involves moving people or goods from one location to another using different methods like cars, trains, planes, or ships. It's vital for trade, travel, and connecting communities worldwide.</p>
-
-	                    <a class="btn btn-default btn-sm" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">READ MORE</a>
-
-	                </div>
-
-	            </div>
-
-	        </div>
-
-	        
-
-	        <hr>
-
-	        <div class="big-hr color-1 wow zoomInUp" >
-
-        		<div class="text-left" style="margin-right:40px;">
-
-            		<h2>Apna Packers & movers</h2>
-
-            		<p>Apna Packers & Movers in Indore is a local Supplier of Transport and logistics Solutions.</p>
-
-				</div>
-
-	            <div><a class="btn btn-success btn-lg" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php"><strong>Get Free Quote</strong></a></div>
-
-	        </div>
-
-	        
-
-	        <div class="container-fluid block-content">
-
-        		<div class="text-center hgroup wow zoomInUp" >
-
-            		<h3>Services Provided by Apna Packers & Movers in Indore</h3>
-
-            		<p>Apna offers reliable packers and movers services in Indore. If you are moving for personal purposes, we provide useful packers and movers for relocation and different types of services in Indore.</p>
-
-	            </div>
-
-				<div class="row our-services">
-
-            		<div class="col-sm-6 col-md-4 col-lg-4 wow zoomInLeft" >
-
-                		<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">
-
-                    		<span><i class="glyph-icon flaticon-boats4"></i></span>
-
-                    		<h4>Car Moving Service</h4>
-
-	                        <p><strong>We take care of Your Car</strong> are known as reliable and well-timed car moving service Provider Company having many branches in different cities of India.</p>
-
-	                    </a>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" >
-
-                		<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">
-
-                    		<span><i class="glyph-icon flaticon-flying"></i></span>
-
-                    		<h4>Packing and Moving</h4>
-
-	                        <p><strong>Packaging Service</strong> For safely moving of goods and products we ensure best packaging with useful packing materials like shrink-wrapping, stretch wrapping etc.</p>
-
-	                    </a>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInRight" >
-
-                		<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">
-
-                    		<span><i class="glyph-icon flaticon-garage1"></i></span>
-
-                    		<h4>Insurance Service</h4>
-
-	                        <p>Based on our years of operating in the Industry, we are aware that many people involved with a move or relocation in this Industry.</p>
-
-	                    </a>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInLeft" >
-
-                		<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">
-
-                    		<span><i class="glyph-icon flaticon-package7"></i></span>
-
-                    		<h4>Warehousing</h4>
-
-	                        <p>We are provide best offer harmless and specifically intended warehouses for a safe storage of goods.</p>
-
-	                    </a>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" >
-
-                		<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">
-
-                    		<span><i class="glyph-icon flaticon-railway1"></i></span>
-
-                    		<h4>Relocation Service</h4>
-
-	                        <p>Like our Loading service of goods, we have a well organized unloading service that 
-
-	                        provide to our customers.</p>
-
-	                    </a>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInRight" >
-
-                		<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">
-
-                    		<span><i class="glyph-icon flaticon-traffic-signal"></i></span>
-
-                    		<h4>Loading Unloading Services</h4>
-
-	                        <p>Ground transportation with service options for all visitors, no matter your needs with quality work.</p>
-
-	                    </a>
-
-	                </div>
-
-	            </div>
-
-	        </div>
-
-	        
-
-	        <div class="fleet-gallery block-content bg-image inner-offset">
-
-        		<div class="container-fluid inner-offset">
-
-	                <div class="text-center hgroup wow zoomInUp" >
-
-	                    <h3 style="color:#fff;">Packers movers in Indore</h3>
-
-	                    <h3 style="color:#fff;">we always use best & fastest fleets</h3>
-
-	                
-
-	                    
-
-	                </div>
-
-	                <div id="fleet-gallery" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
-
-	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/1.jpg" alt="packers and movers service Indore"></div>
-
-	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/2.jpg" alt="top packer and movers in Indore"></div>
-
-	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/3.jpg" alt="loading unloading service"></div>
-
-	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/4.jpg" alt="packaging service"></div>
-
-	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/5.jpg" alt="unloading service"></div>
-
-	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/6.jpg" alt="car moving service"></div>
-
-	                </div>
-
-    			</div>
-
-	        </div>
-
-	       
-
-	        <div class="container-fluid block-content">
-
-        		<div class="row">
-
-            		<div class="col-md-6 col-lg-6 wow fadeInLeft" >
-
-                		<div class="hgroup">
-
-	                        <h3>TRUSTED CLIENTS</h3>
-
-	                        <h3>We offer's our clients with the best packers and movers company in Indore </h3>
-
-	                    </div>
-
-	                    <div id="testimonials" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-navigation="true" data-auto-play="true">
-
-	                        <div>
-
-                        		<div class="testimonial-content">
-
-                            		<span><i class="fa fa-quote-left"></i></span>
-
-                            		<p>Today we received from Jabalpure to Indore. Thank you very much for relocation house hold articles. Our thing were unloaded without any damage. Kind of packing and co-operation at both Jabalpur and Indore was very good.</p>
-
-	                            </div>
-
-	                            <div class="text-right testimonial-author">
-
-                            		<h4>Ankita Sharma</h4>
-
-	                                <small>CFD Engineer</small>
-
-	                            </div>
-
-	                        </div>
-
-	                        <div>
-
-                        		<div class="testimonial-content">
-
-                            		<span><i class="fa fa-quote-left"></i></span>
-
-                            		<p>They provide best service all over India, expertise in efficient packing, shifting & warehousing of car household/ office cheaper rate Apna Packers & Movers is the best <strong>Packers and movers in Indore</strong>.</p>
-
-	                            </div>
-
-	                            <div class="text-right testimonial-author">
-
-                            		<h4>Priya Goyal</h4>
-
-	                                <small>CEO, VIP Construction</small>
-
-	                            </div>
-
-	                        </div>
-
-	                       
-
-	                    </div>
-
-	                    <br>&nbsp;
-
-	                    <p style="text-align:justify; font-size:18px;">Transportation is another area where Apna Packers and Movers Indore shine. They have a fleet of well-maintained vehicles equipped to handle all types of moves, big or small. Whether you're moving locally within Indore or to a distant location, they ensure your belongings are transported safely and securely. Their drivers are experienced and knowledgeable about the best routes to take, ensuring timely delivery of your items.</p>
-
-	                </div>
-
-	                <div class="col-md-6 col-lg-6 wow fadeInRight" >
-
-                		<div class="hgroup">
-
-	                        <h3>Why Choose Apna Packers and Movers Indore?</h3>
-
-	                        <p>Opting for Apna as your packers and movers Indore can be a wise decision. Evaluating the various factors noted below, selecting our packers and movers services Indore can be profitable for you in terms of comfort and affordability.</p>
-
-	                    </div>
-
-	                    <ul class="why-us">
-
-	                        
-
-	                        
-
-	                        <li>
-
-                        		Hassle-free Booking:
-
-                        		<p>Hassle-free booking with Apna Packers Movers you can easily arrange your moving services without any stress. Their straightforward process, clear instructions, secure payment options, and excellent customer support ensure your move is smooth and worry-free.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        
-
-	                        
-
-	                        
-
-	                        <li>
-
-                        		Multiple Stops:
-
-                        		<p>You can enter various stops during your move if you require to drop off or pick up any goods.
-
-</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        
-
-	                        
-
-                    		<li>
-
-                        		Safe and Reliable:
-
-                        		<p>Safety and security are important at Apna. We ensure the reliability of our driver-partners through proper background checks. We also offer safe packaging for your goods and have secure payment getaways to protect your financial details.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        <li>
-
-                        		On-time Delivery: 
-
-	                            <p>We guarantee your timely access to our packers and movers in Indore, providing a seamless relocation experience. You can trust Apna for reliable logistics.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        <li>
-
-                        		Affordability: 
-
-	                            <p>Our cost-effective and transparent charges allow you to confidently help our packers and movers services in Indore, understanding that our prices will not exceed your budget.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                        <li>
-
-                        		Fixed Pricing: 
-
-	                            <p>When you book our benefit, you can be assured that you do not have to pay any invisible charges. What you catch on the screen before booking is what you pay.</p>
-
-                        		<span>+</span>
-
-	                        </li>
-
-	                    </ul>
-
-	                </div>
-
-	            </div>
-
-	        </div>
-
-	        
-
-	        <hr>
-
-	        
-
-	        <div class="container-fluid block-content percent-blocks" data-waypoint-scroll="true">
-
-        		<div class="row stats">
-
-        		    <div>    <p style="text-align:justify; font-size:20px;">The company is equipped with modern tools and high-quality packing materials to ensure your belongings are well-protected during transit. Whether its fragile items like glassware or heavy furniture, Apna Packers and Movers Indore uses appropriate techniques to pack and move them safely. Additionally, their fleet of well-maintained vehicles ensures timely delivery of your goods without damage.</p></div>
-
-        		    
-
-            		<div class="col-sm-6 col-md-3 col-lg-3">
-
-                		<div class="chart" data-percent="230">
-
-                    		<span><i class="fa fa-folder-open"></i></span>
-
-                    		<span class="percent"></span>Projects Done
-
-	                    </div>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-3 col-lg-3">
-
-                		<div class="chart" data-percent="68">
-
-                    		<span><i class="fa fa-users"></i></span>
-
-                    		<span class="percent"></span>Clients Worldwide
-
-	                    </div>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-3 col-lg-3">
-
-                		<div class="chart" data-percent="147">
-
-                    		<span><i class="fa fa-truck"></i></span>
-
-                    		<span class="percent"></span>Owned Vehicles
-
-	                    </div>
-
-	                </div>
-
-	                <div class="col-sm-6 col-md-3 col-lg-3">
-
-                		<div class="chart" data-percent="105">
-
-                    		<span><i class="fa fa-male"></i></span>
-
-                    		<span class="percent"></span>People In Team
-
-	                    </div>
-
-	                </div>
-
-	            </div>
-
-	        </div>
-
-	        
-
-	    
-
-	        
-
-	        <div class="container-fluid partners block-content">
-
-	            <div class="hgroup title-space wow fadeInLeft" >
-
-	                <h3>TRUSTED partners</h3>
-
-	                <h3>Best services and in raising our name in this packing and moving industry.</h3>
-
-	            </div>
-
-	            <div id="partners" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
-
-	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/1.png" alt="Best packers and Movers in Indore"></a></div>
-
-	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/2.png" alt="packers and movers"></a></div>
-
-	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/3.jpg" alt="packers and movers"></a></div>
-
-	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/4.png" alt="packers and movers in indore"></a></div>
-
-	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/1.png" alt="packers and movers "></a></div>
-
-	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/2.png" alt="packers and movers in Indore"></a></div>
-
-	            </div>
-
-	        </div>
-
-	        
-
-	        
-
-	        
-
-	        <div class="container-fluid partners block-content">
-
-	            <div class="hgroup title-space wow fadeInLeft" >
-
-	                
-
-	                
-
-	                
-
-	                <h3>How to Book Apna Packers & Movers Indore?</h3>
-
-
-
-When it comes to looking for packers and movers Indore, choosing Apna Packers Movers can be a smart choice with our easy online booking method. Allow us to show how suitable it is to book our packers and movers services Indore.<br>
-
-
-
-1.Open the Apna Packers Movers website and fill out the inquiry form with the correct details.<br>
-
-
-
-2.Select whether you want to move within the city or between cities<br>
-
-
-
-3.Enter your pickup and drop address<br>
-
-
-
-4.Choose the items you want to shift<br>
-
-
-
-5.Add additional details such as single-layer packing/furniture disassembling and collecting<br>
-
-
-
-6.Choose the move date and pick-up slot<br>
-
-
-
-7.Select your payment method - Cash, Google Pay, or PayTM<br>
-
-
-
-Experience the comfort of quick relocation with our packers and movers services Indore.
-
-	                
-
-	                <hr>
-
-
-
-	                
-
-	                
-
-	                <h3>Frequently Asked Questions About Packers & Movers Indore</h3>
-
-	                
-
-	                <div class="faq-item" style="margin-bottom: 20px;">
-
-	                    <h4 style="font-weight: bold; color: #333;">Q.1 How do I find reliable packers and movers Indore?</h4>
-
-	                    <p>A.1 To find reliable packers and movers in Indore, consider key factors like affordability, transparent pricing, past reviews, and safe packaging materials, just like Apna Packers Movers.</p>
-
-	                </div>
-
-	                <hr>
-
-	                
-
-	                <div class="faq-item" style="margin-bottom: 20px;">
-
-	                    <h4 style="font-weight: bold; color: #333;">Q.2 What steps do packers and movers Indore take to secure the safety of my belongings?</h4>
-
-	                    <p>A.2 We ensure the security of your goods by handling them gently, packing them with high-quality materials (bubble wrap, shrink film), and verifying all our driver-partners.</p>
-
-	                </div>
-
-	                <hr>
-
-	                
-
-	                <div class="faq-item" style="margin-bottom: 20px;">
-
-	                    <h4 style="font-weight: bold; color: #333;">Q.3 Are there any extra charges for moving fragile or valuable items?</h4>
-
-	                    <p>A.3 No, Apna Packers Movers does not charge any hidden or extra prices for moving fragile or valuable household items.</p>
-
-	                </div>
-
-	                <hr>
-
-	                
-
-	                <div class="faq-item" style="margin-bottom: 20px;">
-
-	                    <h4 style="font-weight: bold; color: #333;">Q.4 What is the calculated time frame for a local house shift in Indore?</h4>
-
-	                    <p>A.4 Local shifting within Indore typically takes 3 to 6 hours depending on the volume of items, traffic peak hours, and the moving slot chosen.</p>
-
-	                </div>
-
-	                <hr>
-
-	                
-
-	                <div class="faq-item" style="margin-bottom: 20px;">
-
-	                    <h4 style="font-weight: bold; color: #333;">Q.5 Are there any specific items that packers and movers cannot transport?</h4>
-
-	                    <p>A.5 Yes, we do not transport hazardous materials, inflammables, gas cylinders, liquid items, cash, jewelry, or any illegal goods.</p>
-
-	                </div>
-
-	                
-
-	                
-
-	                
-
-	            </div>
-
-	             
-
-	        </div>
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-	        
-
-			<footer>
-
-        		<div class="color-part2"></div>
-
-        		<div class="color-part"></div>
-
-        		<div class="container-fluid">
-
-            		<div class="row block-content">
-
-               			<div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-
-                    		
-
-	                        <p>We offer our clients with best and reliable services in the given time as this is our goal. Our dedication in our work help us in giving the best services and in raising our name in this packing and moving industry.
-
-
-
-  </p>
-
-	                        <div class="footer-icons">
-
-	                            <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
-
-	                            <a target="_blank" href="https://www.youtube.com/watch?v=vRqhzaKlGzY"><i class="fa fa-youtube-square fa-2x"></i></a>
-
-	                            <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
-
-	                            <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
-
-	                           
-
-	                        </div>
-
-	                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-lg btn-danger">GET A FREE QUOTE</a>
-
-	                    </div>
-
-	                    <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
-
-                    		<h4>WE OFFERS</h4>
-
-	                        <nav>
-
-                        		<a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car Moving Services</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Insurance Service </a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse Service</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">Relocation Service</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading Unloading Services</a>
-
-	                        </nav>
-
-	                    </div>
-
-	                    <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
-
-                    		<h4>MAIN LINKS</h4>
-
-	                        <nav>
-
-                        		<a href="https://www.apnapackersmovers.com/index.php">Home</a>
-
-	                            
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a>
-
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs</a>
-
-	                            <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
-
-	                        </nav>
-
-	                    </div>
-
-	                    <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-
-                    		<h4>CONTACT INFO</h4>
-
-	                        Everyday is a new day for us and we work really hard to satisfy our customers everywhere.
-
-	                        <div class="contact-info">
-
-	                            <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall,
-
-Indore (MP) - 452010</span>
-
-	                           <span><i class="fa fa-phone"></i><a href="tel:+91 9806470899" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a>,<a href="tel: +91-8827650499" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i> +91-8827650499</a></span>
-
-	                            <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com     </span>
-
-	                            <span><i class="fa fa-clock-o"></i>24x7, Mon- Sun</span>
-
-	                            
-
-
-
-
-
-	                        </div>
-
-	                    </div>
-
-	                </div>
-
-             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2019 Apna Packers & Movers All rights reserved.</div>
-
-	             </div>
-
-	        </footer>
-
-        </div>
-
-        <!--Main-->   
-
-        <script src="js/jquery-1.11.3.min.js"></script>
-
-        <script src="js/jquery-ui.min.js"></script>
-
-        <script src="js/bootstrap.min.js"></script>
-
-        <script src="js/modernizr.custom.js"></script>
-
-        
-
-        <script src="assets/rendro-easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
-
-        <script src="js/waypoints.min.js"></script>
-
-        <script src="js/jquery.easypiechart.min.js"></script>
-
-		<!-- Loader -->
-
-		<script src="assets/loader/js/classie.js"></script>
-
-		<script src="assets/loader/js/pathLoader.js"></script>
-
-		<script src="assets/loader/js/main.js"></script>
-
-		<script src="js/classie.js"></script>
-
-		<!--Switcher-->
-
-		<script src="assets/switcher/js/switcher.js"></script>
-
-        <!--Owl Carousel-->
-
-        <script src="assets/owl-carousel/owl.carousel.min.js"></script>
-
-        <!-- SCRIPTS -->
-
-	    <script type="text/javascript" src="assets/isotope/jquery.isotope.min.js"></script>
-
-        <!--Theme-->
-
-        <script src="js/jquery.smooth-scroll.js"></script>
-
-        <script src="js/wow.min.js"></script>
-
-		<script src="js/jquery.placeholder.min.js"></script>
-
-		<script src="js/smoothscroll.min.js"></script>
-
-        <script src="js/theme.js"></script>
-
-        
-
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-<a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello Apna Packers and Movers." class="float" target="_blank">
-
-<i style="color:#fff;" class="fa fa-whatsapp my-float"></i>
-
-</a>
 
 <style>
-
-    
-
-.call-buton .cc-calto-action-ripple {
-
-	z-index: 99999;
-
-	position: fixed;
-
-	right: 3rem;
-
-	bottom: 11rem;
-
-	background: #ec8b00;
-
-	width: 5rem;
-
-	height: 5rem;
-
-	padding: 1rem;
-
-	border-radius: 100%;
-
-	-webkit-box-sizing: border-box;
-
-	box-sizing: border-box;
-
-	color: #ffffff;
-
-	-webkit-animation: cc-calto-action-ripple 0.6s linear infinite;
-
-	animation: cc-calto-action-ripple 0.6s linear infinite;
-
-	display: -webkit-box;
-
-	display: -webkit-flex;
-
-	display: -ms-flexbox;
-
-	display: flex;
-
-	justify-items: center;
-
-	-webkit-box-align: center;
-
-	-webkit-align-items: center;
-
-	-ms-flex-align: center;
-
-	align-items: center;
-
-	text-decoration: none; }
-
-	.call-buton .cc-calto-action-ripple i {
-
-	  -webkit-transition: 0.3s ease;
-
-	  transition: 0.3s ease;
-
-	  font-size: 4.2rem; }
-
-	.call-buton .cc-calto-action-ripple:hover i {
-
-	  -webkit-transform: rotate(135deg);
-
-	  transform: rotate(135deg); }
-
-  
-
-  @-webkit-keyframes cc-calto-action-ripple {
-
-	0% {
-
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
-
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2); }
-
-	100% {
-
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
-
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0); } }
-
-  
-
-  @keyframes cc-calto-action-ripple {
-
-	0% {
-
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
-
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2); }
-
-	100% {
-
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
-
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0); } }
-
-
-
-	span.num{
-
-		position: absolute;
-
-    color: #ec8b00;
-
-    left: -30%;
-
-    bottom: -50%;
-
-	}
-
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:20px;
+	left:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+	z-index:100;
+}
+.my-float{
+	margin-top:16px;
+}
+.hero-banner-section {
+    position: relative;
+    background: #111;
+    color: #fff;
+    min-height: 480px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+.hero-banner-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.45;
+}
+.hero-content-box {
+    position: relative;
+    z-index: 2;
+    padding: 60px 15px;
+}
+.hero-content-box h1 {
+    font-size: 38px;
+    font-weight: 800;
+    color: #fff;
+    line-height: 1.25;
+    margin-bottom: 15px;
+}
+.hero-content-box p {
+    font-size: 18px;
+    color: #e0e6ed;
+    margin-bottom: 25px;
+    line-height: 1.6;
+}
+.hero-badge {
+    display: inline-block;
+    background: #e31e24;
+    color: #fff;
+    padding: 6px 14px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.hero-cta-btn {
+    display: inline-block;
+    background: #e31e24;
+    color: #fff;
+    padding: 14px 28px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-right: 12px;
+    margin-bottom: 10px;
+    transition: all 0.3s;
+}
+.hero-cta-btn:hover {
+    background: #c1121f;
+    color: #fff;
+}
+.hero-call-btn {
+    display: inline-block;
+    background: #25d366;
+    color: #fff;
+    padding: 14px 28px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.aeo-quick-answer {
+    background: #f0f7ff;
+    border: 1px solid #b8daff;
+    border-left: 5px solid #0056b3;
+    padding: 18px 22px;
+    border-radius: 4px;
+    margin: 25px 0;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #0c5460;
+}
+.service-card-v2 {
+    background: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 6px;
+    padding: 22px;
+    margin-bottom: 25px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    height: 100%;
+}
+.service-card-v2:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+}
+.service-card-v2 h3 {
+    font-size: 19px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #222;
+}
+.service-card-v2 p {
+    font-size: 14.5px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.service-card-v2 a.btn-read {
+    color: #e31e24;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+}
+.content-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 15px;
+    text-align: left;
+}
+.content-table thead tr {
+    background-color: #e31e24;
+    color: #ffffff;
+    font-weight: bold;
+}
+.content-table th, .content-table td {
+    padding: 12px 15px;
+    border: 1px solid #dddddd;
+}
+.content-table tbody tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+.faq-box {
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-left: 4px solid #e31e24;
+    padding: 18px 22px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+}
+.faq-box h4 {
+    margin-top: 0;
+    color: #1a202c;
+    font-size: 17px;
+    font-weight: 700;
+}
+.faq-box p {
+    margin-bottom: 0;
+    color: #4a5568;
+    font-size: 15px;
+    line-height: 1.7;
+}
+.feature-box-v2 {
+    text-align: center;
+    padding: 25px 15px;
+    background: #fdfdfd;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    margin-bottom: 25px;
+}
+.feature-box-v2 i {
+    font-size: 36px;
+    color: #e31e24;
+    margin-bottom: 15px;
+}
+.feature-box-v2 h4 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.feature-box-v2 p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.5;
+}
 </style>
+</head>
+<body data-scrolling-animations="true">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="sp-body">
+    <!-- Header -->
+    <header id="this-is-top">
+        <div class="container-fluid">
+            <div class="topmenu row">
+                <nav style="color:#fff;" class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
+                    <div class="h-block"><span>CALL US 24x7</span><a href="tel:+919806470899" style="font-size:14px"><i class="fa fa-phone"></i> +91 9806470899</a></div>
+                </nav>
+                <nav class="text-right col-sm-3 col-md-3 col-lg-3">
+                    <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
+                    <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter"></i></a>
+                    <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube"></i></a>
+                    <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram"></i></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin"></i></a>
+                </nav>
+            </div>
+            <div class="row header">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
+                </div>
+                <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
+                    <div class="text-right header-padding">
+                        <div class="h-block"><span>CALL US</span><a href="tel:+919806470899"><i class="fa fa-phone"></i> +91 9806470899</a></div>
+                        <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
+                        <div class="h-block"><span>WORKING HOURS</span>24x7, Mon-Sun</div>
+                        <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
+                    </div>
+                </div>
+            </div>
+            <div id="main-menu-bg"></div>  
+            <a id="menu-open" href="#"><i class="fa fa-bars"></i></a> 
+            <nav class="main-menu navbar-main-slide">
+                <ul class="nav navbar-nav navbar-main">
+                    <li class="active"><a href="https://www.apnapackersmovers.com">HOME</a></li>
+                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a></li>
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="dropdown-toggle border-hover-color1" href="#">Services <i class="fa fa-angle-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">House Relocation</a></li>
+                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php">Office Relocation</a></li>
+                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car & Bike Moving</a></li>
+                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a></li>
+                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading & Unloading</a></li>
+                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse & Storage</a></li>
+                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Insurance Service</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a></li>
+                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a></li>
+                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a></li>
+                    <li><a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a></li>
+                </ul>
+            </nav>
+            <a id="menu-close" href="#"><i class="fa fa-times"></i></a>
+        </div>
+    </header>
 
-<section class="call-buton"><a class="cc-calto-action-ripple" href="tel:9806470899"><i class="fa fa-phone"></i><span class="num"></span>
+    <!-- Ultra-Fast High-Priority Hero Banner Section (100/100 LCP Speed) -->
+    <section class="hero-banner-section">
+        <img src="https://www.apnapackersmovers.com/media/main-slider/1.webp" alt="Packers and movers in Indore" class="hero-banner-bg" fetchpriority="high" decoding="async" width="1920" height="650">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-8 col-md-7 hero-content-box">
+                    <span class="hero-badge"><i class="fa fa-shield"></i> IBA Compliant & GST Registered</span>
+                    <h1>Top-Rated Packers and Movers in Indore</h1>
+                    <p>Experience hassle-free, zero-damage household shifting, corporate office relocation, and enclosed vehicle transportation across Vijay Nagar, Palasia, Rau, Dewas Naka, and nationwide.</p>
+                    <div>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="hero-cta-btn"><i class="fa fa-calculator"></i> Get Free Written Quote</a>
+                        <a href="tel:+919806470899" class="hero-call-btn"><i class="fa fa-phone"></i> Call +91 9806470899</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <!-- AEO Quick Answer & Main Intro -->
+    <section class="container-fluid" style="padding-top: 40px; padding-bottom: 30px;">
+        <div class="aeo-quick-answer">
+            <strong>Direct Summary (AEO Answer):</strong> <strong>Apna Packers and Movers</strong> is Indore's leading relocation partner headquartered at Dewas Naka. We provide 100% verified, damage-free shifting services with 5-layer packaging, transparent local rates starting from <strong>₹3,000 for 1 BHK</strong>, <strong>₹5,500 for 2 BHK</strong>, and <strong>₹8,000 for 3 BHK</strong> homes, and daily container dispatches to Bhopal, Mumbai, Pune, and Delhi NCR.
+        </div>
+
+        <div class="text-center" style="margin-bottom: 35px;">
+            <h2 style="font-size: 28px; font-weight: 800; color: #222;">Complete Logistics & Relocation Services in Indore</h2>
+            <p style="color: #666; max-width: 850px; margin: 0 auto; font-size: 16px;">From single-item luggage moves to full villa and corporate office shifts, explore our specialized moving solutions crafted for safety and affordability.</p>
+        </div>
+
+        <!-- 7 Services Grid -->
+        <div class="row">
+            <!-- Service 1 -->
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
+                <div class="service-card-v2">
+                    <i class="fa fa-home fa-2x" style="color:#e31e24;"></i>
+                    <h3>Household Relocation</h3>
+                    <p>Stress-free local and domestic house shifting with multi-layer bubble wrap, furniture dismantling, and doorstep setup in Indore.</p>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php" class="btn-read">Explore House Shifting <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <!-- Service 2 -->
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
+                <div class="service-card-v2">
+                    <i class="fa fa-building fa-2x" style="color:#e31e24;"></i>
+                    <h3>Office Relocation</h3>
+                    <p>Zero-downtime weekend corporate shifting, anti-static IT server packing, and cubicle reassembly for Crystal IT Park & SEZ businesses.</p>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php" class="btn-read">Explore Office Shifting <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <!-- Service 3 -->
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
+                <div class="service-card-v2">
+                    <i class="fa fa-car fa-2x" style="color:#e31e24;"></i>
+                    <h3>Car & Bike Transport</h3>
+                    <p>Specialized enclosed hydraulic car carriers and 3-layer scratch-free bike transit with full door-to-door insurance coverage.</p>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php" class="btn-read">Explore Vehicle Transport <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <!-- Service 4 -->
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
+                <div class="service-card-v2">
+                    <i class="fa fa-box fa-2x" style="color:#e31e24;"></i>
+                    <h3>Packing & Moving</h3>
+                    <p>Premium 5-ply corrugated cartons, bubble wrap, foam corner protectors, and customized wooden crating for fragile glassware.</p>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php" class="btn-read">Explore Packing Services <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <!-- Service 5 -->
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
+                <div class="service-card-v2">
+                    <i class="fa fa-users fa-2x" style="color:#e31e24;"></i>
+                    <h3>Loading & Unloading</h3>
+                    <p>Trained, background-verified full-time loading crews equipped with hydraulic dollies and safety harnesses for heavy items.</p>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php" class="btn-read">Explore Loading Services <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <!-- Service 6 -->
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
+                <div class="service-card-v2">
+                    <i class="fa fa-warehouse fa-2x" style="color:#e31e24;"></i>
+                    <h3>Warehouse & Storage</h3>
+                    <p>24x7 CCTV monitored, moisture-resistant, pest-controlled warehouse facility at Dewas Naka for short-term and long-term storage.</p>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php" class="btn-read">Explore Storage Services <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Transparent Shifting Charges in Indore (2026 Rate List) -->
+    <section style="background: #f8f9fa; padding: 45px 0;">
+        <div class="container-fluid">
+            <div class="text-center" style="margin-bottom: 30px;">
+                <h2 style="font-size: 26px; font-weight: 800; color: #222;">Packers and Movers Indore Charges 2026 (Transparent Rate List)</h2>
+                <p style="color: #666; font-size: 15px;">No hidden charges. Check our standard local shifting cost breakdown for Indore municipal zones.</p>
+            </div>
+
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <table class="content-table">
+                        <thead>
+                            <tr>
+                                <th>Home Size / Shifting Type</th>
+                                <th>Standard Packing & Transport</th>
+                                <th>Premium 5-Layer Packing</th>
+                                <th>Estimated Duration</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>1 RK / 1 BHK (Few Goods)</strong></td>
+                                <td>₹3,000 - ₹4,800</td>
+                                <td>₹4,500 - ₹6,500</td>
+                                <td>3 - 4 Hours</td>
+                            </tr>
+                            <tr>
+                                <td><strong>2 BHK Complete Flat</strong></td>
+                                <td>₹5,500 - ₹8,500</td>
+                                <td>₹7,500 - ₹11,500</td>
+                                <td>5 - 7 Hours</td>
+                            </tr>
+                            <tr>
+                                <td><strong>3 BHK Family Home</strong></td>
+                                <td>₹8,000 - ₹12,500</td>
+                                <td>₹11,000 - ₹16,000</td>
+                                <td>6 - 8 Hours</td>
+                            </tr>
+                            <tr>
+                                <td><strong>4 BHK / Large Villa</strong></td>
+                                <td>₹12,000 - ₹18,000</td>
+                                <td>₹15,000 - ₹24,000</td>
+                                <td>1 - 2 Days</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p style="font-size: 13.5px; color: #777; text-align: center;">For complete intercity prices, route transit times & factors, read our comprehensive <a href="blog-packers-movers-indore-charges-guide.php"><strong>Packers & Movers Indore Charges Guide</strong></a>.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Apna Packers -->
+    <section class="container-fluid" style="padding-top: 45px; padding-bottom: 30px;">
+        <div class="text-center" style="margin-bottom: 35px;">
+            <h2 style="font-size: 26px; font-weight: 800; color: #222;">Why Choose Apna Packers and Movers Indore?</h2>
+            <p style="color: #666; font-size: 15px;">Over 10 years of proven moving excellence across Madhya Pradesh.</p>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-3">
+                <div class="feature-box-v2">
+                    <i class="fa fa-certificate"></i>
+                    <h4>IBA Compliant & GST Billed</h4>
+                    <p>Official invoices with SAC codes valid for employer and corporate shifting claims.</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="feature-box-v2">
+                    <i class="fa fa-shield"></i>
+                    <h4>5-Layer Damage-Free Packing</h4>
+                    <p>High-grade bubble wrap, corrugated sheets, and foam corners for maximum protection.</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="feature-box-v2">
+                    <i class="fa fa-truck"></i>
+                    <h4>Own Weatherproof Fleet</h4>
+                    <p>Dedicated closed container trucks equipped with GPS tracking and safety locks.</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="feature-box-v2">
+                    <i class="fa fa-clock-o"></i>
+                    <h4>24x7 Customer Support</h4>
+                    <p>Dedicated moving coordinator assigned to manage your shift from start to delivery.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hyperlocal Indore Coverage -->
+    <section style="background: #1b263b; color: #fff; padding: 40px 0;">
+        <div class="container-fluid text-center">
+            <h2 style="color: #fca311; font-size: 26px; font-weight: 800; margin-bottom: 15px;">Serving All Neighborhoods Across Indore</h2>
+            <p style="color: #e0e1dd; max-width: 800px; margin: 0 auto 25px; font-size: 15.5px;">Stationed crews ready for same-day and scheduled dispatches in:</p>
+            <div style="font-size: 15px; line-height: 2;">
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Vijay Nagar</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Palasia</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Bhawarkuan</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Rajwada</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Rau & Silicon City</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Dewas Naka</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Sudama Nagar</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Super Corridor</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Nipania</span>
+                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Bengali Square</span>
+            </div>
+            <p style="margin-top: 20px;"><a href="blog-locality-wise-packers-movers-indore.php" style="color: #fca311; text-decoration: underline; font-weight: bold;">Read 10 Locality-Wise Shifting Guide in Indore &rarr;</a></p>
+        </div>
+    </section>
+
+    <!-- Top Shifting Guides & Blogs Section -->
+    <section class="container-fluid" style="padding-top: 45px; padding-bottom: 40px;">
+        <div class="text-center" style="margin-bottom: 30px;">
+            <h2 style="font-size: 26px; font-weight: 800; color: #222;">Latest Relocation Guides & Checklists for Indore</h2>
+            <p style="color: #666; font-size: 15px;">Read expert articles on rate lists, moving checklists, vehicle carrier advice, and packing tips.</p>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 20px;">
+                <div style="border: 1px solid #eee; padding: 18px; border-radius: 4px; background: #fff;">
+                    <h4 style="font-weight: 700; margin-top: 0;"><a href="blog-packers-movers-indore-charges-guide.php" style="color:#222;">Packers and Movers Indore Charges 2026</a></h4>
+                    <p style="font-size: 13.5px; color: #666;">Complete price guide for 1BHK, 2BHK, 3BHK local moves and intercity cost calculation.</p>
+                    <a href="blog-packers-movers-indore-charges-guide.php" style="color:#e31e24; font-weight:bold; font-size:13px;">Read Guide &rarr;</a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 20px;">
+                <div style="border: 1px solid #eee; padding: 18px; border-radius: 4px; background: #fff;">
+                    <h4 style="font-weight: 700; margin-top: 0;"><a href="blog-best-packers-movers-indore-guide.php" style="color:#222;">How to Choose Best Packers & Movers in Indore</a></h4>
+                    <p style="font-size: 13.5px; color: #666;">10-point checklist to verify GST, IBA empanelment, and prevent moving fraud.</p>
+                    <a href="blog-best-packers-movers-indore-guide.php" style="color:#e31e24; font-weight:bold; font-size:13px;">Read Guide &rarr;</a>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4" style="margin-bottom: 20px;">
+                <div style="border: 1px solid #eee; padding: 18px; border-radius: 4px; background: #fff;">
+                    <h4 style="font-weight: 700; margin-top: 0;"><a href="blog-office-relocation-checklist-indore.php" style="color:#222;">Office Relocation Checklist for Indore</a></h4>
+                    <p style="font-size: 13.5px; color: #666;">Zero-downtime corporate shifting guide for IT servers and modular furniture.</p>
+                    <a href="blog-office-relocation-checklist-indore.php" style="color:#e31e24; font-weight:bold; font-size:13px;">Read Guide &rarr;</a>
+                </div>
+            </div>
+        </div>
+        <div class="text-center" style="margin-top: 15px;">
+            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php" class="btn btn-default" style="font-weight:bold; border-color:#e31e24; color:#e31e24;">View All 10 Shifting Guides &rarr;</a>
+        </div>
+    </section>
+
+    <!-- FAQ Section (AEO Structured) -->
+    <section style="background: #f8f9fa; padding: 45px 0;">
+        <div class="container-fluid">
+            <div class="text-center" style="margin-bottom: 30px;">
+                <h2 style="font-size: 26px; font-weight: 800; color: #222;">Frequently Asked Questions About Packers and Movers Indore</h2>
+                <p style="color: #666; font-size: 15px;">Answers to commonly asked questions regarding shifting charges, safety, and timings.</p>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="faq-box">
+                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How much do packers and movers charge in Indore for house shifting?</h4>
+                        <p>In 2026, local house shifting charges in Indore range from ₹3,000 to ₹5,500 for 1 BHK, ₹5,500 to ₹9,500 for 2 BHK, and ₹8,000 to ₹16,000 for 3 BHK homes. Prices include complete 5-layer packing, loading, transport, and unloading.</p>
+                    </div>
+                    <div class="faq-box">
+                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Why is Apna Packers and Movers considered the best in Indore?</h4>
+                        <p>Apna Packers and Movers is GST registered, IBA compliant, maintains a physical hub at Dewas Naka, provides 5-layer bubble packing, operates closed container trucks, and has served 2,500+ satisfied families with 100% zero-damage guarantee.</p>
+                    </div>
+                    <div class="faq-box">
+                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Which areas in Indore do you cover for local shifting?</h4>
+                        <p>We provide doorstep moving across all Indore localities including Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor, Nipania, Mahalaxmi Nagar, and AB Road.</p>
+                    </div>
+                    <div class="faq-box">
+                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Do you provide car and bike transport services from Indore?</h4>
+                        <p>Yes, we operate specialized enclosed car carrier trailers and scratch-free two-wheeler packaging for door-to-door vehicle delivery to Bhopal, Mumbai, Pune, Delhi, and all Indian cities.</p>
+                    </div>
+                    <div class="faq-box">
+                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Are there any hidden costs charged on moving day?</h4>
+                        <p>No, Apna Packers and Movers provides a 100% written binding quotation with transparent GST tax breakdown and zero hidden delivery charges.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="color-part2"></div>
+        <div class="color-part"></div>
+        <div class="container-fluid">
+            <div class="row block-content">
+                <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
+                    <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
+                    <div class="footer-icons">
+                        <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
+                        <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin fa-2x"></i></a>
+                    </div>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-lg btn-danger">GET A FREE QUOTE</a>
+                </div>
+                <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
+                    <h4>OUR SERVICES</h4>
+                    <nav>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">House Shifting</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php">Office Relocation</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car & Bike Transport</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading & Unloading</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse & Storage</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Transit Insurance</a>
+                    </nav>
+                </div>
+                <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
+                    <h4>MAIN LINKS</h4>
+                    <nav>
+                        <a href="https://www.apnapackersmovers.com/index.php">Home</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
+                        <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
+                    </nav>
+                </div>
+                <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
+                    <h4>INDORE CONTACT & GEO INFO</h4>
+                    Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
+                    <div class="contact-info">
+                        <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
+                        <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
+                        <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
+                        <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
+                    </div>
+                </div>
+            </div>
+            <div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2026 Apna Packers & Movers. All rights reserved.</div>
+        </div>
+    </footer>
+</div>
+
+<!-- Optimized Deferred Scripts (Zero Main-Thread Blocking) -->
+<script src="js/jquery-1.11.3.min.js" defer></script>
+<script src="js/bootstrap.min.js" defer></script>
+<script src="js/theme.js" defer></script>
+
+<!-- WhatsApp Floating Button -->
+<a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello%20Apna%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote." class="float" target="_blank" aria-label="WhatsApp Us">
+    <i class="fa fa-whatsapp my-float"></i>
 </a>
 
-</section>
-
-
-
-<!-- Google Tag Manager (noscript) -->
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
-
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-<!-- End Google Tag Manager (noscript) -->
-
-	<!-- Ultra-Fast Lazy-Loaded Tawk.to Live Chat (0ms Main-Thread Blocking) -->
+<!-- Lazy-Loaded Tawk.to Live Chat (Loads only on user interaction or 4s timeout) -->
 <script>
 var tawkLoaded = false;
 function loadTawkTo() {
@@ -1733,13 +762,12 @@ function loadTawkTo() {
     s1.setAttribute('crossorigin', '*');
     s0.parentNode.insertBefore(s1, s0);
 }
-// Trigger load on user interaction or after 4 seconds
 ['scroll', 'mousemove', 'touchstart', 'click', 'keydown'].forEach(function(evt) {
     window.addEventListener(evt, loadTawkTo, { once: true, passive: true });
 });
 setTimeout(loadTawkTo, 4000);
 </script>
 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </body>
-
 </html>
