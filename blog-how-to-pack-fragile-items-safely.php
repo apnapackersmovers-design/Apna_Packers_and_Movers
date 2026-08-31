@@ -17,6 +17,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-K7MLZFR');</script>
 <!-- End Google Tag Manager -->
 <meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+
 <title>How to Pack Fragile Items Safely for Moving (Crockery, Glass & TV Packing Guide) | Apna Packers Movers</title>
 <meta name="description" content="Learn expert tips on how to pack fragile items safely for house shifting. Step-by-step glassware, crockery, LED TV, and delicate artwork packing guide.">
 <meta name="keywords" content="how to pack fragile items for moving, packing tips for house shifting, packing and moving services indore, glassware packing guide, safe fragile moving, how to pack crockery">
@@ -458,7 +463,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <div class="col-sm-8 col-md-9 main-content">
                 <div class="blog-body-text">
-                    <img src="https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg" class="full-width wow zoomIn" data-wow-delay="0.2s" alt="How to Pack Fragile Items Safely for Moving (Crockery, Glass & TV Packing Guide)" style="border-radius: 4px; margin-bottom: 25px;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg" class="full-width wow zoomIn" data-wow-delay="0.2s" alt="How to Pack Fragile Items Safely for Moving (Crockery, Glass & TV Packing Guide)" style="border-radius: 4px; margin-bottom: 25px;">
                     
                     
 <h2>Master Techniques for 100% Breakage-Free Packing</h2>
@@ -696,5 +701,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+<!-- Ultra-Fast Lazy-Loaded Tawk.to Live Chat (0ms Main-Thread Blocking) -->
+<script>
+var tawkLoaded = false;
+function loadTawkTo() {
+    if (tawkLoaded) return;
+    tawkLoaded = true;
+    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/6325804554f06e12d8953b9b/1gd57q4lk';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+}
+// Trigger load on user interaction or after 4 seconds
+['scroll', 'mousemove', 'touchstart', 'click', 'keydown'].forEach(function(evt) {
+    window.addEventListener(evt, loadTawkTo, { once: true, passive: true });
+});
+setTimeout(loadTawkTo, 4000);
+</script>
+
 </body>
 </html>

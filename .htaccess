@@ -1,9 +1,10 @@
-# ----------------------------------------------------------------------
-# 1. Enable GZIP Text Compression (Boosts PageSpeed Score)
-# ----------------------------------------------------------------------
+# ======================================================================
+# 1. High Performance GZIP & Deflate Compression
+# ======================================================================
 <IfModule mod_deflate.c>
-    # Compress HTML, CSS, JavaScript, XML, and Fonts
+    # Compress HTML, CSS, JavaScript, Text, XML, JSON, and Fonts
     AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/json
     AddOutputFilterByType DEFLATE application/rss+xml
     AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
     AddOutputFilterByType DEFLATE application/x-font
@@ -17,6 +18,8 @@
     AddOutputFilterByType DEFLATE font/opentype
     AddOutputFilterByType DEFLATE font/otf
     AddOutputFilterByType DEFLATE font/ttf
+    AddOutputFilterByType DEFLATE font/woff
+    AddOutputFilterByType DEFLATE font/woff2
     AddOutputFilterByType DEFLATE image/svg+xml
     AddOutputFilterByType DEFLATE image/x-icon
     AddOutputFilterByType DEFLATE text/css
@@ -25,50 +28,66 @@
     AddOutputFilterByType DEFLATE text/plain
     AddOutputFilterByType DEFLATE text/xml
 
-    # Bug fix for older browsers
+    # Compatibility for older browsers
     BrowserMatch ^Mozilla/4 gzip-only-text/html
     BrowserMatch ^Mozilla/4\.0[678] no-gzip
-    BrowserMatch MSIE !no-gzip !gzip-only-text/html
+    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 </IfModule>
 
-# ----------------------------------------------------------------------
-# 2. Enable Browser Caching (Leverage Browser Caching Audit)
-# ----------------------------------------------------------------------
+# ======================================================================
+# 2. Leverage Long-Term Browser Caching (1 Year for Static Assets)
+# ======================================================================
 <IfModule mod_expires.c>
     ExpiresActive On
     ExpiresDefault "access plus 1 month"
 
-    # CSS and JavaScript Caching (1 Year)
+    # CSS & JavaScript (1 Year)
     ExpiresByType text/css "access plus 1 year"
     ExpiresByType text/javascript "access plus 1 year"
     ExpiresByType application/javascript "access plus 1 year"
     ExpiresByType application/x-javascript "access plus 1 year"
 
-    # Images Caching (1 Year)
-    ExpiresByType image/jpeg "access plus 1 year"
-    ExpiresByType image/gif "access plus 1 year"
-    ExpiresByType image/png "access plus 1 year"
+    # Images (1 Year)
     ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
     ExpiresByType image/svg+xml "access plus 1 year"
     ExpiresByType image/x-icon "access plus 1 year"
 
-    # Web Fonts Caching (1 Year)
-    ExpiresByType font/truetype "access plus 1 year"
-    ExpiresByType font/opentype "access plus 1 year"
-    ExpiresByType font/woff "access plus 1 year"
+    # Web Fonts (1 Year)
     ExpiresByType font/woff2 "access plus 1 year"
-    ExpiresByType application/x-font-woff "access plus 1 year"
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/ttf "access plus 1 year"
+    ExpiresByType font/otf "access plus 1 year"
+    ExpiresByType font/eot "access plus 1 year"
+    ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
 </IfModule>
 
-# Disable Server ETags (Reduces HTTP Header Size)
+# ======================================================================
+# 3. HTTP Header Optimizations & Security
+# ======================================================================
+<IfModule mod_headers.c>
+    # 1 Year Cache-Control for immutable static assets
+    <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|webp|js|css|swf|woff|woff2|ttf|svg)$">
+        Header set Cache-Control "max-age=31536000, public, immutable"
+    </FilesMatch>
+
+    # Performance & Security Headers
+    Header set Connection "keep-alive"
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>
+
+# Disable Server ETags (Reduces Header Size)
 FileETag None
 
-# ----------------------------------------------------------------------
-# 3. 301 Redirects for Obsolete Dynamic URLs (Fixes GSC Soft 404s)
-# ----------------------------------------------------------------------
+# ======================================================================
+# 4. 301 Redirects for Obsolete Dynamic URLs
+# ======================================================================
 Redirect 301 /packers-and-movers-in-indore-blog-details.php https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php
 
-# ----------------------------------------------------------------------
-# 4. Custom 404 Redirection (Prevents 404 errors from leaking SEO value)
-# ----------------------------------------------------------------------
+# ======================================================================
+# 5. Custom 404 Redirection
+# ======================================================================
 ErrorDocument 404 https://www.apnapackersmovers.com/index.php

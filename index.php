@@ -79,6 +79,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </style>
 
 <meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+
 
 <title>Best Packers and Movers in Indore | Apna Packers Movers</title>
 
@@ -519,7 +524,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	            <div class="item">
 
-            		<img src="https://www.apnapackersmovers.com/media/main-slider/1.webp" alt="packers movers in indore">
+            		<img src="https://www.apnapackersmovers.com/media/main-slider/1.webp" fetchpriority="high" decoding="async" width="1920" height="650" alt="packers movers in indore">
 
 	                <div class="container-fluid">
 
@@ -553,7 +558,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	            <div class="item">
 
-            		<img src="https://www.apnapackersmovers.com/media/main-slider/2.webp" alt="relocation service in Indore">
+            		<img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/main-slider/2.webp" alt="relocation service in Indore">
 
 	                <div class="container-fluid">
 
@@ -747,7 +752,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	                    
 
-	                    <img src="Packers-and-Movers-Indore.jpeg" alt="Packers and Movers Indore" title="Packers and Movers Indore" width="100%" />
+	                    <img loading="lazy" decoding="async" src="Packers-and-Movers-Indore.jpeg" alt="Packers and Movers Indore" title="Packers and Movers Indore" width="100%" />
 
 	                    
 
@@ -765,7 +770,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
             		<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" >
 
-                		<img style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" alt="apna packers and movers in Indore">
+                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" alt="apna packers and movers in Indore">
 
 	                    <span></span>
 
@@ -779,7 +784,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" >
 
-                		<img style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" alt="relocation service">
+                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" alt="relocation service">
 
 	                    <span></span>
 
@@ -793,7 +798,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" >
 
-                		<img style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" alt="car moving service in indore">
+                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" alt="car moving service in indore">
 
 	                    <span></span>
 
@@ -951,17 +956,17 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	                <div id="fleet-gallery" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
 
-	                    <div class="wow rotateIn" ><img style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/1.jpg" alt="packers and movers service Indore"></div>
+	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/1.jpg" alt="packers and movers service Indore"></div>
 
-	                    <div class="wow rotateIn" ><img style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/2.jpg" alt="top packer and movers in Indore"></div>
+	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/2.jpg" alt="top packer and movers in Indore"></div>
 
-	                    <div class="wow rotateIn" ><img style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/3.jpg" alt="loading unloading service"></div>
+	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/3.jpg" alt="loading unloading service"></div>
 
-	                    <div class="wow rotateIn" ><img style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/4.jpg" alt="packaging service"></div>
+	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/4.jpg" alt="packaging service"></div>
 
-	                    <div class="wow rotateIn" ><img style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/5.jpg" alt="unloading service"></div>
+	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/5.jpg" alt="unloading service"></div>
 
-	                    <div class="wow rotateIn" ><img style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/6.jpg" alt="car moving service"></div>
+	                    <div class="wow rotateIn" ><img loading="lazy" decoding="async" style="height:194px;width:265px;" src="https://www.apnapackersmovers.com/media/fleet-gallery/6.jpg" alt="car moving service"></div>
 
 	                </div>
 
@@ -1217,17 +1222,17 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	            <div id="partners" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
 
-	                <div class="wow rotateIn"><a href="#"><img style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/1.png" alt="Best packers and Movers in Indore"></a></div>
+	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/1.png" alt="Best packers and Movers in Indore"></a></div>
 
-	                <div class="wow rotateIn"><a href="#"><img style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/2.png" alt="packers and movers"></a></div>
+	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/2.png" alt="packers and movers"></a></div>
 
-	                <div class="wow rotateIn"><a href="#"><img style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/3.jpg" alt="packers and movers"></a></div>
+	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/3.jpg" alt="packers and movers"></a></div>
 
-	                <div class="wow rotateIn"><a href="#"><img style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/4.png" alt="packers and movers in indore"></a></div>
+	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/4.png" alt="packers and movers in indore"></a></div>
 
-	                <div class="wow rotateIn"><a href="#"><img style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/1.png" alt="packers and movers "></a></div>
+	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/1.png" alt="packers and movers "></a></div>
 
-	                <div class="wow rotateIn"><a href="#"><img style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/2.png" alt="packers and movers in Indore"></a></div>
+	                <div class="wow rotateIn"><a href="#"><img loading="lazy" decoding="async" style="width:200px;height:80px;" src="https://www.apnapackersmovers.com/media/partners/2.png" alt="packers and movers in Indore"></a></div>
 
 	            </div>
 
@@ -1501,23 +1506,9 @@ Indore (MP) - 452010</span>
 
 	                            <span><i class="fa fa-clock-o"></i>24x7, Mon- Sun</span>
 
-	                            <span><a href="https://www.hitwebcounter.com" target="_blank">
+	                            
 
-<img src="https://hitwebcounter.com/counter/counter.php?page=7539452&style=0030&nbdigits=5&type=page&initCount=50" title="Web Counter" Alt="counter free"   border="0" >
 
-</a> </span>
-
-<span><a href="https://www.geo-tag.de"
-
- title="This page is geo-coded">
-
- <img src="https://www.geo-tag.de/icon/geotag_3.png"
-
-  width="80" height="15" style="border-style:none;"
-
-  alt="This page is geo-coded" />
-
-</a></span>
 
 
 
@@ -1587,7 +1578,7 @@ Indore (MP) - 452010</span>
 
         <script src="js/theme.js"></script>
 
-        <script>var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5cc1e740d6e05b735b444c42/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();</script>
+        
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
@@ -1719,31 +1710,7 @@ Indore (MP) - 452010</span>
 
 </section>
 
-<!--Start of Tawk.to Script-->
 
-<script type="text/javascript">
-
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-
-(function(){
-
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-
-s1.async=true;
-
-s1.src='https://embed.tawk.to/6325804554f06e12d8953b9b/1gd57q4lk';
-
-s1.charset='UTF-8';
-
-s1.setAttribute('crossorigin','*');
-
-s0.parentNode.insertBefore(s1,s0);
-
-})();
-
-</script>
-
-<!--End of Tawk.to Script-->
 
 <!-- Google Tag Manager (noscript) -->
 
@@ -1753,6 +1720,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- End Google Tag Manager (noscript) -->
 
-	</body>
+	<!-- Ultra-Fast Lazy-Loaded Tawk.to Live Chat (0ms Main-Thread Blocking) -->
+<script>
+var tawkLoaded = false;
+function loadTawkTo() {
+    if (tawkLoaded) return;
+    tawkLoaded = true;
+    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/6325804554f06e12d8953b9b/1gd57q4lk';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+}
+// Trigger load on user interaction or after 4 seconds
+['scroll', 'mousemove', 'touchstart', 'click', 'keydown'].forEach(function(evt) {
+    window.addEventListener(evt, loadTawkTo, { once: true, passive: true });
+});
+setTimeout(loadTawkTo, 4000);
+</script>
+
+</body>
 
 </html>
