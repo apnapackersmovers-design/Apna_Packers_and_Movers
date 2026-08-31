@@ -1,128 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
   <url>
     <loc>https://www.apnapackersmovers.com/</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>1.0</priority>
+    <lastmod>2026-08-31</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/index.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>1.00</priority>
   </url>
   <url>
     <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/case-study-packers-movers-indore.php</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.apnapackersmovers.com/case-study-local-shifting-vijay-nagar-indore.php</loc>
-    <lastmod>2026-08-25</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/case-study-office-relocation-crystal-it-park-indore.php</loc>
-    <lastmod>2026-08-25</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/case-study-car-transport-indore-to-bhopal.php</loc>
-    <lastmod>2026-08-25</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.90</priority>
   </url>
   <url>
     <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.7</priority>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/case-study-packers-movers-indore.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Service Pages -->
+  <url>
     <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.9</priority>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-vijay-nagar-indore.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.8</priority>
+    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- 10 SEO Long-Form Blogs -->
+  <url>
+    <loc>https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-palasia-indore.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-in-sudama-nagar-indore.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.apnapackersmovers.com/packers-and-movers-indore-to-bhopal.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.8</priority>
+    <loc>https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.apnapackersmovers.com/blog-best-packers-movers-indore-guide.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.6</priority>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.6</priority>
+    <loc>https://www.apnapackersmovers.com/blog-indore-to-bhopal-mumbai-pune-shifting-guide.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/blog-office-relocation-checklist-indore.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.apnapackersmovers.com/blog-safe-car-bike-shifting-indore.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.6</priority>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://www.apnapackersmovers.com/blog-local-shifting-tips-indore.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.6</priority>
+    <loc>https://www.apnapackersmovers.com/blog-best-time-to-shift-house-indore.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://www.apnapackersmovers.com/blog-indore-to-bhopal-shifting-guide.php</loc>
-    <lastmod>2026-08-22</lastmod>
-    <priority>0.6</priority>
+    <loc>https://www.apnapackersmovers.com/blog-documents-required-for-house-shifting-india.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/blog-how-to-pack-fragile-items-safely.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.apnapackersmovers.com/blog-genuine-vs-fake-packers-movers-indore.php</loc>
+    <lastmod>2026-08-31</lastmod>
+    <priority>0.85</priority>
   </url>
 </urlset>
