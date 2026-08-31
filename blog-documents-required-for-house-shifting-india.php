@@ -18,13 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <meta charset="utf-8">
 <title>Essential Documents Required for House Shifting in India (Paperwork Guide 2026) | Apna Packers Movers</title>
-<meta name="DC.title" content="Packers and movers in Indore" />
-<meta name="geo.region" content="IN-MP" />
-<meta name="geo.placename" content="Indore" />
-<meta name="geo.position" content="22.720362;75.8682" />
-<meta name="ICBM" content="22.720362, 75.8682" />
 <meta name="description" content="Complete legal checklist of documents required for local and interstate house shifting in India. Learn about Consignment Notes, Lorry Receipts (LR), GST invoices, and NOC.">
-<meta name="keywords" content="documents required for house shifting india, shifting paperwork, IBA approved packers and movers indore, consignment note shifting, lorry receipt LR">
+<meta name="keywords" content="documents required for house shifting india, shifting paperwork, IBA approved packers and movers indore, consignment note shifting, lorry receipt LR, verified packers and movers indore">
+<meta name="DC.title" content="Packers and Movers in Indore" />
+<meta name="geo.region" content="IN-MP" />
+<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
+<meta name="geo.position" content="22.773068;75.907127" />
+<meta name="ICBM" content="22.773068, 75.907127" />
+<meta name="country" content="India" />
+<meta name="city" content="Indore" />
+<meta name="state" content="Madhya Pradesh" />
+<meta name="zipcode" content="452010" />
+<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
+
 <meta property="og:title" content="Essential Documents Required for House Shifting in India (Paperwork Guide 2026)" />
 <meta property="og:description" content="Complete legal checklist of documents required for local and interstate house shifting in India. Learn about Consignment Notes, Lorry Receipts (LR), GST invoices, and NOC." />
 <meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" />
@@ -38,10 +44,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
 <link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
 
+<!-- Article Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "headline": "Essential Documents Required for House Shifting in India (Paperwork Guide 2026)",
   "description": "Complete legal checklist of documents required for local and interstate house shifting in India. Learn about Consignment Notes, Lorry Receipts (LR), GST invoices, and NOC.",
   "image": "https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp",
@@ -62,31 +69,96 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </script>
 
+<!-- FAQPage Schema (AEO Optimized) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an LR (Lorry Receipt) in house shifting and why is it mandatory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Lorry Receipt (LR) or Consignment Bilty is the legal transport contract issued by the moving company detailing item count, pickup/drop addresses, truck registration, and freight charges. It is legally required at state border RTO checkposts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required to claim company shifting allowance in Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To claim corporate or government relocation reimbursement, you need: 1) Official GST Tax Invoice with your company GSTIN, 2) Original Consignor copy of Lorry Receipt (LR), 3) Itemized packing inventory list, and 4) Stamped money payment receipt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What paperwork is required for car or bike transport from Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need copies of: Vehicle Registration Certificate (RC), active Motor Vehicle Insurance, valid PUC (Pollution Under Control) Certificate, and the vehicle owner's Aadhaar/ID proof."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is an NOC (No Objection Certificate) needed for vehicle shifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An NOC from the Indore RTO is only needed if you are permanently re-registering the vehicle in a new state. For temporary transfers or vehicles with BH (Bharat) series registration, an NOC is not required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is an itemized packing inventory list important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An itemized packing list records each numbered carton, furniture condition, and appliance serial number, signed by both customer and supervisor. In case of transit damage, insurance claims cannot be processed without it."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- MovingCompany LocalBusiness Schema (GEO Optimized) -->
 <script type="application/ld+json">
 {
 	"@context": "https://schema.org",
 	"@type": "MovingCompany",
-	"name": "Apna Packers and Movers",
+	"name": "Apna Packers and Movers Indore",
 	"address": {
 		"@type": "PostalAddress",
 		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
 		"addressLocality": "Indore",
-		"addressRegion": "MP",
-		"postalCode": "452010"
+		"addressRegion": "Madhya Pradesh",
+		"postalCode": "452010",
+		"addressCountry": "IN"
 	},
 	"image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
 	"email": "info@apnapackersmovers.com",
 	"telephone": "+919806470899",
 	"url": "https://www.apnapackersmovers.com/",
-	"paymentAccepted": [ "cash", "check", "credit card", "UPI", "invoice" ],
+	"paymentAccepted": [ "Cash", "Credit Card", "Debit Card", "UPI", "Net Banking", "Cheque" ],
 	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
 	"geo": {
 		"@type": "GeoCoordinates",
 		"latitude": "22.773068",
 		"longitude": "75.907127"
-	}
+	},
+	"areaServed": [
+		"Indore",
+		"Vijay Nagar",
+		"Palasia",
+		"Bhawarkuan",
+		"Rajwada",
+		"Rau",
+		"Dewas Naka",
+		"Sudama Nagar",
+		"Super Corridor",
+		"Madhya Pradesh"
+	]
 }
 </script>
+
 
 <style>
 .float{
@@ -105,6 +177,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 .my-float{
 	margin-top:16px;
+}
+.aeo-quick-answer {
+    background: #f0f7ff;
+    border: 1px solid #b8daff;
+    border-left: 5px solid #0056b3;
+    padding: 16px 20px;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-size: 15.5px;
+    line-height: 1.6;
+    color: #0c5460;
+}
+.aeo-quick-answer strong {
+    color: #004085;
 }
 .content-table {
     width: 100%;
@@ -131,20 +217,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     border-bottom: 2px solid #e31e24;
 }
 .faq-box {
-    background: #fdfdfd;
-    border: 1px solid #e6e6e6;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
     border-left: 4px solid #e31e24;
-    padding: 15px 20px;
-    margin-bottom: 15px;
-    border-radius: 3px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 .faq-box h4 {
     margin-top: 0;
-    color: #222;
-    font-weight: 600;
+    color: #1a202c;
+    font-size: 17px;
+    font-weight: 700;
+}
+.faq-box p {
+    margin-bottom: 0;
+    color: #4a5568;
+    font-size: 15px;
+    line-height: 1.7;
 }
 .highlight-badge {
     background: #e31e24;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.geo-badge {
+    background: #2b6cb0;
     color: #fff;
     padding: 3px 8px;
     border-radius: 3px;
@@ -208,38 +310,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     color: #e0e1dd;
 }
 .blog-body-text {
-    font-size: 15px;
+    font-size: 15.5px;
     line-height: 1.8;
-    color: #333;
+    color: #2d3748;
+}
+.blog-body-text h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a202c;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #edf2f7;
+    padding-bottom: 8px;
 }
 .blog-body-text h3 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
-    color: #111;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    color: #2d3748;
+    margin-top: 28px;
+    margin-bottom: 12px;
 }
 .blog-body-text h4 {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
     color: #e31e24;
     margin-top: 20px;
     margin-bottom: 10px;
 }
 .blog-body-text ul, .blog-body-text ol {
-    padding-left: 20px;
+    padding-left: 22px;
     margin-bottom: 20px;
 }
 .blog-body-text li {
     margin-bottom: 8px;
 }
 </style>
+
 </head>
 <body data-scrolling-animations="true">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="sp-body">
     <header id="this-is-top">
         <div class="container-fluid">
@@ -314,10 +423,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h3><i class="fa fa-book"></i> Top Shifting Guides</h3>
         <ul class="sidebar-blogs-list">
             <li><a href="blog-packers-movers-indore-charges-guide.php"><i class="fa fa-angle-right"></i> Packers and Movers Indore Charges 2026 </a></li>
-        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Guide 2026)</a></li>
+        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Shifting Guide 2026)</a></li>
         <li><a href="blog-best-packers-movers-indore-guide.php"><i class="fa fa-angle-right"></i> How to Choose the Best Packers and Movers in Indore (2026 Checklist)</a></li>
         <li><a href="blog-indore-to-bhopal-mumbai-pune-shifting-guide.php"><i class="fa fa-angle-right"></i> Indore to Bhopal, Mumbai, Pune & Delhi Shifting Guide </a></li>
-        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide)</a></li>
+        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide 2026)</a></li>
         <li><a href="blog-safe-car-bike-shifting-indore.php"><i class="fa fa-angle-right"></i> Car & Bike Transport in Indore </a></li>
         <li><a href="blog-best-time-to-shift-house-indore.php"><i class="fa fa-angle-right"></i> Best Time to Shift House in Indore </a></li>
         <li><a href="blog-documents-required-for-house-shifting-india.php" style='font-weight:bold; color:#e31e24;'><i class="fa fa-angle-right"></i> Essential Documents Required for House Shifting in India (Paperwork Guide 2026)</a></li>
@@ -339,8 +448,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </div>
     <div class="sidebar-cta">
-        <h4>Need Expert Moving Help?</h4>
-        <p>Get a guaranteed quote with 0% hidden charges for house, office or vehicle shifting.</p>
+        <h4>Need Instant Shifting Quote?</h4>
+        <p>Get guaranteed written quotation with zero hidden fees in Indore.</p>
         <a href="tel:+919806470899" style="color:#fff; font-size:18px; font-weight:bold; display:block; margin: 10px 0;"><i class="fa fa-phone"></i> +91 9806470899</a>
         <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-sm" style="margin-top:5px;">Get Free Quote</a>
     </div>
@@ -351,97 +460,92 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="blog-body-text">
                     <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width wow zoomIn" data-wow-delay="0.2s" alt="Essential Documents Required for House Shifting in India (Paperwork Guide 2026)" style="border-radius: 4px; margin-bottom: 25px;">
                     
-<h3>Avoid Check-Post Delays, Disputes & Claim Rejections with Proper Moving Paperwork</h3>
-<p>Whether you are shifting locally within Indore or relocating interstate to Maharashtra, Gujarat, Delhi, or Karnataka, maintaining the right legal documentation is essential. Proper paperwork ensures smooth clearance at state border toll booths, protects against loss, and enables seamless insurance and corporate shifting reimbursements.</p>
+                    
+<h2>Legal Compliance & Moving Paperwork in India (2026 Guide)</h2>
+<p>Maintaining proper moving documentation protects your assets against theft or damage, ensures smooth clearance at state border check-posts, and enables seamless relocation reimbursement from your employer.</p>
 
-<p>Here is the exhaustive checklist of documents you should ensure your moving company provides and maintains.</p>
+<div class="aeo-quick-answer">
+    <strong>AEO Legal Paperwork Checklist:</strong> Never move interstate without: 1) Lorry Receipt (LR/Bilty), 2) Itemized Packing List, 3) GST Tax Invoice, and 4) Transit Insurance Policy.
+</div>
 
 <hr>
 
-<h3>1. Key Documents Provided by Your Moving Company</h3>
-
+<h2>1. Core Documents Provided by Your Moving Company</h2>
 <table class="content-table">
     <thead>
         <tr>
             <th>Document Name</th>
-            <th>Issuing Authority</th>
-            <th>Why It Is Essential</th>
+            <th>Issued By</th>
+            <th>Primary Legal Purpose</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><strong>Consignment Note / Lorry Receipt (LR)</strong></td>
-            <td>Packers and Movers Company</td>
-            <td>The official legal transport contract specifying item count, pickup/delivery address, freight charges, and truck registration number. Required at all highway RTO checkposts.</td>
+            <td>Moving Company</td>
+            <td>Official transport receipt required by commercial tax checkposts and highway RTO officers.</td>
         </tr>
         <tr>
-            <td><strong>Itemized Packing List (Inventory Sheet)</strong></td>
-            <td>Packers and Movers Supervisor</td>
-            <td>A numbered catalog of all boxes, furniture, and appliances with condition notes signed by both customer and supervisor before loading.</td>
+            <td><strong>Itemized Packing List (Inventory)</strong></td>
+            <td>Supervisor & Customer</td>
+            <td>Detailed numbered list of all boxes and furniture with pre-move condition remarks.</td>
         </tr>
         <tr>
             <td><strong>GST Tax Invoice</strong></td>
-            <td>Registered Moving Company</td>
-            <td>Valid GST invoice with SAC code (9965 / 9967) required for company employee shifting allowances and income tax records.</td>
+            <td>Registered Mover</td>
+            <td>Official tax bill required for employer reimbursement claims and GST input credit.</td>
         </tr>
         <tr>
-            <td><strong>Transit Insurance Policy / Certificate</strong></td>
+            <td><strong>Transit Insurance Certificate</strong></td>
             <td>Insurance Underwriter</td>
-            <td>Official insurance document detailing declared value of goods, policy number, and claim processing contact details.</td>
+            <td>Policy document guaranteeing declared-value compensation in case of transit accidents.</td>
         </tr>
         <tr>
-            <td><strong>Money Receipt / Payment Voucher</strong></td>
-            <td>Moving Company Accounts</td>
-            <td>Stamping confirmation of advance payment and balance settled upon delivery.</td>
+            <td><strong>Stamped Money Receipt</strong></td>
+            <td>Mover Accounts</td>
+            <td>Proof of advance token and final payment settlement upon delivery.</td>
         </tr>
     </tbody>
 </table>
 
 <div class="sidebar-cta">
-    <h4>100% Legally Compliant & GST Billed Shifting</h4>
-    <p>Official IBA approved receipts, Lorry Receipts (LR), and valid GST invoices provided.</p>
-    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Contact Our Helpdesk</a>
-</div>
-
-<hr>
-
-<h3>2. Documents Required for Vehicle Transportation (Car / Bike)</h3>
-<p>If you are shipping a car or two-wheeler interstate from Indore, the transport authorities and highway check-posts mandate copies of:</p>
-<ol>
-    <li><strong>Vehicle Registration Certificate (RC):</strong> Original or clear copy proving ownership.</li>
-    <li><strong>Valid Motor Insurance Policy:</strong> Active third-party or comprehensive policy.</li>
-    <li><strong>Pollution Under Control (PUC) Certificate:</strong> Valid green emission certificate.</li>
-    <li><strong>Owner's Identity Proof:</strong> Copy of Aadhaar Card, PAN Card, or Passport.</li>
-    <li><strong>NOC (No Objection Certificate):</strong> Required from the local RTO if you are permanently registering the vehicle in another state (not needed for temporary relocation under BH series).</li>
-</ol>
-<p>Read our full guide on <a href="blog-safe-car-bike-shifting-indore.php"><strong>Vehicle Transportation from Indore</strong></a>.</p>
-
-<hr>
-
-<h3>3. Documents for Corporate & Government Shifting Claims</h3>
-<p>If your employer or bank is reimbursing your relocation expenses, ensure you obtain:</p>
-<ul>
-    <li>Three competitive written quotations (if mandated by company HR policy)</li>
-    <li>Original Lorry Receipt (Consignor copy)</li>
-    <li>Itemized packing list with box serial numbers</li>
-    <li>Original GST Tax Invoice with your company's GSTIN number</li>
-    <li>Paid stamped payment receipt</li>
-</ul>
-
-<hr>
-
-<h3>Frequently Asked Questions</h3>
-<div class="faq-box">
-    <h4>Q1. What is an LR (Lorry Receipt) and why is it important?</h4>
-    <p>A Lorry Receipt (LR) or Bilty is the primary legal receipt issued by a transport operator. Without an LR copy, goods can be detained at commercial highway tax checkposts, and insurance claims cannot be filed.</p>
-</div>
-<div class="faq-box">
-    <h4>Q2. Can I claim GST input tax credit on shifting services?</h4>
-    <p>Yes, registered businesses and corporate clients can claim GST input credit by providing their company GSTIN during invoice generation.</p>
+    <h4>100% Legal & IBA Compliant Billing in Indore</h4>
+    <p>Official Lorry Receipts, valid GST invoices, and reimbursement documentation provided.</p>
+    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Contact Helpdesk</a>
 </div>
 
                     
-                    <hr style="margin-top: 40px; margin-bottom: 25px;">
+                    <hr style="margin-top: 40px; margin-bottom: 30px;">
+                    
+                    <h2>Frequently Asked Questions (AEO & Voice Search Q&A)</h2>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What is an LR (Lorry Receipt) in house shifting and why is it mandatory?</h4>
+    <p>A Lorry Receipt (LR) or Consignment Bilty is the legal transport contract issued by the moving company detailing item count, pickup/drop addresses, truck registration, and freight charges. It is legally required at state border RTO checkposts.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What documents are required to claim company shifting allowance in Indore?</h4>
+    <p>To claim corporate or government relocation reimbursement, you need: 1) Official GST Tax Invoice with your company GSTIN, 2) Original Consignor copy of Lorry Receipt (LR), 3) Itemized packing inventory list, and 4) Stamped money payment receipt.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What paperwork is required for car or bike transport from Indore?</h4>
+    <p>You need copies of: Vehicle Registration Certificate (RC), active Motor Vehicle Insurance, valid PUC (Pollution Under Control) Certificate, and the vehicle owner's Aadhaar/ID proof.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Is an NOC (No Objection Certificate) needed for vehicle shifting?</h4>
+    <p>An NOC from the Indore RTO is only needed if you are permanently re-registering the vehicle in a new state. For temporary transfers or vehicles with BH (Bharat) series registration, an NOC is not required.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Why is an itemized packing inventory list important?</h4>
+    <p>An itemized packing list records each numbered carton, furniture condition, and appliance serial number, signed by both customer and supervisor. In case of transit damage, insurance claims cannot be processed without it.</p>
+</div>
+
+                    
+                    <hr style="margin-top: 35px; margin-bottom: 25px;">
                     
                     <div class="social-share-block" style="background:#f9f9f9; padding: 15px 20px; border-radius: 4px; font-size: 15px;">
                         <strong style="margin-right: 15px; color:#222;"><i class="fa fa-share-alt"></i> Share this Article:</strong>
@@ -461,7 +565,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         		<div class="container-fluid">
             		<div class="row block-content">
                			<div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-	                        <p>Apna Packers and Movers is Indore's most trusted, verified, and IBA compliant relocation partner. With over a decade of excellence, we ensure zero damage, transparent pricing, and 24/7 dedicated customer support across Madhya Pradesh and all major cities of India.</p>
+	                        <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
 	                        <div class="footer-icons">
 	                            <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
 	                            <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
@@ -490,19 +594,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
 	                            <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
 	                        </nav>
 	                    </div>
 	                    <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-                    		<h4>CONTACT INFO</h4>
-	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka) and all major Indian cities.
+                    		<h4>INDORE CONTACT & GEO INFO</h4>
+	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
 	                        <div class="contact-info">
 	                            <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
 	                            <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
 	                            <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
-	                            <span><i class="fa fa-clock-o"></i>24x7, Mon-Sun</span>
+	                            <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
 	                        </div>
 	                    </div>
 	                </div>

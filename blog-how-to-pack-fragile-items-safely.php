@@ -18,13 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <meta charset="utf-8">
 <title>How to Pack Fragile Items Safely for Moving (Crockery, Glass & TV Packing Guide) | Apna Packers Movers</title>
-<meta name="DC.title" content="Packers and movers in Indore" />
-<meta name="geo.region" content="IN-MP" />
-<meta name="geo.placename" content="Indore" />
-<meta name="geo.position" content="22.720362;75.8682" />
-<meta name="ICBM" content="22.720362, 75.8682" />
 <meta name="description" content="Learn expert tips on how to pack fragile items safely for house shifting. Step-by-step glassware, crockery, LED TV, and delicate artwork packing guide.">
-<meta name="keywords" content="how to pack fragile items for moving, packing tips for house shifting, packing and moving services indore, glassware packing guide, safe fragile moving">
+<meta name="keywords" content="how to pack fragile items for moving, packing tips for house shifting, packing and moving services indore, glassware packing guide, safe fragile moving, how to pack crockery">
+<meta name="DC.title" content="Packers and Movers in Indore" />
+<meta name="geo.region" content="IN-MP" />
+<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
+<meta name="geo.position" content="22.773068;75.907127" />
+<meta name="ICBM" content="22.773068, 75.907127" />
+<meta name="country" content="India" />
+<meta name="city" content="Indore" />
+<meta name="state" content="Madhya Pradesh" />
+<meta name="zipcode" content="452010" />
+<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
+
 <meta property="og:title" content="How to Pack Fragile Items Safely for Moving (Crockery, Glass & TV Packing Guide)" />
 <meta property="og:description" content="Learn expert tips on how to pack fragile items safely for house shifting. Step-by-step glassware, crockery, LED TV, and delicate artwork packing guide." />
 <meta property="og:image" content="https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg" />
@@ -38,10 +44,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
 <link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
 
+<!-- Article Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "headline": "How to Pack Fragile Items Safely for Moving (Crockery, Glass & TV Packing Guide)",
   "description": "Learn expert tips on how to pack fragile items safely for house shifting. Step-by-step glassware, crockery, LED TV, and delicate artwork packing guide.",
   "image": "https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg",
@@ -62,31 +69,96 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </script>
 
+<!-- FAQPage Schema (AEO Optimized) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should ceramic plates always be packed vertically on edge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plates stacked flat will easily shatter from road vibrations because the pressure falls on the weak center. Placing plates vertically on edge directs stress along the sturdy rim, preventing cracks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What packing materials are required for fragile glassware and crockery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need: 10mm-20mm air bubble wrap, 5-ply corrugated cartons, unprinted white newsprint paper (avoids ink smudges), foam corner protectors, and heavy-duty 3-inch BOPP sealing tape."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you pack large LED / OLED Smart TVs for house shifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cover the display with non-abrasive foam sheets, add thermocol corner guards, double-wrap in bubble wrap, and place inside a heavy-duty TV box or customized wooden crate. Always transport standing upright."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the 3-inch box cushioning rule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Place at least 3 inches of crumpled paper or bubble wrap at the bottom of the box, fill all empty internal gaps so items do not shift when shaken, and top off with 2 inches of padding before sealing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide specialized wooden crating for delicate items in Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Apna Packers designs custom wooden crates with foam cushioning for marble mandirs, glass dining table tops, antique chandeliers, and luxury crystal showpieces."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- MovingCompany LocalBusiness Schema (GEO Optimized) -->
 <script type="application/ld+json">
 {
 	"@context": "https://schema.org",
 	"@type": "MovingCompany",
-	"name": "Apna Packers and Movers",
+	"name": "Apna Packers and Movers Indore",
 	"address": {
 		"@type": "PostalAddress",
 		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
 		"addressLocality": "Indore",
-		"addressRegion": "MP",
-		"postalCode": "452010"
+		"addressRegion": "Madhya Pradesh",
+		"postalCode": "452010",
+		"addressCountry": "IN"
 	},
 	"image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
 	"email": "info@apnapackersmovers.com",
 	"telephone": "+919806470899",
 	"url": "https://www.apnapackersmovers.com/",
-	"paymentAccepted": [ "cash", "check", "credit card", "UPI", "invoice" ],
+	"paymentAccepted": [ "Cash", "Credit Card", "Debit Card", "UPI", "Net Banking", "Cheque" ],
 	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
 	"geo": {
 		"@type": "GeoCoordinates",
 		"latitude": "22.773068",
 		"longitude": "75.907127"
-	}
+	},
+	"areaServed": [
+		"Indore",
+		"Vijay Nagar",
+		"Palasia",
+		"Bhawarkuan",
+		"Rajwada",
+		"Rau",
+		"Dewas Naka",
+		"Sudama Nagar",
+		"Super Corridor",
+		"Madhya Pradesh"
+	]
 }
 </script>
+
 
 <style>
 .float{
@@ -105,6 +177,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 .my-float{
 	margin-top:16px;
+}
+.aeo-quick-answer {
+    background: #f0f7ff;
+    border: 1px solid #b8daff;
+    border-left: 5px solid #0056b3;
+    padding: 16px 20px;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-size: 15.5px;
+    line-height: 1.6;
+    color: #0c5460;
+}
+.aeo-quick-answer strong {
+    color: #004085;
 }
 .content-table {
     width: 100%;
@@ -131,20 +217,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     border-bottom: 2px solid #e31e24;
 }
 .faq-box {
-    background: #fdfdfd;
-    border: 1px solid #e6e6e6;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
     border-left: 4px solid #e31e24;
-    padding: 15px 20px;
-    margin-bottom: 15px;
-    border-radius: 3px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 .faq-box h4 {
     margin-top: 0;
-    color: #222;
-    font-weight: 600;
+    color: #1a202c;
+    font-size: 17px;
+    font-weight: 700;
+}
+.faq-box p {
+    margin-bottom: 0;
+    color: #4a5568;
+    font-size: 15px;
+    line-height: 1.7;
 }
 .highlight-badge {
     background: #e31e24;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.geo-badge {
+    background: #2b6cb0;
     color: #fff;
     padding: 3px 8px;
     border-radius: 3px;
@@ -208,38 +310,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     color: #e0e1dd;
 }
 .blog-body-text {
-    font-size: 15px;
+    font-size: 15.5px;
     line-height: 1.8;
-    color: #333;
+    color: #2d3748;
+}
+.blog-body-text h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a202c;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #edf2f7;
+    padding-bottom: 8px;
 }
 .blog-body-text h3 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
-    color: #111;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    color: #2d3748;
+    margin-top: 28px;
+    margin-bottom: 12px;
 }
 .blog-body-text h4 {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
     color: #e31e24;
     margin-top: 20px;
     margin-bottom: 10px;
 }
 .blog-body-text ul, .blog-body-text ol {
-    padding-left: 20px;
+    padding-left: 22px;
     margin-bottom: 20px;
 }
 .blog-body-text li {
     margin-bottom: 8px;
 }
 </style>
+
 </head>
 <body data-scrolling-animations="true">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="sp-body">
     <header id="this-is-top">
         <div class="container-fluid">
@@ -314,10 +423,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h3><i class="fa fa-book"></i> Top Shifting Guides</h3>
         <ul class="sidebar-blogs-list">
             <li><a href="blog-packers-movers-indore-charges-guide.php"><i class="fa fa-angle-right"></i> Packers and Movers Indore Charges 2026 </a></li>
-        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Guide 2026)</a></li>
+        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Shifting Guide 2026)</a></li>
         <li><a href="blog-best-packers-movers-indore-guide.php"><i class="fa fa-angle-right"></i> How to Choose the Best Packers and Movers in Indore (2026 Checklist)</a></li>
         <li><a href="blog-indore-to-bhopal-mumbai-pune-shifting-guide.php"><i class="fa fa-angle-right"></i> Indore to Bhopal, Mumbai, Pune & Delhi Shifting Guide </a></li>
-        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide)</a></li>
+        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide 2026)</a></li>
         <li><a href="blog-safe-car-bike-shifting-indore.php"><i class="fa fa-angle-right"></i> Car & Bike Transport in Indore </a></li>
         <li><a href="blog-best-time-to-shift-house-indore.php"><i class="fa fa-angle-right"></i> Best Time to Shift House in Indore </a></li>
         <li><a href="blog-documents-required-for-house-shifting-india.php"><i class="fa fa-angle-right"></i> Essential Documents Required for House Shifting in India (Paperwork Guide 2026)</a></li>
@@ -339,8 +448,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </div>
     <div class="sidebar-cta">
-        <h4>Need Expert Moving Help?</h4>
-        <p>Get a guaranteed quote with 0% hidden charges for house, office or vehicle shifting.</p>
+        <h4>Need Instant Shifting Quote?</h4>
+        <p>Get guaranteed written quotation with zero hidden fees in Indore.</p>
         <a href="tel:+919806470899" style="color:#fff; font-size:18px; font-weight:bold; display:block; margin: 10px 0;"><i class="fa fa-phone"></i> +91 9806470899</a>
         <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-sm" style="margin-top:5px;">Get Free Quote</a>
     </div>
@@ -351,84 +460,89 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="blog-body-text">
                     <img src="https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg" class="full-width wow zoomIn" data-wow-delay="0.2s" alt="How to Pack Fragile Items Safely for Moving (Crockery, Glass & TV Packing Guide)" style="border-radius: 4px; margin-bottom: 25px;">
                     
-<h3>Zero Breakage Techniques for Crockery, Glassware, LED Screens & Delicate Heirlooms</h3>
-<p>The most anxiety-inducing part of any house shifting is ensuring that delicate glass showpieces, expensive smart TVs, ceramic dinner sets, and precious photo frames arrive at your new destination in one piece without a single crack or chip.</p>
+                    
+<h2>Master Techniques for 100% Breakage-Free Packing</h2>
+<p>The most crucial aspect of household relocation is protecting delicate glassware, ceramic crockery, smart TV displays, and delicate artwork from transit vibrations and handling shocks.</p>
 
-<p>At <strong>Apna Packers and Movers</strong>, our packaging specialists utilize industry-standard 5-layer cushioning systems. Here is our master guide on how fragile goods should be packed for 100% damage-free transit.</p>
-
-<hr>
-
-<h3>1. Essential High-Grade Packing Materials You Need</h3>
-<ul>
-    <li><strong>Air Bubble Wrap (10mm to 20mm):</strong> The primary shock absorber for crystal, chinaware, and electronics.</li>
-    <li><strong>5-Ply Heavy-Duty Corrugated Cartons:</strong> Never use thin, grocery store single-ply boxes for heavy or fragile items.</li>
-    <li><strong>Packaging Foam Sheets & Thermocol Corners:</strong> Essential for lining box interiors and cushioning sharp furniture edges.</li>
-    <li><strong>Unprinted White Newsprint Packing Paper:</strong> Regular newspaper ink leaves stubborn smudges on ceramic and porcelain; always use clean blank wrapping paper.</li>
-    <li><strong>Heavy-Duty BOPP Tape (2-3 inches wide):</strong> For secure H-tape sealing of carton tops and bottoms.</li>
-    <li><strong>Fragile Warning Labels:</strong> High-visibility red-and-white "HANDLE WITH CARE / FRAGILE / THIS SIDE UP" stickers.</li>
-</ul>
+<div class="aeo-quick-answer">
+    <strong>AEO Fragile Packing Rule:</strong> Wrap each fragile piece individually in bubble wrap, pack plates <strong>vertically on edge</strong>, fill empty carton gaps with crumpled paper, and label cartons clearly with <strong>'HANDLE WITH CARE / FRAGILE'</strong>.
+</div>
 
 <hr>
 
-<h3>2. Step-by-Step Guide for Specific Delicate Household Items</h3>
-
+<h2>1. Item-Wise Packing Methodology</h2>
 <table class="content-table">
     <thead>
         <tr>
-            <th>Item Category</th>
-            <th>Packing Method & Layering</th>
-            <th>Box Placement Rule</th>
+            <th>Delicate Item Category</th>
+            <th>Packing Materials Used</th>
+            <th>Placement Rule</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><strong>Dinner Plates & Ceramic Bowls</strong></td>
-            <td>Wrap each plate individually in packing paper, then bundle 3-4 plates together in bubble wrap.</td>
-            <td><strong>Always pack plates vertically on edge</strong> like records, never flat on top of each other!</td>
+            <td><strong>Ceramic Plates & Bowls</strong></td>
+            <td>Individual paper wrap + 3-piece bubble wrap bundles</td>
+            <td><strong>Pack vertically on edge</strong> like vinyl records; never stack flat.</td>
         </tr>
         <tr>
-            <td><strong>Wine Glasses & Stemware</strong></td>
-            <td>Stuff interior cavities with crumpled paper, wrap stem with bubble wrap, then wrap entire glass.</td>
-            <td>Pack standing upright in cell-divided cartons with heavy base cushioning.</td>
+            <td><strong>Wine Glasses & Mugs</strong></td>
+            <td>Cavities stuffed with crumpled paper + bubble sleeve</td>
+            <td>Pack standing upright in cell-partitioned cartons with bottom cushioning.</td>
         </tr>
         <tr>
-            <td><strong>Large Smart TV / OLED Monitors</strong></td>
-            <td>Cover screen with foam sheet, apply corner thermocol guards, double wrap in bubble wrap, and place inside customized wooden crate or original box.</td>
-            <td>Keep standing upright; never lay LED/OLED screens flat or stack heavy boxes on top.</td>
+            <td><strong>Smart TV / OLED Screens</strong></td>
+            <td>Foam screen protector + thermocol corners + double bubble wrap</td>
+            <td>Transport standing upright; never lay flat or place boxes on top.</td>
         </tr>
         <tr>
-            <td><strong>Mirrors & Glass Table Tops</strong></td>
-            <td>Apply masking tape 'X' across glass surface (prevents shattering), wrap in corrugated sheets and bubble wrap.</td>
-            <td>Position vertically against truck side walls, secured with tie-down cargo straps.</td>
+            <td><strong>Glass Table Tops & Mirrors</strong></td>
+            <td>Masking tape 'X' on glass + corrugated sheet + bubble wrap</td>
+            <td>Position vertically against container truck walls, secured with ratchet straps.</td>
         </tr>
     </tbody>
 </table>
 
+<p>Explore our professional <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php"><strong>Packing and Moving Services in Indore</strong></a>.</p>
+
 <div class="sidebar-cta">
-    <h4>Want 100% Professional Packing for Fragile Goods?</h4>
-    <p>Our experienced packing crew handles every delicate item with extreme care.</p>
-    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Explore Packing & Moving Services</a>
-</div>
-
-<hr>
-
-<h3>3. The "Box Cushioning" Golden Rule</h3>
-<p>Always follow the <strong>3-inch Rule</strong>: Place at least 3 inches of crumpled paper or packing peanuts at the bottom of the carton, pack wrapped items snugly so there is zero internal movement when shaken, and fill all empty top gaps before taping securely with the double-H pattern.</p>
-
-<hr>
-
-<h3>Frequently Asked Questions</h3>
-<div class="faq-box">
-    <h4>Q1. Why should ceramic plates be packed vertically rather than stacked flat?</h4>
-    <p>Plates stacked flat will easily shatter from road vibrations because the pressure falls on the weak center. Placing them vertically on edge directs stress along the sturdy rim, preventing cracks.</p>
-</div>
-<div class="faq-box">
-    <h4>Q2. Do you provide customized wooden crating for expensive paintings and marble statues?</h4>
-    <p>Yes, Apna Packers designs tailor-made wooden crates with foam cushioning for marble mandirs, antique chandeliers, delicate paintings, and luxury crystal items.</p>
+    <h4>Want 100% Professional Fragile Packing?</h4>
+    <p>Our experienced crew brings premium 5-ply cartons, bubble wrap & crating.</p>
+    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Book Expert Packers</a>
 </div>
 
                     
-                    <hr style="margin-top: 40px; margin-bottom: 25px;">
+                    <hr style="margin-top: 40px; margin-bottom: 30px;">
+                    
+                    <h2>Frequently Asked Questions (AEO & Voice Search Q&A)</h2>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Why should ceramic plates always be packed vertically on edge?</h4>
+    <p>Plates stacked flat will easily shatter from road vibrations because the pressure falls on the weak center. Placing plates vertically on edge directs stress along the sturdy rim, preventing cracks.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What packing materials are required for fragile glassware and crockery?</h4>
+    <p>You need: 10mm-20mm air bubble wrap, 5-ply corrugated cartons, unprinted white newsprint paper (avoids ink smudges), foam corner protectors, and heavy-duty 3-inch BOPP sealing tape.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How do you pack large LED / OLED Smart TVs for house shifting?</h4>
+    <p>Cover the display with non-abrasive foam sheets, add thermocol corner guards, double-wrap in bubble wrap, and place inside a heavy-duty TV box or customized wooden crate. Always transport standing upright.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What is the 3-inch box cushioning rule?</h4>
+    <p>Place at least 3 inches of crumpled paper or bubble wrap at the bottom of the box, fill all empty internal gaps so items do not shift when shaken, and top off with 2 inches of padding before sealing.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Do you provide specialized wooden crating for delicate items in Indore?</h4>
+    <p>Yes, Apna Packers designs custom wooden crates with foam cushioning for marble mandirs, glass dining table tops, antique chandeliers, and luxury crystal showpieces.</p>
+</div>
+
+                    
+                    <hr style="margin-top: 35px; margin-bottom: 25px;">
                     
                     <div class="social-share-block" style="background:#f9f9f9; padding: 15px 20px; border-radius: 4px; font-size: 15px;">
                         <strong style="margin-right: 15px; color:#222;"><i class="fa fa-share-alt"></i> Share this Article:</strong>
@@ -448,7 +562,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         		<div class="container-fluid">
             		<div class="row block-content">
                			<div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-	                        <p>Apna Packers and Movers is Indore's most trusted, verified, and IBA compliant relocation partner. With over a decade of excellence, we ensure zero damage, transparent pricing, and 24/7 dedicated customer support across Madhya Pradesh and all major cities of India.</p>
+	                        <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
 	                        <div class="footer-icons">
 	                            <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
 	                            <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
@@ -477,19 +591,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
 	                            <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
 	                        </nav>
 	                    </div>
 	                    <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-                    		<h4>CONTACT INFO</h4>
-	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka) and all major Indian cities.
+                    		<h4>INDORE CONTACT & GEO INFO</h4>
+	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
 	                        <div class="contact-info">
 	                            <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
 	                            <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
 	                            <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
-	                            <span><i class="fa fa-clock-o"></i>24x7, Mon-Sun</span>
+	                            <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
 	                        </div>
 	                    </div>
 	                </div>

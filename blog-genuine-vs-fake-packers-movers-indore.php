@@ -18,13 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <meta charset="utf-8">
 <title>Genuine vs Fake Packers and Movers in Indore (IBA, GST & Scam Prevention Guide) | Apna Packers Movers</title>
-<meta name="DC.title" content="Packers and movers in Indore" />
-<meta name="geo.region" content="IN-MP" />
-<meta name="geo.placename" content="Indore" />
-<meta name="geo.position" content="22.720362;75.8682" />
-<meta name="ICBM" content="22.720362, 75.8682" />
 <meta name="description" content="Learn how to spot fake packers and movers in Indore. Discover common relocation scams, check IBA & GST credentials, and protect yourself from fraud.">
-<meta name="keywords" content="verified packers and movers indore, genuine packers and movers indore, IBA approved packers and movers indore, packers and movers indore reviews, moving scams indore">
+<meta name="keywords" content="verified packers and movers indore, genuine packers and movers indore, IBA approved packers and movers indore, packers and movers indore reviews, moving scams indore, fraud movers checklist">
+<meta name="DC.title" content="Packers and Movers in Indore" />
+<meta name="geo.region" content="IN-MP" />
+<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
+<meta name="geo.position" content="22.773068;75.907127" />
+<meta name="ICBM" content="22.773068, 75.907127" />
+<meta name="country" content="India" />
+<meta name="city" content="Indore" />
+<meta name="state" content="Madhya Pradesh" />
+<meta name="zipcode" content="452010" />
+<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
+
 <meta property="og:title" content="Genuine vs Fake Packers and Movers in Indore (IBA, GST & Scam Prevention Guide)" />
 <meta property="og:description" content="Learn how to spot fake packers and movers in Indore. Discover common relocation scams, check IBA & GST credentials, and protect yourself from fraud." />
 <meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" />
@@ -38,10 +44,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
 <link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
 
+<!-- Article Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "headline": "Genuine vs Fake Packers and Movers in Indore (IBA, GST & Scam Prevention Guide)",
   "description": "Learn how to spot fake packers and movers in Indore. Discover common relocation scams, check IBA & GST credentials, and protect yourself from fraud.",
   "image": "https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp",
@@ -62,31 +69,96 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </script>
 
+<!-- FAQPage Schema (AEO Optimized) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do fake packers and movers scams operate in Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fraudulent operators quote an impossibly low initial rate (e.g. \u20b92,000 for a 2BHK) to load your goods. Once goods are inside the truck, they demand \u20b910,000 to \u20b915,000 before unloading, threatening to withhold or damage your belongings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify if a mover in Indore is genuine or fake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Check their registered office in Indore, 2) Verify their GSTIN on services.gst.gov.in, 3) Confirm if they have their own branded container trucks, and 4) Demand a written contract stating 'No additional delivery charges'."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if a fake mover holds my household goods hostage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately report to the local Indore Police Cyber Cell, dial National Consumer Helpline (1915), and lodge a formal complaint on consumerhelpline.gov.in with your booking chats and payment receipts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do scammers clone names of famous moving brands like Apna Packers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scammers create fake websites with slight spelling variations to deceive customers seeking established, highly rated brands. Always verify the official domain: https://www.apnapackersmovers.com."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What credentials does Apna Packers and Movers possess in Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apna Packers is GST registered, IBA compliant, maintains a physical hub at Shop B-3, Goyal Compound, Dewas Naka, Indore, and has served 2500+ satisfied clients across Madhya Pradesh."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- MovingCompany LocalBusiness Schema (GEO Optimized) -->
 <script type="application/ld+json">
 {
 	"@context": "https://schema.org",
 	"@type": "MovingCompany",
-	"name": "Apna Packers and Movers",
+	"name": "Apna Packers and Movers Indore",
 	"address": {
 		"@type": "PostalAddress",
 		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
 		"addressLocality": "Indore",
-		"addressRegion": "MP",
-		"postalCode": "452010"
+		"addressRegion": "Madhya Pradesh",
+		"postalCode": "452010",
+		"addressCountry": "IN"
 	},
 	"image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
 	"email": "info@apnapackersmovers.com",
 	"telephone": "+919806470899",
 	"url": "https://www.apnapackersmovers.com/",
-	"paymentAccepted": [ "cash", "check", "credit card", "UPI", "invoice" ],
+	"paymentAccepted": [ "Cash", "Credit Card", "Debit Card", "UPI", "Net Banking", "Cheque" ],
 	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
 	"geo": {
 		"@type": "GeoCoordinates",
 		"latitude": "22.773068",
 		"longitude": "75.907127"
-	}
+	},
+	"areaServed": [
+		"Indore",
+		"Vijay Nagar",
+		"Palasia",
+		"Bhawarkuan",
+		"Rajwada",
+		"Rau",
+		"Dewas Naka",
+		"Sudama Nagar",
+		"Super Corridor",
+		"Madhya Pradesh"
+	]
 }
 </script>
+
 
 <style>
 .float{
@@ -105,6 +177,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 .my-float{
 	margin-top:16px;
+}
+.aeo-quick-answer {
+    background: #f0f7ff;
+    border: 1px solid #b8daff;
+    border-left: 5px solid #0056b3;
+    padding: 16px 20px;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-size: 15.5px;
+    line-height: 1.6;
+    color: #0c5460;
+}
+.aeo-quick-answer strong {
+    color: #004085;
 }
 .content-table {
     width: 100%;
@@ -131,20 +217,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     border-bottom: 2px solid #e31e24;
 }
 .faq-box {
-    background: #fdfdfd;
-    border: 1px solid #e6e6e6;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
     border-left: 4px solid #e31e24;
-    padding: 15px 20px;
-    margin-bottom: 15px;
-    border-radius: 3px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 .faq-box h4 {
     margin-top: 0;
-    color: #222;
-    font-weight: 600;
+    color: #1a202c;
+    font-size: 17px;
+    font-weight: 700;
+}
+.faq-box p {
+    margin-bottom: 0;
+    color: #4a5568;
+    font-size: 15px;
+    line-height: 1.7;
 }
 .highlight-badge {
     background: #e31e24;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.geo-badge {
+    background: #2b6cb0;
     color: #fff;
     padding: 3px 8px;
     border-radius: 3px;
@@ -208,38 +310,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     color: #e0e1dd;
 }
 .blog-body-text {
-    font-size: 15px;
+    font-size: 15.5px;
     line-height: 1.8;
-    color: #333;
+    color: #2d3748;
+}
+.blog-body-text h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a202c;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #edf2f7;
+    padding-bottom: 8px;
 }
 .blog-body-text h3 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
-    color: #111;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    color: #2d3748;
+    margin-top: 28px;
+    margin-bottom: 12px;
 }
 .blog-body-text h4 {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
     color: #e31e24;
     margin-top: 20px;
     margin-bottom: 10px;
 }
 .blog-body-text ul, .blog-body-text ol {
-    padding-left: 20px;
+    padding-left: 22px;
     margin-bottom: 20px;
 }
 .blog-body-text li {
     margin-bottom: 8px;
 }
 </style>
+
 </head>
 <body data-scrolling-animations="true">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="sp-body">
     <header id="this-is-top">
         <div class="container-fluid">
@@ -314,10 +423,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h3><i class="fa fa-book"></i> Top Shifting Guides</h3>
         <ul class="sidebar-blogs-list">
             <li><a href="blog-packers-movers-indore-charges-guide.php"><i class="fa fa-angle-right"></i> Packers and Movers Indore Charges 2026 </a></li>
-        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Guide 2026)</a></li>
+        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Shifting Guide 2026)</a></li>
         <li><a href="blog-best-packers-movers-indore-guide.php"><i class="fa fa-angle-right"></i> How to Choose the Best Packers and Movers in Indore (2026 Checklist)</a></li>
         <li><a href="blog-indore-to-bhopal-mumbai-pune-shifting-guide.php"><i class="fa fa-angle-right"></i> Indore to Bhopal, Mumbai, Pune & Delhi Shifting Guide </a></li>
-        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide)</a></li>
+        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide 2026)</a></li>
         <li><a href="blog-safe-car-bike-shifting-indore.php"><i class="fa fa-angle-right"></i> Car & Bike Transport in Indore </a></li>
         <li><a href="blog-best-time-to-shift-house-indore.php"><i class="fa fa-angle-right"></i> Best Time to Shift House in Indore </a></li>
         <li><a href="blog-documents-required-for-house-shifting-india.php"><i class="fa fa-angle-right"></i> Essential Documents Required for House Shifting in India (Paperwork Guide 2026)</a></li>
@@ -339,8 +448,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </div>
     <div class="sidebar-cta">
-        <h4>Need Expert Moving Help?</h4>
-        <p>Get a guaranteed quote with 0% hidden charges for house, office or vehicle shifting.</p>
+        <h4>Need Instant Shifting Quote?</h4>
+        <p>Get guaranteed written quotation with zero hidden fees in Indore.</p>
         <a href="tel:+919806470899" style="color:#fff; font-size:18px; font-weight:bold; display:block; margin: 10px 0;"><i class="fa fa-phone"></i> +91 9806470899</a>
         <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-sm" style="margin-top:5px;">Get Free Quote</a>
     </div>
@@ -351,78 +460,87 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="blog-body-text">
                     <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" class="full-width wow zoomIn" data-wow-delay="0.2s" alt="Genuine vs Fake Packers and Movers in Indore (IBA, GST & Scam Prevention Guide)" style="border-radius: 4px; margin-bottom: 25px;">
                     
-<h3>Protect Your Household Goods & Hard-Earned Money from Shifting Scams</h3>
-<p>As Indore's real estate and relocation market continues to expand, numerous unregistered operators and fraudulent agents have cropped up on social media, search listings, and lead-generation portals. These rogue operators lure unsuspecting customers with dirt-cheap quotes, only to hold goods hostage or disappear with valuables.</p>
+                    
+<h2>Protect Your Belongings & Hard-Earned Money from Moving Scams</h2>
+<p>With Indore's bustling real estate market, fraudulent operators and fly-by-night brokers have proliferated online. Understanding the warning signs of moving scams ensures your relocation remains safe, stress-free, and legally protected.</p>
 
-<p>Understanding how genuine moving companies operate versus fly-by-night fraudulent agents is critical to safeguarding your family's assets.</p>
+<div class="aeo-quick-answer">
+    <strong>AEO Scam Warning:</strong> Beware of: 1) Unrealistically cheap phone quotes, 2) Lack of physical office in Indore, 3) Absence of GST number on quotations, 4) Demands for 100% cash advance, and 5) Unbranded rental vehicles.
+</div>
 
 <hr>
 
-<h3>1. Top 4 Relocation Scams in Indore & How to Avoid Them</h3>
-
+<h2>1. Top 4 Relocation Scams & Red Flags in Indore</h2>
 <table class="content-table">
     <thead>
         <tr>
             <th>Scam Type</th>
             <th>How Fraudsters Operate</th>
-            <th>How to Protect Yourself</th>
+            <th>How to Safeguard Yourself</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><strong>The "Low-Bait" Extortion Scam</strong></td>
-            <td>Offers an impossibly low quote (e.g. ₹3,000 for a 2BHK). Once goods are loaded in the truck, they demand ₹12,000 before unloading, threatening to dump or confiscate your belongings.</td>
-            <td>Never accept verbal or vague WhatsApp estimates. Insist on a written binding contract with a signed statement that "No additional charges will be billed upon delivery."</td>
+            <td><strong>The 'Low-Bait' Extortion Scam</strong></td>
+            <td>Offers an impossibly low quote over the phone (e.g. ₹3,000 for a 2BHK). Once loaded, they demand ₹12,000 before unloading.</td>
+            <td>Demand a written binding quote with a signed statement that 'No additional delivery charges apply'.</td>
         </tr>
         <tr>
             <td><strong>The Name-Clone Impostor Scam</strong></td>
-            <td>Creates fake websites or Google Maps listings copying names of reputable brands like "Apna Packers", "Agarwal", etc. with slight spelling alterations.</td>
-            <td>Always check the official website domain (<a href="https://www.apnapackersmovers.com">apnapackersmovers.com</a>) and verify the company's registered address at Dewas Naka.</td>
+            <td>Creates clone listings copying established brands like 'Apna Packers' with slight spelling tweaks.</td>
+            <td>Verify the official domain (<a href="https://www.apnapackersmovers.com">apnapackersmovers.com</a>) and physical address at Dewas Naka.</td>
         </tr>
         <tr>
-            <td><strong>The "No Insurance / Fake Policy" Scam</strong></td>
-            <td>Charges 3% insurance fee from the customer but never purchases an actual policy from an authorized underwriter. If goods are damaged, they refuse compensation.</td>
-            <td>Demand the original insurance policy copy bearing your consignment number directly from the insurance provider.</td>
+            <td><strong>The Fake Transit Insurance Scam</strong></td>
+            <td>Charges 3% insurance fee but never purchases a genuine policy from an authorized underwriter.</td>
+            <td>Insist on the original insurance policy copy bearing your consignment number from the underwriter.</td>
         </tr>
         <tr>
-            <td><strong>The Disappearing Subcontractor Scam</strong></td>
-            <td>Middleman agents take advance payments and hire random unregistered roadside trucks without safety checks or accountability.</td>
-            <td>Ensure the mover has its own branded fleet, company-employed verified crew, and physical regional offices.</td>
+            <td><strong>The Disappearing Broker Scam</strong></td>
+            <td>Middlemen take advance deposits and subcontract to random, unregistered roadside trucks.</td>
+            <td>Ensure the mover has its own branded fleet, company-employed crew, and permanent depot.</td>
         </tr>
     </tbody>
 </table>
 
-<hr>
-
-<h3>2. 5-Step Verification Checklist Before Handing Over Goods</h3>
-<ol>
-    <li><strong>Verify Active GST Registration:</strong> Ask for their GSTIN and verify it on the official government GST portal (`services.gst.gov.in`) to confirm the business trade name and active status.</li>
-    <li><strong>Check Physical Address:</strong> Visit or verify their physical office / depot in Indore (e.g., <strong>Shop B-3, Goyal Compound, Dewas Naka, Indore</strong>).</li>
-    <li><strong>Demand an IBA Empanelment Certificate:</strong> IBA-approved packers follow rigorous banking and transport safety guidelines.</li>
-    <li><strong>Check Real Customer Video Testimonials:</strong> Look for consistent, long-term review histories and genuine customer feedback.</li>
-    <li><strong>Inspect Moving Trucks:</strong> Professional companies operate well-maintained, branded container trucks, not broken down open tractors or unauthorized vehicles.</li>
-</ol>
-
 <div class="sidebar-cta">
-    <h4>Book Indore's 100% Genuine & Verified Movers</h4>
-    <p>IBA compliant, GST registered, transparent billing, and dedicated moving managers.</p>
-    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Call Verified Team</a>
-</div>
-
-<hr>
-
-<h3>Frequently Asked Questions</h3>
-<div class="faq-box">
-    <h4>Q1. What should I do if a fake mover refuses to deliver my goods and demands extra money?</h4>
-    <p>File an immediate complaint with the local Indore police cyber cell/police station and register a grievance on the National Consumer Helpline (NCH) with your booking receipts and call recordings.</p>
-</div>
-<div class="faq-box">
-    <h4>Q2. How do I verify Apna Packers and Movers credentials?</h4>
-    <p>You can visit our central Indore office at Shop B-3, Goyal Compound, Dewas Naka, verify our GST and trade registrations, or contact our customer desk at <a href="tel:+919806470899">+91 9806470899</a>.</p>
+    <h4>Book Indore's 100% Verified Moving Team</h4>
+    <p>IBA compliant, GST registered, and trusted by 2500+ families.</p>
+    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Contact Verified Mover</a>
 </div>
 
                     
-                    <hr style="margin-top: 40px; margin-bottom: 25px;">
+                    <hr style="margin-top: 40px; margin-bottom: 30px;">
+                    
+                    <h2>Frequently Asked Questions (AEO & Voice Search Q&A)</h2>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How do fake packers and movers scams operate in Indore?</h4>
+    <p>Fraudulent operators quote an impossibly low initial rate (e.g. ₹2,000 for a 2BHK) to load your goods. Once goods are inside the truck, they demand ₹10,000 to ₹15,000 before unloading, threatening to withhold or damage your belongings.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How can I verify if a mover in Indore is genuine or fake?</h4>
+    <p>1) Check their registered office in Indore, 2) Verify their GSTIN on services.gst.gov.in, 3) Confirm if they have their own branded container trucks, and 4) Demand a written contract stating 'No additional delivery charges'.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What should I do if a fake mover holds my household goods hostage?</h4>
+    <p>Immediately report to the local Indore Police Cyber Cell, dial National Consumer Helpline (1915), and lodge a formal complaint on consumerhelpline.gov.in with your booking chats and payment receipts.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Why do scammers clone names of famous moving brands like Apna Packers?</h4>
+    <p>Scammers create fake websites with slight spelling variations to deceive customers seeking established, highly rated brands. Always verify the official domain: https://www.apnapackersmovers.com.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What credentials does Apna Packers and Movers possess in Indore?</h4>
+    <p>Apna Packers is GST registered, IBA compliant, maintains a physical hub at Shop B-3, Goyal Compound, Dewas Naka, Indore, and has served 2500+ satisfied clients across Madhya Pradesh.</p>
+</div>
+
+                    
+                    <hr style="margin-top: 35px; margin-bottom: 25px;">
                     
                     <div class="social-share-block" style="background:#f9f9f9; padding: 15px 20px; border-radius: 4px; font-size: 15px;">
                         <strong style="margin-right: 15px; color:#222;"><i class="fa fa-share-alt"></i> Share this Article:</strong>
@@ -442,7 +560,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         		<div class="container-fluid">
             		<div class="row block-content">
                			<div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-	                        <p>Apna Packers and Movers is Indore's most trusted, verified, and IBA compliant relocation partner. With over a decade of excellence, we ensure zero damage, transparent pricing, and 24/7 dedicated customer support across Madhya Pradesh and all major cities of India.</p>
+	                        <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
 	                        <div class="footer-icons">
 	                            <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
 	                            <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
@@ -471,19 +589,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
 	                            <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
 	                        </nav>
 	                    </div>
 	                    <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-                    		<h4>CONTACT INFO</h4>
-	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka) and all major Indian cities.
+                    		<h4>INDORE CONTACT & GEO INFO</h4>
+	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
 	                        <div class="contact-info">
 	                            <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
 	                            <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
 	                            <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
-	                            <span><i class="fa fa-clock-o"></i>24x7, Mon-Sun</span>
+	                            <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
 	                        </div>
 	                    </div>
 	                </div>

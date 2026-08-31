@@ -18,13 +18,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <meta charset="utf-8">
 <title>Car & Bike Transport in Indore — Charges, Carriers & Safe Transit Process (2026) | Apna Packers Movers</title>
-<meta name="DC.title" content="Packers and movers in Indore" />
-<meta name="geo.region" content="IN-MP" />
-<meta name="geo.placename" content="Indore" />
-<meta name="geo.position" content="22.720362;75.8682" />
-<meta name="ICBM" content="22.720362, 75.8682" />
 <meta name="description" content="Complete guide to car transport and bike shifting services in Indore. Check vehicle carrier charges, door-to-door transit process, and essential safety tips.">
-<meta name="keywords" content="car transport indore, bike transport indore, vehicle transportation indore, car transport charges india, car shifting services indore">
+<meta name="keywords" content="car transport indore, bike transport indore, vehicle transportation indore, car transport charges india, car shifting services indore, bike courier indore">
+<meta name="DC.title" content="Packers and Movers in Indore" />
+<meta name="geo.region" content="IN-MP" />
+<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
+<meta name="geo.position" content="22.773068;75.907127" />
+<meta name="ICBM" content="22.773068, 75.907127" />
+<meta name="country" content="India" />
+<meta name="city" content="Indore" />
+<meta name="state" content="Madhya Pradesh" />
+<meta name="zipcode" content="452010" />
+<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
+
 <meta property="og:title" content="Car & Bike Transport in Indore — Charges, Carriers & Safe Transit Process (2026)" />
 <meta property="og:description" content="Complete guide to car transport and bike shifting services in Indore. Check vehicle carrier charges, door-to-door transit process, and essential safety tips." />
 <meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" />
@@ -38,10 +44,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
 <link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
 
+<!-- Article Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "headline": "Car & Bike Transport in Indore — Charges, Carriers & Safe Transit Process (2026)",
   "description": "Complete guide to car transport and bike shifting services in Indore. Check vehicle carrier charges, door-to-door transit process, and essential safety tips.",
   "image": "https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp",
@@ -62,31 +69,96 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </script>
 
+<!-- FAQPage Schema (AEO Optimized) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the charges for car transport from Indore to other cities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Car transport charges from Indore in enclosed trailers are: Indore to Bhopal (\u20b95,500 - \u20b97,500), Indore to Mumbai (\u20b99,000 - \u20b912,500), Indore to Pune (\u20b99,500 - \u20b913,000), Indore to Delhi (\u20b910,500 - \u20b914,500), and Indore to Bangalore (\u20b914,000 - \u20b919,000)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is a bike or motorcycle packed for safe transport in Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two-wheelers are packed using 3-layer protection: bubble wrap on mirrors and headlamps, corrugated sheets on the fuel tank and side panels, and waterproof stretch wrap. Wheels are secured with wheel chocks inside the truck."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required to transport a vehicle from Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mandatory documents: 1) Vehicle Registration Certificate (RC), 2) Valid Motor Insurance Policy copy, 3) PUC Certificate, and 4) Owner's Government ID proof (Aadhaar / Driving License)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I choose an enclosed car carrier over an open car trailer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Enclosed car carriers offer 100% protection against road stones, weather conditions, dust, and scratches, making them the safest choice for personal and luxury cars during long highway transit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I prepare my car before handing it over to the transporter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clean the car, record existing scratches on video with the driver, keep the fuel tank at 1/4th level, remove toll FASTags and valuables, and provide a spare key."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- MovingCompany LocalBusiness Schema (GEO Optimized) -->
 <script type="application/ld+json">
 {
 	"@context": "https://schema.org",
 	"@type": "MovingCompany",
-	"name": "Apna Packers and Movers",
+	"name": "Apna Packers and Movers Indore",
 	"address": {
 		"@type": "PostalAddress",
 		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
 		"addressLocality": "Indore",
-		"addressRegion": "MP",
-		"postalCode": "452010"
+		"addressRegion": "Madhya Pradesh",
+		"postalCode": "452010",
+		"addressCountry": "IN"
 	},
 	"image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
 	"email": "info@apnapackersmovers.com",
 	"telephone": "+919806470899",
 	"url": "https://www.apnapackersmovers.com/",
-	"paymentAccepted": [ "cash", "check", "credit card", "UPI", "invoice" ],
+	"paymentAccepted": [ "Cash", "Credit Card", "Debit Card", "UPI", "Net Banking", "Cheque" ],
 	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
 	"geo": {
 		"@type": "GeoCoordinates",
 		"latitude": "22.773068",
 		"longitude": "75.907127"
-	}
+	},
+	"areaServed": [
+		"Indore",
+		"Vijay Nagar",
+		"Palasia",
+		"Bhawarkuan",
+		"Rajwada",
+		"Rau",
+		"Dewas Naka",
+		"Sudama Nagar",
+		"Super Corridor",
+		"Madhya Pradesh"
+	]
 }
 </script>
+
 
 <style>
 .float{
@@ -105,6 +177,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 .my-float{
 	margin-top:16px;
+}
+.aeo-quick-answer {
+    background: #f0f7ff;
+    border: 1px solid #b8daff;
+    border-left: 5px solid #0056b3;
+    padding: 16px 20px;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-size: 15.5px;
+    line-height: 1.6;
+    color: #0c5460;
+}
+.aeo-quick-answer strong {
+    color: #004085;
 }
 .content-table {
     width: 100%;
@@ -131,20 +217,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     border-bottom: 2px solid #e31e24;
 }
 .faq-box {
-    background: #fdfdfd;
-    border: 1px solid #e6e6e6;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
     border-left: 4px solid #e31e24;
-    padding: 15px 20px;
-    margin-bottom: 15px;
-    border-radius: 3px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 .faq-box h4 {
     margin-top: 0;
-    color: #222;
-    font-weight: 600;
+    color: #1a202c;
+    font-size: 17px;
+    font-weight: 700;
+}
+.faq-box p {
+    margin-bottom: 0;
+    color: #4a5568;
+    font-size: 15px;
+    line-height: 1.7;
 }
 .highlight-badge {
     background: #e31e24;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.geo-badge {
+    background: #2b6cb0;
     color: #fff;
     padding: 3px 8px;
     border-radius: 3px;
@@ -208,38 +310,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     color: #e0e1dd;
 }
 .blog-body-text {
-    font-size: 15px;
+    font-size: 15.5px;
     line-height: 1.8;
-    color: #333;
+    color: #2d3748;
+}
+.blog-body-text h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a202c;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #edf2f7;
+    padding-bottom: 8px;
 }
 .blog-body-text h3 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
-    color: #111;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    color: #2d3748;
+    margin-top: 28px;
+    margin-bottom: 12px;
 }
 .blog-body-text h4 {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
     color: #e31e24;
     margin-top: 20px;
     margin-bottom: 10px;
 }
 .blog-body-text ul, .blog-body-text ol {
-    padding-left: 20px;
+    padding-left: 22px;
     margin-bottom: 20px;
 }
 .blog-body-text li {
     margin-bottom: 8px;
 }
 </style>
+
 </head>
 <body data-scrolling-animations="true">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="sp-body">
     <header id="this-is-top">
         <div class="container-fluid">
@@ -314,10 +423,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h3><i class="fa fa-book"></i> Top Shifting Guides</h3>
         <ul class="sidebar-blogs-list">
             <li><a href="blog-packers-movers-indore-charges-guide.php"><i class="fa fa-angle-right"></i> Packers and Movers Indore Charges 2026 </a></li>
-        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Guide 2026)</a></li>
+        <li><a href="blog-locality-wise-packers-movers-indore.php"><i class="fa fa-angle-right"></i> 10 Locality-Wise Packers and Movers Services in Indore (Area Shifting Guide 2026)</a></li>
         <li><a href="blog-best-packers-movers-indore-guide.php"><i class="fa fa-angle-right"></i> How to Choose the Best Packers and Movers in Indore (2026 Checklist)</a></li>
         <li><a href="blog-indore-to-bhopal-mumbai-pune-shifting-guide.php"><i class="fa fa-angle-right"></i> Indore to Bhopal, Mumbai, Pune & Delhi Shifting Guide </a></li>
-        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide)</a></li>
+        <li><a href="blog-office-relocation-checklist-indore.php"><i class="fa fa-angle-right"></i> Office Relocation Checklist for Indore Businesses (Zero Downtime Guide 2026)</a></li>
         <li><a href="blog-safe-car-bike-shifting-indore.php" style='font-weight:bold; color:#e31e24;'><i class="fa fa-angle-right"></i> Car & Bike Transport in Indore </a></li>
         <li><a href="blog-best-time-to-shift-house-indore.php"><i class="fa fa-angle-right"></i> Best Time to Shift House in Indore </a></li>
         <li><a href="blog-documents-required-for-house-shifting-india.php"><i class="fa fa-angle-right"></i> Essential Documents Required for House Shifting in India (Paperwork Guide 2026)</a></li>
@@ -339,8 +448,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </div>
     <div class="sidebar-cta">
-        <h4>Need Expert Moving Help?</h4>
-        <p>Get a guaranteed quote with 0% hidden charges for house, office or vehicle shifting.</p>
+        <h4>Need Instant Shifting Quote?</h4>
+        <p>Get guaranteed written quotation with zero hidden fees in Indore.</p>
         <a href="tel:+919806470899" style="color:#fff; font-size:18px; font-weight:bold; display:block; margin: 10px 0;"><i class="fa fa-phone"></i> +91 9806470899</a>
         <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-sm" style="margin-top:5px;">Get Free Quote</a>
     </div>
@@ -351,23 +460,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="blog-body-text">
                     <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" class="full-width wow zoomIn" data-wow-delay="0.2s" alt="Car & Bike Transport in Indore — Charges, Carriers & Safe Transit Process (2026)" style="border-radius: 4px; margin-bottom: 25px;">
                     
-<h3>How to Transport Your Car or Two-Wheeler Safely from Indore</h3>
-<p>Driving your car or riding your motorcycle across hundreds of kilometers of highway is exhausting, adds unnecessary vehicle wear and tear, and carries significant accident risks. Professional vehicle carrier services provide a secure, cost-effective, and hassle-free solution to transport your automobiles to any city across India.</p>
+                    
+<h2>Specialized Vehicle Carrier & Automobile Logistics in Indore</h2>
+<p>Transporting personal vehicles across state highways requires dedicated equipment. Driving your car or bike over long distances causes severe fatigue, high fuel costs, and risks highway damage. Professional vehicle carriers provide safe, insurance-covered door-to-door delivery.</p>
 
-<p><strong>Apna Packers and Movers</strong> operates customized single-car and multi-car enclosed carriers, alongside dedicated two-wheeler transit packing solutions from our Dewas Naka depot.</p>
+<div class="aeo-quick-answer">
+    <strong>AEO Vehicle Transport Summary:</strong> Two-wheelers receive 3-layer bubble and corrugated packaging, while four-wheelers are transported in hydraulic enclosed multi-car carriers with wheel locks and transit insurance.
+</div>
 
 <hr>
 
-<h3>1. Vehicle Transportation Rate List from Indore (2026 Rates)</h3>
-
+<h2>1. Automobile Transportation Rate Card from Indore (2026 Rates)</h2>
 <table class="content-table">
     <thead>
         <tr>
             <th>Route / Destination</th>
-            <th>Bike / Scooter (Up to 150cc)</th>
-            <th>Premium Bike (Bullet / Sports)</th>
-            <th>Hatchback Car (Swift / i10)</th>
-            <th>Sedan / SUV (Creta / City)</th>
+            <th>Standard Bike (100-150cc)</th>
+            <th>Cruiser / Sports (Bullet/KTM)</th>
+            <th>Hatchback (Swift/i10)</th>
+            <th>SUV / Sedan (Creta/City)</th>
         </tr>
     </thead>
     <tbody>
@@ -409,59 +520,57 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </tbody>
 </table>
 
-<p>For more service details, visit our <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php"><strong>Car & Bike Transport Service Page</strong></a>.</p>
+<p>Book vehicle moving on our <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php"><strong>Car & Bike Moving Service Page</strong></a>.</p>
 
 <hr>
 
-<h3>2. Open vs Enclosed Car Carriers: Which is Best for You?</h3>
-<ul>
-    <li><strong>Enclosed Car Carriers (Recommended):</strong> Completely sealed, multi-tier car trailers that protect your vehicle from rain, highway gravel, sun exposure, and dust. Ideal for luxury cars, new vehicles, and long interstate routes.</li>
-    <li><strong>Open Car Trailers:</strong> Cost-effective vehicle carrier trucks suitable for standard budget vehicle relocations across short-to-medium distances.</li>
-</ul>
-
-<hr>
-
-<h3>3. Step-by-Step Vehicle Preparation Checklist Before Handover</h3>
+<h2>2. 5-Step Vehicle Handover Checklist</h2>
 <ol>
-    <li><strong>Wash and Inspect the Vehicle:</strong> Clean your vehicle thoroughly and document existing scratches or dents with photos and videos in the presence of the moving executive.</li>
-    <li><strong>Keep Fuel at 1/4th Tank:</strong> Do not leave a full tank of petrol/diesel to prevent excessive weight and fire hazards during transit. Leave just enough for loading and unloading.</li>
-    <li><strong>Remove Personal Belongings:</strong> Clear all personal valuables, toll tags, sunglasses, loose audio equipment, and cash from the car.</li>
-    <li><strong>Check Tire Pressure & Fluid Leaks:</strong> Ensure tires are properly inflated and there are no fluid leaks.</li>
-    <li><strong>Hand Over Spare Keys:</strong> Always keep your primary car key with you and provide the spare key to the transport driver.</li>
+    <li><strong>Vehicle Wash & Inspection:</strong> Clean the vehicle to make any pre-existing scratches visible, and photograph all angles with the driver.</li>
+    <li><strong>Fuel at 1/4th Tank:</strong> Avoid full tanks to prevent excess weight and fire risks during transport.</li>
+    <li><strong>Remove Personal Belongings:</strong> Remove toll FASTags, sunglasses, loose audio equipment, and documents.</li>
+    <li><strong>Check Fluid Leaks:</strong> Ensure engine oil and brake fluids are intact.</li>
+    <li><strong>Hand Over Spare Keys:</strong> Retain your original key and provide the spare key to the driver.</li>
 </ol>
 
 <div class="sidebar-cta">
-    <h4>Need Safe Vehicle Transport from Indore?</h4>
-    <p>Doorstep car/bike pickup and guaranteed scratch-free container delivery.</p>
+    <h4>Book Safe Vehicle Carrier from Indore</h4>
+    <p>Doorstep pickup and scratch-free delivery across India.</p>
     <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Book Vehicle Carrier</a>
 </div>
 
-<hr>
+                    
+                    <hr style="margin-top: 40px; margin-bottom: 30px;">
+                    
+                    <h2>Frequently Asked Questions (AEO & Voice Search Q&A)</h2>
 
-<h3>4. Required Documents for Vehicle Transit in India</h3>
-<p>To transport a car or bike across state lines legally, keep photocopies of the following:</p>
-<ul>
-    <li>Vehicle Registration Certificate (RC)</li>
-    <li>Valid Motor Vehicle Insurance Policy</li>
-    <li>Pollution Under Control (PUC) Certificate</li>
-    <li>Owner's Government ID (Aadhaar Card / Driving License)</li>
-</ul>
-<p>Read our full guide on <a href="blog-documents-required-for-house-shifting-india.php"><strong>Moving Documents & Paperwork</strong></a>.</p>
-
-<hr>
-
-<h3>Frequently Asked Questions</h3>
 <div class="faq-box">
-    <h4>Q1. How is a bike packed for long distance transportation?</h4>
-    <p>We pack two-wheelers with a 3-layer protection shield: bubble wrap on handlebars and mirrors, corrugated sheet armor around fuel tank and body panels, and stretch film sealing to prevent scratch damage.</p>
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What are the charges for car transport from Indore to other cities?</h4>
+    <p>Car transport charges from Indore in enclosed trailers are: Indore to Bhopal (₹5,500 - ₹7,500), Indore to Mumbai (₹9,000 - ₹12,500), Indore to Pune (₹9,500 - ₹13,000), Indore to Delhi (₹10,500 - ₹14,500), and Indore to Bangalore (₹14,000 - ₹19,000).</p>
 </div>
+
 <div class="faq-box">
-    <h4>Q2. Is vehicle transit insurance included in the quote?</h4>
-    <p>We provide comprehensive third-party transit insurance cover protecting against fire, theft, overturning, or collision damage during highway transit.</p>
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How is a bike or motorcycle packed for safe transport in Indore?</h4>
+    <p>Two-wheelers are packed using 3-layer protection: bubble wrap on mirrors and headlamps, corrugated sheets on the fuel tank and side panels, and waterproof stretch wrap. Wheels are secured with wheel chocks inside the truck.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What documents are required to transport a vehicle from Indore?</h4>
+    <p>Mandatory documents: 1) Vehicle Registration Certificate (RC), 2) Valid Motor Insurance Policy copy, 3) PUC Certificate, and 4) Owner's Government ID proof (Aadhaar / Driving License).</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Why should I choose an enclosed car carrier over an open car trailer?</h4>
+    <p>Enclosed car carriers offer 100% protection against road stones, weather conditions, dust, and scratches, making them the safest choice for personal and luxury cars during long highway transit.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How should I prepare my car before handing it over to the transporter?</h4>
+    <p>Clean the car, record existing scratches on video with the driver, keep the fuel tank at 1/4th level, remove toll FASTags and valuables, and provide a spare key.</p>
 </div>
 
                     
-                    <hr style="margin-top: 40px; margin-bottom: 25px;">
+                    <hr style="margin-top: 35px; margin-bottom: 25px;">
                     
                     <div class="social-share-block" style="background:#f9f9f9; padding: 15px 20px; border-radius: 4px; font-size: 15px;">
                         <strong style="margin-right: 15px; color:#222;"><i class="fa fa-share-alt"></i> Share this Article:</strong>
@@ -481,7 +590,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         		<div class="container-fluid">
             		<div class="row block-content">
                			<div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-	                        <p>Apna Packers and Movers is Indore's most trusted, verified, and IBA compliant relocation partner. With over a decade of excellence, we ensure zero damage, transparent pricing, and 24/7 dedicated customer support across Madhya Pradesh and all major cities of India.</p>
+	                        <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
 	                        <div class="footer-icons">
 	                            <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
 	                            <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
@@ -510,19 +619,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
 	                            <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
 	                        </nav>
 	                    </div>
 	                    <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-                    		<h4>CONTACT INFO</h4>
-	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka) and all major Indian cities.
+                    		<h4>INDORE CONTACT & GEO INFO</h4>
+	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
 	                        <div class="contact-info">
 	                            <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
 	                            <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
 	                            <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
-	                            <span><i class="fa fa-clock-o"></i>24x7, Mon-Sun</span>
+	                            <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
 	                        </div>
 	                    </div>
 	                </div>

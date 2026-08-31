@@ -18,15 +18,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <meta charset="utf-8">
 <title>Office Relocation & Corporate Shifting Services in Indore | Apna Packers</title>
-<meta name="DC.title" content="Office Relocation Services in Indore" />
-<meta name="geo.region" content="IN-MP" />
-<meta name="geo.placename" content="Indore" />
-<meta name="geo.position" content="22.720362;75.8682" />
-<meta name="ICBM" content="22.720362, 75.8682" />
 <meta name="description" content="Professional office relocation and corporate shifting services in Indore. Zero downtime IT server moving, modular furniture setup in Vijay Nagar, Crystal IT Park, Super Corridor.">
 <meta name="keywords" content="office relocation indore, office shifting services indore, corporate shifting indore, commercial moving indore, IT park relocation indore">
-<meta property="og:title" content="Office Relocation & Corporate Shifting Services in Indore | Apna" />
-<meta property="og:description" content="Zero-downtime office shifting, IT server relocation, and modular furniture moving services in Indore." />
+<meta name="DC.title" content="Packers and Movers in Indore" />
+<meta name="geo.region" content="IN-MP" />
+<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
+<meta name="geo.position" content="22.773068;75.907127" />
+<meta name="ICBM" content="22.773068, 75.907127" />
+<meta name="country" content="India" />
+<meta name="city" content="Indore" />
+<meta name="state" content="Madhya Pradesh" />
+<meta name="zipcode" content="452010" />
+<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
+
+<meta property="og:title" content="Office Relocation & Corporate Shifting Services in Indore | Apna Packers" />
+<meta property="og:description" content="Professional office relocation and corporate shifting services in Indore. Zero downtime IT server moving, modular furniture setup in Vijay Nagar, Crystal IT Park, Super Corridor." />
 <meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" />
 <meta property="og:url" content="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php" />
 <meta property="og:type" content="website" />
@@ -38,24 +44,67 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
 <link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
 
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure zero business downtime during office relocation in Indore?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We conduct corporate moves from Friday evening to Sunday midnight. Server racks, networking equipment, and employee workstations are dismantled, transported, and reassembled for a ready Monday morning restart."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you handle IT server racks and sensitive computer equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we use anti-static bubble wrap, foam corner bumpers, customized wooden crates, and numbered departmental labeling managed by trained technical handlers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which commercial areas do you serve in Indore for office shifting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We serve all major business hubs including Crystal IT Park, Super Corridor SEZ, Vijay Nagar commercial complexes, AB Road corporate towers, and Pithampur industrial zones."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- MovingCompany Schema -->
 <script type="application/ld+json">
 {
 	"@context": "https://schema.org",
 	"@type": "MovingCompany",
-	"name": "Apna Packers and Movers - Office Relocation Indore",
+	"name": "Apna Packers and Movers - Office Relocation & Corporate Shifting Services in Indore",
 	"address": {
 		"@type": "PostalAddress",
 		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
 		"addressLocality": "Indore",
-		"addressRegion": "MP",
-		"postalCode": "452010"
+		"addressRegion": "Madhya Pradesh",
+		"postalCode": "452010",
+		"addressCountry": "IN"
 	},
 	"image": "https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp",
 	"email": "info@apnapackersmovers.com",
 	"telephone": "+919806470899",
-	"url": "https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php"
+	"url": "https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php",
+	"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": "22.773068",
+		"longitude": "75.907127"
+	},
+	"areaServed": [ "Indore", "Vijay Nagar", "Palasia", "Bhawarkuan", "Rajwada", "Rau", "Dewas Naka", "Madhya Pradesh" ]
 }
 </script>
+
 
 <style>
 .float{
@@ -74,6 +123,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 .my-float{
 	margin-top:16px;
+}
+.aeo-quick-answer {
+    background: #f0f7ff;
+    border: 1px solid #b8daff;
+    border-left: 5px solid #0056b3;
+    padding: 16px 20px;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-size: 15.5px;
+    line-height: 1.6;
+    color: #0c5460;
+}
+.aeo-quick-answer strong {
+    color: #004085;
 }
 .content-table {
     width: 100%;
@@ -100,18 +163,136 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     border-bottom: 2px solid #e31e24;
 }
 .faq-box {
-    background: #fdfdfd;
-    border: 1px solid #e6e6e6;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
     border-left: 4px solid #e31e24;
-    padding: 15px 20px;
-    margin-bottom: 15px;
-    border-radius: 3px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 .faq-box h4 {
     margin-top: 0;
+    color: #1a202c;
+    font-size: 17px;
+    font-weight: 700;
+}
+.faq-box p {
+    margin-bottom: 0;
+    color: #4a5568;
+    font-size: 15px;
+    line-height: 1.7;
+}
+.highlight-badge {
+    background: #e31e24;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.geo-badge {
+    background: #2b6cb0;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.sidebar-box {
+    background: #fff;
+    border: 1px solid #eaeaea;
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+}
+.sidebar-box h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e31e24;
     color: #222;
+}
+.sidebar-blogs-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.sidebar-blogs-list li {
+    padding: 8px 0;
+    border-bottom: 1px dashed #eee;
+    font-size: 13px;
+    line-height: 1.4;
+}
+.sidebar-blogs-list li:last-child {
+    border-bottom: none;
+}
+.sidebar-blogs-list li a {
+    color: #444;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.sidebar-blogs-list li a:hover {
+    color: #e31e24;
     font-weight: 600;
 }
+.sidebar-cta {
+    background: linear-gradient(135deg, #1b263b 0%, #0d1b2a 100%);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+.sidebar-cta h4 {
+    color: #fca311;
+    font-size: 19px;
+    margin-top: 0;
+}
+.sidebar-cta p {
+    font-size: 13px;
+    color: #e0e1dd;
+}
+.blog-body-text {
+    font-size: 15.5px;
+    line-height: 1.8;
+    color: #2d3748;
+}
+.blog-body-text h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a202c;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #edf2f7;
+    padding-bottom: 8px;
+}
+.blog-body-text h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2d3748;
+    margin-top: 28px;
+    margin-bottom: 12px;
+}
+.blog-body-text h4 {
+    font-size: 17px;
+    font-weight: 600;
+    color: #e31e24;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.blog-body-text ul, .blog-body-text ol {
+    padding-left: 22px;
+    margin-bottom: 20px;
+}
+.blog-body-text li {
+    margin-bottom: 8px;
+}
+</style>
+
+<style>
 .styled li a {
     display: block;
     padding: 10px 15px;
@@ -133,7 +314,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container-fluid">
             <div class="topmenu row">
                 <nav style="color:#fff;" class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
-                    <div class="h-block"><span>CALL US</span><a href="tel:+919806470899" style="font-size:14px"><i class="fa fa-phone"></i> +91 9806470899</a></div>
+                    <div class="h-block"><span>CALL US 24x7</span><a href="tel:+919806470899" style="font-size:14px"><i class="fa fa-phone"></i> +91 9806470899</a></div>
                 </nav>
                 <nav class="text-right col-sm-3 col-md-3 col-lg-3">
                     <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
@@ -188,7 +369,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container-fluid">
             <a href="#"><h1>Office Relocation & Corporate Shifting Services in Indore</h1></a>
             <div class="pull-right">
-                <a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our Services</a> &nbsp;&nbsp;|&nbsp;&nbsp; <span>Office Relocation</span>
+                <a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i> Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Our Services</a> &nbsp;&nbsp;|&nbsp;&nbsp; <span>Office Relocation & ...</span>
             </div>
         </div>
     </div>
@@ -199,54 +380,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="sidebar-container">
                     <div class="wow slideInUp" data-wow-delay="0.3s">
                         <ul class="styled">
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">House Relocation</a></li>
-                            <li class="active"><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php">Office Relocation</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car & Bike Moving</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading & Unloading</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse & Storage</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Insurance Service</a></li>
+                            <li ><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php"><i class="fa fa-home"></i> House Relocation</a></li>
+                            <li class='active'><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php"><i class="fa fa-building"></i> Office Relocation</a></li>
+                            <li ><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php"><i class="fa fa-car"></i> Car & Bike Moving</a></li>
+                            <li ><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php"><i class="fa fa-box"></i> Packing & Moving</a></li>
+                            <li ><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php"><i class="fa fa-users"></i> Loading & Unloading</a></li>
+                            <li ><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php"><i class="fa fa-warehouse"></i> Warehouse & Storage</a></li>
+                            <li ><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php"><i class="fa fa-shield"></i> Insurance Service</a></li>
                         </ul>
+                    </div>
+                    <div class="sidebar-cta" style="margin-top:20px;">
+                        <h4>Direct Moving Helpline</h4>
+                        <p>Call our central Indore desk for instant pricing.</p>
+                        <a href="tel:+919806470899" style="color:#fff; font-size:18px; font-weight:bold; display:block;"><i class="fa fa-phone"></i> +91 9806470899</a>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-9 main-content" style="font-size:15px; line-height:1.8;">
-                <h2 class="text-center italic">Zero-Downtime Corporate Shifting & Commercial Office Relocation</h2>
-                <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Office Shifting Indore" style="border-radius:4px; margin-bottom:25px;">
+            <div class="col-sm-9 main-content" style="font-size:15.5px; line-height:1.8;">
+                <div class="aeo-quick-answer">
+                    <strong>Quick Answer (AEO Summary):</strong> Apna Packers and Movers specializes in <strong>zero-downtime office relocation in Indore</strong>. We execute corporate moves over the weekend (Friday evening to Sunday night) with anti-static IT server packing, modular workstation dismantling, and confidential file security across Crystal IT Park and Vijay Nagar.
+                </div>
+
+                <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width wow zoomIn" data-wow-delay="0.2s" alt="Office Relocation & Corporate Shifting Services in Indore" style="border-radius:4px; margin-bottom:25px;">
                 
-                <h3>Professional Office Shifting Solutions in Indore</h3>
-                <p>Relocating corporate infrastructure demands meticulous logistics planning, dedicated project supervisors, specialized IT server handling, and swift weekend turnaround. <strong>Apna Packers and Movers</strong> has been the trusted corporate shifting partner for 500+ startups, IT enterprises, and commercial establishments across Vijay Nagar, Crystal IT Park, Super Corridor, and AB Road.</p>
-                
+                <h2>Why Choose Apna Packers for Office Relocation & Corporate Shifting Services in Indore?</h2>
+                <p>With more than a decade of experience serving families and corporate clients across Indore, we guarantee stress-free relocation with complete accountability. From careful initial wrapping to final placement at your destination, our experienced logistics team handles every item with utmost safety.</p>
+
                 <div class="row" style="margin-top:25px;">
                     <div class="col-sm-6">
-                        <h4><i class="fa fa-server" style="color:#e31e24;"></i> IT & Server Infrastructure Moving</h4>
-                        <p>Our trained engineers utilize anti-static bubble wrap, customized crates, and padded enclosures to transport data servers, networking racks, and high-end desktop workstations without loss of data.</p>
+                        <h4><i class="fa fa-check-circle" style="color:#e31e24;"></i> Guaranteed Zero-Damage Packing</h4>
+                        <p>5-layer packaging using corrugated sheets, bubble wrap, thermocol, and waterproof film.</p>
                     </div>
                     <div class="col-sm-6">
-                        <h4><i class="fa fa-cubes" style="color:#e31e24;"></i> Modular Furniture Disassembly & Setup</h4>
-                        <p>Our carpenters and technicians systematically dismantle office cubicles, executive desks, conference tables, and partitions, reassembling them precisely according to your new floor layout.</p>
+                        <h4><i class="fa fa-clock-o" style="color:#e31e24;"></i> Prompt Doorstep Delivery</h4>
+                        <p>Strict schedules honored across Vijay Nagar, Palasia, Rau, Dewas Naka, and intercity routes.</p>
                     </div>
                 </div>
 
                 <div class="row" style="margin-top:15px;">
                     <div class="col-sm-6">
-                        <h4><i class="fa fa-clock-o" style="color:#e31e24;"></i> Weekend & Overnight Shifting</h4>
-                        <p>We execute relocations from Friday evening to Sunday night so your team experiences zero operational downtime and begins regular work on Monday morning.</p>
+                        <h4><i class="fa fa-file-text-o" style="color:#e31e24;"></i> 100% Written Binding Quotes</h4>
+                        <p>Zero hidden charges and official GST tax bills compliant with corporate relocation claims.</p>
                     </div>
                     <div class="col-sm-6">
-                        <h4><i class="fa fa-lock" style="color:#e31e24;"></i> Confidential Document Security</h4>
-                        <p>Numbered security lock-boxes and tamper-evident sealed bins protect company accounting ledgers, legal files, and sensitive client archives during transit.</p>
+                        <h4><i class="fa fa-shield" style="color:#e31e24;"></i> Full Transit Insurance</h4>
+                        <p>Complete declared-value coverage against highway transit risks.</p>
                     </div>
                 </div>
 
-                <hr>
+                <hr style="margin-top:35px; margin-bottom:30px;">
 
-                <h3>Check Our Detailed Corporate Moving Guide</h3>
-                <p>For complete preparation guidelines, read our expert <a href="blog-office-relocation-checklist-indore.php"><strong>Office Relocation Checklist for Indore Businesses</strong></a>. You can also view our <a href="https://www.apnapackersmovers.com/case-study-office-relocation-crystal-it-park-indore.php">Crystal IT Park Office Relocation Case Study</a>.</p>
+                <h2>Frequently Asked Questions (AEO Q&A)</h2>
 
-                <p class="text-center" style="margin-top:30px;">
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Request Corporate Moving Proposal</a>
-                </p>
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How do you ensure zero business downtime during office relocation in Indore?</h4>
+    <p>We conduct corporate moves from Friday evening to Sunday midnight. Server racks, networking equipment, and employee workstations are dismantled, transported, and reassembled for a ready Monday morning restart.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Do you handle IT server racks and sensitive computer equipment?</h4>
+    <p>Yes, we use anti-static bubble wrap, foam corner bumpers, customized wooden crates, and numbered departmental labeling managed by trained technical handlers.</p>
+</div>
+
+<div class="faq-box">
+    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Which commercial areas do you serve in Indore for office shifting?</h4>
+    <p>We serve all major business hubs including Crystal IT Park, Super Corridor SEZ, Vijay Nagar commercial complexes, AB Road corporate towers, and Pithampur industrial zones.</p>
+</div>
+
+
+                <div class="text-center" style="margin-top:35px;">
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Get Free Quote for this Service</a>
+                </div>
             </div>
         </div>
     </div>
@@ -257,7 +461,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         		<div class="container-fluid">
             		<div class="row block-content">
                			<div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-	                        <p>Apna Packers and Movers is Indore's most trusted, verified, and IBA compliant relocation partner. With over a decade of excellence, we ensure zero damage, transparent pricing, and 24/7 dedicated customer support across Madhya Pradesh and all major cities of India.</p>
+	                        <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
 	                        <div class="footer-icons">
 	                            <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
 	                            <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
@@ -286,19 +490,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
 	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a>
-	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
+	                            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
 	                            <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
 	                        </nav>
 	                    </div>
 	                    <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-                    		<h4>CONTACT INFO</h4>
-	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka) and all major Indian cities.
+                    		<h4>INDORE CONTACT & GEO INFO</h4>
+	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
 	                        <div class="contact-info">
 	                            <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
 	                            <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
 	                            <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
-	                            <span><i class="fa fa-clock-o"></i>24x7, Mon-Sun</span>
+	                            <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
 	                        </div>
 	                    </div>
 	                </div>
