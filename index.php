@@ -1,773 +1,774 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-4SHNXRHNLX');
-</script>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-K7MLZFR');</script>
-<!-- End Google Tag Manager -->
-<meta charset="utf-8">
-<title>Packers and Movers in Indore | Apna Packers and Movers (Best Rates 2026)</title>
-<meta name="description" content="Apna Packers and Movers is Indore's #1 verified moving company. 100% safe household shifting, office relocation & car transport in Vijay Nagar, Palasia, Rau. Call 9806470899.">
-<meta name="keywords" content="packers and movers in indore, best packers and movers indore, movers and packers indore, house shifting services indore, office relocation indore, car transport indore, packers and movers indore charges, cheap packers and movers indore">
-<meta name="DC.title" content="Packers and Movers in Indore" />
-<meta name="geo.region" content="IN-MP" />
-<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
-<meta name="geo.position" content="22.773068;75.907127" />
-<meta name="ICBM" content="22.773068, 75.907127" />
-<meta name="country" content="India" />
-<meta name="city" content="Indore" />
-<meta name="state" content="Madhya Pradesh" />
-<meta name="zipcode" content="452010" />
-<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
-
-<meta property="og:title" content="Packers and Movers in Indore | Apna Packers and Movers" />
-<meta property="og:description" content="Indore's top-rated, IBA compliant moving company for household shifting, corporate relocation, and vehicle transport." />
-<meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" />
-<meta property="og:url" content="https://www.apnapackersmovers.com/" />
-<meta property="og:type" content="website" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
-<meta name="robots" content="index,follow,all" />
-<meta name="author" content="Apna Packers and Movers" />
-<link rel="canonical" href="https://www.apnapackersmovers.com/"/>
-<link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
-
-<!-- Preload critical assets for 100/100 PageSpeed -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
-<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
-<link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-<!-- Structured Data Schemas (LocalBusiness, MovingCompany, WebSite, FAQPage) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "WebSite",
-  "name": "Apna Packers and Movers",
-  "url": "https://www.apnapackersmovers.com/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://www.apnapackersmovers.com/?s={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-	"@context": "https://schema.org",
-	"@type": "MovingCompany",
-	"name": "Apna Packers and Movers Indore",
-	"image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
-	"email": "info@apnapackersmovers.com",
-	"telephone": "+919806470899",
-	"url": "https://www.apnapackersmovers.com/",
-	"address": {
-		"@type": "PostalAddress",
-		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
-		"addressLocality": "Indore",
-		"addressRegion": "Madhya Pradesh",
-		"postalCode": "452010",
-		"addressCountry": "IN"
-	},
-	"geo": {
-		"@type": "GeoCoordinates",
-		"latitude": "22.773068",
-		"longitude": "75.907127"
-	},
-	"priceRange": "₹₹",
-	"paymentAccepted": [ "Cash", "Credit Card", "Debit Card", "UPI", "Net Banking", "Cheque" ],
-	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 00:00-23:59",
-	"areaServed": [
-		"Indore",
-		"Vijay Nagar",
-		"Palasia",
-		"Bhawarkuan",
-		"Rajwada",
-		"Rau",
-		"Dewas Naka",
-		"Sudama Nagar",
-		"Super Corridor",
-		"Madhya Pradesh"
-	]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much do packers and movers charge in Indore for house shifting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In 2026, local house shifting charges in Indore range from ₹3,000 to ₹5,500 for a 1 BHK, ₹5,500 to ₹9,500 for a 2 BHK, and ₹8,000 to ₹16,000 for a 3 BHK home. Prices include complete 5-layer packing, loading, transport, and unloading."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why is Apna Packers and Movers considered the best in Indore?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Apna Packers and Movers is GST registered, IBA compliant, maintains a physical hub at Dewas Naka, provides 5-layer bubble packing, operates closed container trucks, and has served 2,500+ satisfied families with 100% zero-damage guarantee."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which areas in Indore do you cover for local shifting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We provide doorstep moving across all Indore localities including Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor, Nipania, Mahalaxmi Nagar, and AB Road."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you provide car and bike transport services from Indore?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we operate specialized enclosed car carrier trailers and scratch-free two-wheeler packaging for door-to-door vehicle delivery to Bhopal, Mumbai, Pune, Delhi, and all Indian cities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there any hidden costs charged on moving day?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, Apna Packers and Movers provides a 100% written binding quotation with transparent GST tax breakdown and zero hidden delivery charges."
-      }
-    }
-  ]
-}
-</script>
-
-<style>
-.float{
-	position:fixed;
-	width:60px;
-	height:60px;
-	bottom:20px;
-	left:20px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-	font-size:30px;
-	box-shadow: 2px 2px 3px #999;
-	z-index:100;
-}
-.my-float{
-	margin-top:16px;
-}
-.hero-banner-section {
-    position: relative;
-    background: #111;
-    color: #fff;
-    min-height: 480px;
-    display: flex;
-    align-items: center;
-    overflow: hidden;
-}
-.hero-banner-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    opacity: 0.45;
-}
-.hero-content-box {
-    position: relative;
-    z-index: 2;
-    padding: 60px 15px;
-}
-.hero-content-box h1 {
-    font-size: 38px;
-    font-weight: 800;
-    color: #fff;
-    line-height: 1.25;
-    margin-bottom: 15px;
-}
-.hero-content-box p {
-    font-size: 18px;
-    color: #e0e6ed;
-    margin-bottom: 25px;
-    line-height: 1.6;
-}
-.hero-badge {
-    display: inline-block;
-    background: #e31e24;
-    color: #fff;
-    padding: 6px 14px;
-    border-radius: 30px;
-    font-size: 14px;
-    font-weight: bold;
-    margin-bottom: 15px;
-}
-.hero-cta-btn {
-    display: inline-block;
-    background: #e31e24;
-    color: #fff;
-    padding: 14px 28px;
-    font-size: 17px;
-    font-weight: bold;
-    border-radius: 4px;
-    text-decoration: none;
-    margin-right: 12px;
-    margin-bottom: 10px;
-    transition: all 0.3s;
-}
-.hero-cta-btn:hover {
-    background: #c1121f;
-    color: #fff;
-}
-.hero-call-btn {
-    display: inline-block;
-    background: #25d366;
-    color: #fff;
-    padding: 14px 28px;
-    font-size: 17px;
-    font-weight: bold;
-    border-radius: 4px;
-    text-decoration: none;
-    margin-bottom: 10px;
-}
-.aeo-quick-answer {
-    background: #f0f7ff;
-    border: 1px solid #b8daff;
-    border-left: 5px solid #0056b3;
-    padding: 18px 22px;
-    border-radius: 4px;
-    margin: 25px 0;
-    font-size: 16px;
-    line-height: 1.7;
-    color: #0c5460;
-}
-.service-card-v2 {
-    background: #fff;
-    border: 1px solid #eaeaea;
-    border-radius: 6px;
-    padding: 22px;
-    margin-bottom: 25px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.04);
-    transition: transform 0.2s, box-shadow 0.2s;
-    height: 100%;
-}
-.service-card-v2:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 18px rgba(0,0,0,0.08);
-}
-.service-card-v2 h3 {
-    font-size: 19px;
-    font-weight: 700;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    color: #222;
-}
-.service-card-v2 p {
-    font-size: 14.5px;
-    color: #555;
-    line-height: 1.6;
-    margin-bottom: 15px;
-}
-.service-card-v2 a.btn-read {
-    color: #e31e24;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 14px;
-}
-.content-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    font-size: 15px;
-    text-align: left;
-}
-.content-table thead tr {
-    background-color: #e31e24;
-    color: #ffffff;
-    font-weight: bold;
-}
-.content-table th, .content-table td {
-    padding: 12px 15px;
-    border: 1px solid #dddddd;
-}
-.content-table tbody tr:nth-of-type(even) {
-    background-color: #f9f9f9;
-}
-.faq-box {
-    background: #fff;
-    border: 1px solid #e2e8f0;
-    border-left: 4px solid #e31e24;
-    padding: 18px 22px;
-    margin-bottom: 16px;
-    border-radius: 4px;
-}
-.faq-box h4 {
-    margin-top: 0;
-    color: #1a202c;
-    font-size: 17px;
-    font-weight: 700;
-}
-.faq-box p {
-    margin-bottom: 0;
-    color: #4a5568;
-    font-size: 15px;
-    line-height: 1.7;
-}
-.feature-box-v2 {
-    text-align: center;
-    padding: 25px 15px;
-    background: #fdfdfd;
-    border: 1px solid #eee;
-    border-radius: 6px;
-    margin-bottom: 25px;
-}
-.feature-box-v2 i {
-    font-size: 36px;
-    color: #e31e24;
-    margin-bottom: 15px;
-}
-.feature-box-v2 h4 {
-    font-size: 18px;
-    font-weight: 700;
-    margin-bottom: 10px;
-}
-.feature-box-v2 p {
-    font-size: 14px;
-    color: #666;
-    line-height: 1.5;
-}
-</style>
-</head>
-<body data-scrolling-animations="true">
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<div class="sp-body">
-    <!-- Header -->
-    <header id="this-is-top">
-        <div class="container-fluid">
-            <div class="topmenu row">
-                <nav style="color:#fff;" class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
-                    <div class="h-block"><span>CALL US 24x7</span><a href="tel:+919806470899" style="font-size:14px"><i class="fa fa-phone"></i> +91 9806470899</a></div>
-                </nav>
-                <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-                    <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
-                    <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter"></i></a>
-                    <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube"></i></a>
-                    <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram"></i></a>
-                    <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin"></i></a>
-                </nav>
-            </div>
-            <div class="row header">
-                <div class="col-sm-3 col-md-3 col-lg-3">
-                    <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
-                </div>
-                <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-                    <div class="text-right header-padding">
-                        <div class="h-block"><span>CALL US</span><a href="tel:+919806470899"><i class="fa fa-phone"></i> +91 9806470899</a></div>
-                        <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-                        <div class="h-block"><span>WORKING HOURS</span>24x7, Mon-Sun</div>
-                        <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-                    </div>
-                </div>
-            </div>
-            <div id="main-menu-bg"></div>  
-            <a id="menu-open" href="#"><i class="fa fa-bars"></i></a> 
-            <nav class="main-menu navbar-main-slide">
-                <ul class="nav navbar-nav navbar-main">
-                    <li class="active"><a href="https://www.apnapackersmovers.com">HOME</a></li>
-                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a></li>
-                    <li class="dropdown">
-                        <a data-toggle="dropdown" class="dropdown-toggle border-hover-color1" href="#">Services <i class="fa fa-angle-down"></i></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">House Relocation</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php">Office Relocation</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car & Bike Moving</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading & Unloading</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse & Storage</a></li>
-                            <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Insurance Service</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a></li>
-                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a></li>
-                    <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a></li>
-                    <li><a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a></li>
-                </ul>
-            </nav>
-            <a id="menu-close" href="#"><i class="fa fa-times"></i></a>
-        </div>
-    </header>
-
-    <!-- Ultra-Fast High-Priority Hero Banner Section (100/100 LCP Speed) -->
-    <section class="hero-banner-section">
-        <img src="https://www.apnapackersmovers.com/media/main-slider/1.webp" alt="Packers and movers in Indore" class="hero-banner-bg" fetchpriority="high" decoding="async" width="1920" height="650">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-sm-8 col-md-7 hero-content-box">
-                    <span class="hero-badge"><i class="fa fa-shield"></i> IBA Compliant & GST Registered</span>
-                    <h1>Top-Rated Packers and Movers in Indore</h1>
-                    <p>Experience hassle-free, zero-damage household shifting, corporate office relocation, and enclosed vehicle transportation across Vijay Nagar, Palasia, Rau, Dewas Naka, and nationwide.</p>
-                    <div>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="hero-cta-btn"><i class="fa fa-calculator"></i> Get Free Written Quote</a>
-                        <a href="tel:+919806470899" class="hero-call-btn"><i class="fa fa-phone"></i> Call +91 9806470899</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- AEO Quick Answer & Main Intro -->
-    <section class="container-fluid" style="padding-top: 40px; padding-bottom: 30px;">
-        <div class="aeo-quick-answer">
-            <strong>Direct Summary (AEO Answer):</strong> <strong>Apna Packers and Movers</strong> is Indore's leading relocation partner headquartered at Dewas Naka. We provide 100% verified, damage-free shifting services with 5-layer packaging, transparent local rates starting from <strong>₹3,000 for 1 BHK</strong>, <strong>₹5,500 for 2 BHK</strong>, and <strong>₹8,000 for 3 BHK</strong> homes, and daily container dispatches to Bhopal, Mumbai, Pune, and Delhi NCR.
-        </div>
-
-        <div class="text-center" style="margin-bottom: 35px;">
-            <h2 style="font-size: 28px; font-weight: 800; color: #222;">Complete Logistics & Relocation Services in Indore</h2>
-            <p style="color: #666; max-width: 850px; margin: 0 auto; font-size: 16px;">From single-item luggage moves to full villa and corporate office shifts, explore our specialized moving solutions crafted for safety and affordability.</p>
-        </div>
-
-        <!-- 7 Services Grid -->
-        <div class="row">
-            <!-- Service 1 -->
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
-                <div class="service-card-v2">
-                    <i class="fa fa-home fa-2x" style="color:#e31e24;"></i>
-                    <h3>Household Relocation</h3>
-                    <p>Stress-free local and domestic house shifting with multi-layer bubble wrap, furniture dismantling, and doorstep setup in Indore.</p>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php" class="btn-read">Explore House Shifting <i class="fa fa-arrow-right"></i></a>
-                </div>
-            </div>
-            <!-- Service 2 -->
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
-                <div class="service-card-v2">
-                    <i class="fa fa-building fa-2x" style="color:#e31e24;"></i>
-                    <h3>Office Relocation</h3>
-                    <p>Zero-downtime weekend corporate shifting, anti-static IT server packing, and cubicle reassembly for Crystal IT Park & SEZ businesses.</p>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php" class="btn-read">Explore Office Shifting <i class="fa fa-arrow-right"></i></a>
-                </div>
-            </div>
-            <!-- Service 3 -->
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
-                <div class="service-card-v2">
-                    <i class="fa fa-car fa-2x" style="color:#e31e24;"></i>
-                    <h3>Car & Bike Transport</h3>
-                    <p>Specialized enclosed hydraulic car carriers and 3-layer scratch-free bike transit with full door-to-door insurance coverage.</p>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php" class="btn-read">Explore Vehicle Transport <i class="fa fa-arrow-right"></i></a>
-                </div>
-            </div>
-            <!-- Service 4 -->
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
-                <div class="service-card-v2">
-                    <i class="fa fa-box fa-2x" style="color:#e31e24;"></i>
-                    <h3>Packing & Moving</h3>
-                    <p>Premium 5-ply corrugated cartons, bubble wrap, foam corner protectors, and customized wooden crating for fragile glassware.</p>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php" class="btn-read">Explore Packing Services <i class="fa fa-arrow-right"></i></a>
-                </div>
-            </div>
-            <!-- Service 5 -->
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
-                <div class="service-card-v2">
-                    <i class="fa fa-users fa-2x" style="color:#e31e24;"></i>
-                    <h3>Loading & Unloading</h3>
-                    <p>Trained, background-verified full-time loading crews equipped with hydraulic dollies and safety harnesses for heavy items.</p>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php" class="btn-read">Explore Loading Services <i class="fa fa-arrow-right"></i></a>
-                </div>
-            </div>
-            <!-- Service 6 -->
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 25px;">
-                <div class="service-card-v2">
-                    <i class="fa fa-warehouse fa-2x" style="color:#e31e24;"></i>
-                    <h3>Warehouse & Storage</h3>
-                    <p>24x7 CCTV monitored, moisture-resistant, pest-controlled warehouse facility at Dewas Naka for short-term and long-term storage.</p>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php" class="btn-read">Explore Storage Services <i class="fa fa-arrow-right"></i></a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Transparent Shifting Charges in Indore (2026 Rate List) -->
-    <section style="background: #f8f9fa; padding: 45px 0;">
-        <div class="container-fluid">
-            <div class="text-center" style="margin-bottom: 30px;">
-                <h2 style="font-size: 26px; font-weight: 800; color: #222;">Packers and Movers Indore Charges 2026 (Transparent Rate List)</h2>
-                <p style="color: #666; font-size: 15px;">No hidden charges. Check our standard local shifting cost breakdown for Indore municipal zones.</p>
-            </div>
-
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <table class="content-table">
-                        <thead>
-                            <tr>
-                                <th>Home Size / Shifting Type</th>
-                                <th>Standard Packing & Transport</th>
-                                <th>Premium 5-Layer Packing</th>
-                                <th>Estimated Duration</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td><strong>1 RK / 1 BHK (Few Goods)</strong></td>
-                                <td>₹3,000 - ₹4,800</td>
-                                <td>₹4,500 - ₹6,500</td>
-                                <td>3 - 4 Hours</td>
-                            </tr>
-                            <tr>
-                                <td><strong>2 BHK Complete Flat</strong></td>
-                                <td>₹5,500 - ₹8,500</td>
-                                <td>₹7,500 - ₹11,500</td>
-                                <td>5 - 7 Hours</td>
-                            </tr>
-                            <tr>
-                                <td><strong>3 BHK Family Home</strong></td>
-                                <td>₹8,000 - ₹12,500</td>
-                                <td>₹11,000 - ₹16,000</td>
-                                <td>6 - 8 Hours</td>
-                            </tr>
-                            <tr>
-                                <td><strong>4 BHK / Large Villa</strong></td>
-                                <td>₹12,000 - ₹18,000</td>
-                                <td>₹15,000 - ₹24,000</td>
-                                <td>1 - 2 Days</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <p style="font-size: 13.5px; color: #777; text-align: center;">For complete intercity prices, route transit times & factors, read our comprehensive <a href="blog-packers-movers-indore-charges-guide.php"><strong>Packers & Movers Indore Charges Guide</strong></a>.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose Apna Packers -->
-    <section class="container-fluid" style="padding-top: 45px; padding-bottom: 30px;">
-        <div class="text-center" style="margin-bottom: 35px;">
-            <h2 style="font-size: 26px; font-weight: 800; color: #222;">Why Choose Apna Packers and Movers Indore?</h2>
-            <p style="color: #666; font-size: 15px;">Over 10 years of proven moving excellence across Madhya Pradesh.</p>
-        </div>
-
-        <div class="row">
-            <div class="col-sm-6 col-md-3">
-                <div class="feature-box-v2">
-                    <i class="fa fa-certificate"></i>
-                    <h4>IBA Compliant & GST Billed</h4>
-                    <p>Official invoices with SAC codes valid for employer and corporate shifting claims.</p>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="feature-box-v2">
-                    <i class="fa fa-shield"></i>
-                    <h4>5-Layer Damage-Free Packing</h4>
-                    <p>High-grade bubble wrap, corrugated sheets, and foam corners for maximum protection.</p>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="feature-box-v2">
-                    <i class="fa fa-truck"></i>
-                    <h4>Own Weatherproof Fleet</h4>
-                    <p>Dedicated closed container trucks equipped with GPS tracking and safety locks.</p>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="feature-box-v2">
-                    <i class="fa fa-clock-o"></i>
-                    <h4>24x7 Customer Support</h4>
-                    <p>Dedicated moving coordinator assigned to manage your shift from start to delivery.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Hyperlocal Indore Coverage -->
-    <section style="background: #1b263b; color: #fff; padding: 40px 0;">
-        <div class="container-fluid text-center">
-            <h2 style="color: #fca311; font-size: 26px; font-weight: 800; margin-bottom: 15px;">Serving All Neighborhoods Across Indore</h2>
-            <p style="color: #e0e1dd; max-width: 800px; margin: 0 auto 25px; font-size: 15.5px;">Stationed crews ready for same-day and scheduled dispatches in:</p>
-            <div style="font-size: 15px; line-height: 2;">
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Vijay Nagar</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Palasia</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Bhawarkuan</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Rajwada</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Rau & Silicon City</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Dewas Naka</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Sudama Nagar</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Super Corridor</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Nipania</span>
-                <span class="badge" style="background:#e31e24; margin: 4px; padding: 8px 14px;">Bengali Square</span>
-            </div>
-            <p style="margin-top: 20px;"><a href="blog-locality-wise-packers-movers-indore.php" style="color: #fca311; text-decoration: underline; font-weight: bold;">Read 10 Locality-Wise Shifting Guide in Indore &rarr;</a></p>
-        </div>
-    </section>
-
-    <!-- Top Shifting Guides & Blogs Section -->
-    <section class="container-fluid" style="padding-top: 45px; padding-bottom: 40px;">
-        <div class="text-center" style="margin-bottom: 30px;">
-            <h2 style="font-size: 26px; font-weight: 800; color: #222;">Latest Relocation Guides & Checklists for Indore</h2>
-            <p style="color: #666; font-size: 15px;">Read expert articles on rate lists, moving checklists, vehicle carrier advice, and packing tips.</p>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 20px;">
-                <div style="border: 1px solid #eee; padding: 18px; border-radius: 4px; background: #fff;">
-                    <h4 style="font-weight: 700; margin-top: 0;"><a href="blog-packers-movers-indore-charges-guide.php" style="color:#222;">Packers and Movers Indore Charges 2026</a></h4>
-                    <p style="font-size: 13.5px; color: #666;">Complete price guide for 1BHK, 2BHK, 3BHK local moves and intercity cost calculation.</p>
-                    <a href="blog-packers-movers-indore-charges-guide.php" style="color:#e31e24; font-weight:bold; font-size:13px;">Read Guide &rarr;</a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 20px;">
-                <div style="border: 1px solid #eee; padding: 18px; border-radius: 4px; background: #fff;">
-                    <h4 style="font-weight: 700; margin-top: 0;"><a href="blog-best-packers-movers-indore-guide.php" style="color:#222;">How to Choose Best Packers & Movers in Indore</a></h4>
-                    <p style="font-size: 13.5px; color: #666;">10-point checklist to verify GST, IBA empanelment, and prevent moving fraud.</p>
-                    <a href="blog-best-packers-movers-indore-guide.php" style="color:#e31e24; font-weight:bold; font-size:13px;">Read Guide &rarr;</a>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4" style="margin-bottom: 20px;">
-                <div style="border: 1px solid #eee; padding: 18px; border-radius: 4px; background: #fff;">
-                    <h4 style="font-weight: 700; margin-top: 0;"><a href="blog-office-relocation-checklist-indore.php" style="color:#222;">Office Relocation Checklist for Indore</a></h4>
-                    <p style="font-size: 13.5px; color: #666;">Zero-downtime corporate shifting guide for IT servers and modular furniture.</p>
-                    <a href="blog-office-relocation-checklist-indore.php" style="color:#e31e24; font-weight:bold; font-size:13px;">Read Guide &rarr;</a>
-                </div>
-            </div>
-        </div>
-        <div class="text-center" style="margin-top: 15px;">
-            <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php" class="btn btn-default" style="font-weight:bold; border-color:#e31e24; color:#e31e24;">View All 10 Shifting Guides &rarr;</a>
-        </div>
-    </section>
-
-    <!-- FAQ Section (AEO Structured) -->
-    <section style="background: #f8f9fa; padding: 45px 0;">
-        <div class="container-fluid">
-            <div class="text-center" style="margin-bottom: 30px;">
-                <h2 style="font-size: 26px; font-weight: 800; color: #222;">Frequently Asked Questions About Packers and Movers Indore</h2>
-                <p style="color: #666; font-size: 15px;">Answers to commonly asked questions regarding shifting charges, safety, and timings.</p>
-            </div>
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <div class="faq-box">
-                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How much do packers and movers charge in Indore for house shifting?</h4>
-                        <p>In 2026, local house shifting charges in Indore range from ₹3,000 to ₹5,500 for 1 BHK, ₹5,500 to ₹9,500 for 2 BHK, and ₹8,000 to ₹16,000 for 3 BHK homes. Prices include complete 5-layer packing, loading, transport, and unloading.</p>
-                    </div>
-                    <div class="faq-box">
-                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Why is Apna Packers and Movers considered the best in Indore?</h4>
-                        <p>Apna Packers and Movers is GST registered, IBA compliant, maintains a physical hub at Dewas Naka, provides 5-layer bubble packing, operates closed container trucks, and has served 2,500+ satisfied families with 100% zero-damage guarantee.</p>
-                    </div>
-                    <div class="faq-box">
-                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Which areas in Indore do you cover for local shifting?</h4>
-                        <p>We provide doorstep moving across all Indore localities including Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor, Nipania, Mahalaxmi Nagar, and AB Road.</p>
-                    </div>
-                    <div class="faq-box">
-                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Do you provide car and bike transport services from Indore?</h4>
-                        <p>Yes, we operate specialized enclosed car carrier trailers and scratch-free two-wheeler packaging for door-to-door vehicle delivery to Bhopal, Mumbai, Pune, Delhi, and all Indian cities.</p>
-                    </div>
-                    <div class="faq-box">
-                        <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Are there any hidden costs charged on moving day?</h4>
-                        <p>No, Apna Packers and Movers provides a 100% written binding quotation with transparent GST tax breakdown and zero hidden delivery charges.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <div class="color-part2"></div>
-        <div class="color-part"></div>
-        <div class="container-fluid">
-            <div class="row block-content">
-                <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-                    <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
-                    <div class="footer-icons">
-                        <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
-                        <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
-                        <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
-                        <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
-                        <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin fa-2x"></i></a>
-                    </div>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-lg btn-danger">GET A FREE QUOTE</a>
-                </div>
-                <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
-                    <h4>OUR SERVICES</h4>
-                    <nav>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">House Shifting</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php">Office Relocation</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car & Bike Transport</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading & Unloading</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse & Storage</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Transit Insurance</a>
-                    </nav>
-                </div>
-                <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
-                    <h4>MAIN LINKS</h4>
-                    <nav>
-                        <a href="https://www.apnapackersmovers.com/index.php">Home</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
-                        <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
-                    </nav>
-                </div>
-                <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
-                    <h4>INDORE CONTACT & GEO INFO</h4>
-                    Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
-                    <div class="contact-info">
-                        <span><i class="fa fa-map-marker"></i><strong></strong>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
-                        <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
-                        <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
-                        <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
-                    </div>
-                </div>
-            </div>
-            <div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2026 Apna Packers & Movers. All rights reserved.</div>
-        </div>
-    </footer>
-</div>
-
-<!-- Optimized Deferred Scripts (Zero Main-Thread Blocking) -->
-<script src="js/jquery-1.11.3.min.js" defer></script>
-<script src="js/bootstrap.min.js" defer></script>
-<script src="js/theme.js" defer></script>
-
-<!-- WhatsApp Floating Button -->
-<a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello%20Apna%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote." class="float" target="_blank" aria-label="WhatsApp Us">
-    <i class="fa fa-whatsapp my-float"></i>
-</a>
-
-<!-- Lazy-Loaded Tawk.to Live Chat (Loads only on user interaction or 4s timeout) -->
-<script>
-var tawkLoaded = false;
-function loadTawkTo() {
-    if (tawkLoaded) return;
-    tawkLoaded = true;
-    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-    s1.async = true;
-    s1.src = 'https://embed.tawk.to/6325804554f06e12d8953b9b/1gd57q4lk';
-    s1.charset = 'UTF-8';
-    s1.setAttribute('crossorigin', '*');
-    s0.parentNode.insertBefore(s1, s0);
-}
-['scroll', 'mousemove', 'touchstart', 'click', 'keydown'].forEach(function(evt) {
-    window.addEventListener(evt, loadTawkTo, { once: true, passive: true });
-});
-setTimeout(loadTawkTo, 4000);
-</script>
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-</body>
-</html>
+ – < – ! – D – O – C – T – Y – P – E –   – h – t – m – l – > – 
+ – < – h – t – m – l –   – l – a – n – g – = – " – e – n – " – > – 
+ – < – h – e – a – d – > – 
+ – < – ! – - – - –   – G – o – o – g – l – e –   – t – a – g –   – ( – g – t – a – g – . – j – s – ) –   – - – - – > – 
+ – < – s – c – r – i – p – t –   – a – s – y – n – c –   – s – r – c – = – " – h – t – t – p – s – : – / – / – w – w – w – . – g – o – o – g – l – e – t – a – g – m – a – n – a – g – e – r – . – c – o – m – / – g – t – a – g – / – j – s – ? – i – d – = – G – - – 4 – S – H – N – X – R – H – N – L – X – " – > – < – / – s – c – r – i – p – t – > – 
+ – < – s – c – r – i – p – t – > – 
+ –   –   – w – i – n – d – o – w – . – d – a – t – a – L – a – y – e – r –   – = –   – w – i – n – d – o – w – . – d – a – t – a – L – a – y – e – r –   – | – | –   – [ – ] – ; – 
+ –   –   – f – u – n – c – t – i – o – n –   – g – t – a – g – ( – ) – { – d – a – t – a – L – a – y – e – r – . – p – u – s – h – ( – a – r – g – u – m – e – n – t – s – ) – ; – } – 
+ –   –   – g – t – a – g – ( – ' – j – s – ' – , –   – n – e – w –   – D – a – t – e – ( – ) – ) – ; – 
+ –   –   – g – t – a – g – ( – ' – c – o – n – f – i – g – ' – , –   – ' – G – - – 4 – S – H – N – X – R – H – N – L – X – ' – ) – ; – 
+ – < – / – s – c – r – i – p – t – > – 
+ – < – ! – - – - –   – G – o – o – g – l – e –   – T – a – g –   – M – a – n – a – g – e – r –   – - – - – > – 
+ – < – s – c – r – i – p – t – > – ( – f – u – n – c – t – i – o – n – ( – w – , – d – , – s – , – l – , – i – ) – { – w – [ – l – ] – = – w – [ – l – ] – | – | – [ – ] – ; – w – [ – l – ] – . – p – u – s – h – ( – { – ' – g – t – m – . – s – t – a – r – t – ' – : – 
+ – n – e – w –   – D – a – t – e – ( – ) – . – g – e – t – T – i – m – e – ( – ) – , – e – v – e – n – t – : – ' – g – t – m – . – j – s – ' – } – ) – ; – v – a – r –   – f – = – d – . – g – e – t – E – l – e – m – e – n – t – s – B – y – T – a – g – N – a – m – e – ( – s – ) – [ – 0 – ] – , – 
+ – j – = – d – . – c – r – e – a – t – e – E – l – e – m – e – n – t – ( – s – ) – , – d – l – = – l – ! – = – ' – d – a – t – a – L – a – y – e – r – ' – ? – ' – & – l – = – ' – + – l – : – ' – ' – ; – j – . – a – s – y – n – c – = – t – r – u – e – ; – j – . – s – r – c – = – 
+ – ' – h – t – t – p – s – : – / – / – w – w – w – . – g – o – o – g – l – e – t – a – g – m – a – n – a – g – e – r – . – c – o – m – / – g – t – m – . – j – s – ? – i – d – = – ' – + – i – + – d – l – ; – f – . – p – a – r – e – n – t – N – o – d – e – . – i – n – s – e – r – t – B – e – f – o – r – e – ( – j – , – f – ) – ; – 
+ – } – ) – ( – w – i – n – d – o – w – , – d – o – c – u – m – e – n – t – , – ' – s – c – r – i – p – t – ' – , – ' – d – a – t – a – L – a – y – e – r – ' – , – ' – G – T – M – - – K – 7 – M – L – Z – F – R – ' – ) – ; – < – / – s – c – r – i – p – t – > – 
+ – < – ! – - – - –   – E – n – d –   – G – o – o – g – l – e –   – T – a – g –   – M – a – n – a – g – e – r –   – - – - – > – 
+ – < – m – e – t – a –   – c – h – a – r – s – e – t – = – " – u – t – f – - – 8 – " – > – 
+ – < – t – i – t – l – e – > – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – i – n –   – I – n – d – o – r – e –   – | –   – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – ( – B – e – s – t –   – R – a – t – e – s –   – 2 – 0 – 2 – 6 – ) – < – / – t – i – t – l – e – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – d – e – s – c – r – i – p – t – i – o – n – " –   – c – o – n – t – e – n – t – = – " – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – i – s –   – I – n – d – o – r – e – ' – s –   – # – 1 –   – v – e – r – i – f – i – e – d –   – m – o – v – i – n – g –   – c – o – m – p – a – n – y – . –   – 1 – 0 – 0 – % –   – s – a – f – e –   – h – o – u – s – e – h – o – l – d –   – s – h – i – f – t – i – n – g – , –   – o – f – f – i – c – e –   – r – e – l – o – c – a – t – i – o – n –   – & –   – c – a – r –   – t – r – a – n – s – p – o – r – t –   – i – n –   – V – i – j – a – y –   – N – a – g – a – r – , –   – P – a – l – a – s – i – a – , –   – R – a – u – . –   – C – a – l – l –   – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – . – " – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – k – e – y – w – o – r – d – s – " –   – c – o – n – t – e – n – t – = – " – p – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – i – n –   – i – n – d – o – r – e – , –   – b – e – s – t –   – p – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – i – n – d – o – r – e – , –   – m – o – v – e – r – s –   – a – n – d –   – p – a – c – k – e – r – s –   – i – n – d – o – r – e – , –   – h – o – u – s – e –   – s – h – i – f – t – i – n – g –   – s – e – r – v – i – c – e – s –   – i – n – d – o – r – e – , –   – o – f – f – i – c – e –   – r – e – l – o – c – a – t – i – o – n –   – i – n – d – o – r – e – , –   – c – a – r –   – t – r – a – n – s – p – o – r – t –   – i – n – d – o – r – e – , –   – p – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – i – n – d – o – r – e –   – c – h – a – r – g – e – s – , –   – c – h – e – a – p –   – p – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – i – n – d – o – r – e – " – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – D – C – . – t – i – t – l – e – " –   – c – o – n – t – e – n – t – = – " – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – i – n –   – I – n – d – o – r – e – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – g – e – o – . – r – e – g – i – o – n – " –   – c – o – n – t – e – n – t – = – " – I – N – - – M – P – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – g – e – o – . – p – l – a – c – e – n – a – m – e – " –   – c – o – n – t – e – n – t – = – " – I – n – d – o – r – e – , –   – M – a – d – h – y – a –   – P – r – a – d – e – s – h – , –   – I – n – d – i – a – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – g – e – o – . – p – o – s – i – t – i – o – n – " –   – c – o – n – t – e – n – t – = – " – 2 – 2 – . – 7 – 7 – 3 – 0 – 6 – 8 – ; – 7 – 5 – . – 9 – 0 – 7 – 1 – 2 – 7 – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – I – C – B – M – " –   – c – o – n – t – e – n – t – = – " – 2 – 2 – . – 7 – 7 – 3 – 0 – 6 – 8 – , –   – 7 – 5 – . – 9 – 0 – 7 – 1 – 2 – 7 – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – c – o – u – n – t – r – y – " –   – c – o – n – t – e – n – t – = – " – I – n – d – i – a – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – c – i – t – y – " –   – c – o – n – t – e – n – t – = – " – I – n – d – o – r – e – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – s – t – a – t – e – " –   – c – o – n – t – e – n – t – = – " – M – a – d – h – y – a –   – P – r – a – d – e – s – h – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – z – i – p – c – o – d – e – " –   – c – o – n – t – e – n – t – = – " – 4 – 5 – 2 – 0 – 1 – 0 – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – a – d – d – r – e – s – s – " –   – c – o – n – t – e – n – t – = – " – S – h – o – p –   – B – - – 3 – , –   – G – o – y – a – l –   – C – o – m – p – o – u – n – d – , –   – T – . – T – . –   – N – a – g – a – r – , –   – D – e – w – a – s –   – N – a – k – a – , –   – b – e – h – i – n – d –   – M – e – t – r – o –   – M – a – l – l – , –   – I – n – d – o – r – e – , –   – M – P –   – 4 – 5 – 2 – 0 – 1 – 0 – " –   – / – > – 
+ – 
+ – < – m – e – t – a –   – p – r – o – p – e – r – t – y – = – " – o – g – : – t – i – t – l – e – " –   – c – o – n – t – e – n – t – = – " – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – i – n –   – I – n – d – o – r – e –   – | –   – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s – " –   – / – > – 
+ – < – m – e – t – a –   – p – r – o – p – e – r – t – y – = – " – o – g – : – d – e – s – c – r – i – p – t – i – o – n – " –   – c – o – n – t – e – n – t – = – " – I – n – d – o – r – e – ' – s –   – t – o – p – - – r – a – t – e – d – , –   – I – B – A –   – c – o – m – p – l – i – a – n – t –   – m – o – v – i – n – g –   – c – o – m – p – a – n – y –   – f – o – r –   – h – o – u – s – e – h – o – l – d –   – s – h – i – f – t – i – n – g – , –   – c – o – r – p – o – r – a – t – e –   – r – e – l – o – c – a – t – i – o – n – , –   – a – n – d –   – v – e – h – i – c – l – e –   – t – r – a – n – s – p – o – r – t – . – " –   – / – > – 
+ – < – m – e – t – a –   – p – r – o – p – e – r – t – y – = – " – o – g – : – i – m – a – g – e – " –   – c – o – n – t – e – n – t – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – i – m – a – g – e – s – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – I – n – d – o – r – . – w – e – b – p – " –   – / – > – 
+ – < – m – e – t – a –   – p – r – o – p – e – r – t – y – = – " – o – g – : – u – r – l – " –   – c – o – n – t – e – n – t – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – " –   – / – > – 
+ – < – m – e – t – a –   – p – r – o – p – e – r – t – y – = – " – o – g – : – t – y – p – e – " –   – c – o – n – t – e – n – t – = – " – w – e – b – s – i – t – e – " –   – / – > – 
+ – < – m – e – t – a –   – h – t – t – p – - – e – q – u – i – v – = – " – X – - – U – A – - – C – o – m – p – a – t – i – b – l – e – " –   – c – o – n – t – e – n – t – = – " – I – E – = – e – d – g – e – " – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – v – i – e – w – p – o – r – t – " –   – c – o – n – t – e – n – t – = – " – w – i – d – t – h – = – d – e – v – i – c – e – - – w – i – d – t – h – , –   – i – n – i – t – i – a – l – - – s – c – a – l – e – = – 1 – , –   – u – s – e – r – - – s – c – a – l – a – b – l – e – = – 0 – " – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – r – o – b – o – t – s – " –   – c – o – n – t – e – n – t – = – " – i – n – d – e – x – , – f – o – l – l – o – w – , – a – l – l – " –   – / – > – 
+ – < – m – e – t – a –   – n – a – m – e – = – " – a – u – t – h – o – r – " –   – c – o – n – t – e – n – t – = – " – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s – " –   – / – > – 
+ – < – l – i – n – k –   – r – e – l – = – " – c – a – n – o – n – i – c – a – l – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – " – / – > – 
+ – < – l – i – n – k –   – r – e – l – = – " – i – c – o – n – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – i – m – g – / – l – a – t – e – s – t – _ – l – o – g – o – . – j – p – g – " – > – 
+ – 
+ – < – ! – - – - –   – P – r – e – l – o – a – d –   – c – r – i – t – i – c – a – l –   – a – s – s – e – t – s –   – f – o – r –   – 1 – 0 – 0 – / – 1 – 0 – 0 –   – P – a – g – e – S – p – e – e – d –   – - – - – > – 
+ – < – l – i – n – k –   – r – e – l – = – " – p – r – e – c – o – n – n – e – c – t – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – f – o – n – t – s – . – g – o – o – g – l – e – a – p – i – s – . – c – o – m – " – > – 
+ – < – l – i – n – k –   – r – e – l – = – " – p – r – e – c – o – n – n – e – c – t – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – f – o – n – t – s – . – g – s – t – a – t – i – c – . – c – o – m – " –   – c – r – o – s – s – o – r – i – g – i – n – > – 
+ – < – l – i – n – k –   – r – e – l – = – " – p – r – e – l – o – a – d – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – c – s – s – / – m – a – s – t – e – r – . – c – s – s – " –   – a – s – = – " – s – t – y – l – e – " – > – 
+ – < – l – i – n – k –   – r – e – l – = – " – p – r – e – l – o – a – d – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – m – e – d – i – a – / – m – a – i – n – - – s – l – i – d – e – r – / – 1 – . – w – e – b – p – " –   – a – s – = – " – i – m – a – g – e – " –   – f – e – t – c – h – p – r – i – o – r – i – t – y – = – " – h – i – g – h – " – > – 
+ – < – l – i – n – k –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – c – s – s – / – m – a – s – t – e – r – . – c – s – s – " –   – r – e – l – = – " – s – t – y – l – e – s – h – e – e – t – " – > – 
+ – < – l – i – n – k –   – r – e – l – = – " – s – t – y – l – e – s – h – e – e – t – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – m – a – x – c – d – n – . – b – o – o – t – s – t – r – a – p – c – d – n – . – c – o – m – / – f – o – n – t – - – a – w – e – s – o – m – e – / – 4 – . – 5 – . – 0 – / – c – s – s – / – f – o – n – t – - – a – w – e – s – o – m – e – . – m – i – n – . – c – s – s – " – > – 
+ – 
+ – < – ! – - – - –   – S – t – r – u – c – t – u – r – e – d –   – D – a – t – a –   – S – c – h – e – m – a – s –   – ( – L – o – c – a – l – B – u – s – i – n – e – s – s – , –   – M – o – v – i – n – g – C – o – m – p – a – n – y – , –   – W – e – b – S – i – t – e – , –   – F – A – Q – P – a – g – e – ) –   – - – - – > – 
+ – < – s – c – r – i – p – t –   – t – y – p – e – = – " – a – p – p – l – i – c – a – t – i – o – n – / – l – d – + – j – s – o – n – " – > – 
+ – { – 
+ –   –   – " – @ – c – o – n – t – e – x – t – " – : –   – " – h – t – t – p – s – : – / – / – s – c – h – e – m – a – . – o – r – g – / – " – , – 
+ –   –   – " – @ – t – y – p – e – " – : –   – " – W – e – b – S – i – t – e – " – , – 
+ –   –   – " – n – a – m – e – " – : –   – " – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s – " – , – 
+ –   –   – " – u – r – l – " – : –   – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – " – , – 
+ –   –   – " – p – o – t – e – n – t – i – a – l – A – c – t – i – o – n – " – : –   – { – 
+ –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – S – e – a – r – c – h – A – c – t – i – o – n – " – , – 
+ –   –   –   –   – " – t – a – r – g – e – t – " – : –   – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – ? – s – = – { – s – e – a – r – c – h – _ – t – e – r – m – _ – s – t – r – i – n – g – } – " – , – 
+ –   –   –   –   – " – q – u – e – r – y – - – i – n – p – u – t – " – : –   – " – r – e – q – u – i – r – e – d –   – n – a – m – e – = – s – e – a – r – c – h – _ – t – e – r – m – _ – s – t – r – i – n – g – " – 
+ –   –   – } – 
+ – } – 
+ – < – / – s – c – r – i – p – t – > – 
+ – 
+ – < – s – c – r – i – p – t –   – t – y – p – e – = – " – a – p – p – l – i – c – a – t – i – o – n – / – l – d – + – j – s – o – n – " – > – 
+ – { – 
+ – 	 – " – @ – c – o – n – t – e – x – t – " – : –   – " – h – t – t – p – s – : – / – / – s – c – h – e – m – a – . – o – r – g – " – , – 
+ – 	 – " – @ – t – y – p – e – " – : –   – " – M – o – v – i – n – g – C – o – m – p – a – n – y – " – , – 
+ – 	 – " – n – a – m – e – " – : –   – " – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – I – n – d – o – r – e – " – , – 
+ – 	 – " – i – m – a – g – e – " – : –   – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – i – m – g – / – l – a – t – e – s – t – _ – l – o – g – o – . – j – p – g – " – , – 
+ – 	 – " – e – m – a – i – l – " – : –   – " – i – n – f – o – @ – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – " – , – 
+ – 	 – " – t – e – l – e – p – h – o – n – e – " – : –   – " – + – 9 – 1 – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – " – , – 
+ – 	 – " – u – r – l – " – : –   – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – " – , – 
+ – 	 – " – a – d – d – r – e – s – s – " – : –   – { – 
+ – 	 – 	 – " – @ – t – y – p – e – " – : –   – " – P – o – s – t – a – l – A – d – d – r – e – s – s – " – , – 
+ – 	 – 	 – " – s – t – r – e – e – t – A – d – d – r – e – s – s – " – : –   – " – S – h – o – p –   – B – - – 3 – , –   – G – o – y – a – l –   – C – o – m – p – o – u – n – d – , –   – T – . – T – . –   – N – a – g – a – r – , –   – D – e – w – a – s –   – N – a – k – a – , –   – b – e – h – i – n – d –   – M – e – t – r – o –   – M – a – l – l – " – , – 
+ – 	 – 	 – " – a – d – d – r – e – s – s – L – o – c – a – l – i – t – y – " – : –   – " – I – n – d – o – r – e – " – , – 
+ – 	 – 	 – " – a – d – d – r – e – s – s – R – e – g – i – o – n – " – : –   – " – M – a – d – h – y – a –   – P – r – a – d – e – s – h – " – , – 
+ – 	 – 	 – " – p – o – s – t – a – l – C – o – d – e – " – : –   – " – 4 – 5 – 2 – 0 – 1 – 0 – " – , – 
+ – 	 – 	 – " – a – d – d – r – e – s – s – C – o – u – n – t – r – y – " – : –   – " – I – N – " – 
+ – 	 – } – , – 
+ – 	 – " – g – e – o – " – : –   – { – 
+ – 	 – 	 – " – @ – t – y – p – e – " – : –   – " – G – e – o – C – o – o – r – d – i – n – a – t – e – s – " – , – 
+ – 	 – 	 – " – l – a – t – i – t – u – d – e – " – : –   – " – 2 – 2 – . – 7 – 7 – 3 – 0 – 6 – 8 – " – , – 
+ – 	 – 	 – " – l – o – n – g – i – t – u – d – e – " – : –   – " – 7 – 5 – . – 9 – 0 – 7 – 1 – 2 – 7 – " – 
+ – 	 – } – , – 
+ – 	 – " – p – r – i – c – e – R – a – n – g – e – " – : –   – " – ₹ – ₹ – " – , – 
+ – 	 – " – p – a – y – m – e – n – t – A – c – c – e – p – t – e – d – " – : –   – [ –   – " – C – a – s – h – " – , –   – " – C – r – e – d – i – t –   – C – a – r – d – " – , –   – " – D – e – b – i – t –   – C – a – r – d – " – , –   – " – U – P – I – " – , –   – " – N – e – t –   – B – a – n – k – i – n – g – " – , –   – " – C – h – e – q – u – e – " –   – ] – , – 
+ – 	 – " – o – p – e – n – i – n – g – H – o – u – r – s – " – : –   – " – M – o – , – T – u – , – W – e – , – T – h – , – F – r – , – S – a – , – S – u –   – 0 – 0 – : – 0 – 0 – - – 2 – 3 – : – 5 – 9 – " – , – 
+ – 	 – " – a – r – e – a – S – e – r – v – e – d – " – : –   – [ – 
+ – 	 – 	 – " – I – n – d – o – r – e – " – , – 
+ – 	 – 	 – " – V – i – j – a – y –   – N – a – g – a – r – " – , – 
+ – 	 – 	 – " – P – a – l – a – s – i – a – " – , – 
+ – 	 – 	 – " – B – h – a – w – a – r – k – u – a – n – " – , – 
+ – 	 – 	 – " – R – a – j – w – a – d – a – " – , – 
+ – 	 – 	 – " – R – a – u – " – , – 
+ – 	 – 	 – " – D – e – w – a – s –   – N – a – k – a – " – , – 
+ – 	 – 	 – " – S – u – d – a – m – a –   – N – a – g – a – r – " – , – 
+ – 	 – 	 – " – S – u – p – e – r –   – C – o – r – r – i – d – o – r – " – , – 
+ – 	 – 	 – " – M – a – d – h – y – a –   – P – r – a – d – e – s – h – " – 
+ – 	 – ] – 
+ – } – 
+ – < – / – s – c – r – i – p – t – > – 
+ – 
+ – < – s – c – r – i – p – t –   – t – y – p – e – = – " – a – p – p – l – i – c – a – t – i – o – n – / – l – d – + – j – s – o – n – " – > – 
+ – { – 
+ –   –   – " – @ – c – o – n – t – e – x – t – " – : –   – " – h – t – t – p – s – : – / – / – s – c – h – e – m – a – . – o – r – g – " – , – 
+ –   –   – " – @ – t – y – p – e – " – : –   – " – F – A – Q – P – a – g – e – " – , – 
+ –   –   – " – m – a – i – n – E – n – t – i – t – y – " – : –   – [ – 
+ –   –   –   –   – { – 
+ –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – Q – u – e – s – t – i – o – n – " – , – 
+ –   –   –   –   –   –   – " – n – a – m – e – " – : –   – " – H – o – w –   – m – u – c – h –   – d – o –   – p – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – c – h – a – r – g – e –   – i – n –   – I – n – d – o – r – e –   – f – o – r –   – h – o – u – s – e –   – s – h – i – f – t – i – n – g – ? – " – , – 
+ –   –   –   –   –   –   – " – a – c – c – e – p – t – e – d – A – n – s – w – e – r – " – : –   – { – 
+ –   –   –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – A – n – s – w – e – r – " – , – 
+ –   –   –   –   –   –   –   –   – " – t – e – x – t – " – : –   – " – I – n –   – 2 – 0 – 2 – 6 – , –   – l – o – c – a – l –   – h – o – u – s – e –   – s – h – i – f – t – i – n – g –   – c – h – a – r – g – e – s –   – i – n –   – I – n – d – o – r – e –   – r – a – n – g – e –   – f – r – o – m –   – ₹ – 3 – , – 0 – 0 – 0 –   – t – o –   – ₹ – 5 – , – 5 – 0 – 0 –   – f – o – r –   – a –   – 1 –   – B – H – K – , –   – ₹ – 5 – , – 5 – 0 – 0 –   – t – o –   – ₹ – 9 – , – 5 – 0 – 0 –   – f – o – r –   – a –   – 2 –   – B – H – K – , –   – a – n – d –   – ₹ – 8 – , – 0 – 0 – 0 –   – t – o –   – ₹ – 1 – 6 – , – 0 – 0 – 0 –   – f – o – r –   – a –   – 3 –   – B – H – K –   – h – o – m – e – . –   – P – r – i – c – e – s –   – i – n – c – l – u – d – e –   – c – o – m – p – l – e – t – e –   – 5 – - – l – a – y – e – r –   – p – a – c – k – i – n – g – , –   – l – o – a – d – i – n – g – , –   – t – r – a – n – s – p – o – r – t – , –   – a – n – d –   – u – n – l – o – a – d – i – n – g – . – " – 
+ –   –   –   –   –   –   – } – 
+ –   –   –   –   – } – , – 
+ –   –   –   –   – { – 
+ –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – Q – u – e – s – t – i – o – n – " – , – 
+ –   –   –   –   –   –   – " – n – a – m – e – " – : –   – " – W – h – y –   – i – s –   – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – c – o – n – s – i – d – e – r – e – d –   – t – h – e –   – b – e – s – t –   – i – n –   – I – n – d – o – r – e – ? – " – , – 
+ –   –   –   –   –   –   – " – a – c – c – e – p – t – e – d – A – n – s – w – e – r – " – : –   – { – 
+ –   –   –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – A – n – s – w – e – r – " – , – 
+ –   –   –   –   –   –   –   –   – " – t – e – x – t – " – : –   – " – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – i – s –   – G – S – T –   – r – e – g – i – s – t – e – r – e – d – , –   – I – B – A –   – c – o – m – p – l – i – a – n – t – , –   – m – a – i – n – t – a – i – n – s –   – a –   – p – h – y – s – i – c – a – l –   – h – u – b –   – a – t –   – D – e – w – a – s –   – N – a – k – a – , –   – p – r – o – v – i – d – e – s –   – 5 – - – l – a – y – e – r –   – b – u – b – b – l – e –   – p – a – c – k – i – n – g – , –   – o – p – e – r – a – t – e – s –   – c – l – o – s – e – d –   – c – o – n – t – a – i – n – e – r –   – t – r – u – c – k – s – , –   – a – n – d –   – h – a – s –   – s – e – r – v – e – d –   – 2 – , – 5 – 0 – 0 – + –   – s – a – t – i – s – f – i – e – d –   – f – a – m – i – l – i – e – s –   – w – i – t – h –   – 1 – 0 – 0 – % –   – z – e – r – o – - – d – a – m – a – g – e –   – g – u – a – r – a – n – t – e – e – . – " – 
+ –   –   –   –   –   –   – } – 
+ –   –   –   –   – } – , – 
+ –   –   –   –   – { – 
+ –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – Q – u – e – s – t – i – o – n – " – , – 
+ –   –   –   –   –   –   – " – n – a – m – e – " – : –   – " – W – h – i – c – h –   – a – r – e – a – s –   – i – n –   – I – n – d – o – r – e –   – d – o –   – y – o – u –   – c – o – v – e – r –   – f – o – r –   – l – o – c – a – l –   – s – h – i – f – t – i – n – g – ? – " – , – 
+ –   –   –   –   –   –   – " – a – c – c – e – p – t – e – d – A – n – s – w – e – r – " – : –   – { – 
+ –   –   –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – A – n – s – w – e – r – " – , – 
+ –   –   –   –   –   –   –   –   – " – t – e – x – t – " – : –   – " – W – e –   – p – r – o – v – i – d – e –   – d – o – o – r – s – t – e – p –   – m – o – v – i – n – g –   – a – c – r – o – s – s –   – a – l – l –   – I – n – d – o – r – e –   – l – o – c – a – l – i – t – i – e – s –   – i – n – c – l – u – d – i – n – g –   – V – i – j – a – y –   – N – a – g – a – r – , –   – P – a – l – a – s – i – a – , –   – B – h – a – w – a – r – k – u – a – n – , –   – R – a – j – w – a – d – a – , –   – R – a – u – , –   – D – e – w – a – s –   – N – a – k – a – , –   – S – u – d – a – m – a –   – N – a – g – a – r – , –   – S – u – p – e – r –   – C – o – r – r – i – d – o – r – , –   – N – i – p – a – n – i – a – , –   – M – a – h – a – l – a – x – m – i –   – N – a – g – a – r – , –   – a – n – d –   – A – B –   – R – o – a – d – . – " – 
+ –   –   –   –   –   –   – } – 
+ –   –   –   –   – } – , – 
+ –   –   –   –   – { – 
+ –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – Q – u – e – s – t – i – o – n – " – , – 
+ –   –   –   –   –   –   – " – n – a – m – e – " – : –   – " – D – o –   – y – o – u –   – p – r – o – v – i – d – e –   – c – a – r –   – a – n – d –   – b – i – k – e –   – t – r – a – n – s – p – o – r – t –   – s – e – r – v – i – c – e – s –   – f – r – o – m –   – I – n – d – o – r – e – ? – " – , – 
+ –   –   –   –   –   –   – " – a – c – c – e – p – t – e – d – A – n – s – w – e – r – " – : –   – { – 
+ –   –   –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – A – n – s – w – e – r – " – , – 
+ –   –   –   –   –   –   –   –   – " – t – e – x – t – " – : –   – " – Y – e – s – , –   – w – e –   – o – p – e – r – a – t – e –   – s – p – e – c – i – a – l – i – z – e – d –   – e – n – c – l – o – s – e – d –   – c – a – r –   – c – a – r – r – i – e – r –   – t – r – a – i – l – e – r – s –   – a – n – d –   – s – c – r – a – t – c – h – - – f – r – e – e –   – t – w – o – - – w – h – e – e – l – e – r –   – p – a – c – k – a – g – i – n – g –   – f – o – r –   – d – o – o – r – - – t – o – - – d – o – o – r –   – v – e – h – i – c – l – e –   – d – e – l – i – v – e – r – y –   – t – o –   – B – h – o – p – a – l – , –   – M – u – m – b – a – i – , –   – P – u – n – e – , –   – D – e – l – h – i – , –   – a – n – d –   – a – l – l –   – I – n – d – i – a – n –   – c – i – t – i – e – s – . – " – 
+ –   –   –   –   –   –   – } – 
+ –   –   –   –   – } – , – 
+ –   –   –   –   – { – 
+ –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – Q – u – e – s – t – i – o – n – " – , – 
+ –   –   –   –   –   –   – " – n – a – m – e – " – : –   – " – A – r – e –   – t – h – e – r – e –   – a – n – y –   – h – i – d – d – e – n –   – c – o – s – t – s –   – c – h – a – r – g – e – d –   – o – n –   – m – o – v – i – n – g –   – d – a – y – ? – " – , – 
+ –   –   –   –   –   –   – " – a – c – c – e – p – t – e – d – A – n – s – w – e – r – " – : –   – { – 
+ –   –   –   –   –   –   –   –   – " – @ – t – y – p – e – " – : –   – " – A – n – s – w – e – r – " – , – 
+ –   –   –   –   –   –   –   –   – " – t – e – x – t – " – : –   – " – N – o – , –   – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – p – r – o – v – i – d – e – s –   – a –   – 1 – 0 – 0 – % –   – w – r – i – t – t – e – n –   – b – i – n – d – i – n – g –   – q – u – o – t – a – t – i – o – n –   – w – i – t – h –   – t – r – a – n – s – p – a – r – e – n – t –   – G – S – T –   – t – a – x –   – b – r – e – a – k – d – o – w – n –   – a – n – d –   – z – e – r – o –   – h – i – d – d – e – n –   – d – e – l – i – v – e – r – y –   – c – h – a – r – g – e – s – . – " – 
+ –   –   –   –   –   –   – } – 
+ –   –   –   –   – } – 
+ –   –   – ] – 
+ – } – 
+ – < – / – s – c – r – i – p – t – > – 
+ – 
+ – < – s – t – y – l – e – > – 
+ – . – f – l – o – a – t – { – 
+ – 	 – p – o – s – i – t – i – o – n – : – f – i – x – e – d – ; – 
+ – 	 – w – i – d – t – h – : – 6 – 0 – p – x – ; – 
+ – 	 – h – e – i – g – h – t – : – 6 – 0 – p – x – ; – 
+ – 	 – b – o – t – t – o – m – : – 2 – 0 – p – x – ; – 
+ – 	 – l – e – f – t – : – 2 – 0 – p – x – ; – 
+ – 	 – b – a – c – k – g – r – o – u – n – d – - – c – o – l – o – r – : – # – 2 – 5 – d – 3 – 6 – 6 – ; – 
+ – 	 – c – o – l – o – r – : – # – F – F – F – ; – 
+ – 	 – b – o – r – d – e – r – - – r – a – d – i – u – s – : – 5 – 0 – p – x – ; – 
+ – 	 – t – e – x – t – - – a – l – i – g – n – : – c – e – n – t – e – r – ; – 
+ – 	 – f – o – n – t – - – s – i – z – e – : – 3 – 0 – p – x – ; – 
+ – 	 – b – o – x – - – s – h – a – d – o – w – : –   – 2 – p – x –   – 2 – p – x –   – 3 – p – x –   – # – 9 – 9 – 9 – ; – 
+ – 	 – z – - – i – n – d – e – x – : – 1 – 0 – 0 – ; – 
+ – } – 
+ – . – m – y – - – f – l – o – a – t – { – 
+ – 	 – m – a – r – g – i – n – - – t – o – p – : – 1 – 6 – p – x – ; – 
+ – } – 
+ – . – h – e – r – o – - – b – a – n – n – e – r – - – s – e – c – t – i – o – n –   – { – 
+ –   –   –   –   – p – o – s – i – t – i – o – n – : –   – r – e – l – a – t – i – v – e – ; – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – 1 – 1 – 1 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – f – f – f – ; – 
+ –   –   –   –   – m – i – n – - – h – e – i – g – h – t – : –   – 4 – 8 – 0 – p – x – ; – 
+ –   –   –   –   – d – i – s – p – l – a – y – : –   – f – l – e – x – ; – 
+ –   –   –   –   – a – l – i – g – n – - – i – t – e – m – s – : –   – c – e – n – t – e – r – ; – 
+ –   –   –   –   – o – v – e – r – f – l – o – w – : –   – h – i – d – d – e – n – ; – 
+ – } – 
+ – . – h – e – r – o – - – b – a – n – n – e – r – - – b – g –   – { – 
+ –   –   –   –   – p – o – s – i – t – i – o – n – : –   – a – b – s – o – l – u – t – e – ; – 
+ –   –   –   –   – t – o – p – : –   – 0 – ; – 
+ –   –   –   –   – l – e – f – t – : –   – 0 – ; – 
+ –   –   –   –   – w – i – d – t – h – : –   – 1 – 0 – 0 – % – ; – 
+ –   –   –   –   – h – e – i – g – h – t – : –   – 1 – 0 – 0 – % – ; – 
+ –   –   –   –   – o – b – j – e – c – t – - – f – i – t – : –   – c – o – v – e – r – ; – 
+ –   –   –   –   – o – p – a – c – i – t – y – : –   – 0 – . – 4 – 5 – ; – 
+ – } – 
+ – . – h – e – r – o – - – c – o – n – t – e – n – t – - – b – o – x –   – { – 
+ –   –   –   –   – p – o – s – i – t – i – o – n – : –   – r – e – l – a – t – i – v – e – ; – 
+ –   –   –   –   – z – - – i – n – d – e – x – : –   – 2 – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 6 – 0 – p – x –   – 1 – 5 – p – x – ; – 
+ – } – 
+ – . – h – e – r – o – - – c – o – n – t – e – n – t – - – b – o – x –   – h – 1 –   – { – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 3 – 8 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 8 – 0 – 0 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – f – f – f – ; – 
+ –   –   –   –   – l – i – n – e – - – h – e – i – g – h – t – : –   – 1 – . – 2 – 5 – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 5 – p – x – ; – 
+ – } – 
+ – . – h – e – r – o – - – c – o – n – t – e – n – t – - – b – o – x –   – p –   – { – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 8 – p – x – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – e – 0 – e – 6 – e – d – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – 
+ –   –   –   –   – l – i – n – e – - – h – e – i – g – h – t – : –   – 1 – . – 6 – ; – 
+ – } – 
+ – . – h – e – r – o – - – b – a – d – g – e –   – { – 
+ –   –   –   –   – d – i – s – p – l – a – y – : –   – i – n – l – i – n – e – - – b – l – o – c – k – ; – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – e – 3 – 1 – e – 2 – 4 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – f – f – f – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 6 – p – x –   – 1 – 4 – p – x – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 3 – 0 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 4 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – b – o – l – d – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 5 – p – x – ; – 
+ – } – 
+ – . – h – e – r – o – - – c – t – a – - – b – t – n –   – { – 
+ –   –   –   –   – d – i – s – p – l – a – y – : –   – i – n – l – i – n – e – - – b – l – o – c – k – ; – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – e – 3 – 1 – e – 2 – 4 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – f – f – f – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 1 – 4 – p – x –   – 2 – 8 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 7 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – b – o – l – d – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 4 – p – x – ; – 
+ –   –   –   –   – t – e – x – t – - – d – e – c – o – r – a – t – i – o – n – : –   – n – o – n – e – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – r – i – g – h – t – : –   – 1 – 2 – p – x – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 0 – p – x – ; – 
+ –   –   –   –   – t – r – a – n – s – i – t – i – o – n – : –   – a – l – l –   – 0 – . – 3 – s – ; – 
+ – } – 
+ – . – h – e – r – o – - – c – t – a – - – b – t – n – : – h – o – v – e – r –   – { – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – c – 1 – 1 – 2 – 1 – f – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – f – f – f – ; – 
+ – } – 
+ – . – h – e – r – o – - – c – a – l – l – - – b – t – n –   – { – 
+ –   –   –   –   – d – i – s – p – l – a – y – : –   – i – n – l – i – n – e – - – b – l – o – c – k – ; – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – 2 – 5 – d – 3 – 6 – 6 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – f – f – f – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 1 – 4 – p – x –   – 2 – 8 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 7 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – b – o – l – d – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 4 – p – x – ; – 
+ –   –   –   –   – t – e – x – t – - – d – e – c – o – r – a – t – i – o – n – : –   – n – o – n – e – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 0 – p – x – ; – 
+ – } – 
+ – . – a – e – o – - – q – u – i – c – k – - – a – n – s – w – e – r –   – { – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – f – 0 – f – 7 – f – f – ; – 
+ –   –   –   –   – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – b – 8 – d – a – f – f – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – l – e – f – t – : –   – 5 – p – x –   – s – o – l – i – d –   – # – 0 – 0 – 5 – 6 – b – 3 – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 1 – 8 – p – x –   – 2 – 2 – p – x – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 4 – p – x – ; – 
+ –   –   –   –   – m – a – r – g – i – n – : –   – 2 – 5 – p – x –   – 0 – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 6 – p – x – ; – 
+ –   –   –   –   – l – i – n – e – - – h – e – i – g – h – t – : –   – 1 – . – 7 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – 0 – c – 5 – 4 – 6 – 0 – ; – 
+ – } – 
+ – . – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 –   – { – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – f – f – f – ; – 
+ –   –   –   –   – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – e – a – e – a – e – a – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 6 – p – x – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 2 – 2 – p – x – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – 
+ –   –   –   –   – b – o – x – - – s – h – a – d – o – w – : –   – 0 –   – 3 – p – x –   – 8 – p – x –   – r – g – b – a – ( – 0 – , – 0 – , – 0 – , – 0 – . – 0 – 4 – ) – ; – 
+ –   –   –   –   – t – r – a – n – s – i – t – i – o – n – : –   – t – r – a – n – s – f – o – r – m –   – 0 – . – 2 – s – , –   – b – o – x – - – s – h – a – d – o – w –   – 0 – . – 2 – s – ; – 
+ –   –   –   –   – h – e – i – g – h – t – : –   – 1 – 0 – 0 – % – ; – 
+ – } – 
+ – . – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 – : – h – o – v – e – r –   – { – 
+ –   –   –   –   – t – r – a – n – s – f – o – r – m – : –   – t – r – a – n – s – l – a – t – e – Y – ( – - – 4 – p – x – ) – ; – 
+ –   –   –   –   – b – o – x – - – s – h – a – d – o – w – : –   – 0 –   – 8 – p – x –   – 1 – 8 – p – x –   – r – g – b – a – ( – 0 – , – 0 – , – 0 – , – 0 – . – 0 – 8 – ) – ; – 
+ – } – 
+ – . – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 –   – h – 3 –   – { – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 9 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 7 – 0 – 0 – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – t – o – p – : –   – 1 – 0 – p – x – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 0 – p – x – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – 2 – 2 – 2 – ; – 
+ – } – 
+ – . – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 –   – p –   – { – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 4 – . – 5 – p – x – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – 5 – 5 – 5 – ; – 
+ –   –   –   –   – l – i – n – e – - – h – e – i – g – h – t – : –   – 1 – . – 6 – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 5 – p – x – ; – 
+ – } – 
+ – . – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 –   – a – . – b – t – n – - – r – e – a – d –   – { – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – e – 3 – 1 – e – 2 – 4 – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – b – o – l – d – ; – 
+ –   –   –   –   – t – e – x – t – - – d – e – c – o – r – a – t – i – o – n – : –   – n – o – n – e – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 4 – p – x – ; – 
+ – } – 
+ – . – c – o – n – t – e – n – t – - – t – a – b – l – e –   – { – 
+ –   –   –   –   – w – i – d – t – h – : –   – 1 – 0 – 0 – % – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – c – o – l – l – a – p – s – e – : –   – c – o – l – l – a – p – s – e – ; – 
+ –   –   –   –   – m – a – r – g – i – n – : –   – 2 – 0 – p – x –   – 0 – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – p – x – ; – 
+ –   –   –   –   – t – e – x – t – - – a – l – i – g – n – : –   – l – e – f – t – ; – 
+ – } – 
+ – . – c – o – n – t – e – n – t – - – t – a – b – l – e –   – t – h – e – a – d –   – t – r –   – { – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – - – c – o – l – o – r – : –   – # – e – 3 – 1 – e – 2 – 4 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – f – f – f – f – f – f – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – b – o – l – d – ; – 
+ – } – 
+ – . – c – o – n – t – e – n – t – - – t – a – b – l – e –   – t – h – , –   – . – c – o – n – t – e – n – t – - – t – a – b – l – e –   – t – d –   – { – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 1 – 2 – p – x –   – 1 – 5 – p – x – ; – 
+ –   –   –   –   – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – d – d – d – d – d – d – ; – 
+ – } – 
+ – . – c – o – n – t – e – n – t – - – t – a – b – l – e –   – t – b – o – d – y –   – t – r – : – n – t – h – - – o – f – - – t – y – p – e – ( – e – v – e – n – ) –   – { – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – - – c – o – l – o – r – : –   – # – f – 9 – f – 9 – f – 9 – ; – 
+ – } – 
+ – . – f – a – q – - – b – o – x –   – { – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – f – f – f – ; – 
+ –   –   –   –   – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – e – 2 – e – 8 – f – 0 – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – l – e – f – t – : –   – 4 – p – x –   – s – o – l – i – d –   – # – e – 3 – 1 – e – 2 – 4 – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 1 – 8 – p – x –   – 2 – 2 – p – x – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 6 – p – x – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 4 – p – x – ; – 
+ – } – 
+ – . – f – a – q – - – b – o – x –   – h – 4 –   – { – 
+ –   –   –   –   – m – a – r – g – i – n – - – t – o – p – : –   – 0 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – 1 – a – 2 – 0 – 2 – c – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 7 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 7 – 0 – 0 – ; – 
+ – } – 
+ – . – f – a – q – - – b – o – x –   – p –   – { – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 0 – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – 4 – a – 5 – 5 – 6 – 8 – ; – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – p – x – ; – 
+ –   –   –   –   – l – i – n – e – - – h – e – i – g – h – t – : –   – 1 – . – 7 – ; – 
+ – } – 
+ – . – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 –   – { – 
+ –   –   –   –   – t – e – x – t – - – a – l – i – g – n – : –   – c – e – n – t – e – r – ; – 
+ –   –   –   –   – p – a – d – d – i – n – g – : –   – 2 – 5 – p – x –   – 1 – 5 – p – x – ; – 
+ –   –   –   –   – b – a – c – k – g – r – o – u – n – d – : –   – # – f – d – f – d – f – d – ; – 
+ –   –   –   –   – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – e – e – e – ; – 
+ –   –   –   –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 6 – p – x – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – 
+ – } – 
+ – . – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 –   – i –   – { – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 3 – 6 – p – x – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – e – 3 – 1 – e – 2 – 4 – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 5 – p – x – ; – 
+ – } – 
+ – . – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 –   – h – 4 –   – { – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 8 – p – x – ; – 
+ –   –   –   –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 7 – 0 – 0 – ; – 
+ –   –   –   –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 0 – p – x – ; – 
+ – } – 
+ – . – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 –   – p –   – { – 
+ –   –   –   –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 4 – p – x – ; – 
+ –   –   –   –   – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; – 
+ –   –   –   –   – l – i – n – e – - – h – e – i – g – h – t – : –   – 1 – . – 5 – ; – 
+ – } – 
+ – < – / – s – t – y – l – e – > – 
+ – < – / – h – e – a – d – > – 
+ – < – b – o – d – y –   – d – a – t – a – - – s – c – r – o – l – l – i – n – g – - – a – n – i – m – a – t – i – o – n – s – = – " – t – r – u – e – " – > – 
+ – < – n – o – s – c – r – i – p – t – > – < – i – f – r – a – m – e –   – s – r – c – = – " – h – t – t – p – s – : – / – / – w – w – w – . – g – o – o – g – l – e – t – a – g – m – a – n – a – g – e – r – . – c – o – m – / – n – s – . – h – t – m – l – ? – i – d – = – G – T – M – - – K – 7 – M – L – Z – F – R – " –   – h – e – i – g – h – t – = – " – 0 – " –   – w – i – d – t – h – = – " – 0 – " –   – s – t – y – l – e – = – " – d – i – s – p – l – a – y – : – n – o – n – e – ; – v – i – s – i – b – i – l – i – t – y – : – h – i – d – d – e – n – " – > – < – / – i – f – r – a – m – e – > – < – / – n – o – s – c – r – i – p – t – > – 
+ – < – d – i – v –   – c – l – a – s – s – = – " – s – p – - – b – o – d – y – " – > – 
+ –   –   –   –   – < – ! – - – - –   – H – e – a – d – e – r –   – - – - – > – 
+ –   –   –   –   – < – h – e – a – d – e – r –   – i – d – = – " – t – h – i – s – - – i – s – - – t – o – p – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – o – p – m – e – n – u –   – r – o – w – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – n – a – v –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – f – f – f – ; – " –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – o – f – f – s – e – t – - – 3 –   – c – o – l – - – m – d – - – o – f – f – s – e – t – - – 4 –   – c – o – l – - – l – g – - – o – f – f – s – e – t – - – 4 –   – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 5 –   – c – o – l – - – l – g – - – 5 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – h – - – b – l – o – c – k – " – > – < – s – p – a – n – > – C – A – L – L –   – U – S –   – 2 – 4 – x – 7 – < – / – s – p – a – n – > – < – a –   – h – r – e – f – = – " – t – e – l – : – + – 9 – 1 – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – " –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : – 1 – 4 – p – x – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – p – h – o – n – e – " – > – < – / – i – > –   – + – 9 – 1 –   – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – < – / – a – > – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – n – a – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – n – a – v –   – c – l – a – s – s – = – " – t – e – x – t – - – r – i – g – h – t –   – c – o – l – - – s – m – - – 3 –   – c – o – l – - – m – d – - – 3 –   – c – o – l – - – l – g – - – 3 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – f – a – c – e – b – o – o – k – . – c – o – m – / – a – p – m – i – n – d – o – r – e – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – f – a – c – e – b – o – o – k – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – t – w – i – t – t – e – r – . – c – o – m – / – M – o – v – e – r – s – A – p – n – a – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – t – w – i – t – t – e – r – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – y – o – u – t – u – b – e – . – c – o – m – / – c – h – a – n – n – e – l – / – U – C – u – d – E – H – z – L – 2 – d – s – - – M – w – 5 – 1 – C – a – y – G – c – e – - – w – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – y – o – u – t – u – b – e – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – i – n – s – t – a – g – r – a – m – . – c – o – m – / – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – / – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – i – n – s – t – a – g – r – a – m – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – l – i – n – k – e – d – i – n – . – c – o – m – / – i – n – / – a – p – n – a – p – a – c – k – e – r – s – i – n – d – o – r – e – / – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – l – i – n – k – e – d – i – n – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – n – a – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w –   – h – e – a – d – e – r – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 3 –   – c – o – l – - – m – d – - – 3 –   – c – o – l – - – l – g – - – 3 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – i – t – l – e – = – " – P – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – i – n –   – I – n – d – o – r – e – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – " –   – i – d – = – " – l – o – g – o – " – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – o – f – f – s – e – t – - – 1 –   – c – o – l – - – m – d – - – o – f – f – s – e – t – - – 1 –   – c – o – l – - – l – g – - – o – f – f – s – e – t – - – 1 –   – c – o – l – - – s – m – - – 8 –   – c – o – l – - – m – d – - – 8 –   – c – o – l – - – l – g – - – 8 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – e – x – t – - – r – i – g – h – t –   – h – e – a – d – e – r – - – p – a – d – d – i – n – g – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – h – - – b – l – o – c – k – " – > – < – s – p – a – n – > – C – A – L – L –   – U – S – < – / – s – p – a – n – > – < – a –   – h – r – e – f – = – " – t – e – l – : – + – 9 – 1 – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – p – h – o – n – e – " – > – < – / – i – > –   – + – 9 – 1 –   – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – < – / – a – > – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – h – - – b – l – o – c – k – " – > – < – s – p – a – n – > – E – M – A – I – L –   – U – S – < – / – s – p – a – n – > – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – @ – g – m – a – i – l – . – c – o – m – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – h – - – b – l – o – c – k – " – > – < – s – p – a – n – > – W – O – R – K – I – N – G –   – H – O – U – R – S – < – / – s – p – a – n – > – 2 – 4 – x – 7 – , –   – M – o – n – - – S – u – n – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – c – l – a – s – s – = – " – b – t – n –   – b – t – n – - – s – u – c – c – e – s – s – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – o – n – t – a – c – t – . – p – h – p – " – > – G – E – T –   – A –   – F – R – E – E –   – Q – U – O – T – E – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – i – d – = – " – m – a – i – n – - – m – e – n – u – - – b – g – " – > – < – / – d – i – v – > –   –   – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – i – d – = – " – m – e – n – u – - – o – p – e – n – " –   – h – r – e – f – = – " – # – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – b – a – r – s – " – > – < – / – i – > – < – / – a – > –   – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – n – a – v –   – c – l – a – s – s – = – " – m – a – i – n – - – m – e – n – u –   – n – a – v – b – a – r – - – m – a – i – n – - – s – l – i – d – e – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – u – l –   – c – l – a – s – s – = – " – n – a – v –   – n – a – v – b – a – r – - – n – a – v –   – n – a – v – b – a – r – - – m – a – i – n – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i –   – c – l – a – s – s – = – " – a – c – t – i – v – e – " – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – " – > – H – O – M – E – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – a – b – o – u – t – . – p – h – p – " – > – A – b – o – u – t –   – U – s – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i –   – c – l – a – s – s – = – " – d – r – o – p – d – o – w – n – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – d – a – t – a – - – t – o – g – g – l – e – = – " – d – r – o – p – d – o – w – n – " –   – c – l – a – s – s – = – " – d – r – o – p – d – o – w – n – - – t – o – g – g – l – e –   – b – o – r – d – e – r – - – h – o – v – e – r – - – c – o – l – o – r – 1 – " –   – h – r – e – f – = – " – # – " – > – S – e – r – v – i – c – e – s –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – a – n – g – l – e – - – d – o – w – n – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – u – l –   – c – l – a – s – s – = – " – d – r – o – p – d – o – w – n – - – m – e – n – u – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – r – e – l – o – c – a – t – i – o – n – . – p – h – p – " – > – H – o – u – s – e –   – R – e – l – o – c – a – t – i – o – n – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – o – f – f – i – c – e – - – r – e – l – o – c – a – t – i – o – n – . – p – h – p – " – > – O – f – f – i – c – e –   – R – e – l – o – c – a – t – i – o – n – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – a – r – - – p – a – r – k – i – n – g – . – p – h – p – " – > – C – a – r –   – & –   – B – i – k – e –   – M – o – v – i – n – g – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – p – a – r – k – i – n – g – . – p – h – p – " – > – P – a – c – k – i – n – g –   – & –   – M – o – v – i – n – g – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – l – o – a – d – i – n – g – . – p – h – p – " – > – L – o – a – d – i – n – g –   – & –   – U – n – l – o – a – d – i – n – g – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – w – a – r – e – h – o – u – s – e – . – p – h – p – " – > – W – a – r – e – h – o – u – s – e –   – & –   – S – t – o – r – a – g – e – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – i – n – s – u – r – e – n – c – e – . – p – h – p – " – > – I – n – s – u – r – a – n – c – e –   – S – e – r – v – i – c – e – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – u – l – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – p – r – o – c – e – s – s – . – p – h – p – " – > – P – r – o – c – e – s – s – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – o – n – t – a – c – t – . – p – h – p – " – > – C – o – n – t – a – c – t – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – b – l – o – g – s – . – p – h – p – " – > – B – l – o – g – s –   – & –   – G – u – i – d – e – s – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – l – i – > – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – c – a – s – e – - – s – t – u – d – y – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – . – p – h – p – " – > – C – a – s – e –   – S – t – u – d – i – e – s – < – / – a – > – < – / – l – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – u – l – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – n – a – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – i – d – = – " – m – e – n – u – - – c – l – o – s – e – " –   – h – r – e – f – = – " – # – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – t – i – m – e – s – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – h – e – a – d – e – r – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – U – l – t – r – a – - – F – a – s – t –   – H – i – g – h – - – P – r – i – o – r – i – t – y –   – H – e – r – o –   – B – a – n – n – e – r –   – S – e – c – t – i – o – n –   – ( – 1 – 0 – 0 – / – 1 – 0 – 0 –   – L – C – P –   – S – p – e – e – d – ) –   – - – - – > – 
+ –   –   –   –   – < – s – e – c – t – i – o – n –   – c – l – a – s – s – = – " – h – e – r – o – - – b – a – n – n – e – r – - – s – e – c – t – i – o – n – " – > – 
+ –   –   –   –   –   –   –   –   – < – i – m – g –   – s – r – c – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – m – e – d – i – a – / – m – a – i – n – - – s – l – i – d – e – r – / – 1 – . – w – e – b – p – " –   – a – l – t – = – " – P – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – i – n –   – I – n – d – o – r – e – " –   – c – l – a – s – s – = – " – h – e – r – o – - – b – a – n – n – e – r – - – b – g – " –   – f – e – t – c – h – p – r – i – o – r – i – t – y – = – " – h – i – g – h – " –   – d – e – c – o – d – i – n – g – = – " – a – s – y – n – c – " –   – w – i – d – t – h – = – " – 1 – 9 – 2 – 0 – " –   – h – e – i – g – h – t – = – " – 6 – 5 – 0 – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 8 –   – c – o – l – - – m – d – - – 7 –   – h – e – r – o – - – c – o – n – t – e – n – t – - – b – o – x – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – h – e – r – o – - – b – a – d – g – e – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – s – h – i – e – l – d – " – > – < – / – i – > –   – I – B – A –   – C – o – m – p – l – i – a – n – t –   – & –   – G – S – T –   – R – e – g – i – s – t – e – r – e – d – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 1 – > – T – o – p – - – R – a – t – e – d –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – i – n –   – I – n – d – o – r – e – < – / – h – 1 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – E – x – p – e – r – i – e – n – c – e –   – h – a – s – s – l – e – - – f – r – e – e – , –   – z – e – r – o – - – d – a – m – a – g – e –   – h – o – u – s – e – h – o – l – d –   – s – h – i – f – t – i – n – g – , –   – c – o – r – p – o – r – a – t – e –   – o – f – f – i – c – e –   – r – e – l – o – c – a – t – i – o – n – , –   – a – n – d –   – e – n – c – l – o – s – e – d –   – v – e – h – i – c – l – e –   – t – r – a – n – s – p – o – r – t – a – t – i – o – n –   – a – c – r – o – s – s –   – V – i – j – a – y –   – N – a – g – a – r – , –   – P – a – l – a – s – i – a – , –   – R – a – u – , –   – D – e – w – a – s –   – N – a – k – a – , –   – a – n – d –   – n – a – t – i – o – n – w – i – d – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – o – n – t – a – c – t – . – p – h – p – " –   – c – l – a – s – s – = – " – h – e – r – o – - – c – t – a – - – b – t – n – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – c – a – l – c – u – l – a – t – o – r – " – > – < – / – i – > –   – G – e – t –   – F – r – e – e –   – W – r – i – t – t – e – n –   – Q – u – o – t – e – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – t – e – l – : – + – 9 – 1 – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – " –   – c – l – a – s – s – = – " – h – e – r – o – - – c – a – l – l – - – b – t – n – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – p – h – o – n – e – " – > – < – / – i – > –   – C – a – l – l –   – + – 9 – 1 –   – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – s – e – c – t – i – o – n – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – A – E – O –   – Q – u – i – c – k –   – A – n – s – w – e – r –   – & –   – M – a – i – n –   – I – n – t – r – o –   – - – - – > – 
+ –   –   –   –   – < – s – e – c – t – i – o – n –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " –   – s – t – y – l – e – = – " – p – a – d – d – i – n – g – - – t – o – p – : –   – 4 – 0 – p – x – ; –   – p – a – d – d – i – n – g – - – b – o – t – t – o – m – : –   – 3 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – a – e – o – - – q – u – i – c – k – - – a – n – s – w – e – r – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – s – t – r – o – n – g – > – D – i – r – e – c – t –   – S – u – m – m – a – r – y –   – ( – A – E – O –   – A – n – s – w – e – r – ) – : – < – / – s – t – r – o – n – g – > –   – < – s – t – r – o – n – g – > – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s – < – / – s – t – r – o – n – g – > –   – i – s –   – I – n – d – o – r – e – ' – s –   – l – e – a – d – i – n – g –   – r – e – l – o – c – a – t – i – o – n –   – p – a – r – t – n – e – r –   – h – e – a – d – q – u – a – r – t – e – r – e – d –   – a – t –   – D – e – w – a – s –   – N – a – k – a – . –   – W – e –   – p – r – o – v – i – d – e –   – 1 – 0 – 0 – % –   – v – e – r – i – f – i – e – d – , –   – d – a – m – a – g – e – - – f – r – e – e –   – s – h – i – f – t – i – n – g –   – s – e – r – v – i – c – e – s –   – w – i – t – h –   – 5 – - – l – a – y – e – r –   – p – a – c – k – a – g – i – n – g – , –   – t – r – a – n – s – p – a – r – e – n – t –   – l – o – c – a – l –   – r – a – t – e – s –   – s – t – a – r – t – i – n – g –   – f – r – o – m –   – < – s – t – r – o – n – g – > – ₹ – 3 – , – 0 – 0 – 0 –   – f – o – r –   – 1 –   – B – H – K – < – / – s – t – r – o – n – g – > – , –   – < – s – t – r – o – n – g – > – ₹ – 5 – , – 5 – 0 – 0 –   – f – o – r –   – 2 –   – B – H – K – < – / – s – t – r – o – n – g – > – , –   – a – n – d –   – < – s – t – r – o – n – g – > – ₹ – 8 – , – 0 – 0 – 0 –   – f – o – r –   – 3 –   – B – H – K – < – / – s – t – r – o – n – g – > –   – h – o – m – e – s – , –   – a – n – d –   – d – a – i – l – y –   – c – o – n – t – a – i – n – e – r –   – d – i – s – p – a – t – c – h – e – s –   – t – o –   – B – h – o – p – a – l – , –   – M – u – m – b – a – i – , –   – P – u – n – e – , –   – a – n – d –   – D – e – l – h – i –   – N – C – R – . – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – e – x – t – - – c – e – n – t – e – r – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 3 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 2 –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 2 – 8 – p – x – ; –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 8 – 0 – 0 – ; –   – c – o – l – o – r – : –   – # – 2 – 2 – 2 – ; – " – > – C – o – m – p – l – e – t – e –   – L – o – g – i – s – t – i – c – s –   – & –   – R – e – l – o – c – a – t – i – o – n –   – S – e – r – v – i – c – e – s –   – i – n –   – I – n – d – o – r – e – < – / – h – 2 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; –   – m – a – x – - – w – i – d – t – h – : –   – 8 – 5 – 0 – p – x – ; –   – m – a – r – g – i – n – : –   – 0 –   – a – u – t – o – ; –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 6 – p – x – ; – " – > – F – r – o – m –   – s – i – n – g – l – e – - – i – t – e – m –   – l – u – g – g – a – g – e –   – m – o – v – e – s –   – t – o –   – f – u – l – l –   – v – i – l – l – a –   – a – n – d –   – c – o – r – p – o – r – a – t – e –   – o – f – f – i – c – e –   – s – h – i – f – t – s – , –   – e – x – p – l – o – r – e –   – o – u – r –   – s – p – e – c – i – a – l – i – z – e – d –   – m – o – v – i – n – g –   – s – o – l – u – t – i – o – n – s –   – c – r – a – f – t – e – d –   – f – o – r –   – s – a – f – e – t – y –   – a – n – d –   – a – f – f – o – r – d – a – b – i – l – i – t – y – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ – 
+ –   –   –   –   –   –   –   –   – < – ! – - – - –   – 7 –   – S – e – r – v – i – c – e – s –   – G – r – i – d –   – - – - – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – ! – - – - –   – S – e – r – v – i – c – e –   – 1 –   – - – - – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – h – o – m – e –   – f – a – - – 2 – x – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 3 – > – H – o – u – s – e – h – o – l – d –   – R – e – l – o – c – a – t – i – o – n – < – / – h – 3 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – S – t – r – e – s – s – - – f – r – e – e –   – l – o – c – a – l –   – a – n – d –   – d – o – m – e – s – t – i – c –   – h – o – u – s – e –   – s – h – i – f – t – i – n – g –   – w – i – t – h –   – m – u – l – t – i – - – l – a – y – e – r –   – b – u – b – b – l – e –   – w – r – a – p – , –   – f – u – r – n – i – t – u – r – e –   – d – i – s – m – a – n – t – l – i – n – g – , –   – a – n – d –   – d – o – o – r – s – t – e – p –   – s – e – t – u – p –   – i – n –   – I – n – d – o – r – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – r – e – l – o – c – a – t – i – o – n – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n – - – r – e – a – d – " – > – E – x – p – l – o – r – e –   – H – o – u – s – e –   – S – h – i – f – t – i – n – g –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – a – r – r – o – w – - – r – i – g – h – t – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – ! – - – - –   – S – e – r – v – i – c – e –   – 2 –   – - – - – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – b – u – i – l – d – i – n – g –   – f – a – - – 2 – x – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 3 – > – O – f – f – i – c – e –   – R – e – l – o – c – a – t – i – o – n – < – / – h – 3 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – Z – e – r – o – - – d – o – w – n – t – i – m – e –   – w – e – e – k – e – n – d –   – c – o – r – p – o – r – a – t – e –   – s – h – i – f – t – i – n – g – , –   – a – n – t – i – - – s – t – a – t – i – c –   – I – T –   – s – e – r – v – e – r –   – p – a – c – k – i – n – g – , –   – a – n – d –   – c – u – b – i – c – l – e –   – r – e – a – s – s – e – m – b – l – y –   – f – o – r –   – C – r – y – s – t – a – l –   – I – T –   – P – a – r – k –   – & –   – S – E – Z –   – b – u – s – i – n – e – s – s – e – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – o – f – f – i – c – e – - – r – e – l – o – c – a – t – i – o – n – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n – - – r – e – a – d – " – > – E – x – p – l – o – r – e –   – O – f – f – i – c – e –   – S – h – i – f – t – i – n – g –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – a – r – r – o – w – - – r – i – g – h – t – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – ! – - – - –   – S – e – r – v – i – c – e –   – 3 –   – - – - – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – c – a – r –   – f – a – - – 2 – x – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 3 – > – C – a – r –   – & –   – B – i – k – e –   – T – r – a – n – s – p – o – r – t – < – / – h – 3 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – S – p – e – c – i – a – l – i – z – e – d –   – e – n – c – l – o – s – e – d –   – h – y – d – r – a – u – l – i – c –   – c – a – r –   – c – a – r – r – i – e – r – s –   – a – n – d –   – 3 – - – l – a – y – e – r –   – s – c – r – a – t – c – h – - – f – r – e – e –   – b – i – k – e –   – t – r – a – n – s – i – t –   – w – i – t – h –   – f – u – l – l –   – d – o – o – r – - – t – o – - – d – o – o – r –   – i – n – s – u – r – a – n – c – e –   – c – o – v – e – r – a – g – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – a – r – - – p – a – r – k – i – n – g – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n – - – r – e – a – d – " – > – E – x – p – l – o – r – e –   – V – e – h – i – c – l – e –   – T – r – a – n – s – p – o – r – t –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – a – r – r – o – w – - – r – i – g – h – t – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – ! – - – - –   – S – e – r – v – i – c – e –   – 4 –   – - – - – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – b – o – x –   – f – a – - – 2 – x – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 3 – > – P – a – c – k – i – n – g –   – & –   – M – o – v – i – n – g – < – / – h – 3 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – P – r – e – m – i – u – m –   – 5 – - – p – l – y –   – c – o – r – r – u – g – a – t – e – d –   – c – a – r – t – o – n – s – , –   – b – u – b – b – l – e –   – w – r – a – p – , –   – f – o – a – m –   – c – o – r – n – e – r –   – p – r – o – t – e – c – t – o – r – s – , –   – a – n – d –   – c – u – s – t – o – m – i – z – e – d –   – w – o – o – d – e – n –   – c – r – a – t – i – n – g –   – f – o – r –   – f – r – a – g – i – l – e –   – g – l – a – s – s – w – a – r – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – p – a – r – k – i – n – g – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n – - – r – e – a – d – " – > – E – x – p – l – o – r – e –   – P – a – c – k – i – n – g –   – S – e – r – v – i – c – e – s –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – a – r – r – o – w – - – r – i – g – h – t – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – ! – - – - –   – S – e – r – v – i – c – e –   – 5 –   – - – - – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – u – s – e – r – s –   – f – a – - – 2 – x – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 3 – > – L – o – a – d – i – n – g –   – & –   – U – n – l – o – a – d – i – n – g – < – / – h – 3 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – T – r – a – i – n – e – d – , –   – b – a – c – k – g – r – o – u – n – d – - – v – e – r – i – f – i – e – d –   – f – u – l – l – - – t – i – m – e –   – l – o – a – d – i – n – g –   – c – r – e – w – s –   – e – q – u – i – p – p – e – d –   – w – i – t – h –   – h – y – d – r – a – u – l – i – c –   – d – o – l – l – i – e – s –   – a – n – d –   – s – a – f – e – t – y –   – h – a – r – n – e – s – s – e – s –   – f – o – r –   – h – e – a – v – y –   – i – t – e – m – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – l – o – a – d – i – n – g – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n – - – r – e – a – d – " – > – E – x – p – l – o – r – e –   – L – o – a – d – i – n – g –   – S – e – r – v – i – c – e – s –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – a – r – r – o – w – - – r – i – g – h – t – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – ! – - – - –   – S – e – r – v – i – c – e –   – 6 –   – - – - – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – s – e – r – v – i – c – e – - – c – a – r – d – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – w – a – r – e – h – o – u – s – e –   – f – a – - – 2 – x – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 3 – > – W – a – r – e – h – o – u – s – e –   – & –   – S – t – o – r – a – g – e – < – / – h – 3 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – 2 – 4 – x – 7 –   – C – C – T – V –   – m – o – n – i – t – o – r – e – d – , –   – m – o – i – s – t – u – r – e – - – r – e – s – i – s – t – a – n – t – , –   – p – e – s – t – - – c – o – n – t – r – o – l – l – e – d –   – w – a – r – e – h – o – u – s – e –   – f – a – c – i – l – i – t – y –   – a – t –   – D – e – w – a – s –   – N – a – k – a –   – f – o – r –   – s – h – o – r – t – - – t – e – r – m –   – a – n – d –   – l – o – n – g – - – t – e – r – m –   – s – t – o – r – a – g – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – w – a – r – e – h – o – u – s – e – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n – - – r – e – a – d – " – > – E – x – p – l – o – r – e –   – S – t – o – r – a – g – e –   – S – e – r – v – i – c – e – s –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – a – r – r – o – w – - – r – i – g – h – t – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – s – e – c – t – i – o – n – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – T – r – a – n – s – p – a – r – e – n – t –   – S – h – i – f – t – i – n – g –   – C – h – a – r – g – e – s –   – i – n –   – I – n – d – o – r – e –   – ( – 2 – 0 – 2 – 6 –   – R – a – t – e –   – L – i – s – t – ) –   – - – - – > – 
+ –   –   –   –   – < – s – e – c – t – i – o – n –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : –   – # – f – 8 – f – 9 – f – a – ; –   – p – a – d – d – i – n – g – : –   – 4 – 5 – p – x –   – 0 – ; – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – e – x – t – - – c – e – n – t – e – r – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 3 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 2 –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 2 – 6 – p – x – ; –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 8 – 0 – 0 – ; –   – c – o – l – o – r – : –   – # – 2 – 2 – 2 – ; – " – > – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – I – n – d – o – r – e –   – C – h – a – r – g – e – s –   – 2 – 0 – 2 – 6 –   – ( – T – r – a – n – s – p – a – r – e – n – t –   – R – a – t – e –   – L – i – s – t – ) – < – / – h – 2 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – p – x – ; – " – > – N – o –   – h – i – d – d – e – n –   – c – h – a – r – g – e – s – . –   – C – h – e – c – k –   – o – u – r –   – s – t – a – n – d – a – r – d –   – l – o – c – a – l –   – s – h – i – f – t – i – n – g –   – c – o – s – t –   – b – r – e – a – k – d – o – w – n –   – f – o – r –   – I – n – d – o – r – e –   – m – u – n – i – c – i – p – a – l –   – z – o – n – e – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – m – d – - – 8 –   – c – o – l – - – m – d – - – o – f – f – s – e – t – - – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – a – b – l – e –   – c – l – a – s – s – = – " – c – o – n – t – e – n – t – - – t – a – b – l – e – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – h – e – a – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – h – > – H – o – m – e –   – S – i – z – e –   – / –   – S – h – i – f – t – i – n – g –   – T – y – p – e – < – / – t – h – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – h – > – S – t – a – n – d – a – r – d –   – P – a – c – k – i – n – g –   – & –   – T – r – a – n – s – p – o – r – t – < – / – t – h – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – h – > – P – r – e – m – i – u – m –   – 5 – - – L – a – y – e – r –   – P – a – c – k – i – n – g – < – / – t – h – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – h – > – E – s – t – i – m – a – t – e – d –   – D – u – r – a – t – i – o – n – < – / – t – h – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – h – e – a – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – b – o – d – y – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – < – s – t – r – o – n – g – > – 1 –   – R – K –   – / –   – 1 –   – B – H – K –   – ( – F – e – w –   – G – o – o – d – s – ) – < – / – s – t – r – o – n – g – > – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 3 – , – 0 – 0 – 0 –   – - –   – ₹ – 4 – , – 8 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 4 – , – 5 – 0 – 0 –   – - –   – ₹ – 6 – , – 5 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – 3 –   – - –   – 4 –   – H – o – u – r – s – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – < – s – t – r – o – n – g – > – 2 –   – B – H – K –   – C – o – m – p – l – e – t – e –   – F – l – a – t – < – / – s – t – r – o – n – g – > – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 5 – , – 5 – 0 – 0 –   – - –   – ₹ – 8 – , – 5 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 7 – , – 5 – 0 – 0 –   – - –   – ₹ – 1 – 1 – , – 5 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – 5 –   – - –   – 7 –   – H – o – u – r – s – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – < – s – t – r – o – n – g – > – 3 –   – B – H – K –   – F – a – m – i – l – y –   – H – o – m – e – < – / – s – t – r – o – n – g – > – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 8 – , – 0 – 0 – 0 –   – - –   – ₹ – 1 – 2 – , – 5 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 1 – 1 – , – 0 – 0 – 0 –   – - –   – ₹ – 1 – 6 – , – 0 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – 6 –   – - –   – 8 –   – H – o – u – r – s – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – < – s – t – r – o – n – g – > – 4 –   – B – H – K –   – / –   – L – a – r – g – e –   – V – i – l – l – a – < – / – s – t – r – o – n – g – > – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 1 – 2 – , – 0 – 0 – 0 –   – - –   – ₹ – 1 – 8 – , – 0 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – ₹ – 1 – 5 – , – 0 – 0 – 0 –   – - –   – ₹ – 2 – 4 – , – 0 – 0 – 0 – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – t – d – > – 1 –   – - –   – 2 –   – D – a – y – s – < – / – t – d – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – r – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – b – o – d – y – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – t – a – b – l – e – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 1 – 3 – . – 5 – p – x – ; –   – c – o – l – o – r – : –   – # – 7 – 7 – 7 – ; –   – t – e – x – t – - – a – l – i – g – n – : –   – c – e – n – t – e – r – ; – " – > – F – o – r –   – c – o – m – p – l – e – t – e –   – i – n – t – e – r – c – i – t – y –   – p – r – i – c – e – s – , –   – r – o – u – t – e –   – t – r – a – n – s – i – t –   – t – i – m – e – s –   – & –   – f – a – c – t – o – r – s – , –   – r – e – a – d –   – o – u – r –   – c – o – m – p – r – e – h – e – n – s – i – v – e –   – < – a –   – h – r – e – f – = – " – b – l – o – g – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – - – c – h – a – r – g – e – s – - – g – u – i – d – e – . – p – h – p – " – > – < – s – t – r – o – n – g – > – P – a – c – k – e – r – s –   – & –   – M – o – v – e – r – s –   – I – n – d – o – r – e –   – C – h – a – r – g – e – s –   – G – u – i – d – e – < – / – s – t – r – o – n – g – > – < – / – a – > – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – s – e – c – t – i – o – n – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – W – h – y –   – C – h – o – o – s – e –   – A – p – n – a –   – P – a – c – k – e – r – s –   – - – - – > – 
+ –   –   –   –   – < – s – e – c – t – i – o – n –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " –   – s – t – y – l – e – = – " – p – a – d – d – i – n – g – - – t – o – p – : –   – 4 – 5 – p – x – ; –   – p – a – d – d – i – n – g – - – b – o – t – t – o – m – : –   – 3 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – e – x – t – - – c – e – n – t – e – r – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 3 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 2 –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 2 – 6 – p – x – ; –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 8 – 0 – 0 – ; –   – c – o – l – o – r – : –   – # – 2 – 2 – 2 – ; – " – > – W – h – y –   – C – h – o – o – s – e –   – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – I – n – d – o – r – e – ? – < – / – h – 2 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – p – x – ; – " – > – O – v – e – r –   – 1 – 0 –   – y – e – a – r – s –   – o – f –   – p – r – o – v – e – n –   – m – o – v – i – n – g –   – e – x – c – e – l – l – e – n – c – e –   – a – c – r – o – s – s –   – M – a – d – h – y – a –   – P – r – a – d – e – s – h – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 3 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – c – e – r – t – i – f – i – c – a – t – e – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – I – B – A –   – C – o – m – p – l – i – a – n – t –   – & –   – G – S – T –   – B – i – l – l – e – d – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – O – f – f – i – c – i – a – l –   – i – n – v – o – i – c – e – s –   – w – i – t – h –   – S – A – C –   – c – o – d – e – s –   – v – a – l – i – d –   – f – o – r –   – e – m – p – l – o – y – e – r –   – a – n – d –   – c – o – r – p – o – r – a – t – e –   – s – h – i – f – t – i – n – g –   – c – l – a – i – m – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 3 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – s – h – i – e – l – d – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – 5 – - – L – a – y – e – r –   – D – a – m – a – g – e – - – F – r – e – e –   – P – a – c – k – i – n – g – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – H – i – g – h – - – g – r – a – d – e –   – b – u – b – b – l – e –   – w – r – a – p – , –   – c – o – r – r – u – g – a – t – e – d –   – s – h – e – e – t – s – , –   – a – n – d –   – f – o – a – m –   – c – o – r – n – e – r – s –   – f – o – r –   – m – a – x – i – m – u – m –   – p – r – o – t – e – c – t – i – o – n – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 3 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – t – r – u – c – k – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – O – w – n –   – W – e – a – t – h – e – r – p – r – o – o – f –   – F – l – e – e – t – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – D – e – d – i – c – a – t – e – d –   – c – l – o – s – e – d –   – c – o – n – t – a – i – n – e – r –   – t – r – u – c – k – s –   – e – q – u – i – p – p – e – d –   – w – i – t – h –   – G – P – S –   – t – r – a – c – k – i – n – g –   – a – n – d –   – s – a – f – e – t – y –   – l – o – c – k – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 3 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – e – a – t – u – r – e – - – b – o – x – - – v – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – c – l – o – c – k – - – o – " – > – < – / – i – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – 2 – 4 – x – 7 –   – C – u – s – t – o – m – e – r –   – S – u – p – p – o – r – t – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – D – e – d – i – c – a – t – e – d –   – m – o – v – i – n – g –   – c – o – o – r – d – i – n – a – t – o – r –   – a – s – s – i – g – n – e – d –   – t – o –   – m – a – n – a – g – e –   – y – o – u – r –   – s – h – i – f – t –   – f – r – o – m –   – s – t – a – r – t –   – t – o –   – d – e – l – i – v – e – r – y – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – s – e – c – t – i – o – n – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – H – y – p – e – r – l – o – c – a – l –   – I – n – d – o – r – e –   – C – o – v – e – r – a – g – e –   – - – - – > – 
+ –   –   –   –   – < – s – e – c – t – i – o – n –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : –   – # – 1 – b – 2 – 6 – 3 – b – ; –   – c – o – l – o – r – : –   – # – f – f – f – ; –   – p – a – d – d – i – n – g – : –   – 4 – 0 – p – x –   – 0 – ; – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d –   – t – e – x – t – - – c – e – n – t – e – r – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 2 –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – f – c – a – 3 – 1 – 1 – ; –   – f – o – n – t – - – s – i – z – e – : –   – 2 – 6 – p – x – ; –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 8 – 0 – 0 – ; –   – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 1 – 5 – p – x – ; – " – > – S – e – r – v – i – n – g –   – A – l – l –   – N – e – i – g – h – b – o – r – h – o – o – d – s –   – A – c – r – o – s – s –   – I – n – d – o – r – e – < – / – h – 2 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – e – 0 – e – 1 – d – d – ; –   – m – a – x – - – w – i – d – t – h – : –   – 8 – 0 – 0 – p – x – ; –   – m – a – r – g – i – n – : –   – 0 –   – a – u – t – o –   – 2 – 5 – p – x – ; –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – . – 5 – p – x – ; – " – > – S – t – a – t – i – o – n – e – d –   – c – r – e – w – s –   – r – e – a – d – y –   – f – o – r –   – s – a – m – e – - – d – a – y –   – a – n – d –   – s – c – h – e – d – u – l – e – d –   – d – i – s – p – a – t – c – h – e – s –   – i – n – : – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – p – x – ; –   – l – i – n – e – - – h – e – i – g – h – t – : –   – 2 – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – V – i – j – a – y –   – N – a – g – a – r – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – P – a – l – a – s – i – a – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – B – h – a – w – a – r – k – u – a – n – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – R – a – j – w – a – d – a – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – R – a – u –   – & –   – S – i – l – i – c – o – n –   – C – i – t – y – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – D – e – w – a – s –   – N – a – k – a – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – S – u – d – a – m – a –   – N – a – g – a – r – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – S – u – p – e – r –   – C – o – r – r – i – d – o – r – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – N – i – p – a – n – i – a – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n –   – c – l – a – s – s – = – " – b – a – d – g – e – " –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – m – a – r – g – i – n – : –   – 4 – p – x – ; –   – p – a – d – d – i – n – g – : –   – 8 – p – x –   – 1 – 4 – p – x – ; – " – > – B – e – n – g – a – l – i –   – S – q – u – a – r – e – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – t – o – p – : –   – 2 – 0 – p – x – ; – " – > – < – a –   – h – r – e – f – = – " – b – l – o – g – - – l – o – c – a – l – i – t – y – - – w – i – s – e – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – . – p – h – p – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – f – c – a – 3 – 1 – 1 – ; –   – t – e – x – t – - – d – e – c – o – r – a – t – i – o – n – : –   – u – n – d – e – r – l – i – n – e – ; –   – f – o – n – t – - – w – e – i – g – h – t – : –   – b – o – l – d – ; – " – > – R – e – a – d –   – 1 – 0 –   – L – o – c – a – l – i – t – y – - – W – i – s – e –   – S – h – i – f – t – i – n – g –   – G – u – i – d – e –   – i – n –   – I – n – d – o – r – e –   – & – r – a – r – r – ; – < – / – a – > – < – / – p – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – s – e – c – t – i – o – n – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – T – o – p –   – S – h – i – f – t – i – n – g –   – G – u – i – d – e – s –   – & –   – B – l – o – g – s –   – S – e – c – t – i – o – n –   – - – - – > – 
+ –   –   –   –   – < – s – e – c – t – i – o – n –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " –   – s – t – y – l – e – = – " – p – a – d – d – i – n – g – - – t – o – p – : –   – 4 – 5 – p – x – ; –   – p – a – d – d – i – n – g – - – b – o – t – t – o – m – : –   – 4 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – e – x – t – - – c – e – n – t – e – r – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 3 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 2 –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 2 – 6 – p – x – ; –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 8 – 0 – 0 – ; –   – c – o – l – o – r – : –   – # – 2 – 2 – 2 – ; – " – > – L – a – t – e – s – t –   – R – e – l – o – c – a – t – i – o – n –   – G – u – i – d – e – s –   – & –   – C – h – e – c – k – l – i – s – t – s –   – f – o – r –   – I – n – d – o – r – e – < – / – h – 2 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – p – x – ; – " – > – R – e – a – d –   – e – x – p – e – r – t –   – a – r – t – i – c – l – e – s –   – o – n –   – r – a – t – e –   – l – i – s – t – s – , –   – m – o – v – i – n – g –   – c – h – e – c – k – l – i – s – t – s – , –   – v – e – h – i – c – l – e –   – c – a – r – r – i – e – r –   – a – d – v – i – c – e – , –   – a – n – d –   – p – a – c – k – i – n – g –   – t – i – p – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – s – t – y – l – e – = – " – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – e – e – e – ; –   – p – a – d – d – i – n – g – : –   – 1 – 8 – p – x – ; –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 4 – p – x – ; –   – b – a – c – k – g – r – o – u – n – d – : –   – # – f – f – f – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 –   – s – t – y – l – e – = – " – f – o – n – t – - – w – e – i – g – h – t – : –   – 7 – 0 – 0 – ; –   – m – a – r – g – i – n – - – t – o – p – : –   – 0 – ; – " – > – < – a –   – h – r – e – f – = – " – b – l – o – g – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – - – c – h – a – r – g – e – s – - – g – u – i – d – e – . – p – h – p – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – 2 – 2 – 2 – ; – " – > – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – I – n – d – o – r – e –   – C – h – a – r – g – e – s –   – 2 – 0 – 2 – 6 – < – / – a – > – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 1 – 3 – . – 5 – p – x – ; –   – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; – " – > – C – o – m – p – l – e – t – e –   – p – r – i – c – e –   – g – u – i – d – e –   – f – o – r –   – 1 – B – H – K – , –   – 2 – B – H – K – , –   – 3 – B – H – K –   – l – o – c – a – l –   – m – o – v – e – s –   – a – n – d –   – i – n – t – e – r – c – i – t – y –   – c – o – s – t –   – c – a – l – c – u – l – a – t – i – o – n – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – b – l – o – g – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – - – c – h – a – r – g – e – s – - – g – u – i – d – e – . – p – h – p – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – f – o – n – t – - – w – e – i – g – h – t – : – b – o – l – d – ; –   – f – o – n – t – - – s – i – z – e – : – 1 – 3 – p – x – ; – " – > – R – e – a – d –   – G – u – i – d – e –   – & – r – a – r – r – ; – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – s – t – y – l – e – = – " – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – e – e – e – ; –   – p – a – d – d – i – n – g – : –   – 1 – 8 – p – x – ; –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 4 – p – x – ; –   – b – a – c – k – g – r – o – u – n – d – : –   – # – f – f – f – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 –   – s – t – y – l – e – = – " – f – o – n – t – - – w – e – i – g – h – t – : –   – 7 – 0 – 0 – ; –   – m – a – r – g – i – n – - – t – o – p – : –   – 0 – ; – " – > – < – a –   – h – r – e – f – = – " – b – l – o – g – - – b – e – s – t – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – - – g – u – i – d – e – . – p – h – p – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – 2 – 2 – 2 – ; – " – > – H – o – w –   – t – o –   – C – h – o – o – s – e –   – B – e – s – t –   – P – a – c – k – e – r – s –   – & –   – M – o – v – e – r – s –   – i – n –   – I – n – d – o – r – e – < – / – a – > – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 1 – 3 – . – 5 – p – x – ; –   – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; – " – > – 1 – 0 – - – p – o – i – n – t –   – c – h – e – c – k – l – i – s – t –   – t – o –   – v – e – r – i – f – y –   – G – S – T – , –   – I – B – A –   – e – m – p – a – n – e – l – m – e – n – t – , –   – a – n – d –   – p – r – e – v – e – n – t –   – m – o – v – i – n – g –   – f – r – a – u – d – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – b – l – o – g – - – b – e – s – t – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – - – g – u – i – d – e – . – p – h – p – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – f – o – n – t – - – w – e – i – g – h – t – : – b – o – l – d – ; –   – f – o – n – t – - – s – i – z – e – : – 1 – 3 – p – x – ; – " – > – R – e – a – d –   – G – u – i – d – e –   – & – r – a – r – r – ; – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 6 –   – c – o – l – - – m – d – - – 4 – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 2 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – s – t – y – l – e – = – " – b – o – r – d – e – r – : –   – 1 – p – x –   – s – o – l – i – d –   – # – e – e – e – ; –   – p – a – d – d – i – n – g – : –   – 1 – 8 – p – x – ; –   – b – o – r – d – e – r – - – r – a – d – i – u – s – : –   – 4 – p – x – ; –   – b – a – c – k – g – r – o – u – n – d – : –   – # – f – f – f – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 –   – s – t – y – l – e – = – " – f – o – n – t – - – w – e – i – g – h – t – : –   – 7 – 0 – 0 – ; –   – m – a – r – g – i – n – - – t – o – p – : –   – 0 – ; – " – > – < – a –   – h – r – e – f – = – " – b – l – o – g – - – o – f – f – i – c – e – - – r – e – l – o – c – a – t – i – o – n – - – c – h – e – c – k – l – i – s – t – - – i – n – d – o – r – e – . – p – h – p – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – 2 – 2 – 2 – ; – " – > – O – f – f – i – c – e –   – R – e – l – o – c – a – t – i – o – n –   – C – h – e – c – k – l – i – s – t –   – f – o – r –   – I – n – d – o – r – e – < – / – a – > – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 1 – 3 – . – 5 – p – x – ; –   – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; – " – > – Z – e – r – o – - – d – o – w – n – t – i – m – e –   – c – o – r – p – o – r – a – t – e –   – s – h – i – f – t – i – n – g –   – g – u – i – d – e –   – f – o – r –   – I – T –   – s – e – r – v – e – r – s –   – a – n – d –   – m – o – d – u – l – a – r –   – f – u – r – n – i – t – u – r – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – b – l – o – g – - – o – f – f – i – c – e – - – r – e – l – o – c – a – t – i – o – n – - – c – h – e – c – k – l – i – s – t – - – i – n – d – o – r – e – . – p – h – p – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – f – o – n – t – - – w – e – i – g – h – t – : – b – o – l – d – ; –   – f – o – n – t – - – s – i – z – e – : – 1 – 3 – p – x – ; – " – > – R – e – a – d –   – G – u – i – d – e –   – & – r – a – r – r – ; – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – e – x – t – - – c – e – n – t – e – r – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – t – o – p – : –   – 1 – 5 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – b – l – o – g – s – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n –   – b – t – n – - – d – e – f – a – u – l – t – " –   – s – t – y – l – e – = – " – f – o – n – t – - – w – e – i – g – h – t – : – b – o – l – d – ; –   – b – o – r – d – e – r – - – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; –   – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – V – i – e – w –   – A – l – l –   – 1 – 0 –   – S – h – i – f – t – i – n – g –   – G – u – i – d – e – s –   – & – r – a – r – r – ; – < – / – a – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – s – e – c – t – i – o – n – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – F – A – Q –   – S – e – c – t – i – o – n –   – ( – A – E – O –   – S – t – r – u – c – t – u – r – e – d – ) –   – - – - – > – 
+ –   –   –   –   – < – s – e – c – t – i – o – n –   – s – t – y – l – e – = – " – b – a – c – k – g – r – o – u – n – d – : –   – # – f – 8 – f – 9 – f – a – ; –   – p – a – d – d – i – n – g – : –   – 4 – 5 – p – x –   – 0 – ; – " – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – t – e – x – t – - – c – e – n – t – e – r – " –   – s – t – y – l – e – = – " – m – a – r – g – i – n – - – b – o – t – t – o – m – : –   – 3 – 0 – p – x – ; – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 2 –   – s – t – y – l – e – = – " – f – o – n – t – - – s – i – z – e – : –   – 2 – 6 – p – x – ; –   – f – o – n – t – - – w – e – i – g – h – t – : –   – 8 – 0 – 0 – ; –   – c – o – l – o – r – : –   – # – 2 – 2 – 2 – ; – " – > – F – r – e – q – u – e – n – t – l – y –   – A – s – k – e – d –   – Q – u – e – s – t – i – o – n – s –   – A – b – o – u – t –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – I – n – d – o – r – e – < – / – h – 2 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p –   – s – t – y – l – e – = – " – c – o – l – o – r – : –   – # – 6 – 6 – 6 – ; –   – f – o – n – t – - – s – i – z – e – : –   – 1 – 5 – p – x – ; – " – > – A – n – s – w – e – r – s –   – t – o –   – c – o – m – m – o – n – l – y –   – a – s – k – e – d –   – q – u – e – s – t – i – o – n – s –   – r – e – g – a – r – d – i – n – g –   – s – h – i – f – t – i – n – g –   – c – h – a – r – g – e – s – , –   – s – a – f – e – t – y – , –   – a – n – d –   – t – i – m – i – n – g – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – m – d – - – 8 –   – c – o – l – - – m – d – - – o – f – f – s – e – t – - – 2 – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – a – q – - – b – o – x – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – q – u – e – s – t – i – o – n – - – c – i – r – c – l – e – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > –   – H – o – w –   – m – u – c – h –   – d – o –   – p – a – c – k – e – r – s –   – a – n – d –   – m – o – v – e – r – s –   – c – h – a – r – g – e –   – i – n –   – I – n – d – o – r – e –   – f – o – r –   – h – o – u – s – e –   – s – h – i – f – t – i – n – g – ? – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – I – n –   – 2 – 0 – 2 – 6 – , –   – l – o – c – a – l –   – h – o – u – s – e –   – s – h – i – f – t – i – n – g –   – c – h – a – r – g – e – s –   – i – n –   – I – n – d – o – r – e –   – r – a – n – g – e –   – f – r – o – m –   – ₹ – 3 – , – 0 – 0 – 0 –   – t – o –   – ₹ – 5 – , – 5 – 0 – 0 –   – f – o – r –   – 1 –   – B – H – K – , –   – ₹ – 5 – , – 5 – 0 – 0 –   – t – o –   – ₹ – 9 – , – 5 – 0 – 0 –   – f – o – r –   – 2 –   – B – H – K – , –   – a – n – d –   – ₹ – 8 – , – 0 – 0 – 0 –   – t – o –   – ₹ – 1 – 6 – , – 0 – 0 – 0 –   – f – o – r –   – 3 –   – B – H – K –   – h – o – m – e – s – . –   – P – r – i – c – e – s –   – i – n – c – l – u – d – e –   – c – o – m – p – l – e – t – e –   – 5 – - – l – a – y – e – r –   – p – a – c – k – i – n – g – , –   – l – o – a – d – i – n – g – , –   – t – r – a – n – s – p – o – r – t – , –   – a – n – d –   – u – n – l – o – a – d – i – n – g – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – a – q – - – b – o – x – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – q – u – e – s – t – i – o – n – - – c – i – r – c – l – e – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > –   – W – h – y –   – i – s –   – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – c – o – n – s – i – d – e – r – e – d –   – t – h – e –   – b – e – s – t –   – i – n –   – I – n – d – o – r – e – ? – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – i – s –   – G – S – T –   – r – e – g – i – s – t – e – r – e – d – , –   – I – B – A –   – c – o – m – p – l – i – a – n – t – , –   – m – a – i – n – t – a – i – n – s –   – a –   – p – h – y – s – i – c – a – l –   – h – u – b –   – a – t –   – D – e – w – a – s –   – N – a – k – a – , –   – p – r – o – v – i – d – e – s –   – 5 – - – l – a – y – e – r –   – b – u – b – b – l – e –   – p – a – c – k – i – n – g – , –   – o – p – e – r – a – t – e – s –   – c – l – o – s – e – d –   – c – o – n – t – a – i – n – e – r –   – t – r – u – c – k – s – , –   – a – n – d –   – h – a – s –   – s – e – r – v – e – d –   – 2 – , – 5 – 0 – 0 – + –   – s – a – t – i – s – f – i – e – d –   – f – a – m – i – l – i – e – s –   – w – i – t – h –   – 1 – 0 – 0 – % –   – z – e – r – o – - – d – a – m – a – g – e –   – g – u – a – r – a – n – t – e – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – a – q – - – b – o – x – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – q – u – e – s – t – i – o – n – - – c – i – r – c – l – e – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > –   – W – h – i – c – h –   – a – r – e – a – s –   – i – n –   – I – n – d – o – r – e –   – d – o –   – y – o – u –   – c – o – v – e – r –   – f – o – r –   – l – o – c – a – l –   – s – h – i – f – t – i – n – g – ? – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – W – e –   – p – r – o – v – i – d – e –   – d – o – o – r – s – t – e – p –   – m – o – v – i – n – g –   – a – c – r – o – s – s –   – a – l – l –   – I – n – d – o – r – e –   – l – o – c – a – l – i – t – i – e – s –   – i – n – c – l – u – d – i – n – g –   – V – i – j – a – y –   – N – a – g – a – r – , –   – P – a – l – a – s – i – a – , –   – B – h – a – w – a – r – k – u – a – n – , –   – R – a – j – w – a – d – a – , –   – R – a – u – , –   – D – e – w – a – s –   – N – a – k – a – , –   – S – u – d – a – m – a –   – N – a – g – a – r – , –   – S – u – p – e – r –   – C – o – r – r – i – d – o – r – , –   – N – i – p – a – n – i – a – , –   – M – a – h – a – l – a – x – m – i –   – N – a – g – a – r – , –   – a – n – d –   – A – B –   – R – o – a – d – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – a – q – - – b – o – x – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – q – u – e – s – t – i – o – n – - – c – i – r – c – l – e – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > –   – D – o –   – y – o – u –   – p – r – o – v – i – d – e –   – c – a – r –   – a – n – d –   – b – i – k – e –   – t – r – a – n – s – p – o – r – t –   – s – e – r – v – i – c – e – s –   – f – r – o – m –   – I – n – d – o – r – e – ? – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – Y – e – s – , –   – w – e –   – o – p – e – r – a – t – e –   – s – p – e – c – i – a – l – i – z – e – d –   – e – n – c – l – o – s – e – d –   – c – a – r –   – c – a – r – r – i – e – r –   – t – r – a – i – l – e – r – s –   – a – n – d –   – s – c – r – a – t – c – h – - – f – r – e – e –   – t – w – o – - – w – h – e – e – l – e – r –   – p – a – c – k – a – g – i – n – g –   – f – o – r –   – d – o – o – r – - – t – o – - – d – o – o – r –   – v – e – h – i – c – l – e –   – d – e – l – i – v – e – r – y –   – t – o –   – B – h – o – p – a – l – , –   – M – u – m – b – a – i – , –   – P – u – n – e – , –   – D – e – l – h – i – , –   – a – n – d –   – a – l – l –   – I – n – d – i – a – n –   – c – i – t – i – e – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – a – q – - – b – o – x – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – q – u – e – s – t – i – o – n – - – c – i – r – c – l – e – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – e – 3 – 1 – e – 2 – 4 – ; – " – > – < – / – i – > –   – A – r – e –   – t – h – e – r – e –   – a – n – y –   – h – i – d – d – e – n –   – c – o – s – t – s –   – c – h – a – r – g – e – d –   – o – n –   – m – o – v – i – n – g –   – d – a – y – ? – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – N – o – , –   – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s –   – p – r – o – v – i – d – e – s –   – a –   – 1 – 0 – 0 – % –   – w – r – i – t – t – e – n –   – b – i – n – d – i – n – g –   – q – u – o – t – a – t – i – o – n –   – w – i – t – h –   – t – r – a – n – s – p – a – r – e – n – t –   – G – S – T –   – t – a – x –   – b – r – e – a – k – d – o – w – n –   – a – n – d –   – z – e – r – o –   – h – i – d – d – e – n –   – d – e – l – i – v – e – r – y –   – c – h – a – r – g – e – s – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – s – e – c – t – i – o – n – > – 
+ – 
+ –   –   –   –   – < – ! – - – - –   – F – o – o – t – e – r –   – - – - – > – 
+ –   –   –   –   – < – f – o – o – t – e – r – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – o – r – - – p – a – r – t – 2 – " – > – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – o – r – - – p – a – r – t – " – > – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – n – t – a – i – n – e – r – - – f – l – u – i – d – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – r – o – w –   – b – l – o – c – k – - – c – o – n – t – e – n – t – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 4 –   – w – o – w –   – z – o – o – m – I – n – " –   – d – a – t – a – - – w – o – w – - – d – e – l – a – y – = – " – 0 – . – 3 – s – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – p – > – < – s – t – r – o – n – g – > – A – p – n – a –   – P – a – c – k – e – r – s –   – a – n – d –   – M – o – v – e – r – s – < – / – s – t – r – o – n – g – > –   – i – s –   – I – n – d – o – r – e – ' – s –   – t – o – p – - – r – a – t – e – d – , –   – I – B – A –   – c – o – m – p – l – i – a – n – t – , –   – a – n – d –   – G – S – T –   – r – e – g – i – s – t – e – r – e – d –   – m – o – v – i – n – g –   – c – o – m – p – a – n – y – . –   – H – e – a – d – q – u – a – r – t – e – r – e – d –   – a – t –   – D – e – w – a – s –   – N – a – k – a – , –   – w – e –   – p – r – o – v – i – d – e –   – t – r – u – s – t – e – d –   – l – o – c – a – l –   – h – o – u – s – e –   – s – h – i – f – t – i – n – g – , –   – o – f – f – i – c – e –   – r – e – l – o – c – a – t – i – o – n – , –   – v – e – h – i – c – l – e –   – t – r – a – n – s – p – o – r – t – a – t – i – o – n – , –   – a – n – d –   – i – n – t – e – r – c – i – t – y –   – s – h – i – f – t – i – n – g –   – a – c – r – o – s – s –   – M – a – d – h – y – a –   – P – r – a – d – e – s – h –   – a – n – d –   – a – l – l –   – m – a – j – o – r –   – I – n – d – i – a – n –   – c – i – t – i – e – s –   – w – i – t – h –   – 1 – 0 – 0 – % –   – z – e – r – o – - – d – a – m – a – g – e –   – g – u – a – r – a – n – t – e – e – . – < – / – p – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – f – o – o – t – e – r – - – i – c – o – n – s – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – f – a – c – e – b – o – o – k – . – c – o – m – / – a – p – m – i – n – d – o – r – e – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – f – a – c – e – b – o – o – k – - – s – q – u – a – r – e –   – f – a – - – 2 – x – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – y – o – u – t – u – b – e – . – c – o – m – / – c – h – a – n – n – e – l – / – U – C – u – d – E – H – z – L – 2 – d – s – - – M – w – 5 – 1 – C – a – y – G – c – e – - – w – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – y – o – u – t – u – b – e – - – s – q – u – a – r – e –   – f – a – - – 2 – x – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – t – w – i – t – t – e – r – . – c – o – m – / – M – o – v – e – r – s – A – p – n – a – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – t – w – i – t – t – e – r – - – s – q – u – a – r – e –   – f – a – - – 2 – x – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – i – n – s – t – a – g – r – a – m – . – c – o – m – / – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – / – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – i – n – s – t – a – g – r – a – m –   – f – a – - – 2 – x – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – l – i – n – k – e – d – i – n – . – c – o – m – / – i – n – / – a – p – n – a – p – a – c – k – e – r – s – i – n – d – o – r – e – / – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – l – i – n – k – e – d – i – n –   – f – a – - – 2 – x – " – > – < – / – i – > – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – o – n – t – a – c – t – . – p – h – p – " –   – c – l – a – s – s – = – " – b – t – n –   – b – t – n – - – l – g –   – b – t – n – - – d – a – n – g – e – r – " – > – G – E – T –   – A –   – F – R – E – E –   – Q – U – O – T – E – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 2 –   – w – o – w –   – z – o – o – m – I – n – " –   – d – a – t – a – - – w – o – w – - – d – e – l – a – y – = – " – 0 – . – 3 – s – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – O – U – R –   – S – E – R – V – I – C – E – S – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – n – a – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – r – e – l – o – c – a – t – i – o – n – . – p – h – p – " – > – H – o – u – s – e –   – S – h – i – f – t – i – n – g – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – o – f – f – i – c – e – - – r – e – l – o – c – a – t – i – o – n – . – p – h – p – " – > – O – f – f – i – c – e –   – R – e – l – o – c – a – t – i – o – n – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – a – r – - – p – a – r – k – i – n – g – . – p – h – p – " – > – C – a – r –   – & –   – B – i – k – e –   – T – r – a – n – s – p – o – r – t – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – p – a – r – k – i – n – g – . – p – h – p – " – > – P – a – c – k – i – n – g –   – & –   – M – o – v – i – n – g – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – l – o – a – d – i – n – g – . – p – h – p – " – > – L – o – a – d – i – n – g –   – & –   – U – n – l – o – a – d – i – n – g – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – w – a – r – e – h – o – u – s – e – . – p – h – p – " – > – W – a – r – e – h – o – u – s – e –   – & –   – S – t – o – r – a – g – e – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – i – n – s – u – r – e – n – c – e – . – p – h – p – " – > – T – r – a – n – s – i – t –   – I – n – s – u – r – a – n – c – e – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – n – a – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 2 –   – w – o – w –   – z – o – o – m – I – n – " –   – d – a – t – a – - – w – o – w – - – d – e – l – a – y – = – " – 0 – . – 3 – s – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – M – A – I – N –   – L – I – N – K – S – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – n – a – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – i – n – d – e – x – . – p – h – p – " – > – H – o – m – e – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – a – b – o – u – t – . – p – h – p – " – > – A – b – o – u – t –   – U – s – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – p – r – o – c – e – s – s – . – p – h – p – " – > – P – r – o – c – e – s – s – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – b – r – a – n – c – h – . – p – h – p – " – > – B – r – a – n – c – h – e – s – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – c – o – n – t – a – c – t – . – p – h – p – " – > – C – o – n – t – a – c – t –   – U – s – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – p – a – c – k – e – r – s – - – a – n – d – - – m – o – v – e – r – s – - – i – n – - – i – n – d – o – r – e – - – b – l – o – g – s – . – p – h – p – " – > – S – h – i – f – t – i – n – g –   – B – l – o – g – s –   – & –   – G – u – i – d – e – s – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – w – w – w – . – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – . – c – o – m – / – c – a – s – e – - – s – t – u – d – y – - – p – a – c – k – e – r – s – - – m – o – v – e – r – s – - – i – n – d – o – r – e – . – p – h – p – " – > – C – a – s – e –   – S – t – u – d – i – e – s – < – / – a – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – n – a – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – l – - – s – m – - – 4 –   – w – o – w –   – z – o – o – m – I – n – " –   – d – a – t – a – - – w – o – w – - – d – e – l – a – y – = – " – 0 – . – 3 – s – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – h – 4 – > – I – N – D – O – R – E –   – C – O – N – T – A – C – T –   – & –   – G – E – O –   – I – N – F – O – < – / – h – 4 – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – S – e – r – v – i – n – g –   – a – l – l –   – z – o – n – e – s –   – o – f –   – I – n – d – o – r – e –   – ( – V – i – j – a – y –   – N – a – g – a – r – , –   – P – a – l – a – s – i – a – , –   – B – h – a – w – a – r – k – u – a – n – , –   – R – a – j – w – a – d – a – , –   – R – a – u – , –   – D – e – w – a – s –   – N – a – k – a – , –   – S – u – d – a – m – a –   – N – a – g – a – r – , –   – S – u – p – e – r –   – C – o – r – r – i – d – o – r – ) –   – a – n – d –   – I – n – d – i – a – . – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – n – t – a – c – t – - – i – n – f – o – " – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – m – a – p – - – m – a – r – k – e – r – " – > – < – / – i – > – < – s – t – r – o – n – g – > – < – / – s – t – r – o – n – g – > – S – h – o – p –   – B – - – 3 – , –   – G – o – y – a – l –   – C – o – m – p – o – u – n – d – , –   – T – . – T – . –   – N – a – g – a – r – , –   – D – e – w – a – s –   – N – a – k – a – , –   – b – e – h – i – n – d –   – M – e – t – r – o –   – M – a – l – l – , –   – I – n – d – o – r – e –   – ( – M – P – ) –   – - –   – 4 – 5 – 2 – 0 – 1 – 0 – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – p – h – o – n – e – " – > – < – / – i – > – < – a –   – h – r – e – f – = – " – t – e – l – : – + – 9 – 1 – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – c – c – c – ; – " – > – + – 9 – 1 –   – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – < – / – a – > – , –   – < – a –   – h – r – e – f – = – " – t – e – l – : – + – 9 – 1 – 8 – 8 – 2 – 7 – 6 – 5 – 0 – 4 – 9 – 9 – " –   – s – t – y – l – e – = – " – c – o – l – o – r – : – # – c – c – c – ; – " – > – + – 9 – 1 – - – 8 – 8 – 2 – 7 – 6 – 5 – 0 – 4 – 9 – 9 – < – / – a – > – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – e – n – v – e – l – o – p – e – " – > – < – / – i – > – a – p – n – a – p – a – c – k – e – r – s – m – o – v – e – r – s – @ – g – m – a – i – l – . – c – o – m – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – s – p – a – n – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – c – l – o – c – k – - – o – " – > – < – / – i – > – 2 – 4 – x – 7 –   – H – e – l – p – l – i – n – e – , –   – M – o – n – - – S – u – n – < – / – s – p – a – n – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   –   –   –   –   – < – d – i – v –   – c – l – a – s – s – = – " – c – o – p – y –   – t – e – x – t – - – r – i – g – h – t – " – > – < – a –   – i – d – = – " – t – o – - – t – o – p – " –   – h – r – e – f – = – " – # – t – h – i – s – - – i – s – - – t – o – p – " – > – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – c – h – e – v – r – o – n – - – u – p – " – > – < – / – i – > – < – / – a – > –   – & – c – o – p – y – ; –   – 2 – 0 – 2 – 6 –   – A – p – n – a –   – P – a – c – k – e – r – s –   – & –   – M – o – v – e – r – s – . –   – A – l – l –   – r – i – g – h – t – s –   – r – e – s – e – r – v – e – d – . – < – / – d – i – v – > – 
+ –   –   –   –   –   –   –   –   – < – / – d – i – v – > – 
+ –   –   –   –   – < – / – f – o – o – t – e – r – > – 
+ – < – / – d – i – v – > – 
+ – 
+ – < – ! – - – - –   – O – p – t – i – m – i – z – e – d –   – D – e – f – e – r – r – e – d –   – S – c – r – i – p – t – s –   – ( – Z – e – r – o –   – M – a – i – n – - – T – h – r – e – a – d –   – B – l – o – c – k – i – n – g – ) –   – - – - – > – 
+ – < – s – c – r – i – p – t –   – s – r – c – = – " – j – s – / – j – q – u – e – r – y – - – 1 – . – 1 – 1 – . – 3 – . – m – i – n – . – j – s – " –   – d – e – f – e – r – > – < – / – s – c – r – i – p – t – > – 
+ – < – s – c – r – i – p – t –   – s – r – c – = – " – j – s – / – b – o – o – t – s – t – r – a – p – . – m – i – n – . – j – s – " –   – d – e – f – e – r – > – < – / – s – c – r – i – p – t – > – 
+ – < – s – c – r – i – p – t –   – s – r – c – = – " – j – s – / – t – h – e – m – e – . – j – s – " –   – d – e – f – e – r – > – < – / – s – c – r – i – p – t – > – 
+ – 
+ – < – ! – - – - –   – W – h – a – t – s – A – p – p –   – F – l – o – a – t – i – n – g –   – B – u – t – t – o – n –   – - – - – > – 
+ – < – a –   – h – r – e – f – = – " – h – t – t – p – s – : – / – / – a – p – i – . – w – h – a – t – s – a – p – p – . – c – o – m – / – s – e – n – d – ? – p – h – o – n – e – = – 9 – 1 – 9 – 8 – 0 – 6 – 4 – 7 – 0 – 8 – 9 – 9 – & – t – e – x – t – = – H – e – l – l – o – % – 2 – 0 – A – p – n – a – % – 2 – 0 – P – a – c – k – e – r – s – % – 2 – 0 – a – n – d – % – 2 – 0 – M – o – v – e – r – s – , – % – 2 – 0 – I – % – 2 – 0 – n – e – e – d – % – 2 – 0 – a – % – 2 – 0 – s – h – i – f – t – i – n – g – % – 2 – 0 – q – u – o – t – e – . – " –   – c – l – a – s – s – = – " – f – l – o – a – t – " –   – t – a – r – g – e – t – = – " – _ – b – l – a – n – k – " –   – a – r – i – a – - – l – a – b – e – l – = – " – W – h – a – t – s – A – p – p –   – U – s – " – > – 
+ –   –   –   –   – < – i –   – c – l – a – s – s – = – " – f – a –   – f – a – - – w – h – a – t – s – a – p – p –   – m – y – - – f – l – o – a – t – " – > – < – / – i – > – 
+ – < – / – a – > – 
+ – 
+ – < – ! – - – - –   – L – a – z – y – - – L – o – a – d – e – d –   – T – a – w – k – . – t – o –   – L – i – v – e –   – C – h – a – t –   – ( – L – o – a – d – s –   – o – n – l – y –   – o – n –   – u – s – e – r –   – i – n – t – e – r – a – c – t – i – o – n –   – o – r –   – 4 – s –   – t – i – m – e – o – u – t – ) –   – - – - – > – 
+ – < – s – c – r – i – p – t – > – 
+ – v – a – r –   – t – a – w – k – L – o – a – d – e – d –   – = –   – f – a – l – s – e – ; – 
+ – f – u – n – c – t – i – o – n –   – l – o – a – d – T – a – w – k – T – o – ( – ) –   – { – 
+ –   –   –   –   – i – f –   – ( – t – a – w – k – L – o – a – d – e – d – ) –   – r – e – t – u – r – n – ; – 
+ –   –   –   –   – t – a – w – k – L – o – a – d – e – d –   – = –   – t – r – u – e – ; – 
+ –   –   –   –   – v – a – r –   – s – 1 –   – = –   – d – o – c – u – m – e – n – t – . – c – r – e – a – t – e – E – l – e – m – e – n – t – ( – " – s – c – r – i – p – t – " – ) – , –   – s – 0 –   – = –   – d – o – c – u – m – e – n – t – . – g – e – t – E – l – e – m – e – n – t – s – B – y – T – a – g – N – a – m – e – ( – " – s – c – r – i – p – t – " – ) – [ – 0 – ] – ; – 
+ –   –   –   –   – s – 1 – . – a – s – y – n – c –   – = –   – t – r – u – e – ; – 
+ –   –   –   –   – s – 1 – . – s – r – c –   – = –   – ' – h – t – t – p – s – : – / – / – e – m – b – e – d – . – t – a – w – k – . – t – o – / – 6 – 3 – 2 – 5 – 8 – 0 – 4 – 5 – 5 – 4 – f – 0 – 6 – e – 1 – 2 – d – 8 – 9 – 5 – 3 – b – 9 – b – / – 1 – g – d – 5 – 7 – q – 4 – l – k – ' – ; – 
+ –   –   –   –   – s – 1 – . – c – h – a – r – s – e – t –   – = –   – ' – U – T – F – - – 8 – ' – ; – 
+ –   –   –   –   – s – 1 – . – s – e – t – A – t – t – r – i – b – u – t – e – ( – ' – c – r – o – s – s – o – r – i – g – i – n – ' – , –   – ' – * – ' – ) – ; – 
+ –   –   –   –   – s – 0 – . – p – a – r – e – n – t – N – o – d – e – . – i – n – s – e – r – t – B – e – f – o – r – e – ( – s – 1 – , –   – s – 0 – ) – ; – 
+ – } – 
+ – [ – ' – s – c – r – o – l – l – ' – , –   – ' – m – o – u – s – e – m – o – v – e – ' – , –   – ' – t – o – u – c – h – s – t – a – r – t – ' – , –   – ' – c – l – i – c – k – ' – , –   – ' – k – e – y – d – o – w – n – ' – ] – . – f – o – r – E – a – c – h – ( – f – u – n – c – t – i – o – n – ( – e – v – t – ) –   – { – 
+ –   –   –   –   – w – i – n – d – o – w – . – a – d – d – E – v – e – n – t – L – i – s – t – e – n – e – r – ( – e – v – t – , –   – l – o – a – d – T – a – w – k – T – o – , –   – { –   – o – n – c – e – : –   – t – r – u – e – , –   – p – a – s – s – i – v – e – : –   – t – r – u – e –   – } – ) – ; – 
+ – } – ) – ; – 
+ – s – e – t – T – i – m – e – o – u – t – ( – l – o – a – d – T – a – w – k – T – o – , –   – 4 – 0 – 0 – 0 – ) – ; – 
+ – < – / – s – c – r – i – p – t – > – 
+ – 
+ – < – n – o – s – c – r – i – p – t – > – < – i – f – r – a – m – e –   – s – r – c – = – " – h – t – t – p – s – : – / – / – w – w – w – . – g – o – o – g – l – e – t – a – g – m – a – n – a – g – e – r – . – c – o – m – / – n – s – . – h – t – m – l – ? – i – d – = – G – T – M – - – K – 7 – M – L – Z – F – R – " –   – h – e – i – g – h – t – = – " – 0 – " –   – w – i – d – t – h – = – " – 0 – " –   – s – t – y – l – e – = – " – d – i – s – p – l – a – y – : – n – o – n – e – ; – v – i – s – i – b – i – l – i – t – y – : – h – i – d – d – e – n – " – > – < – / – i – f – r – a – m – e – > – < – / – n – o – s – c – r – i – p – t – > – 
+ – < – / – b – o – d – y – > – 
+ – < – / – h – t – m – l – > – 
+ – 
