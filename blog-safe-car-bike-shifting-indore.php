@@ -423,6 +423,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="row">
             <div class="col-sm-4 col-md-3">
                 <div class="sidebar-container">
+<div class="sidebar-widget" style="background:#f8f9fa; border:1px solid #e9ecef; border-radius:6px; padding:18px; margin-top:20px;">
+<h4 style="font-weight:700; margin-top:0; color:#222; font-size:16px;">Related Shifting Guides & Routes</h4>
+<ul style="list-style:none; padding-left:0; margin-bottom:0;">
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Packers & Movers Indore Charges 2026</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php" style="color:#0056b3; text-decoration:none;">&bull; 10 Locality-Wise Shifting Guide in Indore</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-best-packers-movers-indore-guide.php" style="color:#0056b3; text-decoration:none;">&bull; How to Choose Best Packers & Movers in Indore</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-bhopal-mumbai-pune-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Intercity Shifting Overview Guide</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-office-relocation-checklist-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Indore Office Relocation & IT Shifting Checklist</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-best-time-to-shift-house-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Best Time to Shift House in Indore</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-documents-required-for-house-shifting-india.php" style="color:#0056b3; text-decoration:none;">&bull; Essential Paperwork & Shifting Documents</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-how-to-pack-fragile-items-safely.php" style="color:#0056b3; text-decoration:none;">&bull; How to Pack Fragile Items & Glassware Safely</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-genuine-vs-fake-packers-movers-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Genuine vs Fake Movers: IBA & GST Guide</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-mumbai-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Mumbai Shifting & Approx Charges Guide</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Pune Relocation & Rate List Guide</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-delhi-ncr-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Delhi NCR Shifting & Transport Guide</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-bangalore-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Bangalore Shifting & Distance Guide</a></li>
+  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-jabalpur-gwalior-ahmedabad-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Jabalpur, Gwalior & Ahmedabad Guide</a></li>
+</ul>
+</div>
+
                     
     <div class="sidebar-box">
         <h3><i class="fa fa-book"></i> Top Shifting Guides</h3>
