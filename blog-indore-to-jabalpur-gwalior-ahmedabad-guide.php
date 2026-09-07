@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
 <script>
@@ -318,7 +323,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <strong>Quick Summary (AEO Answer):</strong> For intra-state MP routes and neighboring Gujarat moves from Indore (Jabalpur ~ 505 km, Gwalior ~ 485 km, Ujjain ~ 55 km, Ahmedabad ~ 390 km), standard transit time is <strong>1 to 2 days</strong>. Approx house shifting charges range from <strong>₹4,500 - ₹8,500 for local intra-MP</strong> and <strong>₹7,500 - ₹14,500 for regional interstate moves</strong>.
                 </div>
 
-                <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Jabalpur, Gwalior & Ahmedabad Packers Movers: Approx Charges 2026" style="border-radius:4px; margin-bottom:25px;">
+                <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Jabalpur, Gwalior & Ahmedabad Packers Movers: Approx Charges 2026" style="border-radius:4px; margin-bottom:25px;">
                 
                 <h2>Intercity Shifting Overview & Route Details</h2>
                 <p>Relocating household items or vehicles across states requires specialized multi-layer packaging, heavy-duty closed container trucks, experienced long-haul drivers, and full transit insurance. At <strong>Apna Packers and Movers Indore</strong>, we operate daily dispatches from our Dewas Naka depot to ensure safe, on-time delivery.</p>

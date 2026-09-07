@@ -369,9 +369,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </footer>
 </div>
-<script src="js/jquery-1.11.3.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/theme.js"></script>
+<script defer src="js/jquery-1.11.3.min.js"></script>
+<script defer src="js/bootstrap.min.js"></script>
+<script defer src="js/theme.js"></script>
 <a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello%20Apna%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote." class="float" target="_blank" aria-label="WhatsApp Us">
     <i class="fa fa-whatsapp my-float"></i>
 </a>

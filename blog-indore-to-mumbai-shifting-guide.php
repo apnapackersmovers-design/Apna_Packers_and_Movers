@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
 <script>
@@ -318,7 +323,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <strong>Quick Summary (AEO Answer):</strong> The distance from Indore to Mumbai is approximately <strong>585 km via NH52 & NH48</strong>, taking around 2 to 3 days in transit. Approx house shifting charges range from <strong>₹8,500 to ₹14,000 for 1 BHK</strong>, <strong>₹14,000 to ₹22,000 for 2 BHK</strong>, and <strong>₹20,000 to ₹32,000 for 3 BHK</strong> homes depending on volume, packing materials, and door-to-door insurance options.
                 </div>
 
-                <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Mumbai Packers and Movers: Complete Shifting & Cost Guide 2026" style="border-radius:4px; margin-bottom:25px;">
+                <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Mumbai Packers and Movers: Complete Shifting & Cost Guide 2026" style="border-radius:4px; margin-bottom:25px;">
                 
                 <h2>Intercity Shifting Overview & Route Details</h2>
                 <p>Relocating household items or vehicles across states requires specialized multi-layer packaging, heavy-duty closed container trucks, experienced long-haul drivers, and full transit insurance. At <strong>Apna Packers and Movers Indore</strong>, we operate daily dispatches from our Dewas Naka depot to ensure safe, on-time delivery.</p>

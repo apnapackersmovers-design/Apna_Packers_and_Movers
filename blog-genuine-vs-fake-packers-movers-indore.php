@@ -635,30 +635,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	        </footer>
         </div>
         <!--Main-->   
-        <script src="js/jquery-1.11.3.min.js"></script>
-        <script src="js/jquery-ui.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/modernizr.custom.js"></script>
-        <script src="assets/rendro-easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
-        <script src="js/waypoints.min.js"></script>
-        <script src="js/jquery.easypiechart.min.js"></script>
+        <script defer src="js/jquery-1.11.3.min.js"></script>
+        <script defer src="js/jquery-ui.min.js"></script>
+        <script defer src="js/bootstrap.min.js"></script>
+        <script defer src="js/modernizr.custom.js"></script>
+        <script defer src="assets/rendro-easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
+        <script defer src="js/waypoints.min.js"></script>
+        <script defer src="js/jquery.easypiechart.min.js"></script>
 		<!-- Loader -->
-		<script src="assets/loader/js/classie.js"></script>
-		<script src="assets/loader/js/pathLoader.js"></script>
-		<script src="assets/loader/js/main.js"></script>
-		<script src="js/classie.js"></script>
+		<script defer src="assets/loader/js/classie.js"></script>
+		<script defer src="assets/loader/js/pathLoader.js"></script>
+		<script defer src="assets/loader/js/main.js"></script>
+		<script defer src="js/classie.js"></script>
 		<!--Switcher-->
-		<script src="assets/switcher/js/switcher.js"></script>
+		<script defer src="assets/switcher/js/switcher.js"></script>
         <!--Owl Carousel-->
-        <script src="assets/owl-carousel/owl.carousel.min.js"></script>
+        <script defer src="assets/owl-carousel/owl.carousel.min.js"></script>
         <!-- SCRIPTS -->
 	    <script type="text/javascript" src="assets/isotope/jquery.isotope.min.js"></script>
         <!--Theme-->
-        <script src="js/jquery.smooth-scroll.js"></script>
-        <script src="js/wow.min.js"></script>
-		<script src="js/jquery.placeholder.min.js"></script>
-		<script src="js/smoothscroll.min.js"></script>
-        <script src="js/theme.js"></script>
+        <script defer src="js/jquery.smooth-scroll.js"></script>
+        <script defer src="js/wow.min.js"></script>
+		<script defer src="js/jquery.placeholder.min.js"></script>
+		<script defer src="js/smoothscroll.min.js"></script>
+        <script defer src="js/theme.js"></script>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello%20Apna%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote." class="float" target="_blank">
 <i style="color:#fff;" class="fa fa-whatsapp my-float"></i>

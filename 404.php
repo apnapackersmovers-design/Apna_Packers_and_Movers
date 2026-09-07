@@ -4,6 +4,11 @@ http_response_code(404);
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+
     <meta charset="utf-8">
     <title>404 - Page Not Found | Apna Packers and Movers Indore</title>
     <meta name="robots" content="noindex, follow">
@@ -59,5 +64,24 @@ http_response_code(404);
         <p class="error-desc">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
         <a href="https://www.apnapackersmovers.com/" class="btn-home">Return to Homepage</a>
     </div>
+<!-- Ultra-Fast Lazy-Loaded Tawk.to Live Chat (0ms Main-Thread Blocking) -->
+<script>
+var tawkLoaded = false;
+function loadTawkTo() {
+    if (tawkLoaded) return;
+    tawkLoaded = true;
+    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/6325804554f06e12d8953b9b/1gd57q4lk';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+}
+['scroll', 'mousemove', 'touchstart', 'click', 'keydown'].forEach(function(evt) {
+    window.addEventListener(evt, loadTawkTo, { once: true, passive: true });
+});
+setTimeout(loadTawkTo, 4000);
+</script>
+
 </body>
 </html>

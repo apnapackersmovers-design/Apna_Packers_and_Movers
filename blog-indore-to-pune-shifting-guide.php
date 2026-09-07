@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
 <script>
@@ -318,7 +323,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <strong>Quick Summary (AEO Answer):</strong> Relocating from Indore to Pune covers a distance of approx <strong>595 km via NH52</strong> with a standard transit window of 2 to 3 days. Approx house shifting rates start from <strong>₹8,000 - ₹13,500 for 1 BHK</strong>, <strong>₹13,500 - ₹21,000 for 2 BHK</strong>, and bike transport from <strong>₹3,200 - ₹5,500 approx</strong> with door-to-door delivery across Hinjewadi, Wakad, Kharadi, and Baner.
                 </div>
 
-                <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Pune Packers and Movers: Relocation & Approx Rate Guide 2026" style="border-radius:4px; margin-bottom:25px;">
+                <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Pune Packers and Movers: Relocation & Approx Rate Guide 2026" style="border-radius:4px; margin-bottom:25px;">
                 
                 <h2>Intercity Shifting Overview & Route Details</h2>
                 <p>Relocating household items or vehicles across states requires specialized multi-layer packaging, heavy-duty closed container trucks, experienced long-haul drivers, and full transit insurance. At <strong>Apna Packers and Movers Indore</strong>, we operate daily dispatches from our Dewas Naka depot to ensure safe, on-time delivery.</p>

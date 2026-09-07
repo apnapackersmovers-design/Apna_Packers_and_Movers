@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
 <script>
@@ -318,7 +323,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <strong>Quick Summary (AEO Answer):</strong> Shifting from Indore to Bangalore (Bengaluru) covers a long-distance highway route of approx <strong>1,320 km via NH52 & NH44</strong> with a transit duration of 4 to 5 days. Approx shifting costs range from <strong>₹13,500 - ₹21,000 for 1 BHK</strong>, <strong>₹21,000 - ₹34,000 for 2 BHK</strong>, and <strong>₹30,000 - ₹48,000 for 3 BHK</strong> residences with full transit insurance.
                 </div>
 
-                <img src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Bangalore Packers & Movers: Approx Cost & Distance Guide 2026" style="border-radius:4px; margin-bottom:25px;">
+                <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Bangalore Packers & Movers: Approx Cost & Distance Guide 2026" style="border-radius:4px; margin-bottom:25px;">
                 
                 <h2>Intercity Shifting Overview & Route Details</h2>
                 <p>Relocating household items or vehicles across states requires specialized multi-layer packaging, heavy-duty closed container trucks, experienced long-haul drivers, and full transit insurance. At <strong>Apna Packers and Movers Indore</strong>, we operate daily dispatches from our Dewas Naka depot to ensure safe, on-time delivery.</p>
