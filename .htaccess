@@ -4,6 +4,10 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
+    # Redirect legacy query parameter URLs like blog-details.php?blog_id=19
+    RewriteCond %{QUERY_STRING} blog_id= [NC]
+    RewriteRule ^packers-and-movers-in-indore-blog-details\.php$ https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php? [R=301,L]
+
 
     # Redirect /index.php or /index.html to root / (Canonical Homepage)
     RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(php|html)\ HTTP/
