@@ -4,37 +4,7 @@
 
     <head>
 
-<!-- Google tag (gtag.js) -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
-
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag(){dataLayer.push(arguments);}
-
-  gtag('js', new Date());
-
-
-
-  gtag('config', 'G-4SHNXRHNLX');
-
-</script>
-
-<!-- Google Tag Manager -->
-
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-})(window,document,'script','dataLayer','GTM-K7MLZFR');</script>
-
-<!-- End Google Tag Manager -->
 
           <style>
 
@@ -281,7 +251,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </script>
 
-    </head>
+    
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+<link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css"></noscript>
+
+<style>
+@font-face { font-display: swap; }
+* { font-display: swap; }
+</style>
+
+<!-- Ultra-Fast Lazy-Loaded GTM & GTAG (0ms Main-Thread Render Blocking) -->
+<script>
+window.addEventListener('load', function() {
+    setTimeout(function() {
+        var gtm = document.createElement('script');
+        gtm.src = 'https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX';
+        gtm.async = true;
+        document.head.appendChild(gtm);
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4SHNXRHNLX');
+
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K7MLZFR');
+    }, 2000);
+});
+</script>
+
+</head>
 
 	<body data-scrolling-animations="true">
 
@@ -315,19 +321,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                    <nav class="text-right col-sm-3 col-md-3 col-lg-3">
 
-	                        <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
+	                        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
 
 	                     
 
-	                        <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter"></i></a>
+	                        <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna"><i class="fa fa-twitter"></i></a>
 
 	                      
 
-	                        <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube"></i></a>
+	                        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube"></i></a>
 
-	                        <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram"></i></a>
+	                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram"></i></a>
 
-	                        <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin"></i></a>
+	                        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin"></i></a>
 
 	                    </nav>
 
@@ -361,7 +367,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                <div id="main-menu-bg"></div>  
 
-	                <a id="menu-open" href="#"><i class="fa fa-bars"></i></a> 
+	                <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
 
 	                <nav class="main-menu navbar-main-slide">
 
@@ -426,7 +432,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                </nav>
 
-	                <a id="menu-close" href="#"><i class="fa fa-times"></i></a>
+	                <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
 
 	            </div>
 
@@ -515,15 +521,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                        <div class="footer-icons">
 
-	                            <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
+	                            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
 
-	                            <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
+	                            <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
 
-	                            <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
+	                            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
 
-	                            <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
+	                            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
 
-	                            <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin fa-2x"></i></a>
+	                            <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin fa-2x"></i></a>
 
 	                           
 
@@ -675,7 +681,7 @@ Indore (MP) - 452010</span>
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-<a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello Apna Packers and Movers." class="float" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=919806470899" class="float" aria-label="Chat on WhatsApp" target="_blank" rel="noopener noreferrer">
 
 <i style="color:#fff;" class="fa fa-whatsapp my-float"></i>
 
@@ -797,7 +803,7 @@ Indore (MP) - 452010</span>
 
 </style>
 
-<section class="call-buton"><a class="cc-calto-action-ripple" href="tel:9806470899"><i class="fa fa-phone"></i><span class="num"></span>
+<section class="call-buton"><a class="cc-calto-action-ripple" href="tel:9806470899" aria-label="Call Us Now"><i class="fa fa-phone"></i><span class="num"></span>
 
 </a>
 

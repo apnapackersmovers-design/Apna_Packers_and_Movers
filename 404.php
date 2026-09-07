@@ -56,6 +56,42 @@ http_response_code(404);
             color: #fff;
         }
     </style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+<link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css"></noscript>
+
+<style>
+@font-face { font-display: swap; }
+* { font-display: swap; }
+</style>
+
+<!-- Ultra-Fast Lazy-Loaded GTM & GTAG (0ms Main-Thread Render Blocking) -->
+<script>
+window.addEventListener('load', function() {
+    setTimeout(function() {
+        var gtm = document.createElement('script');
+        gtm.src = 'https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX';
+        gtm.async = true;
+        document.head.appendChild(gtm);
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4SHNXRHNLX');
+
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K7MLZFR');
+    }, 2000);
+});
+</script>
+
 </head>
 <body>
     <div class="error-page-wrapper">

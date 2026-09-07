@@ -6,21 +6,7 @@
 <link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
 <link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-4SHNXRHNLX');
-</script>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-K7MLZFR');</script>
-<!-- End Google Tag Manager -->
+
 <meta charset="utf-8">
 <title>Indore to Delhi NCR Packers and Movers Guide (Approx Charges & Transport 2026)</title>
 <meta name="description" content="Comprehensive guide for shifting from Indore to Delhi, Gurgaon & Noida. Check approx charges, car carrier options, route distance, and corporate moving advice.">
@@ -219,6 +205,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	margin-top: 16px;
 }
 </style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+<link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css"></noscript>
+
+<style>
+@font-face { font-display: swap; }
+* { font-display: swap; }
+</style>
+
+<!-- Ultra-Fast Lazy-Loaded GTM & GTAG (0ms Main-Thread Render Blocking) -->
+<script>
+window.addEventListener('load', function() {
+    setTimeout(function() {
+        var gtm = document.createElement('script');
+        gtm.src = 'https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX';
+        gtm.async = true;
+        document.head.appendChild(gtm);
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4SHNXRHNLX');
+
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K7MLZFR');
+    }, 2000);
+});
+</script>
+
 </head>
 <body data-scrolling-animations="true">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -230,11 +252,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="h-block"><span>CALL US 24x7</span><a href="tel:+919806470899" style="font-size:14px"><i class="fa fa-phone"></i> +91 9806470899</a></div>
                 </nav>
                 <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-                    <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
-                    <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter"></i></a>
-                    <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube"></i></a>
-                    <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram"></i></a>
-                    <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna"><i class="fa fa-twitter"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin"></i></a>
                 </nav>
             </div>
             <div class="row header">
@@ -251,7 +273,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
             <div id="main-menu-bg"></div>  
-            <a id="menu-open" href="#"><i class="fa fa-bars"></i></a> 
+            <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
             <nav class="main-menu navbar-main-slide">
                 <ul class="nav navbar-nav navbar-main">
                     <li><a href="https://www.apnapackersmovers.com">HOME</a></li>
@@ -274,7 +296,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <li><a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a></li>
                 </ul>
             </nav>
-            <a id="menu-close" href="#"><i class="fa fa-times"></i></a>
+            <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
         </div>
     </header>
 
@@ -383,11 +405,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-sm-4">
                     <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
                     <div class="footer-icons">
-                        <a target="_blank" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
-                        <a target="_blank" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
-                        <a target="_blank" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
-                        <a target="_blank" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
-                        <a target="_blank" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin fa-2x"></i></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin fa-2x"></i></a>
                     </div>
                     <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-lg btn-danger">GET A FREE QUOTE</a>
                 </div>
@@ -433,7 +455,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="js/jquery-1.11.3.min.js" defer></script>
 <script src="js/bootstrap.min.js" defer></script>
 <script src="js/theme.js" defer></script>
-<a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello%20Apna%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote." class="float" target="_blank" aria-label="WhatsApp Us">
+<a href="https://api.whatsapp.com/send?phone=919806470899" class="float" aria-label="Chat on WhatsApp" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Us">
     <i class="fa fa-whatsapp my-float"></i>
 </a>
 <script>
