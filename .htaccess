@@ -47,6 +47,7 @@
     AddOutputFilterByType DEFLATE text/html
     AddOutputFilterByType DEFLATE text/javascript
     AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/markdown
     AddOutputFilterByType DEFLATE text/xml
 
     BrowserMatch ^Mozilla/4 gzip-only-text/html
@@ -60,6 +61,10 @@
 <IfModule mod_expires.c>
     ExpiresActive On
     ExpiresDefault "access plus 1 month"
+
+    # Text & LLM Files (1 Month)
+    ExpiresByType text/plain "access plus 1 month"
+    ExpiresByType text/markdown "access plus 1 month"
 
     # CSS & JavaScript (1 Year)
     ExpiresByType text/css "access plus 1 year"

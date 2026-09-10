@@ -79,6 +79,19 @@
 
 <meta property="og:type" content="website" />
 
+<meta property="og:site_name" content="Apna Packers and Movers" />
+
+<!-- Twitter / X Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@apnapackers" />
+
+<meta name="twitter:title" content="About Us | Trusted Packers and Movers in Indore | Apna Packers" />
+
+<meta name="twitter:description" content="Learn about Apna Packers and Movers in Indore. 10+ years of trusted experience in household shifting, office relocation, and vehicle transport." />
+
+<meta name="twitter:image" content="https://www.apnapackersmovers.com/img/latest_logo.jpg" />
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">

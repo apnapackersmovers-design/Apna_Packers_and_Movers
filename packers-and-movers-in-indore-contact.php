@@ -79,6 +79,19 @@
 
 <meta property="og:type" content="website" />
 
+<meta property="og:site_name" content="Apna Packers and Movers" />
+
+<!-- Twitter / X Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@apnapackers" />
+
+<meta name="twitter:title" content="Contact Us | Best Packers and Movers in Indore | Apna Movers" />
+
+<meta name="twitter:description" content="Get a free quote for house shifting, office relocation, or vehicle moving in Indore. Call 9806470899 or visit our office at Dewas Naka, Indore." />
+
+<meta name="twitter:image" content="https://www.apnapackersmovers.com/img/latest_logo.jpg" />
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">

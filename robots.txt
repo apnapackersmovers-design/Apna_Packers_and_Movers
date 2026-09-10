@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+# LLM & AI Search Engine Documentation
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Sitemaps
 Sitemap: https://www.apnapackersmovers.com/sitemap.xml

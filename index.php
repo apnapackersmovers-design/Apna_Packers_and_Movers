@@ -7,7 +7,7 @@
     <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+
 <link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
 
 
@@ -81,6 +81,21 @@
 
 <meta property="og:type" content="website" />
 
+<meta property="og:site_name" content="Apna Packers and Movers" />
+
+<meta property="og:locale" content="en_US" />
+
+<!-- Twitter / X Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@apnapackers" />
+
+<meta name="twitter:title" content="Best Packers and Movers in Indore | Apna Packers Movers" />
+
+<meta name="twitter:description" content="Apna Packers and Movers in Indore offer trusted and affordable Household Shifting, Office Shifting, and Car & Bike Transport Services. Call +91-9806470899." />
+
+<meta name="twitter:image" content="https://www.apnapackersmovers.com/img/latest_logo.jpg" />
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
@@ -129,7 +144,7 @@
 
 <meta name="msvalidate.01" content="2AEE947B768CE21F950A3DE7D97D592F" />
 
-<link href="https://www.apnapackersmovers.com/css/master.css" rel="stylesheet">
+
 
 <link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
 
@@ -245,7 +260,14 @@
 
 ,
 
-	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+	"sameAs": [
+		"https://www.youtube.com/@apnapackersmovers",
+		"https://www.linkedin.com/company/apnapackersmovers",
+		"https://x.com/apnapackers",
+		"https://www.facebook.com/apnapackersmovers",
+		"https://www.instagram.com/apnapackersmovers",
+		"https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
+	],
 
 	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
 
@@ -340,10 +362,10 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+
 <link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
-<link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css"></noscript>
+
+<noscript></noscript>
 
 <style>
 @font-face { font-display: swap; }
@@ -372,6 +394,17 @@ window.addEventListener('load', function() {
     }, 2000);
 });
 </script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://maxcdn.bootstrapcdn.com" crossorigin>
+<link rel="preload" href="https://www.apnapackersmovers.com/css/master.css" as="style">
+<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
+<link rel="stylesheet" href="https://www.apnapackersmovers.com/css/master.css">
+<style>
+@font-face { font-display: swap; }
+* { font-display: swap; }
+</style>
 
 </head>
 
@@ -775,7 +808,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
             		<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" >
 
-                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" alt="apna packers and movers in Indore">
+                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" alt="apna packers and movers in Indore" width="360" height="220">
 
 	                    <span></span>
 
@@ -789,7 +822,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" >
 
-                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" alt="relocation service">
+                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" alt="relocation service" width="360" height="220">
 
 	                    <span></span>
 
@@ -803,7 +836,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" >
 
-                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" alt="car moving service in indore">
+                		<img loading="lazy" decoding="async" style="height:240px;width:360px;" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" alt="car moving service in indore" width="360" height="220">
 
 	                    <span></span>
 
@@ -1511,6 +1544,14 @@ Indore (MP) - 452010</span>
 
 	                            <span><i class="fa fa-clock-o"></i>24x7, Mon- Sun</span>
 
+	                            <div class="footer-social-links" style="margin-top:10px; display:flex; gap:14px; align-items:center;">
+	                                <a href="https://www.youtube.com/@apnapackersmovers" target="_blank" rel="noopener noreferrer" aria-label="YouTube Channel" style="color:#ff0000; font-size:18px;"><i class="fa fa-youtube-play"></i></a>
+	                                <a href="https://www.linkedin.com/company/apnapackersmovers" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile" style="color:#0077b5; font-size:18px;"><i class="fa fa-linkedin"></i></a>
+	                                <a href="https://x.com/apnapackers" target="_blank" rel="noopener noreferrer" aria-label="X Twitter Profile" style="color:#fff; font-size:18px;"><i class="fa fa-twitter"></i></a>
+	                                <a href="https://www.facebook.com/apnapackersmovers" target="_blank" rel="noopener noreferrer" aria-label="Facebook Page" style="color:#3b5998; font-size:18px;"><i class="fa fa-facebook"></i></a>
+	                                <a href="https://www.instagram.com/apnapackersmovers" target="_blank" rel="noopener noreferrer" aria-label="Instagram Profile" style="color:#e4405f; font-size:18px;"><i class="fa fa-instagram"></i></a>
+	                            </div>
+
 	                            <span><a href="https://www.hitwebcounter.com" target="_blank" rel="noopener noreferrer">
 
 <img loading="lazy" decoding="async" src="https://hitwebcounter.com/counter/counter.php?page=7539452&style=0030&nbdigits=5&type=page&initCount=50" title="Web Counter" Alt="counter free"   border="0" >
@@ -1583,7 +1624,7 @@ Indore (MP) - 452010</span>
 
         <!-- SCRIPTS -->
 
-	    <script type="text/javascript" src="assets/isotope/jquery.isotope.min.js"></script>
+	    <script defer src="assets/isotope/jquery.isotope.min.js"></script>
 
         <!--Theme-->
 
@@ -1596,8 +1637,6 @@ Indore (MP) - 452010</span>
 		<script defer src="js/smoothscroll.min.js"></script>
 
         <script defer src="js/theme.js"></script>
-
-        <script>var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5cc1e740d6e05b735b444c42/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();</script>
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
