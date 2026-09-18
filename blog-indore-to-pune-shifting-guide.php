@@ -1,30 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
-<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
-
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-4SHNXRHNLX');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K7MLZFR');</script>
+<!-- End Google Tag Manager -->
 
 <meta charset="utf-8">
 <title>Indore to Pune Packers and Movers Guide (Approx Rates & IT Relocation 2026)</title>
 <meta name="description" content="Relocating from Indore to Pune? Check approx house shifting rates, bike courier charges, office relocation checklist, and transit time via NH52 highway.">
-<meta name="keywords" content="packers and movers indore to pune, indore to pune house shifting rate list, bike transport indore to pune charges, office relocation indore to pune, movers and packers indore to pune">
-<meta name="DC.title" content="Packers and Movers in Indore" />
+<meta name="keywords" content="packers and movers indore to pune, indore to pune house shifting rate list, bike transport indore to pune charges, office relocation indore to pune">
+<meta name="DC.title" content="Indore to Pune Packers and Movers Guide (Approx Rates & IT Relocation 2026)" />
 <meta name="geo.region" content="IN-MP" />
-<meta name="geo.placename" content="Indore, Madhya Pradesh, India" />
+<meta name="geo.placename" content="Indore" />
 <meta name="geo.position" content="22.773068;75.907127" />
 <meta name="ICBM" content="22.773068, 75.907127" />
-<meta name="country" content="India" />
-<meta name="city" content="Indore" />
-<meta name="state" content="Madhya Pradesh" />
-<meta name="zipcode" content="452010" />
-<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
 
 <meta property="og:title" content="Indore to Pune Packers and Movers Guide (Approx Rates & IT Relocation 2026)" />
 <meta property="og:description" content="Relocating from Indore to Pune? Check approx house shifting rates, bike courier charges, office relocation checklist, and transit time via NH52 highway." />
-<meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" />
+<meta property="og:image" content="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" />
 <meta property="og:url" content="https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php" />
 <meta property="og:type" content="article" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -32,10 +37,46 @@
 <meta name="robots" content="index,follow,all" />
 <meta name="author" content="Apna Packers and Movers" />
 <link rel="canonical" href="https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php"/>
-<link href="https://apnapackersmovers.com/css/master.css" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
+<link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css">
 <link rel="icon" href="https://www.apnapackersmovers.com/img/latest_logo.jpg">
 
-<!-- FAQ Schema -->
+<style>
+@font-face { font-display: swap; }
+* { font-display: swap; }
+.float { position:fixed; width:60px; height:60px; bottom:20px; left:20px; background-color:#25d366; color:#FFF; border-radius:50px; text-align:center; font-size:30px; box-shadow: 2px 2px 3px #999; z-index:100; }
+.my-float { margin-top:16px; }
+.aeo-box { background:#eef7ff; border-left:5px solid #0056b3; padding:20px 24px; margin:22px 0; border-radius:4px; font-size:15px; line-height:1.8; }
+.kw-badge-section { background:#fff8e6; border:1px solid #ffe0b2; padding:18px; border-radius:6px; margin:22px 0; font-size:14px; line-height:1.7; }
+article p { font-size:15.5px; line-height:1.85; color:#333; margin-bottom:20px; }
+article h2 { font-weight:700; color:#111; margin-top:35px; margin-bottom:15px; font-size:22px; border-bottom:2px solid #0056b3; padding-bottom:8px; display:inline-block; }
+article h3 { font-weight:700; color:#222; margin-top:25px; font-size:18px; }
+article ul { margin-bottom:20px; padding-left:22px; }
+article ul li { font-size:15px; line-height:1.8; margin-bottom:8px; color:#444; }
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php" },
+  "headline": "Indore to Pune Packers and Movers Guide (Approx Rates & IT Relocation 2026)",
+  "description": "Relocating from Indore to Pune? Check approx house shifting rates, bike courier charges, office relocation checklist, and transit time via NH52 highway.",
+  "image": "https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp",
+  "author": { "@type": "Organization", "name": "Apna Packers and Movers" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Apna Packers and Movers",
+    "logo": { "@type": "ImageObject", "url": "https://www.apnapackersmovers.com/img/latest_logo.jpg" }
+  },
+  "datePublished": "2026-09-18",
+  "dateModified": "2026-09-18"
+}
+</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -43,205 +84,33 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What are the approx house shifting rates from Indore to Pune?",
+      "name": "How do I calculate house shifting charges in Indore?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Approximate relocation charges from Indore to Pune range between \u20b98,000 and \u20b913,500 for 1 BHK flats, \u20b913,500 and \u20b921,000 for 2 BHK homes, and \u20b919,000 to \u20b930,000 for 3 BHK residences."
+        "text": "House shifting charges in Indore are calculated based on volume of goods, distance, truck size required (Tata Ace to 32ft container), packing material layers used, and labor count. Local 1BHK moves start from ₹3,500 approx, while intercity moves range from ₹8,500 to ₹32,000 approx."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you deliver household goods to IT hub areas in Pune like Hinjewadi and Kharadi?",
+      "name": "Where is the physical depot of Apna Packers and Movers located in Indore?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, we provide direct doorstep delivery, unloading, and unpacking across all Pune localities including Hinjewadi, Wakad, Baner, Kharadi, Viman Nagar, and Hadapsar."
+        "text": "Our head office & physical transport depot is located at Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010. Call +91 9806470899."
       }
     },
     {
       "@type": "Question",
-      "name": "How much does bike transport cost from Indore to Pune?",
+      "name": "Do you provide 18% GST invoice for corporate relocation allowance claim?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bike shifting from Indore to Pune costs approx \u20b93,200 to \u20b95,500 depending on bike engine CC, bubble wrapping quality, and transit insurance."
+        "text": "Yes, we provide official 18% GST invoices, Consignment Notes (LR copies), and itemized packing lists required for HR corporate relocation allowance reimbursement claims."
       }
     }
   ]
 }
 </script>
-
-<!-- BlogPosting & MovingCompany Schema -->
-<script type="application/ld+json">
-{
-	"@context": "https://schema.org",
-	"@type": "BlogPosting",
-	"mainEntityOfPage": {
-		"@type": "WebPage",
-		"@id": "https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php"
-	},
-	"headline": "Indore to Pune Packers and Movers: Relocation & Approx Rate Guide 2026",
-	"description": "Relocating from Indore to Pune? Check approx house shifting rates, bike courier charges, office relocation checklist, and transit time via NH52 highway.",
-	"image": "https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp",
-	"author": {
-		"@type": "Organization",
-		"name": "Apna Packers and Movers"
-	},
-	"publisher": {
-		"@type": "Organization",
-		"name": "Apna Packers and Movers",
-		"logo": {
-			"@type": "ImageObject",
-			"url": "https://www.apnapackersmovers.com/img/latest_logo.jpg"
-		}
-	},
-	"datePublished": "2026-09-02",
-	"dateModified": "2026-09-02"
-}
-</script>
-
-<script type="application/ld+json">
-{
-	"@context": "https://schema.org",
-	"@type": "MovingCompany",
-	"name": "Apna Packers and Movers - Indore to Pune Packers and Movers: Relocation & Approx Rate Guide 2026",
-	"address": {
-		"@type": "PostalAddress",
-		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
-		"addressLocality": "Indore",
-		"addressRegion": "Madhya Pradesh",
-		"postalCode": "452010",
-		"addressCountry": "IN"
-	},
-	"image": "https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp",
-	"email": "info@apnapackersmovers.com",
-	"telephone": "+919806470899",
-	"url": "https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php",
-	"geo": {
-		"@type": "GeoCoordinates",
-		"latitude": "22.773068",
-		"longitude": "75.907127"
-	},
-	"areaServed": [ "Indore", "Vijay Nagar", "Palasia", "Bhawarkuan", "Rajwada", "Rau", "Dewas Naka", "Madhya Pradesh" ]
-}
-</script>
-
-<style>
-.aeo-quick-answer {
-    background: #f0f7ff;
-    border: 1px solid #b8daff;
-    border-left: 5px solid #0056b3;
-    padding: 18px 22px;
-    border-radius: 4px;
-    margin: 25px 0;
-    font-size: 16px;
-    line-height: 1.7;
-    color: #0c5460;
-}
-.content-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    font-size: 15px;
-    text-align: left;
-}
-.content-table thead tr {
-    background-color: #e31e24;
-    color: #ffffff;
-    font-weight: bold;
-}
-.content-table th, .content-table td {
-    padding: 12px 15px;
-    border: 1px solid #dddddd;
-}
-.content-table tbody tr:nth-of-type(even) {
-    background-color: #f9f9f9;
-}
-.faq-box {
-    background: #fff;
-    border: 1px solid #e2e8f0;
-    border-left: 4px solid #e31e24;
-    padding: 18px 22px;
-    margin-bottom: 16px;
-    border-radius: 4px;
-}
-.faq-box h4 {
-    margin-top: 0;
-    color: #1a202c;
-    font-size: 17px;
-    font-weight: 700;
-}
-.faq-box p {
-    margin-bottom: 0;
-    color: #4a5568;
-    font-size: 15px;
-    line-height: 1.7;
-}
-.sidebar-cta {
-    background: #1b263b;
-    color: #fff;
-    padding: 20px;
-    border-radius: 6px;
-    text-align: center;
-}
-.sidebar-cta h4 {
-    color: #fca311;
-    font-weight: bold;
-    margin-top: 0;
-}
-.float {
-	position: fixed;
-	width: 60px;
-	height: 60px;
-	bottom: 20px;
-	left: 20px;
-	background-color: #25d366;
-	color: #FFF;
-	border-radius: 50px;
-	text-align: center;
-	font-size: 30px;
-	box-shadow: 2px 2px 3px #999;
-	z-index: 100;
-}
-.my-float {
-	margin-top: 16px;
-}
-</style>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" href="https://apnapackersmovers.com/css/master.css" as="style">
-<link rel="preload" href="https://www.apnapackersmovers.com/media/main-slider/1.webp" as="image" fetchpriority="high">
-<link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="https://apnapackersmovers.com/css/master.css"></noscript>
-
-<style>
-@font-face { font-display: swap; }
-* { font-display: swap; }
-</style>
-
-<!-- Ultra-Fast Lazy-Loaded GTM & GTAG (0ms Main-Thread Render Blocking) -->
-<script>
-window.addEventListener('load', function() {
-    setTimeout(function() {
-        var gtm = document.createElement('script');
-        gtm.src = 'https://www.googletagmanager.com/gtag/js?id=G-4SHNXRHNLX';
-        gtm.async = true;
-        document.head.appendChild(gtm);
-        
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-4SHNXRHNLX');
-
-        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-K7MLZFR');
-    }, 2000);
-});
-</script>
-
 </head>
+
 <body data-scrolling-animations="true">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="sp-body">
@@ -249,14 +118,13 @@ window.addEventListener('load', function() {
         <div class="container-fluid">
             <div class="topmenu row">
                 <nav style="color:#fff;" class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
-                    <div class="h-block"><span>CALL US 24x7</span><a href="tel:+919806470899" style="font-size:14px"><i class="fa fa-phone"></i> +91 9806470899</a></div>
+                    <div class="h-block"><span>CALL US</span><a href="tel:+919806470899" style="font-size:14px" aria-label="Call Us"><i class="fa fa-phone"></i> +91 9806470899</a></div>
                 </nav>
                 <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook"></i></a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna"><i class="fa fa-twitter"></i></a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube"></i></a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram"></i></a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w" aria-label="YouTube"><i class="fa fa-youtube"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/" aria-label="Instagram"><i class="fa fa-instagram"></i></a>
                 </nav>
             </div>
             <div class="row header">
@@ -273,7 +141,7 @@ window.addEventListener('load', function() {
                 </div>
             </div>
             <div id="main-menu-bg"></div>  
-            <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
+            <a id="menu-open" href="#" aria-label="Open Menu"><i class="fa fa-bars"></i></a> 
             <nav class="main-menu navbar-main-slide">
                 <ul class="nav navbar-nav navbar-main">
                     <li><a href="https://www.apnapackersmovers.com">HOME</a></li>
@@ -293,187 +161,190 @@ window.addEventListener('load', function() {
                     <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a></li>
                     <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a></li>
                     <li class="active"><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a></li>
-                    <li><a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a></li>
                 </ul>
             </nav>
-            <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
+            <a id="menu-close" href="#" aria-label="Close Menu"><i class="fa fa-times"></i></a>
         </div>
     </header>
 
     <div class="bg-image page-title">
         <div class="container-fluid">
-            <a href="#"><h1>Indore to Pune Packers and Movers: Relocation & Approx Rate Guide 2026</h1></a>
+            <h1>Indore to Pune Shifting Guide — Rates & IT Relocation Checklist</h1>
             <div class="pull-right">
-                <a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i> Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs</a> &nbsp;&nbsp;|&nbsp;&nbsp; <span>Indore to Pune Packe...</span>
+                <a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i> Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs</a>
             </div>
         </div>
     </div>
 
-    <div class="container-fluid block-content" style="padding-top: 35px; padding-bottom: 50px;">
+    <div class="container-fluid inner-offset" style="padding-top:40px; padding-bottom:50px;">
         <div class="row">
-            <div class="col-sm-3">
-                <div class="sidebar-container">
-<div class="sidebar-widget" style="background:#f8f9fa; border:1px solid #e9ecef; border-radius:6px; padding:18px; margin-top:20px;">
-<h4 style="font-weight:700; margin-top:0; color:#222; font-size:16px;">Related Shifting Guides & Routes</h4>
-<ul style="list-style:none; padding-left:0; margin-bottom:0;">
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Packers & Movers Indore Charges 2026</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php" style="color:#0056b3; text-decoration:none;">&bull; 10 Locality-Wise Shifting Guide in Indore</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-best-packers-movers-indore-guide.php" style="color:#0056b3; text-decoration:none;">&bull; How to Choose Best Packers & Movers in Indore</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-bhopal-mumbai-pune-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Intercity Shifting Overview Guide</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-office-relocation-checklist-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Indore Office Relocation & IT Shifting Checklist</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-safe-car-bike-shifting-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Car & Bike Shifting Safety Guide</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-best-time-to-shift-house-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Best Time to Shift House in Indore</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-documents-required-for-house-shifting-india.php" style="color:#0056b3; text-decoration:none;">&bull; Essential Paperwork & Shifting Documents</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-how-to-pack-fragile-items-safely.php" style="color:#0056b3; text-decoration:none;">&bull; How to Pack Fragile Items & Glassware Safely</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-genuine-vs-fake-packers-movers-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Genuine vs Fake Movers: IBA & GST Guide</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-mumbai-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Mumbai Shifting & Approx Charges Guide</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-delhi-ncr-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Delhi NCR Shifting & Transport Guide</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-bangalore-shifting-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Bangalore Shifting & Distance Guide</a></li>
-  <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-jabalpur-gwalior-ahmedabad-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Jabalpur, Gwalior & Ahmedabad Guide</a></li>
-</ul>
-</div>
+            <div class="col-md-8 col-sm-12">
+                <article style="background:#fff; padding:30px; border:1px solid #eee; border-radius:6px;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" alt="Indore to Pune Packers and Movers Guide (Approx Rates & IT Relocation 2026)" style="width:100%; max-height:450px; object-fit:cover; border-radius:6px; margin-bottom:25px;" width="800" height="450">
+                    
+                    <div class="aeo-box">
+                        <strong>💡 Quick Summary / Direct Answer Box:</strong><br>
+                        Apna Packers and Movers is Indore's #1 verified relocation & goods transport partner based at <strong>Dewas Naka Depot (Shop B-3, Goyal Compound, Indore 452010)</strong>. We specialize in local household shifting, intercity moving (Mumbai, Pune, Delhi NCR, Bangalore, Gujarat), corporate office relocation, mini truck rentals (Tata Ace/Chota Hathi to 32ft Containers), Part-Load (LTL), Full Truckload (FTL), vehicle shipping, and 24/7 CCTV warehouse storage. All moves come with 18% GST invoices, transit insurance, and zero hidden charges. Call <a href="tel:+919806470899">+91 9806470899</a>.
+                    </div>
 
-                    <div class="sidebar-cta">
-                        <h4>Direct Route Moving Desk</h4>
-                        <p>Get instant approx estimates & vehicle carrier slots.</p>
-                        <a href="tel:+919806470899" style="color:#fff; font-size:18px; font-weight:bold; display:block; margin-top:10px;"><i class="fa fa-phone"></i> +91 9806470899</a>
+                    <div class="kw-badge-section">
+                        <strong>📌 Targeted Search Keywords Integrated in this Detailed Guide:</strong><br>
+                        • <strong>Primary Keywords:</strong> packers and movers indore to pune, indore to pune house shifting rate list, bike transport indore to pune charges, office relocation indore to pune<br>
+                        • <strong>Contextual Route Links:</strong> <a href="https://www.apnapackersmovers.com/blog-indore-to-mumbai-shifting-guide.php">Indore to Mumbai</a> | <a href="https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php">Indore to Pune</a> | <a href="https://www.apnapackersmovers.com/blog-indore-to-delhi-ncr-shifting-guide.php">Indore to Delhi NCR</a> | <a href="https://www.apnapackersmovers.com/blog-indore-to-bangalore-shifting-guide.php">Indore to Bangalore</a> | <a href="https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php">Shifting Rate Card</a>
+                    </div>
+
+                    <h2>1. Comprehensive Shifting & Goods Transport Overview in Indore</h2>
+                    <p>Relocating your home, office, or commercial goods in Indore requires experienced professionals who understand local traffic rules, entry timings, packing standards, and interstate highway logistics. Whether you are moving locally within <strong>Vijay Nagar, Palasia, Bhawarkuan, Saket Nagar, Rajwada, Rau, or Super Corridor</strong>, or shipping goods intercity to major Indian hubs, <a href="https://www.apnapackersmovers.com/index.php">Apna Packers and Movers</a> offers seamless 24/7 service.</p>
+                    <p>Unlike online aggregator portals (such as Sulekha, Justdial, AssureShift, or NoBroker) that sell user leads to unverified third-party brokers, Apna Packers and Movers operates as a <strong>DIRECT physical service provider</strong> with an active logistics depot at Dewas Naka, Indore. Our in-house fleet of over 50+ vehicles ranges from mini trucks (Tata Ace / Chota Hathi) for local moves to 32ft covered multi-axle container trucks for Pan-India commercial shipping.</p>
+
+                    <h2>2. Complete Shifting Rate Card & Cost Breakdown (2026 Approx Pricing)</h2>
+                    <p>Understanding shifting costs helps you budget effectively without hidden surprises. Below is our transparent approximate rate card for local household shifting in Indore and major intercity routes:</p>
+                    
+                    <table class="table table-bordered" style="margin-top:15px; font-size:14px;">
+                        <thead>
+                            <tr style="background:#f4f6f8;">
+                                <th>Shifting Type / Service</th>
+                                <th>Vehicle Recommended</th>
+                                <th>Packing & Labor Details</th>
+                                <th>Approx Shifting Rate</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td><strong>1 BHK Local Shifting (Indore)</strong></td><td>Tata Ace / Chota Hathi</td><td>2-Layer Packing + 3 Movers</td><td>₹3,500 - ₹6,500 approx</td></tr>
+                            <tr><td><strong>2 BHK Local Shifting (Indore)</strong></td><td>14ft Eicher Container</td><td>3-Layer Bubble Wrap + 4 Movers</td><td>₹6,500 - ₹10,500 approx</td></tr>
+                            <tr><td><strong>3 BHK / Villa Local Shifting</strong></td><td>19ft / 22ft Container</td><td>Full Packing + Wooden Crating + 6 Movers</td><td>₹10,500 - ₹18,000 approx</td></tr>
+                            <tr><td><strong>Indore to Mumbai Shifting</strong></td><td>19ft / 22ft Covered Container</td><td>NH52 Highway Express + Transit Insurance</td><td>₹14,000 - ₹28,000 approx</td></tr>
+                            <tr><td><strong>Indore to Pune Shifting</strong></td><td>14ft / 19ft Container</td><td>IT Relocation Package + Door Delivery</td><td>₹13,500 - ₹26,000 approx</td></tr>
+                            <tr><td><strong>Indore to Delhi NCR Shifting</strong></td><td>22ft / 32ft Container</td><td>Expressway Transit + GST Invoice</td><td>₹16,500 - ₹32,000 approx</td></tr>
+                            <tr><td><strong>Indore to Bangalore Shifting</strong></td><td>32ft Multi-Axle Container</td><td>1,350 KM Long Distance + Live GPS</td><td>₹18,000 - ₹38,000 approx</td></tr>
+                        </tbody>
+                    </table>
+
+                    <h2>3. Step-by-Step Packing, Loading & Safety Process</h2>
+                    <p>To ensure 100% zero damage during transit, we follow an international 5-stage moving process:</p>
+                    <ul>
+                        <li><strong>Stage 1: Pre-Move Survey & Inventory Assessment:</strong> Our team evaluates all items, identifying fragile glassware, electronics, wooden furniture, and heavy appliances.</li>
+                        <li><strong>Stage 2: Multi-Layer Protective Packaging:</strong> We use heavy-duty corrugated boxes, 5-layer bubble rolls, stretch film, edge guards, and custom wooden crating for LED TVs, mirrors, and antiques. (Learn more in our <a href="https://www.apnapackersmovers.com/blog-how-to-pack-fragile-items-safely.php">Fragile Item Packing Guide</a>).</li>
+                        <li><strong>Stage 3: Professional Loading & Cargo Belting:</strong> Experienced movers use hydraulic hand trolleys and safety ramps. Items inside container trucks are secured with heavy-duty cargo belts to prevent shifting during transit.</li>
+                        <li><strong>Stage 4: Weatherproof Container Transit:</strong> Vehicles are equipped with GPS live tracking, ensuring real-time monitoring across highway routes.</li>
+                        <li><strong>Stage 5: Unloading, Unpacking & Furniture Assembly:</strong> At the destination, our crew unloads, unpacks every box, and reassembles beds, wardrobes, and modular racks according to your layout preferences.</li>
+                    </ul>
+
+                    <h2>4. Commercial Goods Transport, Truck Rental & Warehousing</h2>
+                    <p>In addition to household moves, we provide dedicated commercial logistics and truck rentals across Indore and MP:</p>
+                    <ul>
+                        <li><strong>Mini Truck Rental:</strong> Hire Tata Ace (Chota Hathi), Bolero Pickup, or 14ft Eicher trucks on hourly or per-trip rates for local goods transport. Check our <a href="https://www.apnapackersmovers.com/blog-goods-transport-truck-rental-indore-guide.php">Goods Transport & Truck Rental Guide</a>.</li>
+                        <li><strong>Part-Load (LTL) Logistics:</strong> Send small commercial shipments, 1 to 10 luggage boxes, or single furniture items anywhere in India while paying only for occupied space (Save 40% cost). Read our <a href="https://www.apnapackersmovers.com/blog-part-load-ltl-full-truckload-indore-guide.php">Part-Load (LTL) vs FTL Guide</a>.</li>
+                        <li><strong>Industrial Machinery Relocation:</strong> Specialized heavy machine transport, crane loading, and factory moving from <strong>Pithampur, Sanwer Road, and Palda Industrial Areas</strong>. Read our <a href="https://www.apnapackersmovers.com/blog-industrial-machinery-commercial-shifting-indore.php">Industrial Machinery Shifting Guide</a>.</li>
+                        <li><strong>Safe Luggage & Furniture Warehousing:</strong> 24/7 CCTV-monitored, fire-proof, moisture-free storage at Dewas Naka for short-term and long-term storage needs. Read our <a href="https://www.apnapackersmovers.com/blog-warehouse-commercial-luggage-storage-indore.php">Dewas Naka Warehouse Storage Guide</a>.</li>
+                    </ul>
+
+                    <h2>5. Real Customer Shifting Case Studies & Proven Track Record</h2>
+                    <p>With over 1,250+ verified 5-star customer reviews and an official 4.9 rating on Google, our work speaks for itself. Explore our dedicated <a href="https://www.apnapackersmovers.com/case-study-real-customer-experiences-indore.php">15 Real Customer Shifting Case Studies Page</a> detailing real relocation experiences, including IT office moves at Crystal IT Park, car transport to Pune, and 2BHK house shifting in Vijay Nagar.</p>
+
+                    <h2>6. PYQ / Frequently Asked Questions (FAQs)</h2>
+                    <div style="background:#fafafa; border:1px solid #e0e0e0; padding:22px; border-radius:6px; margin:25px 0;">
+                        <h4 style="margin-top:0; font-weight:700;">Q1: How do I choose between genuine and fake packers and movers in Indore?</h4>
+                        <p>Always verify the mover's physical office address (e.g. Dewas Naka depot), check GST registration certificate, demand an official written estimate, and avoid unverified brokers. Read our complete <a href="https://www.apnapackersmovers.com/blog-genuine-vs-fake-packers-movers-indore.php">Genuine vs Fake Movers Scam Prevention Guide</a>.</p>
+                        
+                        <h4 style="font-weight:700;">Q2: What documents are required for interstate house shifting in India?</h4>
+                        <p>Interstate shifting requires a Consignment Note (LR Receipt), itemized packing list, vehicle driver details, 18% GST invoice, and an E-Way bill if the cargo value exceeds ₹50,000. Read our full <a href="https://www.apnapackersmovers.com/blog-gst-e-way-bill-transport-documentation-indore.php">GST & E-Way Bill Paperwork Guide</a>.</p>
+
+                        <h4 style="font-weight:700;">Q3: How far in advance should I book my house shifting in Indore?</h4>
+                        <p>We recommend booking 3 to 7 days in advance for local shifting, and 5 to 10 days in advance for intercity outstation relocation to ensure guaranteed vehicle allocation and preferred time slots. Read our <a href="https://www.apnapackersmovers.com/blog-best-time-to-shift-house-indore.php">Best Time to Shift House Guide</a>.</p>
+
+                        <h4 style="font-weight:700;">Q4: How do you ensure vehicle safety during car and bike transport?</h4>
+                        <p>Vehicles are transported in specialized enclosed car carriers or weatherproof shuttle trucks. Tires are wheel-locked, protective bumpers installed, and complete door-to-door transit insurance provided. Read our <a href="https://www.apnapackersmovers.com/blog-safe-car-bike-shifting-indore.php">Car & Bike Shifting Safety Guide</a>.</p>
+                    </div>
+
+                    <h2>7. Contact & Booking Information</h2>
+                    <p>Ready for a stress-free, professional, and affordable shifting experience? Contact Indore's #1 trusted relocation partner today:</p>
+                    <p><strong>Head Office & Depot:</strong> Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010<br>
+                    <strong>Phone Hotlines:</strong> <a href="tel:+919806470899">+91 9806470899</a> | <a href="tel:+918827650499">+91 8827650499</a><br>
+                    <strong>Email:</strong> apnapackersmovers@gmail.com<br>
+                    <strong>Official Website:</strong> <a href="https://www.apnapackersmovers.com/index.php">https://www.apnapackersmovers.com/</a></p>
+                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg" style="margin-top:15px; font-weight:bold;">GET A FREE INSTANT QUOTE</a>
+                </article>
+
+                <div style="background:#f9f9f9; border:1px solid #e5e5e5; border-radius:6px; padding:20px; margin-top:30px;">
+                    <h4 style="font-weight:700; margin-top:0;">🔗 Explore All 25 Shifting & Transport Guides</h4>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <ul style="padding-left:15px; font-size:13.5px;">
+                                <li><a href="https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php">Indore Shifting Rate Card 2026</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php">10 Locality-Wise Area Guide</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-best-packers-movers-indore-guide.php">Best Movers Selection Checklist</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-indore-to-mumbai-shifting-guide.php">Indore to Mumbai Shifting Guide</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php">Indore to Pune Shifting Guide</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-indore-to-delhi-ncr-shifting-guide.php">Indore to Delhi NCR Shifting Guide</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-indore-to-bangalore-shifting-guide.php">Indore to Bangalore Shifting Guide</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-6">
+                            <ul style="padding-left:15px; font-size:13.5px;">
+                                <li><a href="https://www.apnapackersmovers.com/blog-goods-transport-truck-rental-indore-guide.php">Goods Transport & Truck Rental</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-part-load-ltl-full-truckload-indore-guide.php">Part-Load (LTL) vs FTL Guide</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-industrial-machinery-commercial-shifting-indore.php">Industrial Machinery Transport</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-safe-car-bike-shifting-indore.php">Car & Bike Carrier Safety Guide</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-office-relocation-checklist-indore.php">Corporate Office Relocation Guide</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/blog-warehouse-commercial-luggage-storage-indore.php">Dewas Naka Warehouse Storage</a></li>
+                                <li><a href="https://www.apnapackersmovers.com/case-study-real-customer-experiences-indore.php">15 Real Customer Case Studies</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-9 main-content" style="font-size:15.5px; line-height:1.8;">
-                <div class="aeo-quick-answer">
-                    <strong>Quick Summary (AEO Answer):</strong> Relocating from Indore to Pune covers a distance of approx <strong>595 km via NH52</strong> with a standard transit window of 2 to 3 days. Approx house shifting rates start from <strong>₹8,000 - ₹13,500 for 1 BHK</strong>, <strong>₹13,500 - ₹21,000 for 2 BHK</strong>, and bike transport from <strong>₹3,200 - ₹5,500 approx</strong> with door-to-door delivery across Hinjewadi, Wakad, Kharadi, and Baner.
-                </div>
 
-                <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Indore to Pune Packers and Movers: Relocation & Approx Rate Guide 2026" style="border-radius:4px; margin-bottom:25px;">
-                
-                <h2>Intercity Shifting Overview & Route Details</h2>
-                <p>Relocating household items or vehicles across states requires specialized multi-layer packaging, heavy-duty closed container trucks, experienced long-haul drivers, and full transit insurance. At <strong>Apna Packers and Movers Indore</strong>, we operate daily dispatches from our Dewas Naka depot to ensure safe, on-time delivery.</p>
+            <div class="col-md-4 col-sm-12">
+                <div class="sidebar-container">
+                    <div class="sidebar-widget" style="background:#f8f9fa; border:1px solid #e9ecef; border-radius:6px; padding:18px;">
+                        <h4 style="font-weight:700; margin-top:0; color:#222; font-size:16px;">Related Shifting & Transport Guides</h4>
+                        <ul style="list-style:none; padding-left:0; margin-bottom:0;">
+                            <li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-goods-transport-truck-rental-indore-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Goods Transport Services & Truck Rental in Indore — Full Fleet Guide 2026</a></li>
+<li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-part-load-ltl-full-truckload-indore-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Part-Load (LTL) vs Full Truckload (FTL) Transport Indore (Save 40% Shifting Cost)</a></li>
+<li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-industrial-machinery-commercial-shifting-indore.php" style="color:#0056b3; text-decoration:none;">&bull; Industrial Machinery & Commercial Goods Transport Indore (Pithampur & Sanwer Road)</a></li>
+<li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-maharashtra-goods-transport-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Maharashtra Goods Transport Guide (Mumbai, Pune, Nagpur & Nashik 2026)</a></li>
+<li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-delhi-ncr-goods-transport-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Delhi NCR Goods & Shifting Transport (Gurgaon, Noida & Jaipur 2026)</a></li>
+<li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-south-india-goods-transport-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to South India Goods Transport (Bangalore, Hyderabad & Chennai 2026)</a></li>
+<li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-indore-to-gujarat-goods-transport-guide.php" style="color:#0056b3; text-decoration:none;">&bull; Indore to Gujarat Commercial Goods Transport (Ahmedabad, Surat & Vadodara)</a></li>
+<li style="padding:6px 0; border-bottom:1px solid #eee; font-size:13.5px;"><a href="https://www.apnapackersmovers.com/blog-gst-e-way-bill-transport-documentation-indore.php" style="color:#0056b3; text-decoration:none;">&bull; GST Invoice, E-Way Bill & Transport Documentation Guide in India (2026)</a></li>
 
-                <h3>Approx Shifting Rates & Timelines Breakdown</h3>
-                <p>Please note that the prices below are <strong>approximate estimates</strong> based on standard volume and road distance. Actual costs vary depending on floor levels, elevator availability, packing material grade, and optional insurance value.</p>
-
-                <table class="content-table">
-                    <thead>
-                        <tr>
-                            <th>Shifting Category / Vehicle Type</th>
-                            <th>Approx Rate Range</th>
-                            <th>Est. Transit Timeline</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr><td><strong>1 BHK Apartment Shift</strong></td><td>₹8,000 - ₹13,500 approx</td><td>₹10,500 - ₹16,000 approx</td></tr>
-<tr><td><strong>2 BHK Family Flat</strong></td><td>₹13,500 - ₹21,000 approx</td><td>₹16,500 - ₹25,000 approx</td></tr>
-<tr><td><strong>3 BHK Independent House</strong></td><td>₹19,000 - ₹30,000 approx</td><td>₹23,000 - ₹36,000 approx</td></tr>
-<tr><td><strong>Two-Wheeler / Bike Courier</strong></td><td>₹3,200 - ₹5,500 approx</td><td>2 - 3 Days</td></tr>
-<tr><td><strong>Four-Wheeler / Car Transport</strong></td><td>₹9,500 - ₹14,000 approx</td><td>2 - 3 Days</td></tr>
-
-                    </tbody>
-                </table>
-
-                <hr style="margin-top:35px; margin-bottom:30px;">
-
-                <h2>Frequently Asked Questions (AEO Q&A)</h2>
-
-<div class="faq-box">
-    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> What are the approx house shifting rates from Indore to Pune?</h4>
-    <p>Approximate relocation charges from Indore to Pune range between ₹8,000 and ₹13,500 for 1 BHK flats, ₹13,500 and ₹21,000 for 2 BHK homes, and ₹19,000 to ₹30,000 for 3 BHK residences.</p>
-</div>
-
-<div class="faq-box">
-    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> Do you deliver household goods to IT hub areas in Pune like Hinjewadi and Kharadi?</h4>
-    <p>Yes, we provide direct doorstep delivery, unloading, and unpacking across all Pune localities including Hinjewadi, Wakad, Baner, Kharadi, Viman Nagar, and Hadapsar.</p>
-</div>
-
-<div class="faq-box">
-    <h4><i class="fa fa-question-circle" style="color:#e31e24;"></i> How much does bike transport cost from Indore to Pune?</h4>
-    <p>Bike shifting from Indore to Pune costs approx ₹3,200 to ₹5,500 depending on bike engine CC, bubble wrapping quality, and transit insurance.</p>
-</div>
-
-
-                <div class="text-center" style="margin-top:35px;">
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-danger btn-lg"><i class="fa fa-phone"></i> Get Free Quote for this Route</a>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-<footer>
-        <div class="color-part2"></div>
-        <div class="color-part"></div>
+
+    <footer>
         <div class="container-fluid">
             <div class="row block-content">
                 <div class="col-sm-4">
-                    <p><strong>Apna Packers and Movers</strong> is Indore's top-rated, IBA compliant, and GST registered moving company. Headquartered at Dewas Naka, we provide trusted local house shifting, office relocation, vehicle transportation, and intercity shifting across Madhya Pradesh and all major Indian cities with 100% zero-damage guarantee.</p>
-                    <div class="footer-icons">
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore"><i class="fa fa-facebook-square fa-2x"></i></a>
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w"><i class="fa fa-youtube-square fa-2x"></i></a>
-                        <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna"><i class="fa fa-twitter-square fa-2x"></i></a>
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/"><i class="fa fa-instagram fa-2x"></i></a>
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/apnapackersindore/"><i class="fa fa-linkedin fa-2x"></i></a>
-                    </div>
-                    <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php" class="btn btn-lg btn-danger">GET A FREE QUOTE</a>
+                    <p>Apna Packers and Movers is Indore's leading transport, logistics, and relocation partner based at Dewas Naka depot.</p>
                 </div>
-                <div class="col-sm-2">
-                    <h4>OUR SERVICES</h4>
-                    <nav>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-relocation.php">House Shifting</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-office-relocation.php">Office Relocation</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-car-parking.php">Car & Bike Transport</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-parking.php">Packing & Moving</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-loading.php">Loading & Unloading</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-warehouse.php">Warehouse & Storage</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-insurence.php">Transit Insurance</a>
-                    </nav>
-                </div>
-                <div class="col-sm-2">
+                <div class="col-sm-4">
                     <h4>MAIN LINKS</h4>
                     <nav>
-                        <a href="https://www.apnapackersmovers.com/index.php">Home</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-process.php">Process</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-branch.php">Branches</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact Us</a>
-                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Shifting Blogs & Guides</a>
-                        <a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a>
+                        <a href="https://www.apnapackersmovers.com/index.php">Home</a> | 
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About</a> | 
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a> | 
+                        <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs</a>
                     </nav>
                 </div>
                 <div class="col-sm-4">
-                    <h4>INDORE CONTACT & GEO INFO</h4>
-                    Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
-                    <div class="contact-info">
-                        <span><i class="fa fa-map-marker"></i>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
-                        <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
-                        <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>
-                        <span><i class="fa fa-clock-o"></i>24x7 Helpline, Mon-Sun</span>
-                    </div>
+                    <h4>CONTACT INFO</h4>
+                    Shop B-3, Goyal Compound, Dewas Naka, Indore - 452010 | +91 9806470899
                 </div>
             </div>
-            <div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2026 Apna Packers & Movers. All rights reserved.</div>
+            <div class="copy text-right">&copy; 2026 Apna Packers & Movers. All rights reserved.</div>
         </div>
     </footer>
 </div>
 <script src="js/jquery-1.11.3.min.js" defer></script>
 <script src="js/bootstrap.min.js" defer></script>
 <script src="js/theme.js" defer></script>
-<a href="https://api.whatsapp.com/send?phone=919806470899" class="float" aria-label="Chat on WhatsApp" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Us">
+<a href="https://api.whatsapp.com/send?phone=919806470899&text=Hello%20Apna%20Packers%20and%20Movers,%20I%20need%20a%20shifting%20quote." class="float" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
     <i class="fa fa-whatsapp my-float"></i>
 </a>
-<script>
-var tawkLoaded = false;
-function loadTawkTo() {
-    if (tawkLoaded) return;
-    tawkLoaded = true;
-    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-    s1.async = true;
-    s1.src = 'https://embed.tawk.to/6325804554f06e12d8953b9b/1gd57q4lk';
-    s1.charset = 'UTF-8';
-    s1.setAttribute('crossorigin', '*');
-    s0.parentNode.insertBefore(s1, s0);
-}
-['scroll', 'mousemove', 'touchstart', 'click', 'keydown'].forEach(function(evt) {
-    window.addEventListener(evt, loadTawkTo, { once: true, passive: true });
-});
-setTimeout(loadTawkTo, 4000);
-</script>
 </body>
 </html>
