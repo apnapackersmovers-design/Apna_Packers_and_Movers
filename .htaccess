@@ -114,3 +114,11 @@ Redirect 301 /blog-local-shifting-tips-indore.php https://www.apnapackersmovers.
 # 6. Custom 404 Error Document (Returns True 404 HTTP Header)
 # ======================================================================
 ErrorDocument 404 /404.php
+
+    # AI Search Bots Performance & Fast Response Rules (GPTBot, ClaudeBot, PerplexityBot, Bytespider, CCBot)
+    <IfModule mod_headers.c>
+        <FilesMatch "^(llms\.txt|llms-full\.txt|\.xml)$">
+            Header set Cache-Control "max-age=86400, public"
+            Header set Access-Control-Allow-Origin "*"
+        </FilesMatch>
+    </IfModule>

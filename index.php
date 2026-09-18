@@ -181,98 +181,80 @@
  
 
 <script type="application/ld+json">
-
 {
-
-	"@context": "https://schema.org",
-
-	"@type": "MovingCompany",
-
-	"name": "Apna Packers and movers",
-
-	"address": {
-
-		"@type": "PostalAddress",
-
-		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
-
-		"addressLocality": "Indore",
-
-		"addressRegion": "MP",
-
-		"postalCode": "452010"
-
-	},
-
-	"image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
-
-	"email": "info@apnapackersmovers.com",
-
-	"telePhone": "9806470899",
-
-	"url": "https://www.apnapackersmovers.com/",
-
-	"paymentAccepted": [ "cash", "check", "credit card", "invoice", "paypal" ],
-
-	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 10:00-22:00",
-
-	"openingHoursSpecification": [ {
-
-		"@type": "OpeningHoursSpecification",
-
-		"dayOfWeek": [
-
-			"Monday",
-
-			"Tuesday",
-
-			"Wednesday",
-
-			"Thursday",
-
-			"Friday",
-
-			"Saturday",
-
-			"Sunday"
-
-		],
-
-		"opens": "10:00",
-
-		"closes": "22:00"
-
-	} ],
-
-	"geo": {
-
-		"@type": "GeoCoordinates",
-
-		"latitude": "22.773068",
-
-		"longitude": "75.907127"
-
-	},
-
-	"priceRange":"$"
-
-
-
-,
-
-	"sameAs": [
-		"https://www.youtube.com/@apnapackersmovers",
-		"https://www.linkedin.com/company/apnapackersmovers",
-		"https://x.com/apnapackers",
-		"https://www.facebook.com/apnapackersmovers",
-		"https://www.instagram.com/apnapackersmovers",
-		"https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
-	],
-
-	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
-
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Apna Packers and movers",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+    "addressLocality": "Indore",
+    "addressRegion": "MP",
+    "postalCode": "452010"
+  },
+  "image": "https://www.apnapackersmovers.com/img/latest_logo.jpg",
+  "email": "info@apnapackersmovers.com",
+  "telePhone": "9806470899",
+  "url": "https://www.apnapackersmovers.com/",
+  "paymentAccepted": [
+    "cash",
+    "check",
+    "credit card",
+    "invoice",
+    "paypal"
+  ],
+  "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 10:00-22:00",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "10:00",
+      "closes": "22:00"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "22.773068",
+    "longitude": "75.907127"
+  },
+  "priceRange": "$",
+  "sameAs": [
+    "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+    "https://www.facebook.com/apmindore",
+    "https://twitter.com/MoversApna",
+    "https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w",
+    "https://www.instagram.com/apnapackersmovers/",
+    "https://www.linkedin.com/in/apnapackersindore/",
+    "https://www.justdial.com/Indore/Apna-Packers-Movers-Behind-Metro-Mall-Dewas-Naka/0731PX731-X731-180424161528-I7E9_BZDET",
+    "https://www.sulekha.com/apna-packers-movers-dewas-naka-indore-contact-address",
+    "https://www.indiamart.com/apnapackersmovers-indore/"
+  ],
+  "hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+  "areaServed": [
+    "Indore",
+    "Vijay Nagar",
+    "Palasia",
+    "Bhawarkuan",
+    "Rajwada",
+    "Rau",
+    "Super Corridor",
+    "Dewas Naka",
+    "Madhya Pradesh",
+    "Mumbai",
+    "Pune",
+    "Delhi NCR",
+    "Bangalore",
+    "Gujarat"
+  ]
 }
-
 </script>
 
     <script type="application/ld+json">
