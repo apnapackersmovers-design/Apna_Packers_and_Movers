@@ -117,20 +117,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/" aria-label="Instagram"><i class="fa fa-instagram"></i></a>
                 </nav>
             </div>
-            <div class="row header">
-                <div class="col-sm-3 col-md-3 col-lg-3">
-                    <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
-                </div>
-                <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-                    <div class="text-right header-padding">
-                        <div class="h-block"><span>CALL US</span><a href="tel:+919806470899"><i class="fa fa-phone"></i> +91 9806470899</a></div>
-                        <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-                        <div class="h-block"><span>WORKING HOURS</span>24x7, Mon-Sun</div>
-                        <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-                    </div>
-                </div>
-            </div>
-            <div id="main-menu-bg"></div>  
+            
+<div id="main-menu-bg"></div>  
             <a id="menu-open" href="#" aria-label="Open Menu"><i class="fa fa-bars"></i></a> 
             <nav class="main-menu navbar-main-slide">
                 <ul class="nav navbar-nav navbar-main">
@@ -154,6 +142,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </ul>
             </nav>
             <a id="menu-close" href="#" aria-label="Close Menu"><i class="fa fa-times"></i></a>
+<div class="row header">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
+                </div>
+                <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
+                    <div class="text-right header-padding">
+                        <div class="h-block"><span>CALL US</span><a href="tel:+919806470899"><i class="fa fa-phone"></i> +91 9806470899</a></div>
+                        <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
+                        <div class="h-block"><span>WORKING HOURS</span>24x7, Mon-Sun</div>
+                        <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </header>
 

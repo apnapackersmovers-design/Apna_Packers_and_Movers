@@ -235,7 +235,8 @@
     "https://www.linkedin.com/in/apnapackersindore/",
     "https://www.justdial.com/Indore/Apna-Packers-Movers-Behind-Metro-Mall-Dewas-Naka/0731PX731-X731-180424161528-I7E9_BZDET",
     "https://www.sulekha.com/apna-packers-movers-dewas-naka-indore-contact-address",
-    "https://www.indiamart.com/apnapackersmovers-indore/"
+    "https://www.indiamart.com/apnapackersmovers-indore/",
+    "https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en"
   ],
   "hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
   "areaServed": [
@@ -252,7 +253,11 @@
     "Pune",
     "Delhi NCR",
     "Bangalore",
-    "Gujarat"
+    "Gujarat",
+    "West Bengal",
+    "Darjeeling",
+    "Siliguri",
+    "Matigara"
   ]
 }
 </script>
@@ -442,33 +447,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                </div>
 
-	                <div class="row header">
-
-	                    <div class="col-sm-3 col-md-3 col-lg-3">
-
-	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
-
-	                    </div>
-
-	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-
-	                        <div class="text-right header-padding">
-
-	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
-
-	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-
-	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
-
-	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-
-	                        </div>
-
-	                    </div>
-
-	                </div>
-
-	                <div id="main-menu-bg"></div>  
+	                
+<div id="main-menu-bg"></div>  
 
 	                <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
 
@@ -535,6 +515,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                </nav>
 
 	                <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
+<div class="row header">
+
+	                    <div class="col-sm-3 col-md-3 col-lg-3">
+
+	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
+
+	                    </div>
+
+	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
+
+	                        <div class="text-right header-padding">
+
+	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
+
+	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
+
+	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
+
+	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
+
+	                        </div>
+
+	                    </div>
+
+	                </div>
+
 
 	            </div>
 

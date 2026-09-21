@@ -341,33 +341,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                </div>
 
-	                <div class="row header">
-
-	                    <div class="col-sm-3 col-md-3 col-lg-3">
-
-	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
-
-	                    </div>
-
-	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-
-	                        <div class="text-right header-padding">
-
-	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
-
-	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-
-	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
-
-	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-
-	                        </div>
-
-	                    </div>
-
-	                </div>
-
-	                <div id="main-menu-bg"></div>  
+	                
+<div id="main-menu-bg"></div>  
 
 	                <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
 
@@ -435,6 +410,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                </nav>
 
 	                <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
+<div class="row header">
+
+	                    <div class="col-sm-3 col-md-3 col-lg-3">
+
+	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
+
+	                    </div>
+
+	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
+
+	                        <div class="text-right header-padding">
+
+	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
+
+	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
+
+	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
+
+	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
+
+	                        </div>
+
+	                    </div>
+
+	                </div>
+
 
 	            </div>
 
@@ -459,6 +460,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container-fluid inner-offset">    
 
 				<div class="row services">
+					<div class="service-item col-xs-12 col-sm-4 wow zoomIn" data-wow-delay="0.3s" style="margin-bottom:30px;">
+						<div style="border:1px solid #e0e0e0; border-radius:6px; padding:20px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.06); height:100%;">
+							<span class="label label-danger" style="font-size:12px; padding:5px 10px;">New Branch</span>
+							<h4 style="margin-top:12px; color:#0056b3; font-weight:700;">West Bengal Branch (Siliguri / Darjeeling)</h4>
+							<p style="font-size:14px; color:#444; line-height:1.7;">
+								<strong>Address:</strong> Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, West Bengal - 734010<br>
+								<strong>Helpline:</strong> +91-9806470899, +91-8827650499<br>
+								<strong>GPS Coordinates:</strong> 26.7133385, 88.4070532
+							</p>
+							<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" class="btn btn-sm btn-primary" style="margin-top:8px; font-weight:bold;">
+								<i class="fa fa-map-marker"></i> Open Google Maps Location
+							</a>
+						</div>
+					</div>
+
 
 					<div class="service-item col-xs-12 col-sm-4 wow zoomIn" data-wow-delay="0.3s">
 

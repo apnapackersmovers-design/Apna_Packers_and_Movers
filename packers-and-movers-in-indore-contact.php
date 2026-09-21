@@ -341,33 +341,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                </div>
 
-	                <div class="row header">
-
-	                    <div class="col-sm-3 col-md-3 col-lg-3">
-
-	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
-
-	                    </div>
-
-	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-
-	                        <div class="text-right header-padding">
-
-	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
-
-	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-
-	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
-
-	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-
-	                        </div>
-
-	                    </div>
-
-	                </div>
-
-	                <div id="main-menu-bg"></div>  
+	                
+<div id="main-menu-bg"></div>  
 
 	                <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
 
@@ -435,6 +410,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                </nav>
 
 	                <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
+<div class="row header">
+
+	                    <div class="col-sm-3 col-md-3 col-lg-3">
+
+	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
+
+	                    </div>
+
+	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
+
+	                        <div class="text-right header-padding">
+
+	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
+
+	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
+
+	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
+
+	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
+
+	                        </div>
+
+	                    </div>
+
+	                </div>
+
 
 	            </div>
 
@@ -507,6 +508,29 @@ Indore (MP) - 452010</div>
 								<div>24x7, Mon- Sun</div>
 
 							</div>
+						<div class="adress-details wow fadeInLeft" data-wow-delay="0.4s" style="margin-top:25px; padding-top:20px; border-top:2px dashed #ddd;">
+							<h4 style="color:#0056b3; font-weight:bold; margin-bottom:12px;">West Bengal Branch Office</h4>
+							<div>
+								<span><i class="fa fa-location-arrow"></i></span>
+								<div><strong>Apna Packers & Movers (Darjeeling / Siliguri Hub)</strong><br>
+								Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, West Bengal - 734010<br>
+								<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#d9534f; font-weight:bold; display:inline-block; margin-top:5px;"><i class="fa fa-map-marker"></i> View on Google Maps (GPS: 26.7133385, 88.4070532)</a>
+								</div>
+							</div>
+							<div>
+								<span><i class="fa fa-phone"></i></span>
+								<div> +91-9806470899, +91-8827650499</div>
+							</div>
+							<div>
+								<span><i class="fa fa-envelope"></i></span>
+								<div>apnapackersmovers@gmail.com</div>
+							</div>
+							<div>
+								<span><i class="fa fa-clock-o"></i></span>
+								<div>24x7, Mon- Sun</div>
+							</div>
+						</div>
+
 
 						</div>
 
