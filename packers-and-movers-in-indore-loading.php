@@ -325,6 +325,12 @@ window.addEventListener('load', function() {
 });
 </script>
 
+
+<style>
+#logo { position: relative !important; top: 0 !important; margin: 4px 0 !important; display: inline-block !important; z-index: 10 !important; background: none !important; }
+#logo img { height: 65px !important; max-height: 65px !important; width: auto !important; object-fit: contain !important; }
+.row.header { padding-top: 5px !important; padding-bottom: 5px !important; background: #ffffff !important; }
+</style>
 </head>
 <body data-scrolling-animations="true">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -371,7 +377,7 @@ window.addEventListener('load', function() {
             <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
 <div class="row header">
                 <div class="col-sm-3 col-md-3 col-lg-3">
-                    <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"></a>
+                    <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo" style="position:relative !important; top:0 !important; margin:5px 0 !important; display:inline-block !important; text-decoration:none !important;"><img src="https://www.apnapackersmovers.com/img/latest_logo.jpg" alt="Apna Packers and Movers Indore" style="height:65px !important; max-height:65px !important; width:auto !important; display:block !important; border-radius:4px !important;"></a>
                 </div>
                 <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
                     <div class="text-right header-padding">
