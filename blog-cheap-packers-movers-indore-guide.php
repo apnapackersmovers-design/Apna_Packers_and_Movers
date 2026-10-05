@@ -76,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="page-header bg-primary text-white py-4" style="background:#0056b3; color:#fff; padding:30px 0;">
   <div class="container">
-    <h1>Cheap Packers and Movers in Indore: How to Get Lowest Shifting Rates Without Risk — Movers and Packers Guide</h1>
+    <h1 style="font-size:26px; font-weight:700; color:#fff; margin:0;">Cheap Packers and Movers in Indore: How to Get Lowest Shifting Rates Without Risk</h1>
     <p style="margin-top:8px; font-size:15px; opacity:0.9;">Author: Apna Packers Movers | Verified Indore Transport Depot: Shop B-3, Goyal Compound, Dewas Naka, Indore 452010</p>
   </div>
 </div>
