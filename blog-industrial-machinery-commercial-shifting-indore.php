@@ -179,7 +179,7 @@ article ul li { font-size:15px; line-height:1.8; margin-bottom:8px; color:#444; 
 
     <div class="bg-image page-title">
         <div class="container-fluid">
-            <h1>Industrial Machinery & Commercial Shifting Services in Indore (Pithampur & Sanwer Road)</h1>
+            <h1>Packers and Movers in Indore: Industrial Machinery & Commercial Shifting Services in Indore (Pithampur & Sanwer Road) (Movers and Packers Guide)</h1>
             <div class="pull-right">
                 <a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i> Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs</a>
             </div>

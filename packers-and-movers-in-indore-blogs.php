@@ -106,7 +106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <div class="bg-image page-title">
         <div class="container-fluid">
-            <h1>Transport Guides, Shifting Blogs & Rate Lists</h1>
+            <h1>Packers and Movers & Movers and Packers in Indore — Shifting Blogs & Rate Guides</h1>
             <div class="pull-right">
                 <a href="https://www.apnapackersmovers.com/index.php"><i class="fa fa-home fa-lg"></i> Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <span>Our Blogs</span>
             </div>

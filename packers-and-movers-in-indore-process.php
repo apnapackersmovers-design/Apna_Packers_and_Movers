@@ -473,7 +473,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<h2>FOR ALL YOUR CARGO NEEDS</h2>
 
-					<h1>Apna Packers and Movers - THE RIGHT CHOICE</h1>
+					<h2>Apna Packers and Movers - THE RIGHT CHOICE</h2>
 
 				</div>            
 
