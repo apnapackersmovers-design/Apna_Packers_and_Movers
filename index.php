@@ -187,7 +187,7 @@
   "name": "Apna Packers and movers",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+    "streetAddress": "shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori",
     "addressLocality": "Indore",
     "addressRegion": "MP",
     "postalCode": "452010"
@@ -227,7 +227,7 @@
   },
   "priceRange": "$",
   "sameAs": [
-    "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+    "https://share.google/sI7FbAGb2zVvBd10r",
     "https://www.facebook.com/apmindore",
     "https://twitter.com/MoversApna",
     "https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w",
@@ -238,7 +238,7 @@
     "https://www.indiamart.com/apnapackersmovers-indore/",
     "https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en"
   ],
-  "hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+  "hasMap": "https://share.google/sI7FbAGb2zVvBd10r",
   "areaServed": [
     "Indore",
     "Vijay Nagar",
@@ -395,9 +395,14 @@ window.addEventListener('load', function() {
 
 
 <style>
-#logo { position: relative !important; top: 0 !important; margin: 4px 0 !important; display: inline-block !important; z-index: 10 !important; background: none !important; }
-#logo img { height: 65px !important; max-height: 65px !important; width: auto !important; object-fit: contain !important; }
-.row.header { padding-top: 5px !important; padding-bottom: 5px !important; background: #ffffff !important; }
+header .container-fluid { padding-bottom: 0 !important; }
+#logo { position: relative !important; top: 0 !important; margin: 0 !important; width: auto !important; height: auto !important; max-height: 65px !important; display: inline-block !important; z-index: 10 !important; background: none !important; }
+#logo img { height: 60px !important; max-height: 60px !important; width: auto !important; object-fit: contain !important; display: block !important; margin: 2px 0 !important; }
+.row.header { padding-top: 4px !important; padding-bottom: 4px !important; margin-bottom: 0 !important; background: #ffffff !important; display: flex !important; align-items: center !important; justify-content: space-between !important; min-height: auto !important; }
+.header-padding { font-size: 11px !important; padding: 4px 0 !important; font-weight: 500 !important; margin-top: 0 !important; }
+.header-padding div { padding: 4px 12px !important; }
+.main-menu { margin-top: 0 !important; }
+#main-menu-bg { margin-top: 0 !important; }
 </style>
 </head>
 
@@ -1436,62 +1441,6 @@ Experience the comfort of quick relocation with our packers and movers services 
 
 	        
 
-			
-<!-- 2026 AEO & GEO Master PageRank Grid (All 31 Shifting & Transport Guides) -->
-<section class="py-5" style="background:#f4f7fa; padding:45px 0; border-top:3px solid #0056b3; border-bottom:3px solid #0056b3;">
-  <div class="container">
-    <div class="text-center" style="margin-bottom:30px;">
-      <h2 style="font-weight:700; color:#111; font-size:24px;">Complete 2026 Shifting & Transport Guides for Indore & Pan-India</h2>
-      <p style="color:#555; max-width:850px; margin:0 auto; font-size:15px; line-height:1.7;">
-        Explore our 31 authoritative guides covering local house shifting in <strong>Vijay Nagar, Palasia, Dewas Naka, Super Corridor, Rau, Bhawarkua</strong>, Tata Ace & 32ft container truck rentals, IBA approved GST bills, Part-Load (LTL), and intercity routes to <strong>Mumbai, Pune, Delhi NCR, Bangalore, Ahmedabad, and Hyderabad</strong>.
-      </p>
-    </div>
-
-    <!-- AEO Passage Extractability Box -->
-    <div class="aeo-box" style="background:#ffffff; border-left:5px solid #0056b3; padding:20px; border-radius:6px; box-shadow:0 3px 10px rgba(0,0,0,0.05); margin-bottom:30px;">
-      <strong style="color:#0056b3; font-size:16px;">⚡ Direct Answer Summary (Google AI Overview & AEO):</strong>
-      <p style="margin-top:8px; margin-bottom:0; font-size:14.5px; line-height:1.8; color:#333;">
-        <strong>Apna Packers and Movers Indore</strong> is an IBA-compliant, GST-registered relocation company headquartered at <strong>Shop B-3, Goyal Compound, Dewas Naka, Indore MP 452010 (GPS: 22.773068, 75.907127)</strong>. We operate dedicated 14ft to 32ft enclosed container trucks, 5-layer bubble & corrugated packing, and offer guaranteed local home shifting from <strong>₹2,500</strong> and intercity transport across India. Call our 24/7 helpline at <strong>+91-9806470899</strong> or <strong>+91-8827650499</strong>.
-      </p>
-    </div>
-
-    <div class="row" style="display:flex; flex-wrap:wrap; gap:15px;">
-      <div style="flex:1 1 30%; min-width:280px; background:#fff; padding:20px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
-        <h4 style="color:#0056b3; font-weight:700; font-size:16px; margin-top:0; border-bottom:2px solid #eef7ff; padding-bottom:8px;">Local Shifting & Rates</h4>
-        <ul style="list-style:none; padding:0; margin:0; line-height:2.2; font-size:14px;">
-          <li><a href="https://www.apnapackersmovers.com/blog-best-packers-movers-indore-guide.php" style="color:#222; text-decoration:none;">• Best Packers and Movers Indore Guide 2026</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-packers-movers-indore-charges-guide.php" style="color:#222; text-decoration:none;">• Packers Movers Indore Rates List</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-cheap-packers-movers-indore-guide.php" style="color:#222; text-decoration:none;">• Cheap Packers and Movers Indore</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-local-shifting-tips-indore.php" style="color:#222; text-decoration:none;">• Local House Shifting Tips Indore</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php" style="color:#222; text-decoration:none;">• Locality Wise Shifting Guide</a></li>
-        </ul>
-      </div>
-
-      <div style="flex:1 1 30%; min-width:280px; background:#fff; padding:20px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
-        <h4 style="color:#0056b3; font-weight:700; font-size:16px; margin-top:0; border-bottom:2px solid #eef7ff; padding-bottom:8px;">City & Route Guides</h4>
-        <ul style="list-style:none; padding:0; margin:0; line-height:2.2; font-size:14px;">
-          <li><a href="https://www.apnapackersmovers.com/blog-indore-to-mumbai-shifting-guide.php" style="color:#222; text-decoration:none;">• Indore to Mumbai Shifting Guide</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-indore-to-pune-shifting-guide.php" style="color:#222; text-decoration:none;">• Indore to Pune Relocation Guide</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-indore-to-delhi-ncr-shifting-guide.php" style="color:#222; text-decoration:none;">• Indore to Delhi NCR Transport</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-indore-to-bangalore-shifting-guide.php" style="color:#222; text-decoration:none;">• Indore to Bangalore Shifting Guide</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-indore-to-south-india-goods-transport-guide.php" style="color:#222; text-decoration:none;">• Indore to South India Transport</a></li>
-        </ul>
-      </div>
-
-      <div style="flex:1 1 30%; min-width:280px; background:#fff; padding:20px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
-        <h4 style="color:#0056b3; font-weight:700; font-size:16px; margin-top:0; border-bottom:2px solid #eef7ff; padding-bottom:8px;">Trust, IBA & Transport</h4>
-        <ul style="list-style:none; padding:0; margin:0; line-height:2.2; font-size:14px;">
-          <li><a href="https://www.apnapackersmovers.com/blog-iba-approved-packers-movers-indore.php" style="color:#222; text-decoration:none;">• IBA Approved Packers Movers Indore</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-agarwal-packers-movers-indore-comparison.php" style="color:#222; text-decoration:none;">• Agarwal vs Apna Packers Comparison</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-goods-transport-truck-rental-indore-guide.php" style="color:#222; text-decoration:none;">• Tata Ace & Container Truck Rental</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-safe-car-bike-shifting-indore.php" style="color:#222; text-decoration:none;">• Safe Car & Bike Transport Indore</a></li>
-          <li><a href="https://www.apnapackersmovers.com/blog-indore-packers-movers-contact-number-guide.php" style="color:#222; text-decoration:none;">• Verified Contact Number & Depot</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
 <footer>
 
         		<div class="color-part2"></div>
@@ -1586,9 +1535,7 @@ Experience the comfort of quick relocation with our packers and movers services 
 
 	                        <div class="contact-info">
 
-	                            <span><i class="fa fa-map-marker"></i><strong></strong><strong>Main Branch (Indore):</strong> Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall,
-
-Indore (MP) - 452010</span>
+	                            <span><i class="fa fa-map-marker"></i><strong>Main Branch (Indore):</strong> <a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" style="color:#ccc;">shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010 (<span style="color:#ffcc00; text-decoration:underline;">Google Maps</span>)</a></span>
 	                            <span><i class="fa fa-map-marker"></i><strong>West Bengal Branch: </strong>Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, WB - 734010 (<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#ffcc00; text-decoration:underline;">Google Maps</a>)</span>
 
 	                           <span><i class="fa fa-phone"></i><a href="tel:+91 9806470899" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a>,<a href="tel: +91-8827650499" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i> +91-8827650499</a></span>

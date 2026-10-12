@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "name": "Apna Packers and Movers",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+    "streetAddress": "shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori",
     "addressLocality": "Indore",
     "addressRegion": "MP",
     "postalCode": "452010"

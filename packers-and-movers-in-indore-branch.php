@@ -179,7 +179,7 @@
 
 		"@type": "PostalAddress",
 
-		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+		"streetAddress": "shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori",
 
 		"addressLocality": "Indore",
 
@@ -245,9 +245,9 @@
 
 ,
 
-	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+	"sameAs": "https://share.google/sI7FbAGb2zVvBd10r",
 
-	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
+	"hasMap": "https://share.google/sI7FbAGb2zVvBd10r"
 
 }
 
@@ -468,6 +468,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container-fluid inner-offset">    
 
 				<div class="row services">
+										<div class="service-item col-xs-12 col-sm-4 wow zoomIn" data-wow-delay="0.2s" style="margin-bottom:30px;">
+						<div style="border:1px solid #e0e0e0; border-radius:6px; padding:20px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.06); height:100%;">
+							<span class="label label-success" style="font-size:12px; padding:5px 10px;">Head Office & Depot</span>
+							<h4 style="margin-top:12px; color:#0056b3; font-weight:700;">Main Branch (Indore - MP)</h4>
+							<p style="font-size:14px; color:#444; line-height:1.7;">
+								<strong>Address:</strong> shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010<br>
+								<strong>Helpline:</strong> +91-9806470899, +91-8827650499<br>
+								<strong>Working Hours:</strong> 24x7, Mon - Sun
+							</p>
+							<a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-primary" style="margin-top:8px; font-weight:bold;">
+								<i class="fa fa-map-marker"></i> Open Google Business Profile
+							</a>
+						</div>
+					</div>
 					<div class="service-item col-xs-12 col-sm-4 wow zoomIn" data-wow-delay="0.3s" style="margin-bottom:30px;">
 						<div style="border:1px solid #e0e0e0; border-radius:6px; padding:20px; background:#fff; box-shadow:0 4px 10px rgba(0,0,0,0.06); height:100%;">
 							<span class="label label-danger" style="font-size:12px; padding:5px 10px;">New Branch</span>
@@ -754,9 +768,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                        <div class="contact-info">
 
-	                            <span><i class="fa fa-map-marker"></i><strong></strong><strong>Main Branch (Indore):</strong> Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall,
-
-Indore (MP) - 452010</span>
+	                            <span><i class="fa fa-map-marker"></i><strong>Main Branch (Indore):</strong> <a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" style="color:#ccc;">shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010 (<span style="color:#ffcc00; text-decoration:underline;">Google Maps</span>)</a></span>
 	                            <span><i class="fa fa-map-marker"></i><strong>West Bengal Branch: </strong>Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, WB - 734010 (<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#ffcc00; text-decoration:underline;">Google Maps</a>)</span>
 
 	                            <span><i class="fa fa-phone"></i><a href="tel:+91 9806470899" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a>,<a href="tel: +91-8827650499" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i> +91-8827650499</a></span>

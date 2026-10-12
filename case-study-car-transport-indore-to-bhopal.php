@@ -177,7 +177,7 @@
 
 		"@type": "PostalAddress",
 
-		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+		"streetAddress": "shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori",
 
 		"addressLocality": "Indore",
 
@@ -243,9 +243,9 @@
 
 ,
 
-	"sameAs": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+	"sameAs": "https://share.google/sI7FbAGb2zVvBd10r",
 
-	"hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore"
+	"hasMap": "https://share.google/sI7FbAGb2zVvBd10r"
 
 }
 
@@ -604,9 +604,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	                        <div class="contact-info">
 
-	                            <span><i class="fa fa-map-marker"></i><strong></strong><strong>Main Branch (Indore):</strong> Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall,
-
-Indore (MP) - 452010</span>
+	                            <span><i class="fa fa-map-marker"></i><strong>Main Branch (Indore):</strong> <a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" style="color:#ccc;">shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010 (<span style="color:#ffcc00; text-decoration:underline;">Google Maps</span>)</a></span>
 	                            <span><i class="fa fa-map-marker"></i><strong>West Bengal Branch: </strong>Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, WB - 734010 (<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#ffcc00; text-decoration:underline;">Google Maps</a>)</span>
 
 	                            <span><i class="fa fa-phone"></i><a href="tel:+91 9806470899" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a>,<a href="tel: +91-8827650499" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i> +91-8827650499</a></span>

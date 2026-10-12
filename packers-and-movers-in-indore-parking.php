@@ -20,7 +20,7 @@
 <meta name="city" content="Indore" />
 <meta name="state" content="Madhya Pradesh" />
 <meta name="zipcode" content="452010" />
-<meta name="address" content="Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore, MP 452010" />
+<meta name="address" content="shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010" />
 
 <meta property="og:title" content="Professional Packing and Moving Services in Indore | Apna Packers" />
 <meta property="og:description" content="High-quality packing and moving services in Indore. 5-layer bubble wrap, customized crating, corrugated boxes, and expert packing specialists." />
@@ -69,7 +69,7 @@
 	"name": "Apna Packers and Movers - Professional Packing & Moving Services in Indore",
 	"address": {
 		"@type": "PostalAddress",
-		"streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+		"streetAddress": "shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori",
 		"addressLocality": "Indore",
 		"addressRegion": "Madhya Pradesh",
 		"postalCode": "452010",
@@ -523,7 +523,7 @@ window.addEventListener('load', function() {
                     		<h4>INDORE CONTACT & GEO INFO</h4>
 	                        Serving all zones of Indore (Vijay Nagar, Palasia, Bhawarkuan, Rajwada, Rau, Dewas Naka, Sudama Nagar, Super Corridor) and India.
 	                        <div class="contact-info">
-	                            <span><i class="fa fa-map-marker"></i><strong></strong><strong>Main Branch (Indore):</strong> Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall, Indore (MP) - 452010</span>
+	                            <span><i class="fa fa-map-marker"></i><strong>Main Branch (Indore):</strong> <a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" style="color:#ccc;">shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010 (<span style="color:#ffcc00; text-decoration:underline;">Google Maps</span>)</a></span>
 	                            <span><i class="fa fa-map-marker"></i><strong>West Bengal Branch: </strong>Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, WB - 734010 (<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#ffcc00; text-decoration:underline;">Google Maps</a>)</span>
 	                            <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91-8827650499</a></span>
 	                            <span><i class="fa fa-envelope"></i>apnapackersmovers@gmail.com</span>

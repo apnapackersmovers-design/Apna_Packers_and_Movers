@@ -183,7 +183,7 @@
   "name": "Apna Packers and movers",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall",
+    "streetAddress": "shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori",
     "addressLocality": "Indore",
     "addressRegion": "MP",
     "postalCode": "452010"
@@ -223,7 +223,7 @@
   },
   "priceRange": "$",
   "sameAs": [
-    "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+    "https://share.google/sI7FbAGb2zVvBd10r",
     "https://www.facebook.com/apmindore",
     "https://twitter.com/MoversApna",
     "https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w",
@@ -233,7 +233,7 @@
     "https://www.sulekha.com/apna-packers-movers-dewas-naka-indore-contact-address",
     "https://www.indiamart.com/apnapackersmovers-indore/"
   ],
-  "hasMap": "https://www.google.com/maps/search/Apna+Packers+and+Movers+Goyal+Compound+Dewas+Naka+Indore",
+  "hasMap": "https://share.google/sI7FbAGb2zVvBd10r",
   "areaServed": [
     "Indore",
     "Vijay Nagar",
@@ -291,9 +291,29 @@ window.addEventListener('load', function() {
 
 
 <style>
-#logo { position: relative !important; top: 0 !important; margin: 4px 0 !important; display: inline-block !important; z-index: 10 !important; background: none !important; }
-#logo img { height: 65px !important; max-height: 65px !important; width: auto !important; object-fit: contain !important; }
-.row.header { padding-top: 5px !important; padding-bottom: 5px !important; background: #ffffff !important; }
+header .container-fluid { padding-bottom: 0 !important; }
+#logo { position: relative !important; top: 0 !important; margin: 0 !important; width: auto !important; height: auto !important; max-height: 65px !important; display: inline-block !important; z-index: 10 !important; background: none !important; }
+#logo img { height: 60px !important; max-height: 60px !important; width: auto !important; object-fit: contain !important; display: block !important; margin: 2px 0 !important; }
+.row.header { padding-top: 4px !important; padding-bottom: 4px !important; margin-bottom: 0 !important; background: #ffffff !important; display: flex !important; align-items: center !important; justify-content: space-between !important; min-height: auto !important; }
+.header-padding { font-size: 11px !important; padding: 4px 0 !important; font-weight: 500 !important; margin-top: 0 !important; }
+.header-padding div { padding: 4px 12px !important; }
+.main-menu { margin-top: 0 !important; }
+#main-menu-bg { margin-top: 0 !important; }
+
+/* Contact Page Scoped Clean Layout */
+.main-grid { display: flex !important; flex-wrap: wrap !important; }
+.main-grid > .col-sm-4 { width: 33.33333333% !important; float: none !important; box-sizing: border-box !important; padding-right: 25px !important; }
+.main-grid > .col-sm-8 { width: 66.66666667% !important; float: none !important; box-sizing: border-box !important; padding-left: 15px !important; }
+@media (max-width: 767px) {
+  .main-grid > .col-sm-4, .main-grid > .col-sm-8 { width: 100% !important; padding: 0 15px !important; }
+}
+.adress-details > div { font-size: 13px !important; display: table !important; width: 100% !important; margin-top: -1px !important; }
+.adress-details > div > span { display: table-cell !important; width: 40px !important; min-width: 40px !important; height: 35px !important; vertical-align: middle !important; text-align: center !important; border: 1px solid #eee !important; }
+.adress-details > div > div { display: table-cell !important; padding-left: 18px !important; vertical-align: middle !important; word-break: break-word !important; }
+.reply-form .default-inp { position: relative !important; margin-bottom: 15px !important; }
+.reply-form .default-inp i { position: absolute !important; left: 15px !important; top: 17px !important; color: #888 !important; font-size: 15px !important; z-index: 2 !important; }
+.reply-form .default-inp input { width: 100% !important; height: 48px !important; line-height: 48px !important; padding-left: 42px !important; padding-right: 15px !important; border: 1px solid #ddd !important; border-radius: 4px !important; font-size: 14px !important; box-sizing: border-box !important; }
+.reply-form .default-inp textarea { width: 100% !important; min-height: 140px !important; padding: 12px !important; border: 1px solid #ddd !important; border-radius: 4px !important; font-size: 14px !important; box-sizing: border-box !important; resize: vertical !important; }
 </style>
 </head>
 
@@ -475,11 +495,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col-sm-4">
 
-						<h4>Head Office</h4>
+						<h4>Head Office (Indore)</h4>
 
-						<p>Everyday is a new day for us and we work really hard to
-
-							satisfy our customers everywhere.</p>
+						<p>Everyday is a new day for us and we work really hard to satisfy our customers everywhere.</p>
 
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 
@@ -487,72 +505,84 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 								<span><i class="fa fa-location-arrow"></i></span>
 
-								<div><strong>Apna Packers & Movers</strong><br>Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall,
-
-Indore (MP) - 452010</div>
-
-							</div>
-
-							<div>
-
-								<span><i class="fa fa-phone"></i></span>
-
-								<div> +91-8827650499, +91-98064-70899</div>
-
-							</div>
-
-							<div>
-
-								<span><i class="fa fa-envelope"></i></span>
-
-								<div>apnapackersmovers@gmail.com</div>
-
-							</div>
-
-							<div>
-
-								<span><i class="fa fa-clock-o"></i></span>
-
-								<div>24x7, Mon- Sun</div>
-
-							</div>
-						<div class="adress-details wow fadeInLeft" data-wow-delay="0.4s" style="margin-top:25px; padding-top:20px; border-top:2px dashed #ddd;">
-							<h4 style="color:#0056b3; font-weight:bold; margin-bottom:12px;">West Bengal Branch Office</h4>
-							<div>
-								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>Apna Packers & Movers (Darjeeling / Siliguri Hub)</strong><br>
-								Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, West Bengal - 734010<br>
-								<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#d9534f; font-weight:bold; display:inline-block; margin-top:5px;"><i class="fa fa-map-marker"></i> View on Google Maps (GPS: 26.7133385, 88.4070532)</a>
+								<div><strong>Apna Packers & Movers</strong><br>shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010<br>
+								<a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" style="color:#d9534f; font-weight:bold; display:inline-block; margin-top:6px;"><i class="fa fa-map-marker"></i> View on Google Maps (GMB Profile)</a>
 								</div>
+
 							</div>
+
 							<div>
+
 								<span><i class="fa fa-phone"></i></span>
-								<div> +91-9806470899, +91-8827650499</div>
+
+								<div><a href="tel:+919806470899" style="color:#333;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#333;">+91-8827650499</a></div>
+
 							</div>
+
 							<div>
+
 								<span><i class="fa fa-envelope"></i></span>
+
 								<div>apnapackersmovers@gmail.com</div>
+
 							</div>
+
 							<div>
+
 								<span><i class="fa fa-clock-o"></i></span>
+
 								<div>24x7, Mon- Sun</div>
+
 							</div>
-						</div>
-
 
 						</div>
 
-						
+						<div style="margin-top:25px; padding-top:20px; border-top:2px dashed #ddd;">
 
-						
+							<h4 style="color:#0056b3; font-weight:bold; margin-bottom:12px;">West Bengal Branch Office</h4>
 
-					
+							<div class="adress-details wow fadeInLeft" data-wow-delay="0.4s">
 
-						
+								<div>
+
+									<span><i class="fa fa-location-arrow"></i></span>
+
+									<div><strong>Apna Packers & Movers (Darjeeling / Siliguri Hub)</strong><br>
+									Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, West Bengal - 734010<br>
+									<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#d9534f; font-weight:bold; display:inline-block; margin-top:6px;"><i class="fa fa-map-marker"></i> View on Google Maps (GPS: 26.7133385, 88.4070532)</a>
+									</div>
+
+								</div>
+
+								<div>
+
+									<span><i class="fa fa-phone"></i></span>
+
+									<div><a href="tel:+919806470899" style="color:#333;">+91 9806470899</a>, <a href="tel:+918827650499" style="color:#333;">+91-8827650499</a></div>
+
+								</div>
+
+								<div>
+
+									<span><i class="fa fa-envelope"></i></span>
+
+									<div>apnapackersmovers@gmail.com</div>
+
+								</div>
+
+								<div>
+
+									<span><i class="fa fa-clock-o"></i></span>
+
+									<div>24x7, Mon- Sun</div>
+
+								</div>
+
+							</div>
+
+						</div>
 
 					</div>
-
-					
 
 					<div class="col-sm-8 wow fadeInRight" data-wow-delay="0.3s">
 
@@ -761,9 +791,7 @@ Indore (MP) - 452010</div>
 
 	                        <div class="contact-info">
 
-	                            <span><i class="fa fa-map-marker"></i><strong></strong><strong>Main Branch (Indore):</strong> Shop B-3, Goyal Compound, T.T. Nagar, Dewas Naka, behind Metro Mall,
-
-Indore (MP) - 452010</span>
+	                            <span><i class="fa fa-map-marker"></i><strong>Main Branch (Indore):</strong> <a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" style="color:#ccc;">shop no. B, 2, Dewas Naka, TT Nagar, Lasudia Mori, Indore, Madhya Pradesh 452010 (<span style="color:#ffcc00; text-decoration:underline;">Google Maps</span>)</a></span>
 	                            <span><i class="fa fa-map-marker"></i><strong>West Bengal Branch: </strong>Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, WB - 734010 (<a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener" style="color:#ffcc00; text-decoration:underline;">Google Maps</a>)</span>
 
 	                            <span><i class="fa fa-phone"></i><a href="tel:+91 9806470899" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a>,<a href="tel: +91-8827650499" style="color:#ccc;"><i class="fa-light fa-phone-flip"></i> +91-8827650499</a></span>
