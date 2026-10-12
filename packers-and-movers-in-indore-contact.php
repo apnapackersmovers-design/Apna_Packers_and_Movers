@@ -130,7 +130,7 @@
 
 <meta name="google-site-verification" content="G5WVfIs52m30iIFTiKlJaB6Jr_bDPYOtZsqegjzx6Ng" />
 
-<meta name='copyright' content='(c) 2019 Apna Packers and Movers' />
+<meta name='copyright' content='(c) 2026 Apna Packers and Movers' />
 
 <meta name='url' content='https://www.apnapackersmovers.com/'/> 
 
@@ -562,7 +562,7 @@ Indore (MP) - 452010</div>
 
 						<div id="success"></div>
 
-						<form novalidate id="contactForm" class="reply-form form-inline">
+						<form id="contactForm" class="reply-form form-inline" onsubmit="handleContactSubmit(event)">
 
 							<div class="row form-elem">	
 
@@ -580,7 +580,7 @@ Indore (MP) - 452010</div>
 
 										<i class="fa fa-envelope"></i>
 
-										<input type="text" name="email" id="user-email" placeholder="Email Address" required="required">
+										<input type="email" name="email" id="user-email" placeholder="Email Address" required="required">
 
 									</div>
 
@@ -590,17 +590,17 @@ Indore (MP) - 452010</div>
 
 									<div class="default-inp form-elem">
 
-										<i class="fa fa-user"></i>
+										<i class="fa fa-phone"></i>
 
-										<input type="text" name="number" id="user-lastname" placeholder="Subject">
+										<input type="tel" name="phone" id="user-phone" placeholder="Phone No." required="required">
 
 									</div>
 
 									<div class="default-inp form-elem">
 
-										<i class="fa fa-envelope"></i>
+										<i class="fa fa-tag"></i>
 
-										<input type="text" name="subject" id="user-phone" placeholder="Phone No.">
+										<input type="text" name="subject" id="user-subject" placeholder="Subject / Moving Requirement">
 
 									</div>
 
@@ -612,17 +612,50 @@ Indore (MP) - 452010</div>
 
 							<div class="form-elem default-inp">
 
-								<textarea name="message" id="user-message" placeholder="Message"></textarea>
+								<textarea name="message" id="user-message" placeholder="Message / Moving Details (Origin, Destination, Items)" required="required"></textarea>
 
 							</div>
 
 							<div class="form-elem">
 
-								<button type="submit" class="btn btn-success btn-default">send message</button>
+								<button type="submit" class="btn btn-success btn-default">Send Message / Get Quote</button>
 
 							</div>
 
 						</form>
+
+						<script>
+						function handleContactSubmit(e) {
+							e.preventDefault();
+							var name = document.getElementById('user-name').value.trim();
+							var email = document.getElementById('user-email').value.trim();
+							var phone = document.getElementById('user-phone').value.trim();
+							var subject = document.getElementById('user-subject').value.trim() || 'Packing & Moving Quote';
+							var message = document.getElementById('user-message').value.trim();
+
+							if (!name || !phone) {
+								alert('Please provide your name and phone number.');
+								return false;
+							}
+
+							var successBox = document.getElementById('success');
+							successBox.innerHTML = '<div class="alert alert-success" style="padding: 15px; margin-bottom: 20px; border: 1px solid #d6e9c6; border-radius: 4px; color: #3c763d; background-color: #dff0d8;"><strong>Thank you, ' + name + '!</strong> Your moving requirement has been received. Opening WhatsApp to connect with our relocation manager instantly...</div>';
+
+							var waMsg = "Hello Apna Packers and Movers,\n" +
+										"I would like to request a moving quote:\n" +
+										"• Name: " + name + "\n" +
+										"• Phone: " + phone + "\n" +
+										(email ? ("• Email: " + email + "\n") : "") +
+										"• Requirement: " + subject + "\n" +
+										(message ? ("• Details: " + message) : "");
+
+							var waUrl = "https://api.whatsapp.com/send?phone=919806470899&text=" + encodeURIComponent(waMsg);
+							setTimeout(function() {
+								window.open(waUrl, '_blank');
+							}, 600);
+							return false;
+						}
+						</script>
 
 					</div>
 
@@ -751,7 +784,7 @@ Indore (MP) - 452010</span>
 
 	                </div>
 
-             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2019 Apna Packers & Movers All rights reserved.</div>
+             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2026 Apna Packers & Movers All rights reserved.</div>
 
 	             </div>
 

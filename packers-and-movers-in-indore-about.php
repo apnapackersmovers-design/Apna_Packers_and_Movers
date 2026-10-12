@@ -130,7 +130,7 @@
 
 <meta name="google-site-verification" content="G5WVfIs52m30iIFTiKlJaB6Jr_bDPYOtZsqegjzx6Ng" />
 
-<meta name='copyright' content='(c) 2019 Apna Packers and Movers' />
+<meta name='copyright' content='(c) 2026 Apna Packers and Movers' />
 
 <meta name='url' content='https://www.apnapackersmovers.com/'/> 
 
@@ -501,7 +501,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" data-wow-delay="0.3s">
 
-						<img loading="lazy" decoding="async" src="media/3-column-info/m.jpg" alt="packers and movers in indore">
+						<img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/3-column-info/m.jpg" alt="packers and movers in indore">
 
 						<span></span>
 
@@ -515,7 +515,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
 
-						<img loading="lazy" decoding="async" src="media/3-column-info/v.jpg" alt="packers and movers in indore">
+						<img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/3-column-info/v.jpg" alt="packers and movers in indore">
 
 						<span></span>
 
@@ -529,7 +529,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" data-wow-delay="0.3s">
 
-						<img loading="lazy" decoding="async" src="media/3-column-info/va.jpg" alt="packers and movers in indore">
+						<img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/3-column-info/va.jpg" alt="packers and movers in indore">
 
 						<span></span>
 
@@ -668,7 +668,7 @@ Indore (MP) - 452010</span>
 
 	                </div>
 
-             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2019 Apna Packers & Movers All rights reserved.</div>
+             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2026 Apna Packers & Movers All rights reserved.</div>
 
 	             </div>
 

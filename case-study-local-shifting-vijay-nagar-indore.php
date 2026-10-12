@@ -117,7 +117,7 @@
 
 <meta name="google-site-verification" content="G5WVfIs52m30iIFTiKlJaB6Jr_bDPYOtZsqegjzx6Ng" />
 
-<meta name='copyright' content='(c) 2019 Apna Packers and Movers' />
+<meta name='copyright' content='(c) 2026 Apna Packers and Movers' />
 
 <meta name='url' content='https://www.apnapackersmovers.com/'/> 
 
@@ -630,7 +630,7 @@ Indore (MP) - 452010</span>
 
 	                </div>
 
-             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2019 Apna Packers & Movers All rights reserved.</div>
+             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2026 Apna Packers & Movers All rights reserved.</div>
 
 	             </div>
 
