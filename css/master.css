@@ -462,3 +462,131 @@ header .container-fluid {
     padding-top: 110px !important;
     padding-bottom: 40px !important;
 }
+
+
+/* ==========================================================================
+   PREMIUM MODERN FOOTER STYLING
+   ========================================================================== */
+footer {
+    background: #111827 !important;
+    color: #94a3b8 !important;
+    position: relative !important;
+    padding-top: 50px !important;
+    border-top: 3px solid #A91B1B !important;
+}
+
+footer h4 {
+    color: #ffffff !important;
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.5px !important;
+    margin-bottom: 22px !important;
+    position: relative !important;
+    padding-bottom: 10px !important;
+    text-transform: uppercase !important;
+}
+
+footer h4:after {
+    content: '' !important;
+    position: absolute !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    width: 35px !important;
+    height: 2px !important;
+    background: #A91B1B !important;
+}
+
+footer p {
+    color: #94a3b8 !important;
+    font-size: 13.5px !important;
+    line-height: 1.7 !important;
+    margin-bottom: 20px !important;
+}
+
+footer nav {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 8px !important;
+}
+
+footer nav a {
+    color: #cbd5e1 !important;
+    font-size: 13.5px !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease !important;
+    display: inline-block !important;
+    line-height: 1.4 !important;
+}
+
+footer nav a:hover {
+    color: #ffffff !important;
+    padding-left: 5px !important;
+}
+
+footer .contact-info span {
+    display: block !important;
+    color: #cbd5e1 !important;
+    font-size: 13.5px !important;
+    margin-bottom: 12px !important;
+    line-height: 1.5 !important;
+}
+
+footer .contact-info span i {
+    color: #A91B1B !important;
+    margin-right: 10px !important;
+    font-size: 15px !important;
+    width: 16px !important;
+    text-align: center !important;
+}
+
+footer .footer-icons a {
+    color: #cbd5e1 !important;
+    margin-right: 12px !important;
+    transition: color 0.2s !important;
+    display: inline-block !important;
+}
+
+footer .footer-icons a:hover {
+    color: #A91B1B !important;
+}
+
+footer .copy {
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+    padding: 20px 0 !important;
+    margin-top: 30px !important;
+    color: #64748b !important;
+    font-size: 13px !important;
+    background: transparent !important;
+}
+
+#to-top {
+    display: inline-block !important;
+    background: #A91B1B !important;
+    color: #ffffff !important;
+    width: 36px !important;
+    height: 36px !important;
+    line-height: 36px !important;
+    text-align: center !important;
+    border-radius: 4px !important;
+    margin-right: 15px !important;
+    transition: background 0.2s !important;
+}
+
+#to-top:hover {
+    background: #c92222 !important;
+    color: #ffffff !important;
+}
+
+@media screen and (max-width: 767px) {
+    footer {
+        padding-top: 35px !important;
+        text-align: left !important;
+    }
+    footer .block-content > div {
+        margin-bottom: 30px !important;
+    }
+    footer .copy {
+        text-align: center !important;
+    }
+}
