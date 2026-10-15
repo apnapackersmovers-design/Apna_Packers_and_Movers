@@ -45,6 +45,24 @@ try:
             print(f"  FAILED to upload {filename}: {e}")
             failed_uploads += 1
             
+    # Also upload css/master.css
+    css_file = os.path.join(base_dir, "css", "master.css")
+    if os.path.isfile(css_file):
+        print("Uploading css/master.css...")
+        try:
+            try:
+                ftp.cwd("css")
+            except Exception:
+                ftp.mkd("css")
+                ftp.cwd("css")
+            with open(css_file, "rb") as f:
+                ftp.storbinary("STOR master.css", f)
+            print("  SUCCESS: css/master.css")
+            ftp.cwd("..")
+        except Exception as e:
+            print(f"  FAILED to upload css/master.css: {e}")
+            failed_uploads += 1
+
     ftp.quit()
     print("FTP transfer complete.")
     

@@ -393,17 +393,6 @@ window.addEventListener('load', function() {
 * { font-display: swap; }
 </style>
 
-
-<style>
-header .container-fluid { padding-bottom: 0 !important; }
-#logo { position: relative !important; top: 0 !important; margin: 0 !important; width: auto !important; height: auto !important; max-height: 65px !important; display: inline-block !important; z-index: 10 !important; background: none !important; }
-#logo img { height: 60px !important; max-height: 60px !important; width: auto !important; object-fit: contain !important; display: block !important; margin: 2px 0 !important; }
-.row.header { padding-top: 4px !important; padding-bottom: 4px !important; margin-bottom: 0 !important; background: #ffffff !important; display: flex !important; align-items: center !important; justify-content: space-between !important; min-height: auto !important; }
-.header-padding { font-size: 11px !important; padding: 4px 0 !important; font-weight: 500 !important; margin-top: 0 !important; }
-.header-padding div { padding: 4px 12px !important; }
-.main-menu { margin-top: 0 !important; }
-#main-menu-bg { margin-top: 0 !important; }
-</style>
 </head>
 
 	<body data-scrolling-animations="true">
@@ -425,73 +414,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 
 	        <header id="this-is-top">
-
 	            <div class="container-fluid"> 
-
-	                <div class="topmenu row"> 
-
-	                    <nav style="color:#fff;" class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
-
-	                        <a href="tel:+91-8827650499" style="font-size: 14px;">  +91-8827650499</a> 
-
-	                <a href="tel:+91 9806470899" style="font-size: 14px;"> +91 9806470899</a>  
-
-	                    </nav>
-
-	                    <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-
-	                        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore"><i style="font-size: 16px;" class="fa fa-facebook"></i></a> 
-
-	                     
-
-	                        <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna"><i style="font-size: 16px;" class="fa fa-twitter"></i></a>
-
-	                      
-
-	                        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=vRqhzaKlGzY"><i class="fa fa-youtube"></i></a>
-
-	                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/"><i style="font-size: 16px;" class="fa fa-instagram"></i></a>
-
-	                       
-
-	                    </nav>
-
-	                </div>
-
-	                
-<div class="row header">
-
-	                    <div class="col-sm-3 col-md-3 col-lg-3">
-
-	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo" style="position:relative !important; top:0 !important; margin:5px 0 !important; display:inline-block !important; text-decoration:none !important;"><img src="https://www.apnapackersmovers.com/img/latest_logo.jpg" alt="Apna Packers and Movers Indore" style="height:65px !important; max-height:65px !important; width:auto !important; display:block !important; border-radius:4px !important;"></a>
-
+	                <div class="row header">
+	                    <div class="col-xs-9 col-sm-3 col-md-3 col-lg-3 header-logo-col">
+	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"><img src="https://www.apnapackersmovers.com/img/latest_logo.jpg" alt="Apna Packers and Movers Indore"></a>
 	                    </div>
-
-	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-
-	                        <div class="text-right header-padding">
-
-	                            <div class="h-block"><span>CALL US</span><a href="tel:+91 9806470899"><i class="fa-light fa-phone-flip"></i>+91 9806470899  </a></div>
-
-	                            <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-
-	                            <div class="h-block"><span>WORKING HOURS</span>24x7, Mon- Sun</div>
-
-	                            <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-
-	                        </div>
-
-	                    </div>
-
-	                </div>
-
-	                <div id="main-menu-bg"></div>  
-
-	                <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
-
-	                <nav class="main-menu navbar-main-slide">
-
-						<ul class="nav navbar-nav navbar-main">
+	                    <div class="col-xs-3 col-sm-9 col-md-9 col-lg-9 header-nav-col">
+	                        <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
+	                        <nav class="main-menu navbar-main-slide">
+	                            <ul class="nav navbar-nav navbar-main">
 
 							<li class="dropdown">
 
@@ -546,17 +477,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<li><a href="https://www.apnapackersmovers.com/case-study-packers-movers-indore.php">Case Studies</a></li>
 
 						</ul>
-
-						
-
-	                </nav>
-
-	                <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
-
-
-
+	                        </nav>
+	                        <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
+	                    </div>
+	                </div>
 	            </div>
-
 	        </header>
 
 	        <div id="owl-main-slider" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-auto-play="true" data-main-slider="true" data-stop-on-hover="true">
@@ -1800,3 +1725,4 @@ setTimeout(loadTawkTo, 4000);
 </body>
 
 </html>
+

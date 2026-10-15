@@ -126,37 +126,15 @@ article ul li, article ol li { font-size:15px; line-height:1.8; margin-bottom:8p
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MLZFR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="sp-body">
     <header id="this-is-top">
-        <div class="container-fluid">
-            <div class="topmenu row">
-                <nav style="color:#fff;" class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
-                    <div class="h-block"><span>CALL US</span><a href="tel:+919806470899" style="font-size:14px" aria-label="Call Us"><i class="fa fa-phone"></i> +91 9806470899</a></div>
-                </nav>
-                <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/apmindore" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MoversApna" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCudEHzL2ds-Mw51CayGce-w" aria-label="YouTube"><i class="fa fa-youtube"></i></a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/apnapackersmovers/" aria-label="Instagram"><i class="fa fa-instagram"></i></a>
-                </nav>
-            </div>
-            
-            <div class="row header">
-                <div class="col-sm-3 col-md-3 col-lg-3">
-                    <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"><img src="https://www.apnapackersmovers.com/img/latest_logo.jpg" alt="Apna Packers and Movers Indore"></a>
-                </div>
-                <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
-                    <div class="text-right header-padding">
-                        <div class="h-block"><span>CALL US</span><a href="tel:+919806470899"><i class="fa fa-phone"></i> +91 9806470899</a></div>
-                        <div class="h-block"><span>EMAIL US</span>apnapackersmovers@gmail.com</div>
-                        <div class="h-block"><span>WORKING HOURS</span>24x7, Mon-Sun</div>
-                        <a class="btn btn-success" href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">GET A FREE QUOTE</a>
-                    </div>
-                </div>
-            </div>
-
-            <div id="main-menu-bg"></div>  
-            <a id="menu-open" href="#" aria-label="Open Menu"><i class="fa fa-bars"></i></a> 
-            <nav class="main-menu navbar-main-slide">
-                <ul class="nav navbar-nav navbar-main">
+	            <div class="container-fluid"> 
+	                <div class="row header">
+	                    <div class="col-xs-9 col-sm-3 col-md-3 col-lg-3 header-logo-col">
+	                        <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo"><img src="https://www.apnapackersmovers.com/img/latest_logo.jpg" alt="Apna Packers and Movers Indore"></a>
+	                    </div>
+	                    <div class="col-xs-3 col-sm-9 col-md-9 col-lg-9 header-nav-col">
+	                        <a id="menu-open" href="#" aria-label="Open Navigation Menu"><i class="fa fa-bars"></i></a> 
+	                        <nav class="main-menu navbar-main-slide">
+	                            <ul class="nav navbar-nav navbar-main">
                     <li><a href="https://www.apnapackersmovers.com">HOME</a></li>
                     <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-about.php">About Us</a></li>
                     <li class="dropdown">
@@ -175,10 +153,12 @@ article ul li, article ol li { font-size:15px; line-height:1.8; margin-bottom:8p
                     <li><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-contact.php">Contact</a></li>
                     <li class="active"><a href="https://www.apnapackersmovers.com/packers-and-movers-in-indore-blogs.php">Blogs & Guides</a></li>
                 </ul>
-            </nav>
-            <a id="menu-close" href="#" aria-label="Close Menu"><i class="fa fa-times"></i></a>
-        </div>
-    </header>
+	                        </nav>
+	                        <a id="menu-close" href="#" aria-label="Close Navigation Menu"><i class="fa fa-times"></i></a>
+	                    </div>
+	                </div>
+	            </div>
+	        </header>
 
     <div class="bg-image page-title">
         <div class="container-fluid">
