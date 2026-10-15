@@ -1,68 +1,98 @@
-@import url(bootstrap.min.css);@import url(skin-bootstrap.css);@import url(font-awesome.min.css);@import url(theme.css);@import url(responsive.css);@import url(animate.css);@import url(color.css);@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,300,900,700italic,400italic,500,500italic,300italic);@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);@import url(../fonts/flaticon/flaticon.css);@import url(../assets/loader/css/loader.css);@import url(../assets/owl-carousel/owl.carousel.css);@import url(../assets/owl-carousel/owl.theme.css);@import url(../assets/isotope/isotope.css);
+@import url(bootstrap.min.css);@import url(skin-bootstrap.css);@import url(font-awesome.min.css);@import url(theme.css);@import url(responsive.css);@import url(animate.css);@import url(color.css);@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);@import url(https://fonts.googleapis.com/css?family=Montserrat:500,600,700);@import url(../fonts/flaticon/flaticon.css);@import url(../assets/loader/css/loader.css);@import url(../assets/owl-carousel/owl.carousel.css);@import url(../assets/owl-carousel/owl.theme.css);@import url(../assets/isotope/isotope.css);
 
-/* =========================================================
-   Clean Modern Header Layout (Logo Left + Red Menu Right)
-   ========================================================= */
+/* ==========================================================================
+   PREMIUM OVERLAY HEADER (Zero White Strip, Logo On Banner, Single Logo Fix)
+   ========================================================================== */
 header#this-is-top {
-    background: #ffffff !important;
-    border-top: 4px solid #A91B1B !important;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06) !important;
-    position: relative !important;
-    z-index: 999 !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    z-index: 1000 !important;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.88) 0%, rgba(0, 0, 0, 0.65) 65%, rgba(0, 0, 0, 0.2) 100%) !important;
+    border-top: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25) !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 header .container-fluid {
-    padding-bottom: 0 !important;
-    position: relative !important;
+    max-width: 1250px !important;
+    margin: 0 auto !important;
+    padding: 0 15px !important;
 }
 
 .row.header {
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
+    min-height: 75px !important;
     margin: 0 !important;
     padding: 0 !important;
-    min-height: 70px !important;
-    background: #ffffff !important;
+    background: transparent !important;
 }
 
-/* Hide legacy topmenu and contact info across all pages */
+/* Eliminate legacy topmenu, contact blocks, and background shapes */
 .topmenu.row,
 .topmenu,
 .header-padding,
-#main-menu-bg {
+#main-menu-bg,
+.main-menu:before,
+.main-menu:after {
     display: none !important;
 }
 
-/* Logo Column & Image */
-.header-logo-col {
-    padding: 6px 15px !important;
-    display: flex !important;
-    align-items: center !important;
-    flex-shrink: 0 !important;
-}
-
+/* Fix duplicate logo bug: eliminate theme.css background-image */
 #logo {
-    position: relative !important;
-    top: 0 !important;
-    margin: 0 !important;
+    background: none !important;
+    background-image: none !important;
     width: auto !important;
     height: auto !important;
-    max-height: 60px !important;
-    display: inline-block !important;
-    z-index: 10 !important;
-    background: none !important;
+    max-height: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: inline-flex !important;
+    align-items: center !important;
     text-decoration: none !important;
 }
 
+/* Logo Badge: Premium white capsule on top of the image */
+.header-logo-col {
+    padding: 6px 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    flex-shrink: 0 !important;
+    width: auto !important;
+}
+
+.logo-badge {
+    background: #ffffff !important;
+    padding: 5px 12px !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3) !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    border: 1px solid rgba(255, 255, 255, 0.9) !important;
+    transition: transform 0.2s, box-shadow 0.2s !important;
+}
+
+.logo-badge:hover {
+    transform: translateY(-1px) !important;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4) !important;
+}
+
+.logo-badge img,
 #logo img {
-    height: 55px !important;
-    max-height: 55px !important;
+    height: 48px !important;
+    max-height: 48px !important;
     width: auto !important;
     object-fit: contain !important;
     display: block !important;
     margin: 0 !important;
-    border-radius: 4px !important;
 }
 
 /* Navigation Column */
@@ -71,60 +101,35 @@ header .container-fluid {
     display: flex !important;
     align-items: center !important;
     justify-content: flex-end !important;
-    position: relative !important;
+    width: auto !important;
+    flex-grow: 1 !important;
 }
 
 /* Desktop Navigation (> 991px) */
 @media screen and (min-width: 992px) {
     .main-menu {
-        position: relative !important;
-        display: block !important;
-        height: 70px !important;
-        line-height: 70px !important;
+        display: flex !important;
+        align-items: center !important;
+        height: 75px !important;
         margin: 0 !important;
-        background: #A91B1B !important;
-        padding-left: 20px !important;
-        padding-right: 15px !important;
-    }
-
-    /* Red slanted angle on left edge */
-    .main-menu:before {
-        content: "" !important;
-        position: absolute !important;
-        left: -20px !important;
-        top: 0 !important;
-        width: 25px !important;
-        height: 70px !important;
-        background: #A91B1B !important;
-        transform: skew(-20deg) !important;
-        -webkit-transform: skew(-20deg) !important;
-    }
-
-    /* Seamless full-bleed extension to screen right edge */
-    .main-menu:after {
-        content: "" !important;
-        position: absolute !important;
-        left: 100% !important;
-        top: 0 !important;
-        width: 2000px !important;
-        height: 70px !important;
-        background: #A91B1B !important;
+        padding: 0 !important;
+        background: transparent !important;
+        position: relative !important;
     }
 
     .main-menu .navbar-main {
         margin: 0 !important;
         display: flex !important;
         align-items: center !important;
-        height: 70px !important;
-        position: relative !important;
-        z-index: 2 !important;
+        height: 75px !important;
     }
 
     .main-menu .navbar-main > li {
-        height: 70px !important;
-        padding: 0 !important;
+        height: 75px !important;
         display: flex !important;
         align-items: center !important;
+        padding: 0 !important;
+        position: relative !important;
     }
 
     .main-menu .navbar-main > li > a {
@@ -133,84 +138,140 @@ header .container-fluid {
         font-size: 13px !important;
         font-weight: 700 !important;
         text-transform: uppercase !important;
-        padding: 0 16px !important;
-        line-height: 70px !important;
-        height: 70px !important;
-        border-right: 1px solid rgba(255, 255, 255, 0.25) !important;
-        border-top: none !important;
+        padding: 8px 14px !important;
+        margin: 0 2px !important;
+        border-radius: 6px !important;
+        border: none !important;
         text-decoration: none !important;
         letter-spacing: 0.5px !important;
-    }
-
-    .main-menu .navbar-main > li:last-child > a {
-        border-right: none !important;
+        transition: all 0.25s ease !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        height: 38px !important;
+        line-height: 1 !important;
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) !important;
     }
 
     .main-menu .navbar-main > li > a:hover,
-    .main-menu .navbar-main > li.open > a {
-        background-color: rgba(0, 0, 0, 0.15) !important;
+    .main-menu .navbar-main > li.open > a,
+    .main-menu .navbar-main > li.active > a {
+        background: #A91B1B !important;
         color: #ffffff !important;
+        box-shadow: 0 3px 10px rgba(169, 27, 27, 0.4) !important;
+    }
+
+    .main-menu .navbar-main > li > a i {
+        margin-left: 5px !important;
+        font-size: 11px !important;
     }
 
     .main-menu .dropdown-menu {
-        top: 100% !important;
+        top: 65px !important;
         left: 0 !important;
-        background: #8e1515 !important;
-        border: none !important;
-        border-radius: 0 !important;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.25) !important;
-        padding: 0 !important;
-        min-width: 230px !important;
+        background: rgba(20, 20, 20, 0.96) !important;
+        border: 1px solid rgba(255, 255, 255, 0.15) !important;
+        border-top: 3px solid #A91B1B !important;
+        border-radius: 6px !important;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5) !important;
+        padding: 8px 0 !important;
+        min-width: 240px !important;
+        backdrop-filter: blur(12px) !important;
+        -webkit-backdrop-filter: blur(12px) !important;
     }
 
     .main-menu .dropdown:hover .dropdown-menu,
     .main-menu .dropdown.open .dropdown-menu {
         display: block !important;
-        height: auto !important;
         opacity: 1 !important;
+        height: auto !important;
     }
 
     .main-menu .dropdown-menu > li > a {
-        color: #ffffff !important;
+        color: #e2e8f0 !important;
+        font-family: 'Roboto', sans-serif !important;
         font-size: 13px !important;
-        font-weight: 600 !important;
-        padding: 12px 20px !important;
-        border-top: 1px solid rgba(255, 255, 255, 0.12) !important;
-        border-right: none !important;
+        font-weight: 500 !important;
+        padding: 10px 20px !important;
         display: block !important;
-        line-height: 20px !important;
-        height: auto !important;
+        border: none !important;
         text-decoration: none !important;
+        transition: background 0.2s, padding-left 0.2s, color 0.2s !important;
     }
 
     .main-menu .dropdown-menu > li > a:hover {
-        background: #6f0e0e !important;
+        background: #A91B1B !important;
+        color: #ffffff !important;
         padding-left: 25px !important;
     }
 
-    #menu-open {
-        display: none !important;
+    /* Header Call CTA Button */
+    .header-cta-btn {
+        margin-left: 12px !important;
+        background: #A91B1B !important;
+        color: #ffffff !important;
+        font-family: 'Montserrat', sans-serif !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
+        padding: 9px 18px !important;
+        border-radius: 50px !important;
+        text-transform: uppercase !important;
+        text-decoration: none !important;
+        letter-spacing: 0.5px !important;
+        box-shadow: 0 4px 12px rgba(169, 27, 27, 0.45) !important;
+        transition: all 0.25s ease !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        white-space: nowrap !important;
     }
+
+    .header-cta-btn:hover {
+        background: #c92222 !important;
+        color: #ffffff !important;
+        transform: translateY(-1px) !important;
+        box-shadow: 0 6px 18px rgba(169, 27, 27, 0.6) !important;
+    }
+
+    .header-cta-btn i {
+        margin-right: 6px !important;
+        font-size: 13px !important;
+    }
+
+    #menu-open { display: none !important; }
 }
 
-/* Mobile & Tablet View (<= 991px) */
+/* Mobile & Tablet Styles (<= 991px) */
 @media screen and (max-width: 991px) {
     .row.header {
-        min-height: 60px !important;
+        min-height: 65px !important;
+    }
+
+    .logo-badge {
+        padding: 4px 8px !important;
+    }
+
+    .logo-badge img,
+    #logo img {
+        height: 40px !important;
+        max-height: 40px !important;
     }
 
     #menu-open {
-        display: inline-block !important;
-        color: #A91B1B !important;
-        font-size: 26px !important;
-        padding: 12px 15px !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        background: #A91B1B !important;
+        color: #ffffff !important;
+        font-size: 20px !important;
+        width: 42px !important;
+        height: 42px !important;
+        border-radius: 8px !important;
         margin: 0 !important;
         text-decoration: none !important;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3) !important;
     }
 
-    #logo img {
-        height: 48px !important;
-        max-height: 48px !important;
+    .header-cta-btn {
+        display: none !important;
     }
 
     .main-menu {
@@ -222,12 +283,13 @@ header .container-fluid {
         right: 0 !important;
         z-index: 10000 !important;
         overflow-y: auto !important;
-        background: #8e1515 !important;
-        padding: 60px 20px 20px 20px !important;
+        background: #111827 !important;
+        padding: 70px 20px 30px 20px !important;
     }
 
     .main-menu .navbar-main {
         display: block !important;
+        padding: 0 !important;
     }
 
     .main-menu .navbar-main > li {
@@ -238,32 +300,41 @@ header .container-fluid {
 
     .main-menu .navbar-main > li > a {
         color: #ffffff !important;
-        border-right: none !important;
-        border-top: 1px solid rgba(255, 255, 255, 0.15) !important;
-        padding: 12px 10px !important;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+        padding: 14px 10px !important;
         height: auto !important;
         line-height: 1.5 !important;
-        font-size: 14px !important;
+        font-size: 15px !important;
+        font-weight: 600 !important;
         display: block !important;
+        text-decoration: none !important;
     }
 
     #menu-close {
         display: none;
         position: fixed !important;
-        top: 15px !important;
+        top: 18px !important;
         right: 20px !important;
         z-index: 10001 !important;
         color: #ffffff !important;
-        font-size: 28px !important;
+        font-size: 26px !important;
+        width: 40px !important;
+        height: 40px !important;
+        line-height: 40px !important;
+        text-align: center !important;
+        background: rgba(255, 255, 255, 0.15) !important;
+        border-radius: 50% !important;
         text-decoration: none !important;
     }
 
     #menu-close.show {
         display: block !important;
     }
+}
 
-    .main-menu:before,
-    .main-menu:after {
-        display: none !important;
-    }
+/* Offset for page banners under overlay header on internal pages */
+.bg-image.page-title,
+.page-header {
+    padding-top: 110px !important;
+    padding-bottom: 40px !important;
 }
