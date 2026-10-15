@@ -425,7 +425,7 @@ footer nav a:hover {
 footer .contact-info span {
     display: block !important;
     color: #cbd5e1 !important;
-    font-size: 13.5px !important;
+    font-size: 13px !important;
     margin-bottom: 12px !important;
     line-height: 1.5 !important;
 }
@@ -528,6 +528,7 @@ footer .copy {
                 <h4>CONTACT INFO</h4>
                 <div class="contact-info">
                     <span><i class="fa fa-map-marker"></i><strong>Main Branch (Indore):</strong> <a href="https://share.google/sI7FbAGb2zVvBd10r" target="_blank" rel="noopener noreferrer" style="color:#ccc;">Shop B-3, Goyal Compound, Dewas Naka, TT Nagar, Lasudia Mori, Indore, MP 452010 (<span style="color:#ffcc00; text-decoration:underline;">Google Maps</span>)</a></span>
+                    <span><i class="fa fa-map-marker"></i><strong>West Bengal Branch:</strong> <a href="https://www.google.com/maps?q=26.7133385,88.4070532&z=17&hl=en" target="_blank" rel="noopener noreferrer" style="color:#ccc;">Shishudangi Road, Thokkar, Beside SBI ATM, Near Panchmukhi Hanuman Mandir, Matigara, Dist. Darjeeling, WB - 734010 (<span style="color:#ffcc00; text-decoration:underline;">Google Maps</span>)</a></span>
                     <span><i class="fa fa-phone"></i><a href="tel:+919806470899" style="color:#ccc;"><i class="fa fa-phone"></i> +91 9806470899</a>, <a href="tel:+918827650499" style="color:#ccc;">+91 8827650499</a></span>
                     <span><i class="fa fa-envelope"></i> apnapackersmovers@gmail.com</span>
                     <span><i class="fa fa-clock-o"></i> 24x7, Mon - Sun</span>
@@ -552,6 +553,7 @@ footer .copy {
         <div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a> &copy; 2026 Apna Packers & Movers. All rights reserved.</div>
     </div>
 </footer>
+
 
 </div>
 <script src="js/jquery-1.11.3.min.js" defer></script>
