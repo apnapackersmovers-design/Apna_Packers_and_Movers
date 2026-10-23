@@ -77,7 +77,7 @@ header .container-fluid { max-width: 1250px !important; margin: 0 auto !importan
             <div class="header-logo-col">
                 <a title="Packers and movers in Indore" href="https://www.apnapackersmovers.com" id="logo" style="background:none!important;">
                     <div class="logo-badge">
-                        <img src="https://www.apnapackersmovers.com/img/latest_logo.jpg" alt="Apna Packers and Movers Indore">
+                        <img src="https://www.apnapackersmovers.com/img/latest_logo.jpg" alt="Apna Packers and Movers Indore" width="44" height="44" style="height:44px; width:auto; aspect-ratio:200/175;">
                         <div class="logo-brand-text">
                             <span class="brand-title">APNA</span>
                             <span class="brand-sub">PACKERS &amp; MOVERS</span>
