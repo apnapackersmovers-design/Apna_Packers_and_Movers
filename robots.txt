@@ -1,6 +1,16 @@
 User-agent: *
 Allow: /
 
+# Prevent indexing/crawling of internal templates, cgi, and deployment files (Fixes 403 & Soft 404)
+Disallow: /cgi-bin/
+Disallow: /header.php
+Disallow: /footer.php
+Disallow: /.htaccess
+Disallow: /.git
+Disallow: /deploy.py
+Disallow: /deploy-test.txt
+Disallow: /retry.txt
+
 # LLM & AI Search Engine Documentation
 Allow: /llms.txt
 Allow: /llms-full.txt
