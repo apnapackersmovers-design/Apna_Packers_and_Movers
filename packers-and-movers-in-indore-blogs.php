@@ -183,10 +183,273 @@ header .container-fluid { max-width: 1250px !important; margin: 0 auto !importan
 
     <div class="container-fluid inner-offset" style="padding-top: 40px; padding-bottom: 50px;">    
         <div class="text-center" style="margin-bottom: 40px;">
-            <h2 style="font-weight: 700; color: #222;">51 Complete Shifting & Commercial Transport Guides for Indore (Updated Oct 2026)</h2>
-            <p style="color: #666; max-width: 800px; margin: 0 auto; font-size: 15px;">Explore our 51 expert guides covering goods transport, truck rentals, Part-Load (LTL), industrial machinery relocation, intercity routes, GST paperwork, and warehouse storage.</p>
+            <h2 style="font-weight: 700; color: #222;">71 Complete Shifting & Commercial Transport Guides for Indore (Updated Nov 2026)</h2>
+            <p style="color: #666; max-width: 800px; margin: 0 auto; font-size: 15px;">Explore our 71 expert guides covering goods transport, truck rentals, Part-Load (LTL), industrial machinery relocation, intercity routes, GST paperwork, and warehouse storage.</p>
         </div>
         <div class="row services">
+
+        <!-- 20 NEW POSITION #1 & AI OVERVIEW TARGETED BLOGS (NOVEMBER 2026) -->
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.10s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" class="full-width" alt="Packers and Movers Indore Cost Calculator: 2026 Price Chart & Shifting Rates" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-indore-cost-calculator-rates.php" style="color: #222;">Packers and Movers Indore Cost Calculator: 2026 Price Chart & Shifting Rates</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Itemized shifting rate calculator for Indore. Accurate moving costs for 1BHK, 2BHK, 3BHK, villas, packing charges, labour rates & distance-based pricing.</p>
+                    <a href="blog-packers-and-movers-indore-cost-calculator-rates.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.15s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Packers and Movers Indore: Area-Wise Local Shifting Across Top Localities" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-indore-area-wise-local-shifting.php" style="color: #222;">Packers and Movers Indore: Area-Wise Local Shifting Across Top Localities</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Locality-by-locality relocation guide for Vijay Nagar, Palasia, Super Corridor, Rau, Bypass, and AB Road with specific access tips and pricing.</p>
+                    <a href="blog-packers-and-movers-indore-area-wise-local-shifting.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.20s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg" class="full-width" alt="Packers and Movers Indore Car & Bike Transportation: Safe Enclosed Carrier Guide" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-indore-vehicle-car-bike-transport.php" style="color: #222;">Packers and Movers Indore Car & Bike Transportation: Safe Enclosed Carrier Guide</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Door-to-door vehicle transport from Indore across India. Enclosed car carriers, 2-wheeler crating, transit insurance, and transit checklists.</p>
+                    <a href="blog-packers-and-movers-indore-vehicle-car-bike-transport.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.25s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" class="full-width" alt="Packers and Movers Indore High-Rise Apartment & Villa Moving Protocol" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-indore-apartment-high-rise-moving.php" style="color: #222;">Packers and Movers Indore High-Rise Apartment & Villa Moving Protocol</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Expert guide to shifting high-rise apartments and gated communities in Indore. Service lift rules, security gate passes, and crane lifting.</p>
+                    <a href="blog-packers-and-movers-indore-apartment-high-rise-moving.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.30s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/1.jpg" class="full-width" alt="Packers and Movers Indore Industrial & Commercial Logistics Guide" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-indore-commercial-warehouse-logistics.php" style="color: #222;">Packers and Movers Indore Industrial & Commercial Logistics Guide</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Comprehensive guide to industrial machinery relocation, Pithampur-Sanwer freight, commercial warehousing, and GST e-Way bill logistics.</p>
+                    <a href="blog-packers-and-movers-indore-commercial-warehouse-logistics.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.35s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/2.jpg" class="full-width" alt="Movers and Packers Indore Same-Day & Emergency Relocation Guide" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-indore-same-day-express-relocation.php" style="color: #222;">Movers and Packers Indore Same-Day & Emergency Relocation Guide</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Urgent shifting manual for same-day local moving in Indore. Rapid dispatch fleet, quick inventory pack, and zero-delay handling.</p>
+                    <a href="blog-movers-and-packers-indore-same-day-express-relocation.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.10s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/3.jpg" class="full-width" alt="Movers and Packers Indore Guide for Students & Single Bachelors" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-indore-student-single-bachelor-moving.php" style="color: #222;">Movers and Packers Indore Guide for Students & Single Bachelors</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Budget-friendly moving tips for students and bachelors near Bhawar Kuan, Silicon City, and IT parks. Mini-tempo booking and shared-truck moving.</p>
+                    <a href="blog-movers-and-packers-indore-student-single-bachelor-moving.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.15s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/4.jpg" class="full-width" alt="Movers and Packers Indore Luxury Goods, Fine Art & Antique Relocation" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-indore-luxury-antique-fragile-moving.php" style="color: #222;">Movers and Packers Indore Luxury Goods, Fine Art & Antique Relocation</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Specialized handling protocol for luxury chandeliers, marble sculptures, heirlooms, pianos, and museum-grade custom wooden crating.</p>
+                    <a href="blog-movers-and-packers-indore-luxury-antique-fragile-moving.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.20s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" class="full-width" alt="Movers and Packers Indore Monsoon & Rainy Season Shifting Protocol" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-indore-monsoon-all-weather-shifting.php" style="color: #222;">Movers and Packers Indore Monsoon & Rainy Season Shifting Protocol</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">All-weather waterproof moving techniques. Tarpaulin sealing, silica gel moisture control, sealed container trucks, and fungus prevention.</p>
+                    <a href="blog-movers-and-packers-indore-monsoon-all-weather-shifting.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.25s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Movers and Packers Indore Senior Citizen & Elderly Moving Assistance" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS INDORE</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-indore-senior-citizen-family-relocation.php" style="color: #222;">Movers and Packers Indore Senior Citizen & Elderly Moving Assistance</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Compassionate, stress-free relocation for elderly parents and seniors. Complete white-glove packing, medical kit segregation, and unpacking support.</p>
+                    <a href="blog-movers-and-packers-indore-senior-citizen-family-relocation.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.30s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg" class="full-width" alt="Packers and Movers vs DIY Self-Packing: Detailed Cost & Safety Comparison" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-diy-self-packing-vs-professional-comparison.php" style="color: #222;">Packers and Movers vs DIY Self-Packing: Detailed Cost & Safety Comparison</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Unbiased mathematical comparison of DIY truck hiring vs full professional packers and movers. Damage risks, hidden expenses, and time calculations.</p>
+                    <a href="blog-packers-and-movers-diy-self-packing-vs-professional-comparison.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.35s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" class="full-width" alt="Packers and Movers Packaging Materials Guide: Bubble Wrap, Corrugated Sheets & Heavy Crates" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-complete-packaging-materials-guide.php" style="color: #222;">Packers and Movers Packaging Materials Guide: Bubble Wrap, Corrugated Sheets & Heavy Crates</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Engineering guide to packaging supplies: GSM ratings, 3-ply vs 5-ply cartons, foam sheets, stretch film, and heavy timber crates.</p>
+                    <a href="blog-packers-and-movers-complete-packaging-materials-guide.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.10s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/1.jpg" class="full-width" alt="Packers and Movers Transit Insurance: Policy Types, Coverage & Claims Process" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-transit-insurance-claims-process.php" style="color: #222;">Packers and Movers Transit Insurance: Policy Types, Coverage & Claims Process</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Comprehensive guide to All-Risk vs Transit-Only insurance policies, premium calculation (1.2% - 3%), declaration forms, and claim filing.</p>
+                    <a href="blog-packers-and-movers-transit-insurance-claims-process.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.15s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/2.jpg" class="full-width" alt="Packers and Movers Kitchen Relocation: Safe Crockery, Glassware & Appliance Packing" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-kitchen-crockery-appliance-packing.php" style="color: #222;">Packers and Movers Kitchen Relocation: Safe Crockery, Glassware & Appliance Packing</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Step-by-step master guide for packing fragile glass sets, dinnerware, ovens, refrigerators, and modular kitchen accessories safely.</p>
+                    <a href="blog-packers-and-movers-kitchen-crockery-appliance-packing.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.20s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/3.jpg" class="full-width" alt="Packers and Movers Plant & Garden Shifting Guide: Relocating Plants Safely" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">PACKERS AND MOVERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-packers-and-movers-plant-indoor-garden-relocation.php" style="color: #222;">Packers and Movers Plant & Garden Shifting Guide: Relocating Plants Safely</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Horticultural moving guide for live indoor and outdoor potted plants. Soil moisture prep, aeration boxes, shock prevention, and acclimation.</p>
+                    <a href="blog-packers-and-movers-plant-indoor-garden-relocation.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.25s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/media/fleet-gallery/4.jpg" class="full-width" alt="Movers and Packers Fraud & Scam Prevention: How to Spot Fake Quotations & Rogue Movers" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-scam-prevention-fake-quotes-warning.php" style="color: #222;">Movers and Packers Fraud & Scam Prevention: How to Spot Fake Quotations & Rogue Movers</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Exposing rogue mover extortion schemes, low-ball quotes, hostage consignment threats, GST validation, and legal dispute channels.</p>
+                    <a href="blog-movers-and-packers-scam-prevention-fake-quotes-warning.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.30s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-india.webp" class="full-width" alt="Movers and Packers Contracts, Bilty & Bill of Lading: Legal Terms Explained" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-moving-contract-terms-bill-of-lading.php" style="color: #222;">Movers and Packers Contracts, Bilty & Bill of Lading: Legal Terms Explained</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Legal breakdown of moving consignment notes (Bilty), freight bills of lading, delivery receipts, liability clauses, and dispute arbitration.</p>
+                    <a href="blog-movers-and-packers-moving-contract-terms-bill-of-lading.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.35s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indor.webp" class="full-width" alt="Movers and Packers Pet Relocation Guide: Stress-Free Dog & Cat Moving Tips" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-pet-relocation-safety-guide.php" style="color: #222;">Movers and Packers Pet Relocation Guide: Stress-Free Dog & Cat Moving Tips</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Complete guide to relocating dogs, cats, and birds. Vet certifications, crate conditioning, feeding schedules, and pet-friendly travel logistics.</p>
+                    <a href="blog-movers-and-packers-pet-relocation-safety-guide.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.10s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/Packers-and-Movers-Indore.jpeg" class="full-width" alt="Eco-Friendly Movers and Packers: Sustainable & Zero-Waste Relocation Strategies" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-eco-friendly-green-relocation.php" style="color: #222;">Eco-Friendly Movers and Packers: Sustainable & Zero-Waste Relocation Strategies</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">Green relocation guide: reusable corrugated plastic crates, biodegradable honeycomb wrap, paper tape, and route-optimized fleet emissions.</p>
+                    <a href="blog-movers-and-packers-eco-friendly-green-relocation.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.15s" style="margin-bottom: 30px;">
+            <div class="service-item" style="border: 1px solid #eaeaea; border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 3px 8px rgba(0,0,0,0.05); height: 100%; display: flex; flex-direction: column;">
+                <div style="position: relative;">
+                    <img loading="lazy" decoding="async" src="https://www.apnapackersmovers.com/images/packers-and-movers-in-Indore-mp.webp" class="full-width" alt="First-Time Movers and Packers Starter Guide: Everything You Need to Know Before Moving" style="height: 190px; object-fit: cover;" width="360" height="190">
+                    <span style="position: absolute; top: 10px; left: 10px; background: #A91B1B; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 3px; letter-spacing: 0.5px;">MOVERS AND PACKERS</span>
+                </div>
+                <div class="service-details" style="padding: 18px; display: flex; flex-direction: column; flex-grow: 1;">
+                    <h4 style="margin-top: 0; min-height: 52px; font-size: 15px; font-weight: 700; line-height: 1.4;"><a href="blog-movers-and-packers-first-time-movers-complete-starter-guide.php" style="color: #222;">First-Time Movers and Packers Starter Guide: Everything You Need to Know Before Moving</a></h4>
+                    <p style="font-size: 13px; color: #666; line-height: 1.6; flex-grow: 1;">A-to-Z moving roadmap for beginners. Budget forecasting, decluttering timelines, booking protocols, move-day survival kits, and home setup.</p>
+                    <a href="blog-movers-and-packers-first-time-movers-complete-starter-guide.php" class="btn btn-danger btn-xs" style="margin-top: 10px; align-self: flex-start; padding: 6px 14px; font-weight: 700;">READ MORE <i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+
 
         <!-- 8 NEW POSITION #1 TARGETED BLOGS -->
         <div class="col-sm-6 col-md-4 wow zoomIn" data-wow-delay="0.1s" style="margin-bottom: 30px;">
