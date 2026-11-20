@@ -162,6 +162,21 @@
   "@type": "WebSite",
 
   "name": "Apna Packers and movers",
+  "alternateName": [
+    "Packers and Movers in Indore",
+    "Movers and Packers Indore",
+    "Best Packers and Movers Indore",
+    "Packers and Movers Indoor",
+    "Movers and Packers Indoor",
+    "Apna Packers & Movers Indore"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "430",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
 
   "url": "https://www.apnapackersmovers.com/",
 
@@ -822,9 +837,9 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
         		<div class="text-left" style="margin-right:40px;">
 
-            		<h2>Apna Packers & movers</h2>
+            		<h2>Movers and Packers Indore: Trusted Local & Domestic Shifting Company</h2>
 
-            		<p>Apna Packers & Movers in Indore is a local Supplier of Transport and logistics Solutions.</p>
+            		<p>Apna Packers & Movers in Indore is your verified government-registered local transporter for household shifting, commercial office relocation, and enclosed car/bike carriage with transparent, fixed pricing.</p>
 
 				</div>
 
@@ -838,7 +853,7 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
         		<div class="text-center hgroup wow zoomInUp" >
 
-            		<h3>Services Provided by Apna Packers & Movers in Indore</h3>
+            		<h2>Comprehensive Relocation Services by Professional Movers and Packers in Indore</h2>
 
             		<p>Apna offers reliable packers and movers services in Indore. If you are moving for personal purposes, we provide useful packers and movers for relocation and different types of services in Indore.</p>
 
@@ -936,7 +951,126 @@ Moving doesn't have to be a burden. By choosing Apna Packers and Movers in Indor
 
 	        </div>
 
-	        
+	        <!-- 2026 TRANSPARENT RATE CARD & LOCALITY COVERAGE (POSITION #1 DOMINATION) -->
+	        <div class="container-fluid block-content" style="padding-top:20px; padding-bottom:30px;">
+	            <div class="text-center hgroup wow zoomInUp" style="margin-bottom:30px;">
+	                <h2>Affordable Packers and Movers Indore Rate Card & Shifting Charges (2026 Price List)</h2>
+	                <p style="max-width:850px; margin:0 auto; font-size:15px; color:#555;">Clear, itemized moving rates for local house shifting within Indore and intercity relocation across India. No hidden charges, zero surprise fees, and full transit safety guarantee.</p>
+	            </div>
+	            <div class="table-responsive wow fadeInUp" style="margin-bottom:40px; box-shadow:0 3px 15px rgba(0,0,0,0.06); border-radius:6px; overflow:hidden;">
+	                <table style="width:100%; border-collapse:collapse; background:#fff; text-align:left;">
+	                    <thead>
+	                        <tr style="background:#A91B1B; color:#fff; font-size:15px;">
+	                            <th style="padding:14px 18px;">Shifting Type / House Configuration</th>
+	                            <th style="padding:14px 18px;">Local Indore Shifting Cost</th>
+	                            <th style="padding:14px 18px;">Intercity Shifting (Starting)</th>
+	                            <th style="padding:14px 18px;">Packaging Standard</th>
+	                            <th style="padding:14px 18px;">Dedicated Moving Vehicle</th>
+	                        </tr>
+	                    </thead>
+	                    <tbody style="font-size:14px; color:#333;">
+	                        <tr style="border-bottom:1px solid #eee;">
+	                            <td style="padding:13px 18px; font-weight:700;">1 BHK Complete Household Shifting</td>
+	                            <td style="padding:13px 18px; color:#A91B1B; font-weight:700;">₹3,200 – ₹5,800</td>
+	                            <td style="padding:13px 18px;">₹11,500 – ₹22,000</td>
+	                            <td style="padding:13px 18px;">3-Layer (Bubble wrap + Corrugated cartons)</td>
+	                            <td style="padding:13px 18px;">Tata Ace / 9ft Bolero Maxi Truck</td>
+	                        </tr>
+	                        <tr style="background:#fcfcfc; border-bottom:1px solid #eee;">
+	                            <td style="padding:13px 18px; font-weight:700;">2 BHK Complete Household Shifting</td>
+	                            <td style="padding:13px 18px; color:#A91B1B; font-weight:700;">₹5,500 – ₹9,500</td>
+	                            <td style="padding:13px 18px;">₹16,500 – ₹32,000</td>
+	                            <td style="padding:13px 18px;">5-Layer (EPE Foam + Stretch film + Heavy boxes)</td>
+	                            <td style="padding:13px 18px;">14ft Eicher Closed Container</td>
+	                        </tr>
+	                        <tr style="border-bottom:1px solid #eee;">
+	                            <td style="padding:13px 18px; font-weight:700;">3 BHK / 4 BHK Villa Shifting</td>
+	                            <td style="padding:13px 18px; color:#A91B1B; font-weight:700;">₹8,500 – ₹16,000</td>
+	                            <td style="padding:13px 18px;">₹24,000 – ₹45,000</td>
+	                            <td style="padding:13px 18px;">5-Layer Premium + Custom Wooden Crating</td>
+	                            <td style="padding:13px 18px;">17ft / 19ft Heavy Duty Container Truck</td>
+	                        </tr>
+	                        <tr style="background:#fcfcfc; border-bottom:1px solid #eee;">
+	                            <td style="padding:13px 18px; font-weight:700;">Two-Wheeler / Bike Transportation</td>
+	                            <td style="padding:13px 18px; color:#A91B1B; font-weight:700;">₹2,000 – ₹4,200</td>
+	                            <td style="padding:13px 18px;">₹4,500 – ₹8,500</td>
+	                            <td style="padding:13px 18px;">Wooden Base Crate + Bubble + Film Wrap</td>
+	                            <td style="padding:13px 18px;">Hydraulic Enclosed Two-Wheeler Carrier</td>
+	                        </tr>
+	                        <tr style="border-bottom:1px solid #eee;">
+	                            <td style="padding:13px 18px; font-weight:700;">Four-Wheeler / Car Transportation</td>
+	                            <td style="padding:13px 18px; color:#A91B1B; font-weight:700;">₹6,500 – ₹12,000</td>
+	                            <td style="padding:13px 18px;">₹12,000 – ₹24,000</td>
+	                            <td style="padding:13px 18px;">Wheel Stopper Clamps + Scratchproof Covers</td>
+	                            <td style="padding:13px 18px;">Enclosed Multi-Car Hydraulic Trailer</td>
+	                        </tr>
+	                        <tr style="background:#fcfcfc;">
+	                            <td style="padding:13px 18px; font-weight:700;">Corporate Office / IT Shifting</td>
+	                            <td style="padding:13px 18px; color:#A91B1B; font-weight:700;">₹7,500 – ₹25,000+</td>
+	                            <td style="padding:13px 18px;">Custom Project Quote</td>
+	                            <td style="padding:13px 18px;">Anti-Static Server Bags + Numbered IT Boxes</td>
+	                            <td style="padding:13px 18px;">Dedicated Fleet with Weekend Move Support</td>
+	                        </tr>
+	                    </tbody>
+	                </table>
+	            </div>
+
+	            <!-- LOCALITY COVERAGE GRID -->
+	            <div class="text-center hgroup wow zoomInUp" style="margin-bottom:24px;">
+	                <h2>Door-to-Door Movers and Packers Coverage Across All Indore Localities</h2>
+	                <p style="max-width:850px; margin:0 auto; font-size:15px; color:#555;">We provide rapid 2-hour dispatch and professional packing crews across every corner of Indore, bypass townships, and surrounding industrial hubs.</p>
+	            </div>
+	            <div class="row text-center wow fadeInUp" style="margin-bottom:20px;">
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/packers-and-movers-in-vijay-nagar-indore.php" style="color:#222; text-decoration:none;">Vijay Nagar & Scheme 54</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">Residential & IT Corridor</p>
+	                    </div>
+	                </div>
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/packers-and-movers-in-palasia-indore.php" style="color:#222; text-decoration:none;">Palasia & Geeta Bhawan</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">Central Prime Residential</p>
+	                    </div>
+	                </div>
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/blog-packers-movers-dewas-naka-vijay-nagar-indore.php" style="color:#222; text-decoration:none;">Dewas Naka (Head Depot)</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">Transport & Logistics Hub</p>
+	                    </div>
+	                </div>
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/packers-and-movers-in-sudama-nagar-indore.php" style="color:#222; text-decoration:none;">Sudama Nagar & Annapurna</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">West Indore Residential</p>
+	                    </div>
+	                </div>
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php" style="color:#222; text-decoration:none;">Super Corridor & TCS/Infy</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">High-Rise Apartments</p>
+	                    </div>
+	                </div>
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php" style="color:#222; text-decoration:none;">Rau & Silicon City</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">South Indore Townships</p>
+	                    </div>
+	                </div>
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/blog-locality-wise-packers-movers-indore.php" style="color:#222; text-decoration:none;">Bypass & AB Road</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">Gated Communities & Villas</p>
+	                    </div>
+	                </div>
+	                <div class="col-sm-3 col-xs-6" style="margin-bottom:15px;">
+	                    <div style="background:#fff; border:1px solid #e2e8f0; border-radius:6px; padding:14px; box-shadow:0 2px 6px rgba(0,0,0,0.04);">
+	                        <h4 style="font-size:15px; font-weight:700; margin:0;"><a href="https://www.apnapackersmovers.com/blog-goods-transport-truck-rental-indore-guide.php" style="color:#222; text-decoration:none;">Pithampur & Sanwer Road</a></h4>
+	                        <p style="font-size:12px; color:#777; margin:5px 0 0 0;">Industrial Freight & Machinery</p>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
 
 	        <div class="fleet-gallery block-content bg-image inner-offset">
 
@@ -1302,7 +1436,19 @@ Experience the comfort of quick relocation with our packers and movers services 
 
 	                
 
-	                <h3>Frequently Asked Questions About Packers & Movers Indore</h3>
+	                <h2>Frequently Asked Questions About Packers and Movers in Indore (Indoor Shifting)</h2>
+
+	                <div class="faq-item" style="margin-bottom: 20px;">
+
+	                    <h4 style="font-weight: bold; color: #333;">Q. Are 'packers and movers indoor' and 'packers and movers indore' the same service?</h4>
+
+	                    <p>A. Yes! Many customers searching by Hindi voice search or typing phonetically as 'packers and movers indoor' are looking for verified household shifting and transport services across Indore city and Madhya Pradesh. Apna Packers and Movers provides 100% genuine door-to-door relocation across all Indore localities with licensed transport trucks and trained crew.</p>
+
+	                </div>
+
+	                <hr>
+
+
 
 	                
 
